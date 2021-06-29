@@ -51,10 +51,26 @@ function get_verb($str)
     return substr($str, 0, $pos);
 }
 
+function is_essential(string $verb_line)
+{
+   $verb = get_verb($verb_line);
+   
+   return binary_search($essential_verbs, $verb);
+}
 
 $ifile = fopen("./results.txt", "r");
 $oNonfile = fopen("./results-nonessential-verbs.txt" , "w");
 $oEssfile = fopen("./results-essential-verbs.txt" , "w");
+
+/*
+ TODO: The essential verbs can contain Prefix Verb forms, SEPARABLE and INSEPARABLE.
+ These are related but separate forms of the essentiall verbs. We want their to:
+ 1. To get thei definitions, which follow a dash (--) and
+ 2. Their example sentences
+
+We will add the definitions to verbs.txt and example sentences we will add to results, perhaps along with Principle Parts, which
+will be the same as the essential verb.
+ */
 
 while(!feof($ifile)) {
   
@@ -62,16 +78,9 @@ while(!feof($ifile)) {
    
    if ($verb_line === false)
       return;
-   
-   $output = $verb_line . "\n";
-   
-   $verb = get_verb($verb_line);
-   
-   $b = binary_search($essential_verbs, $verb);
- 
-   if ($b === true)  {// Write it to the essential verb list
-       fputs($oEssfile, $output);   
-   } else 
-       fputs($oNonfile, $output);   
-   
+
+   if (is_essential($verb_line)  // Write it to the essential verb list
+       fputs($oEssfile, $verb_line . "\n");   
+   else 
+       fputs($oNonfile, $verb_ine . "\n");   
 }
