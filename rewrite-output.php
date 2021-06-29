@@ -53,8 +53,8 @@ function get_verb($str)
 
 
 $ifile = fopen("./results.txt", "r");
-$oNonfile = fopen("./nonessential-verb-results.txt" , "w");
-$oEssfile = fopen("./essential-verbs-results.txt" , "w");
+$oNonfile = fopen("./results-nonessential-verbs.txt" , "w");
+$oEssfile = fopen("./results-essential-verbs.txt" , "w");
 
 while(!feof($ifile)) {
   
@@ -67,14 +67,9 @@ while(!feof($ifile)) {
    
    $verb = get_verb($verb_line);
    
-   //echo "VERB = " . $verb . "\n";
-   if ($verb == "bekommen")
-       $stop = 10;
-   
    $b = binary_search($essential_verbs, $verb);
  
    if ($b === true)  {// Write it to the essential verb list
-       echo "Found essential verb: " . $verb . "\n";
        fputs($oEssfile, $output);   
    } else 
        fputs($oNonfile, $output);   
