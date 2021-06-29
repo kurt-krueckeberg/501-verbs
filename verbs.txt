@@ -1,0 +1,615 @@
+abfahren%depart
+abholen%pick up
+abnehmen%diminish
+achten%respect
+ächzen%groan
+ändern%change
+anerkennen%recognize
+anfangen%begin
+angreifen%attack
+anhalten%stop
+ankommen%arrive
+annehmen%accept
+antworten%answer
+anzeigen%indicate
+sich anziehen%get dressed
+arbeiten%work
+atmen%breathe
+aufführen%perform
+aufhalten%stop
+aufheben%pick up
+aufhören%stop
+aufmachen%open
+aufschließen%open
+aufstellen%set up
+ausatmen%exhale
+ausführen%
+ausgeben%spend 
+aushalten%endure
+auskommen%come out, make do
+auslassen%omit
+auslesen%select
+ausnutzen%exploit
+ausschließen%exclude
+aussehen%resemble
+aussetzen%object
+aussprechen%pronounce
+ausstehen%endure
+aussteigen%to get out (of sth), to get off (sth)
+ausstellen%exhibit
+ausstoßen%expel
+aussuchen%select
+sich ausziehen%get undressed
+backen%bake
+baden%bathe
+bauen%build
+beantworten%answer
+beben%tremble
+bedenken%consider
+bedeuten%mean
+sich bedienen%help one’s self
+sich beeilen%hurry
+beeindrucken%impress
+beeinflussen%influence
+befehlen%order
+sich befinden%be, feel
+befreien%liberate
+begegnen%meet
+begehen%commit
+beginnen%begin
+begleiten%accompany
+begreifen%comprehend
+behalten%keep
+beißen%bite
+bejahen%assent
+bekehren%convert
+bekennen%confess
+bekommen%receive
+beleben%enliven
+beleidigen%insult
+bellen%bark
+sich benehmen%behave
+bergen%salvage
+berichten%report
+bersten%burst
+beschäftigen%occupy, busy
+beschneiden%circumcise
+beschreiben%describe
+beschuldigen%accuse
+besitzen%possess
+besprechen%discuss
+bestechen%bribe
+bestehen%insist
+bestehen%consist of
+bestellen%order
+besuchen%visit
+beten%pray
+sich betragen%behave
+betreiben%operate
+betrügen%cheat
+bewegen%move
+bewegen%induce
+beweisen%prove
+bezahlen%pay
+bezeichnen%designate
+sich auf et/jmd beziehen%refer to
+biegen%bend
+bieten%offer 
+binden%bind
+bitten%ask for
+blasen%blow
+bleiben%remain
+blicken%look
+blitzen%flash
+blühen%bloom
+bluten%bleed
+braten%roast
+brauchen%need
+brauen%brew
+brausen%storm
+brechen%break
+brennen%burn
+bringen%bring
+brüllen%roar
+buchen%book
+bürsten%brush
+dämpfen%muffle
+danken%thank
+darstellen%represent
+decken%cover
+denken%think
+dichten%write poetry
+dienen%serve
+donnern%thunder
+dringen%penetrate
+drucken%print
+drücken%press
+dürfen%permitted
+einatmen%inhale
+einkaufen%buy, purchase
+einladen%invite
+einschließen%include
+einsteigen%
+einwenden%object
+ehren%honor
+empfangen%receive
+empfehlen%recommend
+entbehren%lack
+entfernen%remove
+entfliehen%escape
+entführen%abduct
+entgegnen%reply
+entgehen%escape
+enthalten%contain
+entkommen%escape
+entscheiden%decide
+entschuldigen%excuse
+entstehen%originate
+entstellen%disfigure
+entwerfen%sketch
+erfahren%experience, find out
+erfinden%invent
+ergeben%yield
+erhalten%obtain
+erinnern%remind
+sich erkälten%catch a cold
+erkennen%recognize
+erklären%explain
+erlauben%permit
+erleben%experience
+erlöschen%to become extinguished
+erreichen%reach, attain
+errichten%erect
+erscheinen%appear
+erschöpfen%exhaust
+erschrecken%to be frightened
+ersticken%choke
+ertragen%endure
+ertrinken%drown
+erwägen%consider
+erwähnen%mention
+erzählen%tell
+erziehen%educate
+essen%eat 
+fahren%travel
+fallen%fall
+fangen%catch
+fassen%grasp
+fechten%fight
+feststellen%ascertain
+finden%find
+fliegen%fly
+fliehen%flee
+fließen%flow
+fluchen%curse
+folgen%follow
+fragen%ask 
+fressen%eat
+sich freuen%be glad
+frieren%freeze
+frühstücken%eat breakfast
+fühlen%feel
+führen%lead
+füllen%fill
+fürchten%fear
+gähnen%yawn
+gären%ferment
+gebären%give birth
+geben%give
+gebieten%command
+gebrauchen%use
+gedeihen%thrive
+gefallen%like
+gehören%belong
+geliebt%werden be loved
+gelingen%succeed
+gelten%be valid
+genesen%recover
+sich genieren%feel embarrassed
+genießen%enjoy
+geraten%turn out 
+geschehen%happen
+gestehen%confess
+gewinnen%gain, win
+sich gewöhnen%to become accustomed
+gießen%pour
+glänzen%glitter
+glauben%believe
+gleichen%resemble
+gleiten%glide
+glimmen%smolder, glow
+glotzen%gape
+glühen%glow
+graben%dig
+greifen%seize
+grollen%be resentful
+gründen%found
+grüßen%greet
+gucken%look
+haben%have
+halten%hold
+handeln%trade
+hängen%hang
+hassen%hate
+hauen%hit
+heben%lift
+heiraten%marry
+heißen%be named
+heizen%heat
+helfen%help
+herausfinden%find out
+herstellen%manufacture
+hetzen%incite
+hinaustragen%carry out
+hinweisen%indicate
+hinwerfen%throw down
+hoffen%hope
+hören%hear
+hüpfen%hop
+sich interessieren%
+interpretieren%interpret
+kämpfen%struggle
+kauen%chew
+kaufen%buy
+kehren%sweep
+kennen%know, be familiar with
+kennenlernen%meet
+klagen%lament
+klatschen%applaud
+kleben%paste
+klingen%ring
+klopfen%knock
+kneifen%pinch
+knüpfen%tie
+kochen%cook
+kommen%come
+können%be able
+kosten%cost, taste
+kotzen%vomit
+krächzen%croak, caw
+kratzen%scratch
+kriechen%creep
+kriegen%get
+kühlen%cool
+kürzen%shorten
+küssen%kiss 
+lächeln%smile
+lachen%laugh
+laden%load
+landen%land
+lassen%let
+laufen%run
+lauschen%listen to
+leben%live
+lecken%lick
+legen%lay
+lehren%teach
+leiden%suffer
+leihen%lend
+lernen%learn
+lesen%read
+leuchten%shine
+lichten%thin out, lighten
+lieben%love
+liefern%deliver
+liegen%lie 
+loben%praise
+locken%entice
+lohnen%reward
+lösen%loosen
+lügen%tell a lie
+lutschen%suck
+machen%make
+mahlen%grind
+malen%paint
+meiden%avoid 
+merken%note
+messen%measure
+mieten%rent
+mitbringen%bring along
+mögen%like
+müssen%have to 
+nachgeben%yield
+nachweisen%prove
+nagen%gnaw
+nähren%nourish
+naschen%nibble
+necken%tease
+nehmen%take
+nennen%name
+nicken%nod
+nutzen%use
+öffnen%open
+Ppachten%lease
+packen%pack, grab
+passen%fit
+passieren%happen
+pfeifen%whistle
+pflanzen%plant
+plagen%plague
+preisen%praise
+putzen%clean
+Qquälen%torture
+quellen%gush
+rächen%avenge
+raten%advise
+rauchen%smoke
+räumen%clear away
+rauschen%rustle
+rechnen%calculate
+regnen%rain
+reiben%rub
+reißen%tear
+reiten%ride 
+rennen%run
+retten%rescue
+reichen%reach
+reisen%travel
+reinigen%clean
+reizen%stimulate
+richten%adjust
+riechen%smell
+ringen%struggle
+rinnen%flow
+rollen%roll
+rösten%roast
+rücken%move
+rufen%call
+ruhen%rest
+rühmen%praise
+rühren%stir
+rüsten%arm 
+sagen%say
+saufen%drink
+saugen%suck
+säumen%delay
+schaden%damage
+schaffen%create
+schalten%switch
+schätzen%estimate
+schauen%see
+schäumen%foam
+scheiden%separate
+scheinen%seem
+schelten%scold
+schenken%to give
+schichten%heap
+schicken%send
+schieben%push
+schießen%shoot
+schlachten%slaughter
+schlafen%sleep
+schlagen%beat
+schleichen%sneak
+schleifen%polish
+schlichten%settle
+schließen%close
+schlingen%gulp
+schlucken%swallow
+schlüpfen%slip
+schmecken%taste
+schmeißen%fling
+schmelzen%melt
+schmerzen%hurt
+schmieren%smear
+schmollen%pout
+schneiden%cut
+schneien%snow
+schnüren%tie
+schöpfen%scoop
+schreiben%write
+schreien%scream
+schreiten%stride
+schwanken%sway
+schwänzen%cut classes
+schwatzen%chatter
+schweben%soar
+schweigen%be silent
+schwellen%swell
+schwimmen%swim
+schwinden%disappear
+schwingen%swing
+schwitzen%sweat
+schwören%swear
+segnen%bless
+sehen%see
+sein%be, have 
+senden%send
+sich setzen%sit down
+seufzen%sigh
+sichten sift
+%sieden%boil
+siegen%conquer
+singen%sing
+sinken%sink
+sinnen%think
+sitzen%sit
+sollen%be supposed to, should
+spalten%split
+sparen%save 
+spazieren%walk
+spielen%play
+spinnen%spin
+sprechen%speak
+sprengen%blow up
+sprießen%sprout
+springen%jump
+spritzen%squirt
+sprühen%sparkle
+spucken%spit
+spülen%rinse
+spüren%perceive
+stattfinden%take place
+staunen%be astonished
+stechen%sting
+stecken%set, stick
+stehen%stand
+stehenbleiben%stop
+stehlen%steal
+steigen%climb
+stellen%put
+sterben%die
+stinken%stink
+stöhnen%groan
+stopfen%stuff
+stören%disturb
+stoßen%shove
+strahlen%radiate
+streben%strive
+strecken%stretch
+streichen%strike
+streiten%quarrel
+stricken%knit
+studieren%study
+stürzen%plunge
+stutzen%be startled
+stützen%support
+suchen%seek 
+tanken%refuel
+tanzen%dance
+taugen%be of use
+teilnehmen%participate
+toben%rage
+töten%kill
+tragen%carry
+trauen%trust
+träumen%dream
+treffen%meet, hit
+treiben%drive
+treten%step
+trinken%drink
+trocknen%dry
+tropfen%drip
+trösten%console
+trotzen%defy
+tun%do
+üben%exercise
+überleben%survive
+sich überlegen%consider
+überraschen%surprise
+übersetzen%translate
+übertragen%translate
+übertreiben%exaggerate
+überwinden%overcome
+umbringen%kill
+umstellen%shift
+umziehen%move
+unterbrechen%interrupt
+sich unterhalten%converse
+unterlassen%omit
+unterliegen%succumb
+unterscheiden%distinguish
+unterstützen%support
+untersuchen%examine
+unterwerfen%subjugate
+verachten%despise
+verbieten%forbid
+verbrechen%commit a crime
+verbringen%
+verdanken%owe
+verderben%ruin 
+verdienen%earn
+verdrießen%annoy
+vereinigen%unite
+verführen%seduce
+vergeben%forgive
+vergessen%forget
+vergewaltigen%rape
+sich verhalten%behave
+verhandeln%negotiate
+verhehlen%conceal
+sich verheiraten%get married
+verhören%crossexamine
+verkaufen%sell
+verkehren%traffic
+verklagen%accuse
+verklären%transfigure
+verkommen%decay
+verlassen%abandon
+sich verlieben%fall in love
+verlieren%lose
+vermehren%increase
+vermeiden%avoid
+vernehmen%perceive
+vernichten%annihilate
+verraten%betray
+verrecken%die
+verrichten%perform
+versagen%fail
+verschlingen%devour
+verschwinden%disappear
+versehen%supply
+versehren%wound
+versetzen%transfer
+versprechen%promise
+verstehen%understand
+verstricken%entangle
+versuchen%attempt
+vertreiben%expell
+vertreten%represent
+verwalten%administer
+verwechseln%confuse
+verweilen%linger
+verwenden%use
+verwerfen%reject
+verwöhnen%spoil, pamper
+verzehren%consume
+verzeihen%pardon
+vollziehen%carry out
+vorhaben%intend
+vorkommen%occur
+vorschlagen%suggest
+vorstellen%introduce
+sich vorstellen%imagine
+vorziehen%prefer 
+wachenbe%awake
+wachsen%grow
+wagen%dare
+wählen%choose
+währen%last
+wahrnehmen%perceive
+walten%rule
+wälzen%roll
+wandern%wander
+warten%wait
+waschen%wash
+wechseln%change
+wecken%wake
+weggehen%leave
+wehren%restrain
+weichen%yield
+weihen%consecrate
+weinen%weep
+weisen%point out
+wenden%turn
+werben%recruit
+werden%become
+werfen%throw
+wetzen%whet
+widerlegen%refute
+widersprechen%contradict
+widmen%dedicate
+wiederholen%repeat
+wiederholen%bring back
+wiegen%weigh
+wissen%know 
+wohnen%reside
+wollen%want
+wühlen%dig
+wünschen%wish
+würzen%season
+zahlen%pay
+zählen%count
+zeichnen%draw
+zeigen%show
+zerstören%destroy
+ziehen%pull
+zugeben%admit
+zumachen%close
+zunehmen%to grow, rise, gain weight
+zurückbringen%bring back
+zurückweisen%reject
+zusagen%agree
+zusehen%look on
+sich zutragen%happen
+zwingen%force
