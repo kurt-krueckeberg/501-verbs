@@ -2,6 +2,8 @@
 /*
 Reformats the output so the sample sentences are one string, and all the verb info is on one line.
  */
+require_once "./essential-verbs.php";
+require_once "./bsearch.php";
   
 function get_line($ifile)
 {
@@ -43,17 +45,38 @@ function get_block($ifile)
    return $output;
 }   
 
+function get_verb($str)
+{
+    $pos = strpos($str, " |");;
+    return substr($str, 0, $pos);
+}
+
+
 $ifile = fopen("./results.txt", "r");
-$ofile = fopen("./experimental-results.txt" , "w");
+$oNonfile = fopen("./nonessential-verb-results.txt" , "w");
+$oEssfile = fopen("./essential-verbs-results.txt" , "w");
 
 while(!feof($ifile)) {
   
    $verb_line = get_block($ifile);
-
+   
    if ($verb_line === false)
       return;
    
    $output = $verb_line . "\n";
-
-   fputs($ofile, $output);   
+   
+   $verb = get_verb($verb_line);
+   
+   //echo "VERB = " . $verb . "\n";
+   if ($verb == "bekommen")
+       $stop = 10;
+   
+   $b = binary_search($essential_verbs, $verb);
+ 
+   if ($b === true)  {// Write it to the essential verb list
+       echo "Found essential verb: " . $verb . "\n";
+       fputs($oEssfile, $output);   
+   } else 
+       fputs($oNonfile, $output);   
+   
 }

@@ -1936,9 +1936,6 @@ work. She’s very industrious.
 Sent. 1 is in the conditional, formed by the 
 auxiliary  würde(would) + the infin. at the end
 of the clause.	
-END
-Arbeiten	
-Prefix Verbs
 SEPARABLE
 abarbeiten—to work off; work down; run (computer)
 ,,Er hat seine Schulden abgearbeitet.“
@@ -1978,6 +1975,7 @@ Sie haben die Daten beleglos verar- beitet.
 They processed the data without vouchers. 
 Note:  EDV= elektronische Datenverar-
 beitung (electronic data processing).	
+END
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 42 
 PAGE_END
 PAGE_START

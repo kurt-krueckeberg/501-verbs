@@ -1,4 +1,5 @@
 <?php
+#require_once "./essential-verbs.php";
   
 function get_line($ifile)
 {
@@ -189,13 +190,15 @@ function get_Examples_type2(array $lines, $index)
 
                 // Get all the example sentences.
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
-              
-                    $examples_ .= $lines[$i];
+                   
+                    // Don't copy the '\n' at the end of each $lines[$i]        .
+                    $examples_ .= substr($lines[$i], 0, -1);
                     
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
-            
-                    $examples = str_replace("  ", " ", $examples_); // remove double spaces
-
+                    
+                    $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
+                    $examples = preg_replace('/\s\s+/', ' ', $examples_); // remove double spaces
+             
                     return $examples;
                 }
             }
