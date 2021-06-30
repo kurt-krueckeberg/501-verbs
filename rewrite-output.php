@@ -55,7 +55,7 @@ function is_essential(string $verb_line)
 {
    $verb = get_verb($verb_line);
    
-   return binary_search($essential_verbs, $verb);
+   return binary_search(EssentialVerbs::getVerbs(), $verb);
 }
 
 $ifile = fopen("./results.txt", "r");
@@ -79,8 +79,8 @@ while(!feof($ifile)) {
    if ($verb_line === false)
       return;
 
-   if (is_essential($verb_line)  // Write it to the essential verb list
+   if (is_essential($verb_line))  // Write it to the essential verb list
        fputs($oEssfile, $verb_line . "\n");   
    else 
-       fputs($oNonfile, $verb_ine . "\n");   
+       fputs($oNonfile, $verb_line . "\n");   
 }
