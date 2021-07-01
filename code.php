@@ -224,6 +224,7 @@ function get_prefixVerbs(array $page, $index)
         for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
 
             // Is it a verb + definition?  
+            // TODO: Note: There wil frequently be more than one verb + definition, followed by example sentences.
             if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
 
             } else { // It is an examples sentence(s).
@@ -234,7 +235,7 @@ function get_prefixVerbs(array $page, $index)
 
         for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "7_9393_") ; ++$i) {
 
-             // TODO: Look for each individual verb by looking for the '-' 
+            // TODO: Note: There wil frequently be more than one verb + definition, followed by example sentences.
             if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
 
             } else { { // It is an examples sentence(s).
