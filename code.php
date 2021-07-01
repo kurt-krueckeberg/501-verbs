@@ -217,8 +217,7 @@ function get_Examples_type2(array $lines, $index)
 function get_prefixVerbs(array $page, $index)
 {
   $regex_insep_end = '/^7_9393_/'; // The line that signals the end of inseparable verbs
-  $regex_verbDefn      = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
-
+  
   // $verbs['sep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
   // $verbs['insep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
   $sep_index = 0;
@@ -227,18 +226,9 @@ function get_prefixVerbs(array $page, $index)
 
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
-        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
-
-            // Is it a verb + definition?  
-            // TODO: Note: There wil frequently be more than one verb + definition, followed by example sentences.
-            if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
-               
-               
-                = { 'def'
-            } else { // It is an examples sentence(s).
-
-            }
-  }
+      // Call recursive method;
+      parsePrefixVerb($page, $index + 1);
+        
   if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
 
         for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "7_9393_") ; ++$i) {
@@ -252,6 +242,16 @@ function get_prefixVerbs(array $page, $index)
         }
   } 
 }
+
+fucntion parsePrefixVerb($page, $index)
+{
+ if (...$page[$index]...) // Check for terminating condition
+
+ $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
+
+   
+}
+
 
 $ifile = fopen("./new-output.txt", "r");
 $ofile = fopen("./results.txt", "w");
