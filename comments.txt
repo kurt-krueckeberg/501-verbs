@@ -1,1 +1,4 @@
-TODO: Reformat the results.txt.
+Add to code.php the code to write and format the SEPARABLE and INSEPARABLE verbs. Prsopective form...
+....since ther can be several of  the speablae and inseparable, use either mulitple lines or better yet a delimeter between the separable and insepa-
+rable verbs.
+

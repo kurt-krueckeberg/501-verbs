@@ -1,6 +1,8 @@
 <?php
-#require_once "./essential-verbs.php";
-  
+ /*
+  * Figure out where EXAMPLES, including SEPARABLE and INSEPARABLE
+  *
+  */ 
 function get_line($ifile)
 {
    if (!feof($ifile)) {
@@ -177,7 +179,7 @@ function get_Examples_type1(array $lines, $index)
 function get_Examples_type2(array $lines, $index)
 {
     $regex_start = '/^EXAMPLES\s*$/';
-    $regex_end = '/^END$/';
+    $regex_end = '/^Prefix Verbs\s*$/';
     $exampes = '';
         
     for ($i = $index; $i < count($lines); ++$i) {
@@ -198,14 +200,35 @@ function get_Examples_type2(array $lines, $index)
                     
                     $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
                     $examples = preg_replace('/\s\s+/', ' ', $examples_); // remove double spaces
-             
-                    return $examples;
+                    
+                    return array($examples, $i);
                 }
             }
         }
     }
     
    throw new NoType2ExamplesException("No EXAMPLE (s) found in lines starting with " . $lines[$index]); 
+}
+
+function get_prefixVerbs(array $page, $index)
+{
+  $regex_insep_end = '/^7_9393_/'; // The line that signals the end of inseparable verbs
+
+  if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
+
+        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
+
+             // TODO: Look for each individual verb by looking for the '-' 
+             format_prefixVerb($page[$i]);
+        }
+  }
+  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
+        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
+
+             // TODO: Look for each individual verb by looking for the '-' 
+             format_prefixVerb($page[$i]);
+        }
+  } 
 }
 
 $ifile = fopen("./new-output.txt", "r");
@@ -228,25 +251,44 @@ while(!feof($ifile)) {
       
       $infinitive = get_infinitive($page[0]);
       
-      if (0 === strpos($infinitive, "zwingen")) {
+      if (0 === strpos($infinitive, "arbeiten")) {
           $stop = 10;
       }
       
-      // TODO: get page number, too?
-      
       $principle_parts = get_PrincipleParts($page, 1);
       
-      list($rc, $examples) = get_Examples_type1($page, 1);
+      list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);
       
       if ($rc === false) {
           
           $page = get_page($ifile);
-          $examples = get_Examples_type2($page, 0);
+          list($mainVerb_examples, $index) = get_Examples_type2($page, 0);
+
+          // TODO: Complete this method
+          /*
+           * Each Prefix verbs are either/or both Separable or Inseparable. Each verb has a definition following the dash that follows the verb. Then, on the
+             next line it has examples. The Separable verbs/examples alwasy begin before the Inseparable. So the Separable examples are terminated by
+             the line '/^INSEPARABLE\s*$/'
+             
+             The Inseparable are terminated by: '/7_9393_/'
+                
+             Format for Sep/Insp verbs output in results.txt:
+             SEP:verb1%definition%examples. 
+             SEP:verb2%definition%examples. 
+             ....
+             INSEP:verb3%definition%examples
+             INSEP:verb4%definition%examples
+           * 
+           */ 
+          $prefixVerbs = get_prefixVerbs($page, $index);  
+
+  
+          // TODO: get_prefixVerbs(start a $page[$prefix_row]
       }
       
-      $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $examples . "\n";
+      $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
-       fputs($ofile, $output);
+      fputs($ofile, $output);
         
    } catch (Exception $e) {
        echo "Exception for Infinitive: " . $infinitive . "\n";    

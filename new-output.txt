@@ -1871,7 +1871,7 @@ sich an!
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 40 
 PAGE_END
 PAGE_START
-arbeiten	
+arbeiten
 to work	
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
@@ -1936,6 +1936,7 @@ work. She’s very industrious.
 Sent. 1 is in the conditional, formed by the 
 auxiliary  würde(would) + the infin. at the end
 of the clause.	
+Prefix Verbs
 SEPARABLE
 abarbeiten—to work off; work down; run (computer)
 ,,Er hat seine Schulden abgearbeitet.“
@@ -1960,7 +1961,6 @@ The tax authorities know that he did unde- clared work for years.
 umarbeiten—to deal with, handle; edit
 Am Drehbuch wurde zu viel von zu vie- len umgearbeitet.
 Too many worked at rewriting the script.	
-Prefix Verbs
 INSEPARABLE
 bearbeiten—to deal with, handle; edit
 Das Material muss neu bearbeitet werden.
@@ -1975,7 +1975,6 @@ Sie haben die Daten beleglos verar- beitet.
 They processed the data without vouchers. 
 Note:  EDV= elektronische Datenverar-
 beitung (electronic data processing).	
-END
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 42 
 PAGE_END
 PAGE_START
@@ -3542,7 +3541,6 @@ Discourse” (page 26) is used. In the last
 sentence the future perfect is used to express
 probability. See “Future and Future Perfect,”
 page 22.	
-END
 Bekommen	
 Prefix Verbs
 SEPARABLE
@@ -5052,7 +5050,6 @@ Es blieb keine andere Wahl.
 There was no other choice.
 Bis zur Abreise bleibt uns wenig Zeit.
 There isn’t much time before our departure.	
-END
 Bleiben	
 Prefix Verbs
 SEPARABLE
@@ -5458,7 +5455,6 @@ It’s rather far on foot, but it takes only ten  minutes by car.
 Don’t confuse brauchen with gebrauchen (to
 use). The past participle of both is  gebraucht.
 The context will tell you which is which.	
-END
 Brauchen	
 Prefix Verbs
 SEPARABLE
@@ -5777,7 +5773,6 @@ Can you take me to the station tomorrow morn- ing and then pick me up and bring 
 again in the evening?
 Die Kinder schreien und bringen mich um den Verstand. Bringen wir sie jetzt ins Bett.
 The kids are screaming and driving me crazy. Let’s put them to bed now.	
-END
 Bringen	
 Prefix Verbs
 SEPARABLE
@@ -5806,7 +5801,6 @@ Im Kofferraum können wir nichts mehr unterbringen.
 We can’t put anything more in the (car) trunk.
 Seid ihr da gut untergebracht?
 Are you comfortably lodged there?	
-Prefix Verbs
 INSEPARABLE
 erbringen—to produce; supply
 Sie haben noch keine Beweise dafür erbracht.
@@ -6245,7 +6239,6 @@ nicht zu denken! Wir denken gar nicht
 daran!
 The billionairess thinks she can buy us all with her money. She wants us to build a monument
 to her. But that’s out of the question! No way!	
-END
 Denken	
 bei.“
 t.”	
@@ -8393,7 +8386,6 @@ doesn’t seem that uninteresting to me. Let’s
 talk about it again at dinner.”
 Note the distinction between  essenand fressen
 (see  fressen) .	
-END
 Essen	
 Prefix Verbs
 SEPARABLE
@@ -8564,7 +8556,6 @@ Unfortunately, we lost our way.
 Note that überfahren can be both 
 separable and inseparable. See “Doubtful
 Prefixes,” page 610. 	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 159 
 PAGE_END
 PAGE_START
@@ -8936,7 +8927,6 @@ At what time will the concert take place?
 vorfinden—to come across/upon
 In der Höhle fanden wir viel  Überraschendes vor.
 We came upon many surprising things in the cave.	
-Prefix Verbs
 INSEPARABLE
 empfinden—to feel, sense
 Was Beethoven in der Natur empfand,drückte er in seiner Symphonie aus.
@@ -8948,7 +8938,6 @@ mitempfinden/nachempfinden —to
 sympathize; understand
 Mit Ihnen empfinde ich wirklich mit.
 I really sympathize with you.
-END
 See conjugated: (sich) befinden, erfinden	
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 166 
 PAGE_END
@@ -9350,7 +9339,6 @@ The matter is worth investigating.
 Ich soll Ihnen die Relativitätstheorie erklären? Da bin ich überfragt!
 You want me to explain the Theory of Relativity to you? You’re asking too
 much!	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 173 
 PAGE_END
 PAGE_START
@@ -10064,6 +10052,66 @@ Alle gaben sich von der besten Seite.
 All were on their best behavior.	
 Geben	
 Prefix Verbs
+SEPARABLE
+abgeben—to check; cast a vote
+Wir mussten Mantel und Hut abgeben.
+We had to check our coats and hats.
+Gib deine Stimme für mich ab!
+Vote for me.
+angeben—to indicate; brag
+Hat sie einen Preis dafür angegeben?
+Did she indicate a price for it?
+Er gibt immer groß an, kann aber
+wenig.
+He always talks big, but he isn’t very
+competent.
+aufgeben—to give up
+Warum hast du gleich aufgegeben?
+Why’d you give up right away?
+beigeben—to add; enclose
+Gewöhnlich gibt uns der Bäcker einige
+Brötchen bei.
+The baker usually adds a few rolls to our
+order.
+(klein) beigeben—to back down, cave in
+Diesmal geben wir nicht klein bei.
+This time we’re not going to give in
+humbly.
+durchgeben—to broadcast, transmit
+Der Sender gefällt mir, aber sie geben
+die Nachrichten zu oft durch.
+I like that station but they give the news
+too often.
+eingeben—to enter, feed a computer
+Haben Sie Ihre Geheimzahl in den
+Computer eingegeben?
+Did you enter your PIN into the com-
+puter?
+freigeben—to decontrol; unblock
+Preise und Löhne wurden freigegeben.
+Prices and wages were decontrolled.
+hergeben—to give; hand over
+Gib nur her!
+Just give it here!
+(sich) hergeben—to lend oneself to;
+stoop to
+Zu so etwas geb ich mich nicht her.
+I’m not going to lend myself to anything
+like that.
+nachgeben—to concede, give in
+Wenn du jetzt nicht nachgibst, wirst
+du’s später bereuen.
+If you don’t give in now, you’ll regret it
+later.
+vorgeben—to allege; pretend
+Er gab vor, nichts davon zu wissen.
+He alleged he knew nothing about it.
+zugeben—to admit
+Bisjetzt hat er nichts zugegeben.
+So far he’s admitted nothing.
+zurückgeben—to give back
+Ich gab ihm seinen Ring zurück.
+I gave him back his ring.
 INSEPARABLE
 (sich) begeben—to betake oneself, adjourn; happen
 Begeben wir uns ins Esszimmer.
@@ -10091,7 +10139,6 @@ vergeben—to award, distribute; forgive
 Den ersten Preis vergab er an meine Rivalin. Das vergeb ich ihm nie.
 He awarded the first prize to my rival. I’ll never forgive him for that.
 See conjugated separable ausgeben.	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 186 
 PAGE_END
 PAGE_START
@@ -10316,7 +10363,110 @@ PAGE_END
 PAGE_START
 192	
 Gehen	
+EXAMPLES
+,,Geht es dir jetzt besser, alter Freund.“ ,,Es
+würde mir noch besser gehen, wenn du mir
+mehr Schnaps einschenktest, denn es geht
+nichts über einen guten Tropfen.“ ,,Aber
+das geht doch nicht! Du solltest dich nicht
+so gehen lassen.“ Es geht um deine
+Gesundheit und das Wohl deiner Familie.“
+,,Was gehen dich die an?  Lass sie betteln
+gehen, wenn sie hungrig sind.“
+“I’d feel even better if you poured me some more liquor, for nothing beats a good drop.”
+“But that’s impossible! You shouldn’t let 
+yourself go like that.” Your health and the
+well-being of your family are at stake.”
+“What business are they of yours? Let 
+them go begging if they’re hungry.”  
+Einst ging Opa oft tanzen. Jetzt kann er kaum gehen. Es geht ihm gesundheitlich
+nicht gut.
+Grandpa used to go dancing a lot. Now he can scarcely walk. He’s not in good health.
+Gestern Abend sind wir ins Kino gegangen. Ich wollte zu Fuß gehen aber wir sind mit
+dem Bus gefahren.
+Last night we went to the movies. I wanted to go on foot, but we took the bus.
+Sein Geschäft ging nicht mehr so gut. Daher ging er früh in den Ruhestand.
+His business wasn’t doing so well anymore. That’s why he retired early.	
+Idioms
+Die Fenster im Zimmer der Malerin gehen nach Norden.
+The windows in the painter’s room face north.
+Die Kinder gehen mir auf die Nerven.
+The children get on my nerves.	
 Prefix Verbs
+SEPARABLE
+abgehen—to leave, depart, exit
+Der Zug ist in Hamburg pünktlich
+abgegangen.
+The train left on time in Hamburg.
+Faust geht ab.
+Exit Faust.
+aufgehen—to rise; be absorbed in
+Um wie viel Uhr geht heute die Sonne
+auf (unter)?
+What times does the sun rise (set) today?
+Sie geht ganz in ihren Beruf auf.
+She’s completely absorbed by her work.
+ausgehen—to go out, leave; run out;
+assume
+,,Nach ihm nur geh ich aus dem Haus“,
+singt Gretchen.
+“I leave the house only (to find) him,”
+sings Gretchen.
+Unsere Bestände gehen aus.
+Our inventory is running out.
+Ich gehe davon aus, dass Sie den
+Bericht gelesen haben.
+I assume you’ve read the report.
+hergehen—to happen, go on
+Beim Fest ging’s hoch her.
+All had a high old time at the party.
+Mutti ist böse auf dich—da wird’s heiß
+hergehen.
+Mom’s mad at you—she’ll make things
+hot for you.
+hingehen—to go to
+Da gehe ich nicht hin.
+I won’t go there.
+losgehen—to get going/started
+Wann geht’s los?
+When will things get going?
+nachgehen—to investigate, pursue; be
+slow (of timepieces)
+Lohnt es sich der Sache nachzugehen?
+Is it worth investigating the matter?
+Im Ruhestand will sie endlich ihren
+Interessen nachgehen.
+In retirement, she finally wants to pursue
+her own interests.
+Seine Uhr ging 25 Minuten nach und
+wir kamen zu spät.
+His watch was 25 minutes slow and we
+came too late.
+umgehen—to go around; deal with
+Der alte Gauner geht wieder um.
+That old crook is making the rounds
+again.
+Er weiß nicht mit Geld umzugehen.
+He doesn’t know how to handle money.
+untergehen—to perish, go under; set
+(sun—see aufgehen above)
+Das Abendland ist noch nicht
+untergegangen.
+The West hasn’t gone under yet.
+vorgehen—to proceed, take action;
+happen, go on; be fast (timepieces)
+Sie drohten, gegen uns gerichtlich
+vorzugehen.
+They threatened to take legal action
+against us.
+Was ist denn eigentlich da
+vorgegangen?
+Just what really went on there?
+Meine Uhr geht fünf Minuten vor.
+My watch is five minutes fast.
+zugehen—to approach, go toward
+Der Bettler ging auf uns zu.
+The beggar approached us.
 INSEPARABLE
 begehen—to commit, perpetrate
 Mackie hat viele Verbrechen begangen.
@@ -10355,36 +10505,6 @@ melt on your tongue.
 Note that umgehenis both a separable and
 inseparable prefix verb. See “Doubtful
 Prefixes,” page 610.
-EXAMPLES
-,,Geht es dir jetzt besser, alter Freund.“ ,,Es
-würde mir noch besser gehen, wenn du mir
-mehr Schnaps einschenktest, denn es geht
-nichts über einen guten Tropfen.“ ,,Aber
-das geht doch nicht! Du solltest dich nicht
-so gehen lassen.“ Es geht um deine
-Gesundheit und das Wohl deiner Familie.“
-,,Was gehen dich die an?  Lass sie betteln
-gehen, wenn sie hungrig sind.“
-“I’d feel even better if you poured me some more liquor, for nothing beats a good drop.”
-“But that’s impossible! You shouldn’t let 
-yourself go like that.” Your health and the
-well-being of your family are at stake.”
-“What business are they of yours? Let 
-them go begging if they’re hungry.”  
-Einst ging Opa oft tanzen. Jetzt kann er kaum gehen. Es geht ihm gesundheitlich
-nicht gut.
-Grandpa used to go dancing a lot. Now he can scarcely walk. He’s not in good health.
-Gestern Abend sind wir ins Kino gegangen. Ich wollte zu Fuß gehen aber wir sind mit
-dem Bus gefahren.
-Last night we went to the movies. I wanted to go on foot, but we took the bus.
-Sein Geschäft ging nicht mehr so gut. Daher ging er früh in den Ruhestand.
-His business wasn’t doing so well anymore. That’s why he retired early.	
-Idioms
-Die Fenster im Zimmer der Malerin gehen nach Norden.
-The windows in the painter’s room face north.
-Die Kinder gehen mir auf die Nerven.
-The children get on my nerves.	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 192 
 PAGE_END
 PAGE_START
@@ -10494,7 +10614,6 @@ Daddy’s lost his job but he doesn’t believe that he’s ready for the scrap 
 Ihre Behauptungen gehören ins Reich der Fabel.
 Their assertions are sheer fantasies.  (Literally: “belong to the realm of
 fables”)	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 195 
 PAGE_END
 PAGE_START
@@ -11283,7 +11402,6 @@ zu sehen.
 For years she thought her husband was dead. When he suddenly reappeared, she could
 scarcely believe it. She thought she was 
 looking at a ghost.
-END
 Idioms
 Willst du mich glauben machen, duhättest das Geld auf der Straße 
 gefunden?
@@ -12038,7 +12156,6 @@ Verbs.”  Habenis used above as an auxiliary
 to form the pres. perfect of kosten. But the 
 passage consists primarily of important idioms
 with haben.	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 222 
 PAGE_END
 PAGE_START
@@ -12152,7 +12269,6 @@ I’m not going to let you stall me anymore.
 Idiom:  den Kopf hinhalten—to assume a
 risky responsibility
 Dafür soll ich meinen Kopf hinhalten?
-END
 You want me to stick my neck out for that?	
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 224 
 PAGE_END
@@ -12607,7 +12723,6 @@ Im Artikel hieß es, dass er den Kriegeigentlich nicht wollte.
 It said in the article that he really didn’t want the war.
 Wie heißt es bei Shakespeare: ,,Der bessere Teil der Tapferkeit ist Vorsicht.“
 How does Shakespeare put it: “The better  part of valor is discretion.”	
-END
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 232 
 PAGE_END
 PAGE_START
@@ -12753,7 +12868,6 @@ Kaffee soll gegen Gicht helfen.
 Coffee is supposed to be a remedy for gout.
 Wir waren bereit ihnen zu helfen, aber ihnen konnte nicht geholfen werden.
 We were prepared to help them but they  couldn’t be helped.	
-END
 Prefix Verbs
 SEPARABLE
 abhelfen—to redress, remedy
@@ -12999,7 +13113,6 @@ feel.” Note that English uses Latin-derived
 are sep. So is aufhören (to stop). Gehören
 (to belong) is inseparable. See “Prefix Verbs”
 opposite.   	
-END
 Hören	
 Prefix Verbs
 SEPARABLE
@@ -13403,7 +13516,6 @@ auszahlen and aufkaufen are used. Auf Raten
 kaufen (to buy in installments) is used above.
 “To buy on credit” is  auf Kredit kaufen. Auf
 Pump  is a more colloquial synonym.	
-END
 Kaufen	
 Prefix Verbs
 abkaufen—to buy 
@@ -13578,7 +13690,6 @@ is “to know a person; be familiar with some-
 thing.”  Wissen is “to know a fact.”  Können
 means “to know a language/know how to do
 something.”
-END
 Kennen is an irregular mixed verb. Study them
 on page 14.	
 Kennen	
@@ -14212,34 +14323,6 @@ For additional prefix verbs, see the list below.
 Der Motor kommt nicht in Gang. Wie komme ich zu Fuß zum Bahnhof?
 The car won’t start. How can I get to the  train station on foot?	
 Prefix Verbs
-INSEPARABLE
-überkommen—to come over, befall
-Es überkam uns eine große Angst.
-We were gripped by great fear.
-verkommen—to degenerate, deteriorate
-Das Haus sieht ganz verkommen aus.
-The house looks really decrepit.
-See also separable ankommen,
-auskommen,  and inseparable
-bekommmen,  entkommen.
-Wann seid ihr nach Hause gekommen?
-When did you get home?
-Pauls Freunde kamen ihm zur Hilfe.
-Paul’s friends came to his aid.
-Das Lied von der Loreley kam mir nicht aus
-dem Sinn.
-I couldn’t get the Loreley song out of my mind.
-Beim Unfall kamen viele ums Leben. Es dauerte lange, bis Uwe wieder zu sich kam.
-Many lost their lives in the accident. It took  a long time before Uwe came to (regained
-consciousness).
-Erna konnte nicht zu Wort kommen. Ihre Ideen kamen nicht zum Ausdruck.
-Erna didn’t get a chance to speak. Her ideas remained unexpressed.
-Ihr Rechtsanwalt versucht hinter die Wahrheit zu kommen.
-Her lawyer is trying to get at the truth.
-Ich glaube, wir müssen einen Arzt kommen lassen.
-I think we’ll have to send for a doctor.
-Endlich kamen wir an die Reihe.
-It was finally our turn.	
 SEPARABLE
 aufkommen—to arise
 Fritz bringt immer Leben in die Bude;
@@ -14320,7 +14403,34 @@ work things out well
 Es ist unmöglich, mit ihm
 zurechtzukommen.
 It’s impossible to get along with him.
-END
+INSEPARABLE
+überkommen—to come over, befall
+Es überkam uns eine große Angst.
+We were gripped by great fear.
+verkommen—to degenerate, deteriorate
+Das Haus sieht ganz verkommen aus.
+The house looks really decrepit.
+See also separable ankommen,
+auskommen,  and inseparable
+bekommmen,  entkommen.
+Wann seid ihr nach Hause gekommen?
+When did you get home?
+Pauls Freunde kamen ihm zur Hilfe.
+Paul’s friends came to his aid.
+Das Lied von der Loreley kam mir nicht aus
+dem Sinn.
+I couldn’t get the Loreley song out of my mind.
+Beim Unfall kamen viele ums Leben. Es dauerte lange, bis Uwe wieder zu sich kam.
+Many lost their lives in the accident. It took  a long time before Uwe came to (regained
+consciousness).
+Erna konnte nicht zu Wort kommen. Ihre Ideen kamen nicht zum Ausdruck.
+Erna didn’t get a chance to speak. Her ideas remained unexpressed.
+Ihr Rechtsanwalt versucht hinter die Wahrheit zu kommen.
+Her lawyer is trying to get at the truth.
+Ich glaube, wir müssen einen Arzt kommen lassen.
+I think we’ll have to send for a doctor.
+Endlich kamen wir an die Reihe.
+It was finally our turn.	
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 260 
 PAGE_END
 PAGE_START
@@ -14441,7 +14551,6 @@ Lisa knows the poem by heart.
 Ich konnte nicht anders, als ihm die Wahrheit zu sagen. Er kann nichts und ich kann ihn
 nicht leiden.
 I couldn’t help but tell him the truth. He’s totally incapable and I can’t stand him.	
-END
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 263 
 PAGE_END
 PAGE_START
@@ -15280,36 +15389,6 @@ above.  Lassen + sich + infinitive is used to
 express ability (“drinkability” above) and can
 substitute for the passive voice. 	
 Prefix Verbs
-INSEPARABLE
-belassen—to leave
-,,Kann man die Sache so belassen?“ ,,Ja, belassen wir’s dabei.“
-“Can we let the matter rest there?” “Yes, let’s leave it at that.”
-entlassen—to lay off; release, discharge
-Er kann das Trinken nicht lassen. Wir müssen ihn entlassen.
-He can’t stop drinking. We’ll have to let him go.
-Diesen Bescheuerten hat man als geheilt entlassen.
-They said he was cured and released that nut case.
-erlassen—to enact; issue
-Sie wollen neue Gesetze erlassen.
-They want to pass new laws.
-Wann wurde der Haftbefehl erlassen?
-When was the arrest warrant issued?
-hinterlassen—to leave, bequeath
-Der Milliardär hat seinen Kindern wenig Geld hinterlassen.
-The billionaire didn’t leave his children much money.
-Nach dem Piepton hinterlassen Sie bitte eine Nachricht.
-After the beep please leave a message.
-Der Wein hinterlässt einen komischen Nachgeschmack.
-The wine leaves a funny aftertaste.
-überlassen—to leave to
-Das überlass ich dir.
-I’ll leave that to you.
-unterlassen—to refrain from; fail to do
-Warum wurde das unterlassen?
-Why wasn’t that done?
-verlassen—to leave; abandon
-Gauguin verließ seine Familie.
-Gauguin left his family.	
 SEPARABLE
 ablassen—to drain; let out; reduce price
 Wir müssen das Schwimmbeckenablassen.
@@ -15370,7 +15449,36 @@ wasn’t in order.
 zurücklassen—to leave behind
 Sie mussten alles zurücklassen, und ihre Heimat verlassen.
 They had to leave everything behind and leave their homeland.
-END
+INSEPARABLE
+belassen—to leave
+,,Kann man die Sache so belassen?“ ,,Ja, belassen wir’s dabei.“
+“Can we let the matter rest there?” “Yes, let’s leave it at that.”
+entlassen—to lay off; release, discharge
+Er kann das Trinken nicht lassen. Wir müssen ihn entlassen.
+He can’t stop drinking. We’ll have to let him go.
+Diesen Bescheuerten hat man als geheilt entlassen.
+They said he was cured and released that nut case.
+erlassen—to enact; issue
+Sie wollen neue Gesetze erlassen.
+They want to pass new laws.
+Wann wurde der Haftbefehl erlassen?
+When was the arrest warrant issued?
+hinterlassen—to leave, bequeath
+Der Milliardär hat seinen Kindern wenig Geld hinterlassen.
+The billionaire didn’t leave his children much money.
+Nach dem Piepton hinterlassen Sie bitte eine Nachricht.
+After the beep please leave a message.
+Der Wein hinterlässt einen komischen Nachgeschmack.
+The wine leaves a funny aftertaste.
+überlassen—to leave to
+Das überlass ich dir.
+I’ll leave that to you.
+unterlassen—to refrain from; fail to do
+Warum wurde das unterlassen?
+Why wasn’t that done?
+verlassen—to leave; abandon
+Gauguin verließ seine Familie.
+Gauguin left his family.	
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 279 
 PAGE_END
 PAGE_START
@@ -15500,7 +15608,6 @@ The negotiations have foundered.
 fortlaufen —to run away/off
 Der Hund läuft oft fort, aber er kommt immer zurück.
 The dog often runs off, but he always comes back.	
-SEPARABLE (continued)
 umlaufen—to knock over; circulate
 Der Langstreckenläufer hat mich fastumgelaufen.
 The long distance runner almost knocked me over.
@@ -15525,7 +15632,6 @@ Many streets converge here.
 zuwiderlaufen—to run counter to
 Das läuft meinen Prinzipien zuwider.
 That runs counter to my principles.
-Prefix Verbs
 INSEPARABLE
 (sich) belaufen auf—to come/amount to
 Das beläuft sich auf 220 Euros.
@@ -15557,7 +15663,6 @@ Our hopes melted away.
 Note that durchlaufen  andumlaufen
 can be separable or inseparable. See
 “Doubtful Prefixes,” page 610.
-END
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 281 
 PAGE_END
 PAGE_START
@@ -15709,7 +15814,6 @@ verbs used above are:  beleben (to animate),
 erleben  (to experience), and überleben  (to 
 survive). For other prefix verbs, see the 
 list to the left.	
-END
 Leben	
 Prefix Verbs
 SEPARABLE
@@ -15884,32 +15988,6 @@ placed, destabilized, one is  verlegen(embar-
 rased). The professor above “misplaced” 
 his wallet and is “embarrassed.” Auslegen,	
 Prefix Verbs
-INSEPARABLE
-belegen—to substantiate
-Sie hat ihre Argumente gut belegt.
-She supported her arguments well.
-überlegen—to think over, consider
-Ich habe mir das überlegt und muss nein sagen.
-I’ve thought it over and have to say no.
-verlegen—to publish; displace; misplace; relocate
-Sie verlegen vor allem Kunstbücher.
-They publish primarily books on art.
-Mein Sekretär muss die Akte verlegt haben.
-My secretary must have misplaced the file.
-Die Fabrik wurde ins Ausland verlegt.
-The factory was relocated in a foreign country.
-Note that überlegen  can be separable or
-inseparable. See “Doubtful Prefixes,” page
-610.
-ablegen, hinlegen,and  anlegenare separable.
-Belegen and verlegen are inseparable. For
-additional prefix verbs see the list below. The
-idea behind the idiom  auf die hohe Kante
-legen (to set money aside/by ) used in example
-1, is that if you put money in a “high” out-of-
-the-way place, you’ll be less tempted to get at
-it and spend it.	
-7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 288 
 SEPARABLE
 ablegen—to take off 
 Legen Sie bitte Ihren Mantel ab!
@@ -15952,9 +16030,32 @@ up machinery.)
 Note that überlegen  can be separable or
 inseparable. See “Doubtful Prefixes,”
 page 610.
-END
-Prefix Verbs	
-7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 289 
+INSEPARABLE
+belegen—to substantiate
+Sie hat ihre Argumente gut belegt.
+She supported her arguments well.
+überlegen—to think over, consider
+Ich habe mir das überlegt und muss nein sagen.
+I’ve thought it over and have to say no.
+verlegen—to publish; displace; misplace; relocate
+Sie verlegen vor allem Kunstbücher.
+They publish primarily books on art.
+Mein Sekretär muss die Akte verlegt haben.
+My secretary must have misplaced the file.
+Die Fabrik wurde ins Ausland verlegt.
+The factory was relocated in a foreign country.
+Note that überlegen  can be separable or
+inseparable. See “Doubtful Prefixes,” page
+610.
+ablegen, hinlegen,and  anlegenare separable.
+Belegen and verlegen are inseparable. For
+additional prefix verbs see the list below. The
+idea behind the idiom  auf die hohe Kante
+legen (to set money aside/by ) used in example
+1, is that if you put money in a “high” out-of-
+the-way place, you’ll be less tempted to get at
+it and spend it.	
+7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 288 
 PAGE_END
 PAGE_START
 lehren
@@ -16556,7 +16657,6 @@ Liegen bleiben is “to remain recumbent; be
 left behind.”
 Fallen ist menschlich. Liegen bleiben ist  teuflisch.
 To fall is human. Staying down is diabolical.	
-END
 Liegen	
 Prefix Verbs
 SEPARABLE
@@ -17054,7 +17154,6 @@ I’ll dress the salad later.
 ausmachen—to extinguish; amount to; matter to
 Mach’s Licht aus!
 Turn the light off.	
-END
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 308 
 PAGE_END
 PAGE_START
@@ -17543,7 +17642,6 @@ Einst war er ein vermögender Mann, aber
 er hat sein Vermögen verspielt.
 Once he was a man of means, but he 
 squandered his fortune gambling.	
-END
 Mögen	
 Idioms
 Du magst sie beide, den Mercedes und auch den BMW, und kannst dich nicht
@@ -17688,7 +17786,6 @@ him that!
 ,,Ich muss jetzt wirklich nach Hause.“ ,,Kein Mensch muss müssen.“
 “I really have to go home now.”“There’s no such thing as have to (nobody has to do any-
 thing).”	
-END
 Müssen	
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 319 
 PAGE_END
@@ -17998,39 +18095,6 @@ Review the verbs in Group IV B, page 12. Take
 the time to ponder the idioms used below.	
 Nehmen	
 Prefix Verbs
-INSEPARABLE
-(sich) benehmen—to behave
-Benimm dich!
-Behave yourself!
-entnehmen—to take from; gather from
-Man entnahm ihm oft Blut.
-They took many blood samples from him.
-Ihrem Brief entnehme ich, dass Sie bei uns nicht glücklich waren.
-I gather from your letter that you weren’t happy with us.
-übernehmen—to take over
-Sein Sohn will das Geschäft nicht übernehmen.
-His son doesn’t want to take over the  business.
-(sich) übernehmen —to take on too much,
-overextend oneself
-Mit dieser Aufgabe habe ich mich wirk- lich übernommen.
-I’ve really overextended myself with that task.
-unternehmen —to take, undertake
-Man hat schon die nötigen Schritte unternommen.
-The necessary steps have already been taken.
-vernehmen—to hear a witness; interrogate
-Morgen wird die Hauptzeugin verhört.
-The key witness will be heard tomorrow.	
-Idioms
-die Verantwortung auf sich nehmen—to assume responsibility
-jmdn. beim Wort nehmen—to take some- one at their word 
-auf die leichte Schulter nehmen —to make
-light of, minimize
-die Folgen auf sich nehmen—to take the  consequences
-im Grunde genommen—strictly speaking
-in Anspruch  nehmen—literally “to take in claim.” It means one’s time is taken up
-because of the many claims on it.
-Rücksicht nehmen—to show consideration
-Reißaus nehmen—to clear out fast	
 SEPARABLE
 abnehmen—to take off; decrease; loseweight
 Nimm den Hut ab!
@@ -18080,8 +18144,39 @@ You’ve gained weight again.
 zurücknehmen—to take back; withdraw
 Sie hat ihre Klage zurückgenommen.
 She withdrew her complaint.
-END
-Prefix Verbs	
+INSEPARABLE
+(sich) benehmen—to behave
+Benimm dich!
+Behave yourself!
+entnehmen—to take from; gather from
+Man entnahm ihm oft Blut.
+They took many blood samples from him.
+Ihrem Brief entnehme ich, dass Sie bei uns nicht glücklich waren.
+I gather from your letter that you weren’t happy with us.
+übernehmen—to take over
+Sein Sohn will das Geschäft nicht übernehmen.
+His son doesn’t want to take over the  business.
+(sich) übernehmen —to take on too much,
+overextend oneself
+Mit dieser Aufgabe habe ich mich wirk- lich übernommen.
+I’ve really overextended myself with that task.
+unternehmen —to take, undertake
+Man hat schon die nötigen Schritte unternommen.
+The necessary steps have already been taken.
+vernehmen—to hear a witness; interrogate
+Morgen wird die Hauptzeugin verhört.
+The key witness will be heard tomorrow.	
+Idioms
+die Verantwortung auf sich nehmen—to assume responsibility
+jmdn. beim Wort nehmen—to take some- one at their word 
+auf die leichte Schulter nehmen —to make
+light of, minimize
+die Folgen auf sich nehmen—to take the  consequences
+im Grunde genommen—strictly speaking
+in Anspruch  nehmen—literally “to take in claim.” It means one’s time is taken up
+because of the many claims on it.
+Rücksicht nehmen—to show consideration
+Reißaus nehmen—to clear out fast	
 7_9393_GermanVerbs_3  8/28/07  2:48 PM  Page 326 
 PAGE_END
 PAGE_START
@@ -20637,7 +20732,6 @@ or
 Die Wahrsagerin hat mir aus den Handlinien die Zukunft wahrgesagt.
 Both mean: The fortune-teller read my palm
 and predicted my future.	
-END
 7_9393_GermanVerbs_4  8/28/07  2:48 PM  Page 371 
 PAGE_END
 PAGE_START
@@ -21769,7 +21863,6 @@ Morgenstund’ hat Gold im Mund. Wer verschläft sich geht zu Grund.
 (Sprichwort)
 Golden are the morning hours. Oversleepers (literally “who oversleeps”) come to grief.
 (Proverb)	
-END
 7_9393_GermanVerbs_5  8/28/07  2:49 PM  Page 391 
 PAGE_END
 PAGE_START
@@ -21853,39 +21946,6 @@ is a “stroke.” Totschlagen, niederschlagen,
 einschlagen, and abschlagen are separable. 	
 Schlagen	
 Prefix Verbs
-INSEPARABLE
-beschlagen—to shoe a horse
-Das Fohlen ist noch nicht beschlagen.
-The colt hasn’t been shod yet.
-(sich) beschlagen—to get fogged/steamed up
-Die Fenster beschlugen sich langsam.
-The windows steamed up slowly.
-durchschlagen—to blow a hole in
-Der Wagen des Gangsters war gepanzert.
-Die Bombe hat ihn aber durchschlagen.
-The gangster’s car was armor-plated. But the bomb blew a hole in it.
-fehlschlagen—to go wrong
-All seine Pläne schlugen fehl.
-All his plans went wrong.
-erschlagen—to slay
-Siegfried hat den Drachen erschlagen.
-Siegfried slew the dragon.
-unterschlagen—to embezzle
-Sie wird verdächtigt, das Geld unter- schlagen zu haben.
-She’s suspected of having embezzled the money.
-überschlagen—to make a rough estimate; skip
-Überschlagen Sie zuerst die Kosten.
-First make a rough estimate of expenses.
-Dieses Kapitel haben wir überschlagen.
-We skipped that chapter.
-(sich) überschlagen—to go all out, go head over heels; turn over (car)
-Das Hotelpersonal überschlug sich vor Höflichkeit.
-The hotel personnel fell over themselves to be polite.
-Der Wagen hat sich überschlagen.
-The car turned over.
-zerschlagen—to shatter
-Wütend zerschlug er all mein Porzellan.
-Furious, he smashed all my porcelain.	
 SEPARABLE
 abschlagen—to cut, chop off; refuse,reject
 Maria Stuart und Marie Antoinette schlug man den Kopf ab.
@@ -21946,8 +22006,39 @@ I simply suggested it to you.
 Note that durchschlagen and überschla-
 gen can be separable or inseparable. See
 “Doubtful Prefixes” p. 610.
-END
-Prefix Verbs	
+INSEPARABLE
+beschlagen—to shoe a horse
+Das Fohlen ist noch nicht beschlagen.
+The colt hasn’t been shod yet.
+(sich) beschlagen—to get fogged/steamed up
+Die Fenster beschlugen sich langsam.
+The windows steamed up slowly.
+durchschlagen—to blow a hole in
+Der Wagen des Gangsters war gepanzert.
+Die Bombe hat ihn aber durchschlagen.
+The gangster’s car was armor-plated. But the bomb blew a hole in it.
+fehlschlagen—to go wrong
+All seine Pläne schlugen fehl.
+All his plans went wrong.
+erschlagen—to slay
+Siegfried hat den Drachen erschlagen.
+Siegfried slew the dragon.
+unterschlagen—to embezzle
+Sie wird verdächtigt, das Geld unter- schlagen zu haben.
+She’s suspected of having embezzled the money.
+überschlagen—to make a rough estimate; skip
+Überschlagen Sie zuerst die Kosten.
+First make a rough estimate of expenses.
+Dieses Kapitel haben wir überschlagen.
+We skipped that chapter.
+(sich) überschlagen—to go all out, go head over heels; turn over (car)
+Das Hotelpersonal überschlug sich vor Höflichkeit.
+The hotel personnel fell over themselves to be polite.
+Der Wagen hat sich überschlagen.
+The car turned over.
+zerschlagen—to shatter
+Wütend zerschlug er all mein Porzellan.
+Furious, he smashed all my porcelain.	
 7_9393_GermanVerbs_5  8/28/07  2:49 PM  Page 394 
 PAGE_END
 PAGE_START
@@ -23027,7 +23118,6 @@ Maybe he didn’t write it correctly?
 Note that umschreiben  can be separable
 or inseparable. Please see “Doubtful
 Prefixes,” page 610.	
-END
 7_9393_GermanVerbs_5  8/28/07  2:49 PM  Page 413 
 PAGE_END
 PAGE_START
@@ -23953,28 +24043,6 @@ Aussehen, sich sattsehen, einsehen,ansehen,
 and  absehen used above are separable. For
 additional prefix verbs see the list below.	
 Prefix Verbs
-INSEPARABLE
-besehen—to look at
-Die Königin besah sich im Spiegel.
-The queen looked at herself in the mirror.
-ersehen—to see/gather from
-Aus Ihrem Brief ersehe ich, dass Sie mit unserem Produckt nicht zufrieden sind.
-I gather from your letter that you’re not  satisfied with our product.
-übersehen—to survey, look out on/over; to overlook
-Von hier aus kann man den ganzen See übersehen.
-You can look out over the whole lake from here.
-Das Umleitungsschild habe ich übersehen.
-I missed (overlooked) the sign for the detour.
-versehen—to perform a service; provide, supply
-Frau Weber versieht den Haushalt bei Oma.
-Mrs. Weber keeps house for grandma.
-Die Bücherei könnte mit Fachliteratur besser versehen sein.
-The library could have a better stock of specialist literature.
-(sich) versehen—to make a mistake
-Ich glaube, Sie haben sich bei der Zählung versehen.
-I think you made a mistake in the count.
-Übersehen is inseparable. Sich übersehen
-is separable.	
 SEPARABLE
 absehen—to foresee
 Es ist nicht leicht abzusehen, wie langedie Arbeit noch dauern wird.
@@ -24024,8 +24092,28 @@ We’ll soon meet again.
 zusehen—to look on
 Sie haben nichts getan, nur zugesehen.
 They did nothing, just looked on.
-END
-Prefix Verbs	
+INSEPARABLE
+besehen—to look at
+Die Königin besah sich im Spiegel.
+The queen looked at herself in the mirror.
+ersehen—to see/gather from
+Aus Ihrem Brief ersehe ich, dass Sie mit unserem Produckt nicht zufrieden sind.
+I gather from your letter that you’re not  satisfied with our product.
+übersehen—to survey, look out on/over; to overlook
+Von hier aus kann man den ganzen See übersehen.
+You can look out over the whole lake from here.
+Das Umleitungsschild habe ich übersehen.
+I missed (overlooked) the sign for the detour.
+versehen—to perform a service; provide, supply
+Frau Weber versieht den Haushalt bei Oma.
+Mrs. Weber keeps house for grandma.
+Die Bücherei könnte mit Fachliteratur besser versehen sein.
+The library could have a better stock of specialist literature.
+(sich) versehen—to make a mistake
+Ich glaube, Sie haben sich bei der Zählung versehen.
+I think you made a mistake in the count.
+Übersehen is inseparable. Sich übersehen
+is separable.	
 7_9393_GermanVerbs_6  8/28/07  2:50 PM  Page 431 
 PAGE_END
 PAGE_START
@@ -24650,7 +24738,6 @@ The sheriff dismounted and entered the bar.
 durchsitzen —to wear through/out
 Mein Mann, der Sheriff, reitet viel und sitzt sich den Hosenboden durch.
 My husband, the sheriff, rides a lot and wears out the seat of his pants.	
-END
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 444 
 PAGE_END
 PAGE_START
@@ -24769,7 +24856,6 @@ Sie sollten sich schämen!
 They should be ashamed of themselves.
 Wir hätten früher anfangen sollen.
 We should have started earlier.	
-END
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 446 
 PAGE_END
 PAGE_START
@@ -25032,29 +25118,6 @@ used in examples 2 and 3. For additional
 examples see the list below. 	
 Spielen	
 Prefix Verbs
-INSEPARABLE
-überspielen—to tape/record over, dub; cover up, mask
-Teile des Films wurden überspielt.
-Parts of the film were taped over.
-Es gibt wirkliche Probleme, die die Behörden zu überspielen versuchen.
-There are real problems the authorities are trying to cover up.
-verspielen—to gamble away
-Du hast deine letzte Chance verspielt.
-You’ve gambled away your last chance.
-Opa hat gelernt, das Spiel auch online zu spielen.
-Grandpa has learned how to play the game online too.
-Keine Panik auf der Titanic. Die Kapelle spielte weiter.
-No panic on the  Titanic. The band played on.
-Paul Linckes ,,Frau Luna“ spielt auf dem Mond.
-Paul Lincke’s Lady Luna is set/takes place 
-on the moon.
-Mit spielender Leichtigkeit zeichnete Uwe ihr Porträt. Es war ihm ein Kinderspiel.
-Uwe drew her portrait with the greatest of ease. It was child’s play for him.
-Wir hätten das Meisterschaftsspiel gewon- nen, wenn die Tormänner besser gespielt
-hätten.
-We would have won the championship match if the goalkeepers had played better.
-Was wird heute im Kino gespielt?
-What’s on at the movies today?	
 SEPARABLE
 abspielen—to play through/from
 Tina hat sein neues Stück vom Blattabgespielt.
@@ -25117,8 +25180,30 @@ Er spielte ihm den Ball zu.
 He passed the ball to him.
 Wer hat die Geheimnisse der Reporterin zugespielt?
 Who leaked the secrets to the reporter?
-END
-Prefix Verbs	
+INSEPARABLE
+überspielen—to tape/record over, dub; cover up, mask
+Teile des Films wurden überspielt.
+Parts of the film were taped over.
+Es gibt wirkliche Probleme, die die Behörden zu überspielen versuchen.
+There are real problems the authorities are trying to cover up.
+verspielen—to gamble away
+Du hast deine letzte Chance verspielt.
+You’ve gambled away your last chance.
+Opa hat gelernt, das Spiel auch online zu spielen.
+Grandpa has learned how to play the game online too.
+Keine Panik auf der Titanic. Die Kapelle spielte weiter.
+No panic on the  Titanic. The band played on.
+Paul Linckes ,,Frau Luna“ spielt auf dem Mond.
+Paul Lincke’s Lady Luna is set/takes place 
+on the moon.
+Mit spielender Leichtigkeit zeichnete Uwe ihr Porträt. Es war ihm ein Kinderspiel.
+Uwe drew her portrait with the greatest of ease. It was child’s play for him.
+Wir hätten das Meisterschaftsspiel gewon- nen, wenn die Tormänner besser gespielt
+hätten.
+We would have won the championship match if the goalkeepers had played better.
+Was wird heute im Kino gespielt?
+What’s on at the movies today?	
+
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 452 
 PAGE_END
 PAGE_START
@@ -25289,19 +25374,6 @@ absprechen , and herumsprechen (example 3).
 See the list below for additional prefix verbs.	
 Sprechen	
 Prefix Verbs
-INSEPARABLE
-besprechen —to discuss
-Wir haben’s schon besprochen.
-We’ve already discussed it.
-entsprechen—to correspond
-Das entspricht unseren Anforderungen
-bei weitem nicht.
-That falls far short of meeting our demands.
-widersprechen—to contradict
-Ihre Aussagen widersprechen der
-Wahrheit.
-Your statements contradict the truth.
-See conjugated, inseparable  versprechen.	
 SEPARABLE
 absprechen—to refuse, deny; arrange
 Sie sprach ihm jede Kompetenz ab.
@@ -25349,8 +25421,19 @@ Dem Cognac habe ich im Wartesaal kräftig zugesprochen, aber ich war
 nicht betrunken.
 I tanked up on cognac in the waiting room, but I wasn’t drunk.
 See conjugated inseparable: versprechen.
-END
-Prefix Verbs	
+INSEPARABLE
+besprechen —to discuss
+Wir haben’s schon besprochen.
+We’ve already discussed it.
+entsprechen—to correspond
+Das entspricht unseren Anforderungen
+bei weitem nicht.
+That falls far short of meeting our demands.
+widersprechen—to contradict
+Ihre Aussagen widersprechen der
+Wahrheit.
+Your statements contradict the truth.
+See conjugated, inseparable  versprechen.	
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 456 
 PAGE_END
 PAGE_START
@@ -26120,41 +26203,6 @@ Mr. Link was under suspicion of having  embezzled money. Despite everything his
 wife stood by him.	
 Stehen	
 Prefix Verbs
-INSEPARABLE
-auferstehen—to rise again, be resurrected
-Ihre Dissertation handelt von aufer-
-standenen Gottheiten.
-Her dissertation is about divinities that rose
-again.
-entstehen—to emerge, originate; result
-Die Stadt ist aus dem Nichts entstanden.
-The city grew up out of nothing.
-Dadurch würden uns zu viele Unkosten
-entstehen.
-That would result in too many expenses 
-for us.
-erstehen—to purchase
-Habt ihr viel bei der Versteigerung
-erstanden?
-Did you buy much at the auction?
-gestehen—to confess, declare
-Ihr muss ich endlich meine Liebe geste-
-hen.
-I must finally declare my love to her.
-überstehen—to come, get through, survive
-Den Krieg haben sie nicht überstanden.
-They didn’t survive the war.
-unterstehen—to be subordinate to
-Alle unterstehen dem Gesetz.
-All are subject to the law.
-(sich) unterstehen —to dare
-Untersteh dich ja nicht, uns zu wider-
-sprechen!
-Don’t you dare contradict us.
-Unterstehen can be separable or 
-inseparable.
-See conjugated inseparable bestehen  and
-verstehen.	
 SEPARABLE
 aufstehen—to get up; stand up
 Um wie viel Uhr bist du aufgestanden?
@@ -26194,8 +26242,41 @@ Despite his blemishes he’s head of the firm.
 zustehen—to be entitled to
 Es steht dir nicht zu, so etwas zu  verlangen.
 You’re not entitled to ask for anything like that.
-END
-Prefix Verbs	
+INSEPARABLE
+auferstehen—to rise again, be resurrected
+Ihre Dissertation handelt von aufer-
+standenen Gottheiten.
+Her dissertation is about divinities that rose
+again.
+entstehen—to emerge, originate; result
+Die Stadt ist aus dem Nichts entstanden.
+The city grew up out of nothing.
+Dadurch würden uns zu viele Unkosten
+entstehen.
+That would result in too many expenses 
+for us.
+erstehen—to purchase
+Habt ihr viel bei der Versteigerung
+erstanden?
+Did you buy much at the auction?
+gestehen—to confess, declare
+Ihr muss ich endlich meine Liebe geste-
+hen.
+I must finally declare my love to her.
+überstehen—to come, get through, survive
+Den Krieg haben sie nicht überstanden.
+They didn’t survive the war.
+unterstehen—to be subordinate to
+Alle unterstehen dem Gesetz.
+All are subject to the law.
+(sich) unterstehen —to dare
+Untersteh dich ja nicht, uns zu wider-
+sprechen!
+Don’t you dare contradict us.
+Unterstehen can be separable or 
+inseparable.
+See conjugated inseparable bestehen  and
+verstehen.	
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 471 
 PAGE_END
 PAGE_START
@@ -26403,28 +26484,6 @@ The murderer voluntarily gave himself up to the police. They asked him many ques
 pretended to be crazy.	
 Stellen	
 Prefix Verbs
-INSEPARABLE
-erstellen—to draw up; to construct (officialese)
-Wir müssen einen neuen Plan erstellen.
-We’ll have to draw up a new plan.
-Das Gebäude soll jetzt von einem anderen Architekten erstellt werden.
-The building is now to be erected by another architect.
-unterstellen—to subordinate, be in charge of; insinuate, allege
-Sechs Mitarbeiter sind ihr unterstellt.
-She’s in charge of six employees. 
-Was hast du mir unterstellt? So was hab ich nie gesagt!
-What have you implied (that I did/said)? I never said anything like that!
-verstellen—to alter, change; adjust
-In dem Supermarkt werden oft die Haltbarkeitsdaten verstellt.
-They often alter the use-by dates in that supermarket.
-(sich) verstellen —to pretend, act a part
-Sie kann sich gut verstellen.
-She knows how to act a part.
-Unterstellen can be separable or insepara-
-ble. See “Doubtful Prefixes,” page 610.
-See conjugated separable ausstellen,
-vorstellen  and inseparable bestellen,
-entstellen.	
 SEPARABLE
 abstellen—to turn off, disconnect; park
 Das Telefon wurde abgestellt.
@@ -26469,7 +26528,6 @@ You can store the furniture with us.
 under
 Warum hast du dich beim Regen nicht untergestellt?
 Why didn’t you take cover from the rain?
-END
 Prefix Verbs
 nicht von der Stelle kommen—to make no progress 
 ans Licht stellen—to bring to light, reveal
@@ -26483,7 +26541,28 @@ ins Internet/ins Netz stellen —to post on
 the Intenet/Net
 in Rechnung stellen—to bill, charge an account
 eine Prognose stellen—to forecast
-Idioms	
+INSEPARABLE
+erstellen—to draw up; to construct (officialese)
+Wir müssen einen neuen Plan erstellen.
+We’ll have to draw up a new plan.
+Das Gebäude soll jetzt von einem anderen Architekten erstellt werden.
+The building is now to be erected by another architect.
+unterstellen—to subordinate, be in charge of; insinuate, allege
+Sechs Mitarbeiter sind ihr unterstellt.
+She’s in charge of six employees. 
+Was hast du mir unterstellt? So was hab ich nie gesagt!
+What have you implied (that I did/said)? I never said anything like that!
+verstellen—to alter, change; adjust
+In dem Supermarkt werden oft die Haltbarkeitsdaten verstellt.
+They often alter the use-by dates in that supermarket.
+(sich) verstellen —to pretend, act a part
+Sie kann sich gut verstellen.
+She knows how to act a part.
+Unterstellen can be separable or insepara-
+ble. See “Doubtful Prefixes,” page 610.
+See conjugated separable ausstellen,
+vorstellen  and inseparable bestellen,
+entstellen.	
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 476 
 PAGE_END
 PAGE_START
@@ -26600,7 +26679,6 @@ He passed away at the advanced age of 99.
 Note  verstorben  (adj.; deceased) as used in
 the last sentence of the passage above, and
 der/die Verstorbene (n.; the deceased).	
-END
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 478 
 PAGE_END
 PAGE_START
@@ -27870,29 +27948,6 @@ Wir übertrugen die Dateien von der Festplatte auf eine CD.
 We transferred the files from the hard drive  to a CD.	
 Tragen	
 Prefix Verbs
-INSEPARABLE
-betragen—to amount to, come to (sums of money)
-Der Unterschied beträgt nicht viel.
-The difference doesn’t amount to much.
-(sich) betragen—to behave
-Du hast dich wie ein Rohling ihr gegenüber betragen.
-You behaved like a brute to her.
-ertragen—to endure, bear
-Deine Launen ertrage ich nicht länger.
-I won’t put up with your moods any longer.
-übertragen—to transfer, transmit; translate
-Sie wusste nicht, dass sie die Krankheit auf so viele übertragen hatte.
-She didn’t know she’d communicated the disease to so many.
-Ihre Hochzeit wurde im Fernsehen  übertragen.
-Their wedding was televised.
-Seine Werke wurden aus dem Griechischen ins Deutsche übertragen.
-His works were translated from Greek into German.
-vertragen—to tolerate, endure
-Sie kann kein Penizillin vertragen.
-She’s allergic to penicillin.
-(sich) vertragen mit—to get along with
-Wir müssen lernen, uns mit einander zu vertragen.
-We must learn to get along with one another.	
 SEPARABLE
 abtragen—to carry away; wear out
 Man hat schon die Hälfte vom Büfettabgetragen.
@@ -27937,8 +27992,29 @@ Why’d you repeat that to him?
 (sich) zutragen (elevated)—to take place
 Wo hat sich das alles zugetragen?
 Where did all that occur?
-END
-Prefix Verbs	
+INSEPARABLE
+betragen—to amount to, come to (sums of money)
+Der Unterschied beträgt nicht viel.
+The difference doesn’t amount to much.
+(sich) betragen—to behave
+Du hast dich wie ein Rohling ihr gegenüber betragen.
+You behaved like a brute to her.
+ertragen—to endure, bear
+Deine Launen ertrage ich nicht länger.
+I won’t put up with your moods any longer.
+übertragen—to transfer, transmit; translate
+Sie wusste nicht, dass sie die Krankheit auf so viele übertragen hatte.
+She didn’t know she’d communicated the disease to so many.
+Ihre Hochzeit wurde im Fernsehen  übertragen.
+Their wedding was televised.
+Seine Werke wurden aus dem Griechischen ins Deutsche übertragen.
+His works were translated from Greek into German.
+vertragen—to tolerate, endure
+Sie kann kein Penizillin vertragen.
+She’s allergic to penicillin.
+(sich) vertragen mit—to get along with
+Wir müssen lernen, uns mit einander zu vertragen.
+We must learn to get along with one another.	
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 502 
 PAGE_END
 PAGE_START
@@ -28160,7 +28236,6 @@ Do the new regulations affect us, too?
 übertreffen—to surpass
 Diesmal hast du dich wirklich  übertroffen!
 You really outdid yourself this time!	
-END
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 506 
 PAGE_END
 PAGE_START
@@ -28650,7 +28725,7 @@ are used above. These are the forms Duden
 prefers. But you will still encounter the older
 forms:  Leid tun (to be sorry) and weh tun (to
 hurt).  Antun is also separable. 	
-Tu n	
+Tun	
 Prefix Verbs
 SEPARABLE
 abtun—to dismiss; finish with
@@ -28685,7 +28760,6 @@ Walter messed up his song and wasted any chance of winning, Beckmesser declared.
 (sich) vertun—to make a mistake, slip up
 Du hast dich in der Reihenfolge vertan.
 You made a mistake in the sequence.	
-END
 7_9393_GermanVerbs_7  8/28/07  2:51 PM  Page 515 
 PAGE_END
 PAGE_START
@@ -31569,7 +31643,6 @@ Contrary to all expectations, the deal worked out.
 Erwarten is a verbal noun. See page 15.)
 zuwarten—to wait out, wait patiently
 Weiter zuzuwarten ist uns unmöglich!
-END
 It’s impossible for us to wait it out any longer!	
 7_9393_GermanVerbs_8  8/28/07  2:52 PM  Page 568 
 PAGE_END
@@ -32219,7 +32292,6 @@ Aus der Raupe wird ein Schmetterling.
 The caterpillar becomes a butterfly.
 Stirb und werde! (Goethe)
 Die and become!	
-END
 7_9393_GermanVerbs_8  8/28/07  2:52 PM  Page 580 
 PAGE_END
 PAGE_START
@@ -32300,33 +32372,6 @@ following lists include them and additional ones
 for your study. 	
 Werfen	
 Prefix Verbs
-INSEPARABLE
-bewerfen—to throw at
-,,Hat man sie wirklich mit Steinen beworfen?“ ,,Ja. Viele wollten den
-ersten Stein werfen. Die Polizei hinderte
-sie daran, sie zu steinigen.“
-“Did they really throw stones at her?” “Yes. Many wanted to cast the first stone.
-The police prevented them from stoning
-her to death.”
-entwerfen—to draw up, draft
-Der Chef entwurf diese Pläne.
-The boss drew up these plans.
-(sich) überwerfen—to have a falling out 
-Sie haben sich wieder überworfen.
-They’ve had a falling out again.
-unterwerfen —to subjugate; subject to
-Die Römer unterwarfen viele Völker.
-The Romans subjugated many peoples.
-Ihre Tätigkeit muss einer genauen Aufsicht unterworfen werden.
-Their activity must be subjected to close surveillance.
-verwerfen —to reject, dismiss
-Warum hat man ihren Antrag verworfen?
-Why did they turn down her application?
-(sich) verwerfen—to warp
-Die Holzbretter der Gondel hatten sich verworfen.
-The wooden boards of the gondola had warped.
-Note that überwerfen can be separable or
-inseparable.	
 SEPARABLE
 abwerfen—to shed; throw/cast off; bringin
 Die Bäume werfen schon ihre Blätter ab.
@@ -32394,8 +32439,33 @@ They tried to repulse the enemy.
 zusammenwerfen—to lump together
 Das sind unterschiedliche Elemente, die man nicht zusammengwerfen kann.
 Those are diverse elements that can’t be lumped together.
-END
-Prefix Verbs	
+INSEPARABLE
+bewerfen—to throw at
+,,Hat man sie wirklich mit Steinen beworfen?“ ,,Ja. Viele wollten den
+ersten Stein werfen. Die Polizei hinderte
+sie daran, sie zu steinigen.“
+“Did they really throw stones at her?” “Yes. Many wanted to cast the first stone.
+The police prevented them from stoning
+her to death.”
+entwerfen—to draw up, draft
+Der Chef entwurf diese Pläne.
+The boss drew up these plans.
+(sich) überwerfen—to have a falling out 
+Sie haben sich wieder überworfen.
+They’ve had a falling out again.
+unterwerfen —to subjugate; subject to
+Die Römer unterwarfen viele Völker.
+The Romans subjugated many peoples.
+Ihre Tätigkeit muss einer genauen Aufsicht unterworfen werden.
+Their activity must be subjected to close surveillance.
+verwerfen —to reject, dismiss
+Warum hat man ihren Antrag verworfen?
+Why did they turn down her application?
+(sich) verwerfen—to warp
+Die Holzbretter der Gondel hatten sich verworfen.
+The wooden boards of the gondola had warped.
+Note that überwerfen can be separable or
+inseparable.	
 7_9393_GermanVerbs_8  8/28/07  2:52 PM  Page 583 
 PAGE_END
 PAGE_START
@@ -32758,7 +32828,6 @@ opinion of it?” “Not that I know of. Maybe
 some who think they’re in the know, but no
 scientists. To my knowledge there are no 	
 Wissen	
-END
 Related Words
 wissenswert—worth knowing
 die Wissenschaft—science
@@ -32895,7 +32964,6 @@ Ich hoffe bald, eine Eigentumswohnung
 kaufen zu können.
 I was homeless for a long time. Now I share a place with a lot of people. I’m hoping to
 be able to buy a condo(minium) soon.	
-END
 7_9393_GermanVerbs_8  8/28/07  2:52 PM  Page 592 
 PAGE_END
 PAGE_START
@@ -33392,7 +33460,6 @@ They undressed slowly.
 durchziehen—to push through
 Sie zog den Faden durch, und begann zu nähen.
 She put the thread through and began to sew.	
-SEPARABLE (continued)
 Die Chefin hat ihren Plan durchgezogen.
 The boss pushed her plan through.
 Diese feuchte Kälte zieht wirklich durch.
@@ -33519,9 +33586,7 @@ Durchziehen, überziehen,umziehen,
 and  unterziehen  can be separable or
 inseparable. See “Doubtful Prefixes,”
 page 610.
-END
 See  (sich) anziehen, (sich) ausziehen.	
-Prefix Verbs	
 7_9393_GermanVerbs_8  8/28/07  2:52 PM  Page 605 
 PAGE_END
 PAGE_START

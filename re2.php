@@ -17,29 +17,29 @@ function get_line($ifile)
   $nothing = '';
   return $nothing;
 }
-/*
- TODO: Return one, two or three blocks, depending on whether there are paried prefix verbs in the block. 
- */
-function get_block($ifile)
+ 
+function get_blocks($ifile)
 {
+   $verb_arr = [];
+   $prefix_arr = [];
+
    $line = get_line($ifile);
    
    if (empty($line)) {
-       if (feof($ifile))
-           return false;
-       else
-           return '';
-   }
-  
-   $arr = array();
 
+       if (feof($ifile)) return false;
+
+       else return '';
+   }
+
+   $cur_verb = substr($line, 0, strpos($line, " |")); // Current verb
+  
    do {
 
-     $arr[] = $line;   
+     $verb_arr[] = $line;  // put the line into the verb array. 
      $line = get_line($ifile);
     
      /*
-       Handle SEPARABLE and INSEPARABLE lines. If regex matches, then:
        $1 == SEPARABLE or INSEPARABLE
        $2 == verb
        $3 == definition 
@@ -49,14 +49,24 @@ function get_block($ifile)
 
          verb ||Example sentences 
       */
-     if (1 === preg_match('/^(?:SEPARABLE|INSEPARABLE)\s|\s([a-zöäü]+)-([a-zöäü]+)\s?\|/', $line, $matches)) {
-        // Extract definition of SEP/INSEP verb and remove 
-        
+     if (1 === preg_match('/^(SEPARABLE|INSEPARABLE)\s|\s([a-zöäü]+)-([a-zöäü]+)\s?\|\s?(.*)/', $line, $matches)) {
+
+         $prefix_type = ($matches[1][0] == 'I') ?: 'insep' : 'sep'; 
+      
+         $prefix_arr[$prefix_type] = $matches[2]; // verb
+         $prefix_arr['defn'] = $matches[3];       // definition
+         $prefix_arr['examples'] = $matches[4];   // examples
+
+     } else {
+
+         $output[] = $verb_arr
      }
+     
 
    } while(!empty($line));
-
-   $output = implode(' ', $arr);
+   
+   // ???
+   $output[] = implode(' ', $verb_arr);
 
    return $output;
 }   
@@ -67,6 +77,34 @@ function get_verb($str)
     return substr($str, 0, $pos);
 }
 
+function handle_prefixVerb($prefix, $verb_and_defn)
+{
+
+   /*
+     verb-definition | examples
+    */
+  if (1 === preg_match('/^([a-zöäü]+)-(.*)\s?\|\s?(.*)$/', $line, $matches)) {
+      /*
+        "${1}"  is verb
+        "${2}"  is definition
+        "${3}"  are examples
+
+        Insert verb%definition into verbs.txt following its paired non-prefix verb.
+        ...
+       */
+
+  } else // throw exception 
+     /*
+        Extract definition of SEP/INSEP verb and remove 
+        "veb"    => the-verb
+        "define" => definition
+        "examples" => string of examples
+      */
+   
+
+
+
+}
 $ifile = fopen("./results.txt", "r");
 $sfile = fopen("./results-sep-insep-verbs.txt" , "w");
 $ofile = fopen("./results-non-sepinsp.txt" , "w");
@@ -83,16 +121,17 @@ will be the same as the essential verb.
 
 while(!feof($ifile)) {
   
-   $verb_line = get_block($ifile);
+   $verb_lines = get_blocks($ifile);
 
-   $verb = get_verb($verb_line);
- 
-   echo $verb . "\n";
-   continue;
- 
-   if (1 === preg_match('/^SEPARABLE|^INSEPARABLE/', $verb)) {
+   foreach($verb_lines as $verb_line) {
 
-      $verb_line = preg_replace('/(?:^SEPARABLE|^INSEPARABLE)\s\|\s/', '', $verb_line) . "\n";
+      $verb = get_verb($verb_line);
+ 
+     echo $verb . "\n";
+ 
+     if (1 === preg_match('/^SEPARABLE|^INSEPARABLE/', $verb)) {
+
+       $verb_line = preg_replace('/(?:^SEPARABLE|^INSEPARABLE)\s\|\s/', '', $verb_line) . "\n";
 
       fputs($sfile, $verb_line . "\n");   
    } else {

@@ -63,8 +63,10 @@ $oNonfile = fopen("./results-nonessential-verbs.txt" , "w");
 $oEssfile = fopen("./results-essential-verbs.txt" , "w");
 
 /*
- TODO: The essential verbs can contain Prefix Verb forms, SEPARABLE and INSEPARABLE.
- These are related but separate forms of the essentiall verbs. We want their to:
+ TODO: The essential verbs can contain related Prefix Verbs. both SEPARABLE and INSEPARABLE.
+ There can be more than one separable and inseparable prefix verbs.
+ Note: There can be several
+ We want their to:
  1. To get thei definitions, which follow a dash (--) and
  2. Their example sentences
 
