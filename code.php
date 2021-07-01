@@ -219,6 +219,12 @@ function get_prefixVerbs(array $page, $index)
   $regex_insep_end = '/^7_9393_/'; // The line that signals the end of inseparable verbs
   $regex_verbDefn      = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
 
+  // $verbs['sep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
+  // $verbs['insep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
+  $sep_index = 0;
+  $insep_index = 0;
+  $verbs = [];
+
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
         for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
@@ -226,9 +232,11 @@ function get_prefixVerbs(array $page, $index)
             // Is it a verb + definition?  
             // TODO: Note: There wil frequently be more than one verb + definition, followed by example sentences.
             if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
-
+               
+               
+                = { 'def'
             } else { // It is an examples sentence(s).
-              
+
             }
   }
   if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
