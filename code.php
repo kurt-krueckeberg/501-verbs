@@ -25,10 +25,11 @@ function get_page($ifile)
   while(!feof($ifile)) {
       
     $line = get_line($ifile);
-    if (strlen($line) === 0) {
+
+    if ($line == '') {
           $page[] = '';
+          return $page; 
     }
-            
     
     if (0 === strpos($line, "PAGE_S")) break;
   }
@@ -91,20 +92,21 @@ function reorder_princ_parts($pp)
     if (count($parts) < 4) 
         return $pp;
     
-    $new_order[] = $parts[0];
-    $new_order[] = $parts[3];
-    $new_order[] = $parts[1];
-    $new_order[] = $parts[2];    
-    return implode(',', $new_order);
+    $reorder[] = $parts[0];
+    $reorder[] = $parts[3];
+    $reorder[] = $parts[1];
+    $reorder[] = $parts[2];    
+
+    return implode(',', $reorder);
 }
          
-function get_PrincipleParts($lines, $index)
+function get_PrincipleParts($lines, $start_index)
 {
   $regex_start = '/^Principle Parts:\s*(.*)$/';
   
   $pp = '';
           
-  for ($i = $index; $i < count($lines); ++$i) {
+  for ($i = $start_index; $i < count($lines); ++$i) {
         
         if (1 === preg_match($regex_start, $lines[$i], $matches)) 
             $pp = $matches[1];
@@ -130,7 +132,9 @@ function get_infinitive($line)
 {
     $infinitive = '';
     
-    if (1 === preg_match('/^([a-zßöäü]+)((?:\s+[a-zößäü]+)*)\s*$/', $line, $matches)) {
+    $regex_verb = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})\s*)$/';    // verb line may optionally start with '(sich) '
+
+    if (1 === preg_match($regex_verb, $line, $matches)) {
 
         for ($i = 1; $i < count($matches); ++$i) {
          
@@ -213,20 +217,29 @@ function get_Examples_type2(array $lines, $index)
 function get_prefixVerbs(array $page, $index)
 {
   $regex_insep_end = '/^7_9393_/'; // The line that signals the end of inseparable verbs
+  $regex_verbDefn      = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
 
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
         for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
 
-             // TODO: Look for each individual verb by looking for the '-' 
-             format_prefixVerb($page[$i]);
-        }
+            // Is it a verb + definition?  
+            if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
+
+            } else { // It is an examples sentence(s).
+              
+            }
   }
   if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
-        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "INSEP") ; ++$i) {
+
+        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "7_9393_") ; ++$i) {
 
              // TODO: Look for each individual verb by looking for the '-' 
-             format_prefixVerb($page[$i]);
+            if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
+
+            } else { { // It is an examples sentence(s).
+              
+            }
         }
   } 
 }
