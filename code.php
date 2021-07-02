@@ -223,7 +223,7 @@ function get_prefixVerbs(array $page, $index)
 
       // Read lines until '/^#$/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
-      
+            
       $prefix_verbs['sep'] = $results; 
   }      
   if (0 === strpos($page[$index], 'INSEPARABLE')) {        
@@ -254,10 +254,10 @@ function parsePrefixVerb($page, $index, $regex_end)
 
  $results = [];
 
- for ($i = $index; 0 === preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
+ for (; 0 === preg_match($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
      
      // Is it a new definition?
-     if (1 === preg_match($regex_verbDefn, $page[$i], $matches)) {
+     if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {
        
        if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
 
@@ -270,13 +270,13 @@ function parsePrefixVerb($page, $index, $regex_end)
 
      } else // These are sample sentences
         
-       $examples .= $page[$i];
+       $examples .= $page[$index];
   }
 
   // Add last verb results 
   $results[$verb] = array($defn, $examples);
 
-  return $results;
+  return array($index, $results);
 }
 
 $ifile = fopen("./new-output.txt", "r");
