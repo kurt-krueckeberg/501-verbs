@@ -1961,6 +1961,7 @@ The tax authorities know that he did unde- clared work for years.
 umarbeiten—to deal with, handle; edit
 Am Drehbuch wurde zu viel von zu vie- len umgearbeitet.
 Too many worked at rewriting the script.	
+#
 INSEPARABLE
 bearbeiten—to deal with, handle; edit
 Das Material muss neu bearbeitet werden.
@@ -5072,6 +5073,7 @@ We stay away from them.
 steckenbleiben—to get stuck
 Die Armee ist im Schlamm  steckengeblieben.
 The army got stuck in the mud.
+#
 INSEPARABLE
 unterbleiben—to stop; not occur
 Künftig hat das zu unterbleiben.
@@ -5462,6 +5464,7 @@ aufbrauchen—to deplete; use up
 Mit seinem Saufen und Zocken hat mein Mann unsere ganzen Ersparnisse
 aufgebraucht.
 With his drinking and gambling, my  husband’s gone through all our savings.
+#
 INSEPARABLE
 gebrauchen—to use
 Das kann ich gut gebrauchen.
@@ -5801,6 +5804,7 @@ Im Kofferraum können wir nichts mehr unterbringen.
 We can’t put anything more in the (car) trunk.
 Seid ihr da gut untergebracht?
 Are you comfortably lodged there?	
+#
 INSEPARABLE
 erbringen—to produce; supply
 Sie haben noch keine Beweise dafür erbracht.
@@ -8405,6 +8409,7 @@ too many chocolate hearts.
 wegessen—to eat, devour
 Du hast mir den ganzen Apfelstrudel weggegessen.
 You finished off all my apple strudel.
+#
 INSEPARABLE
 überessen—to overeat
 Du bist krank, weil du dich wieder übergegessen hast.
@@ -8540,6 +8545,7 @@ across.
 zurückfahren—to drive/travel back
 Fährst du mit uns zurück?
 Are you coming back with us?
+#
 INSEPARABLE
 befahren—to travel on
 Versuchen wir, die viel befahrenen
@@ -8927,6 +8933,7 @@ At what time will the concert take place?
 vorfinden—to come across/upon
 In der Höhle fanden wir viel  Überraschendes vor.
 We came upon many surprising things in the cave.	
+#
 INSEPARABLE
 empfinden—to feel, sense
 Was Beethoven in der Natur empfand,drückte er in seiner Symphonie aus.
@@ -9325,6 +9332,7 @@ umfragen—to make inquiries, ask around
 Wir haben umgefragt und wissen, dass dieses Produkt bei den Hausfrauen gut
 ankommen wird.
 We’ve done surveys and know that this product will be popular with housewives.
+#
 INSEPARABLE
 befragen—to ply with questions
 ,,Nie sollst du mich befragen“, mahnte Lohengrin.
@@ -10112,6 +10120,7 @@ So far he’s admitted nothing.
 zurückgeben—to give back
 Ich gab ihm seinen Ring zurück.
 I gave him back his ring.
+#
 INSEPARABLE
 (sich) begeben—to betake oneself, adjourn; happen
 Begeben wir uns ins Esszimmer.
@@ -10467,6 +10476,7 @@ My watch is five minutes fast.
 zugehen—to approach, go toward
 Der Bettler ging auf uns zu.
 The beggar approached us.
+#
 INSEPARABLE
 begehen—to commit, perpetrate
 Mackie hat viele Verbrechen begangen.
@@ -12705,6 +12715,7 @@ SEPARABLE
 gutheißen—to approve of
 Aber der Chef hat es schon gutgeheißen.
 But the boss has already approved of it.
+#
 INSEPARABLE
 verheißen—to promise; augur
 Diese dunklen Wolken verheißen
@@ -12899,6 +12910,7 @@ He knew how to improve on his chances.
 weiterhelfen —to help, continue to help
 Sie müssen ihnen noch weiterhelfen.
 You have to keep on helping them.
+#
 INSEPARABLE
 behelfen—to manage
 Oma weiß sich allein nicht zu behelfen.
@@ -13134,6 +13146,7 @@ I’ve asked around about that among my friends.
 zuhören—to listen carefully; eavesdrop
 Er kann gut zuhören.
 He’s a good listener.
+#
 INSEPARABLE
 erhören—to hear a plea/prayer
 Die Göttin erhörte sein Flehen.
@@ -13709,6 +13722,7 @@ He knows his way around Vienna.
 wiedererkennen—to recognize (again)
 Als er aus dem Krieg zurückkam,  erkannte ich ihn kaum wieder.
 When he came back from the war, I scarcely recognized him.
+#
 INSEPARABLE
 (sich) bekennen—to profess; declare; plead; confess
 Gerhart Hauptmann bekannte sich zum neuen Regime.
@@ -14403,6 +14417,7 @@ work things out well
 Es ist unmöglich, mit ihm
 zurechtzukommen.
 It’s impossible to get along with him.
+#
 INSEPARABLE
 überkommen—to come over, befall
 Es überkam uns eine große Angst.
@@ -15449,6 +15464,7 @@ wasn’t in order.
 zurücklassen—to leave behind
 Sie mussten alles zurücklassen, und ihre Heimat verlassen.
 They had to leave everything behind and leave their homeland.
+#
 INSEPARABLE
 belassen—to leave
 ,,Kann man die Sache so belassen?“ ,,Ja, belassen wir’s dabei.“
@@ -15632,6 +15648,7 @@ Many streets converge here.
 zuwiderlaufen—to run counter to
 Das läuft meinen Prinzipien zuwider.
 That runs counter to my principles.
+#
 INSEPARABLE
 (sich) belaufen auf—to come/amount to
 Das beläuft sich auf 220 Euros.
@@ -15828,6 +15845,7 @@ Hoch lebe der Kaiser!
 Hooray for the Emperor!
 Hoch lebe das Brautpaar! Hoch sollen sie leben! Dreimal hoch!
 May the bridal couple flourish. May they prosper. Hooray!
+#
 INSEPARABLE
 erleben—to experience
 Bei unserer Indienreise haben wir viel Schönes erlebt.
@@ -16030,6 +16048,7 @@ up machinery.)
 Note that überlegen  can be separable or
 inseparable. See “Doubtful Prefixes,”
 page 610.
+#
 INSEPARABLE
 belegen—to substantiate
 Sie hat ihre Argumente gut belegt.
@@ -16679,6 +16698,7 @@ The factory’s shut down. (Compare the
 causative:  stilllegen—to close down:  Die
 Fabrik wurde stillgelegt. The factory
 was shut down.)
+#
 INSEPARABLE
 erliegen—to succumb to
 Sie wurden der eigenen Kultur müde und erlagen einer Selbstzerstörungswut.
@@ -17135,6 +17155,7 @@ We can’t go on like this.
 zumachen—to close
 Mach’s Fenster zu!
 Close the window.
+#
 INSEPARABLE
 vermachen—to bequeath
 Er hat uns all sein Hab und Gut  vermacht.
@@ -18144,6 +18165,7 @@ You’ve gained weight again.
 zurücknehmen—to take back; withdraw
 Sie hat ihre Klage zurückgenommen.
 She withdrew her complaint.
+#
 INSEPARABLE
 (sich) benehmen—to behave
 Benimm dich!
@@ -20708,6 +20730,7 @@ Viele haben schon zugesagt.
 Many have already accepted.
 Ihre Preise sagen uns nicht zu.
 Your prices don’t suit us.
+#
 INSEPARABLE
 besagen—to signify; prove; indicate
 Das besagt nichts!
@@ -21846,6 +21869,7 @@ He fell asleep at once.
 weiterschlafen—to continue sleeping; go back to sleep
 Es war uns nicht möglich weiterzuschlafen.
 It was impossible for us to go on sleeping/ go back to sleep.
+#
 INSEPARABLE
 entschlafen—to pass away; die in one’s sleep
 Nach langem Leiden ist gestern unser Großvater sanft entschlafen.
@@ -22006,6 +22030,7 @@ I simply suggested it to you.
 Note that durchschlagen and überschla-
 gen can be separable or inseparable. See
 “Doubtful Prefixes” p. 610.
+#
 INSEPARABLE
 beschlagen—to shoe a horse
 Das Fohlen ist noch nicht beschlagen.
@@ -23092,6 +23117,7 @@ The amount has been credited to your account.
 umschreiben—to rewrite
 Das Stück muss völlig umgeschrieben werden.
 The play will have to be completely  rewritten.
+#
 INSEPARABLE
 beschreiben—to describe
 Beschreib’s mir genau!
@@ -24092,6 +24118,7 @@ We’ll soon meet again.
 zusehen—to look on
 Sie haben nichts getan, nur zugesehen.
 They did nothing, just looked on.
+#
 INSEPARABLE
 besehen—to look at
 Die Königin besah sich im Spiegel.
@@ -25180,6 +25207,7 @@ Er spielte ihm den Ball zu.
 He passed the ball to him.
 Wer hat die Geheimnisse der Reporterin zugespielt?
 Who leaked the secrets to the reporter?
+#
 INSEPARABLE
 überspielen—to tape/record over, dub; cover up, mask
 Teile des Films wurden überspielt.
@@ -25421,6 +25449,7 @@ Dem Cognac habe ich im Wartesaal kräftig zugesprochen, aber ich war
 nicht betrunken.
 I tanked up on cognac in the waiting room, but I wasn’t drunk.
 See conjugated inseparable: versprechen.
+#
 INSEPARABLE
 besprechen —to discuss
 Wir haben’s schon besprochen.
@@ -26242,6 +26271,7 @@ Despite his blemishes he’s head of the firm.
 zustehen—to be entitled to
 Es steht dir nicht zu, so etwas zu  verlangen.
 You’re not entitled to ask for anything like that.
+#
 INSEPARABLE
 auferstehen—to rise again, be resurrected
 Ihre Dissertation handelt von aufer-
@@ -26541,6 +26571,7 @@ ins Internet/ins Netz stellen —to post on
 the Intenet/Net
 in Rechnung stellen—to bill, charge an account
 eine Prognose stellen—to forecast
+#
 INSEPARABLE
 erstellen—to draw up; to construct (officialese)
 Wir müssen einen neuen Plan erstellen.
@@ -26668,6 +26699,7 @@ wegsterben—to die off
 ,,Meine Männer sterben mir einfach weg. Ich kann nichts dafür“, sagte die Witwe
 der Polizei.
 “My husbands just die on me. I can’t help it,” said the widow to the police.
+#
 INSEPARABLE
 ersterben  (literary)—to die away, die
 down, fade
@@ -27992,6 +28024,7 @@ Why’d you repeat that to him?
 (sich) zutragen (elevated)—to take place
 Wo hat sich das alles zugetragen?
 Where did all that occur?
+#
 INSEPARABLE
 betragen—to amount to, come to (sums of money)
 Der Unterschied beträgt nicht viel.
@@ -28229,6 +28262,7 @@ Maybe they’ll arrive later.
 zutreffen—to be correct, be valid; apply
 Das trifft nicht für alle zu.
 That doesn’t apply to everybody.
+#
 INSEPARABLE
 betreffen—to affect, concern
 Betreffen die neuen Regelungen auch uns?
@@ -28752,6 +28786,7 @@ I’m sorry he did indeed do it.
 wehtun—to hurt
 Tut’s noch weh?
 Does it still hurt?
+#
 INSEPARABLE
 vertun—to waste
 Walther hätte versungen, und alle Aussicht zu gewinnen vertan, meinte
@@ -32439,6 +32474,7 @@ They tried to repulse the enemy.
 zusammenwerfen—to lump together
 Das sind unterschiedliche Elemente, die man nicht zusammengwerfen kann.
 Those are diverse elements that can’t be lumped together.
+#
 INSEPARABLE
 bewerfen—to throw at
 ,,Hat man sie wirklich mit Steinen beworfen?“ ,,Ja. Viele wollten den
@@ -32950,6 +32986,7 @@ innewohnen  (elevated)—to indwell, be
 inherent
 Das wohnt der Natur der Sache inne.
 That is inherent to the nature of the matter.
+#
 INSEPARABLE
 abwohnen—to wear out, make shabby; to stay for the duration of a rental period
 Die Möbel sind alle ganz abgewohnt. Wir müssen neue kaufen.
@@ -33523,6 +33560,7 @@ Fachärzte zuziehen, um eine
 Diagnose zu stellen.
 He contracted a severe illness. They had to call in many specialists to make a
 diagnosis.
+#
 INSEPARABLE
 beziehen—to cover (furniture), changesheets; string an instrument; move in to;
 relate; subscribe to; receive regularly

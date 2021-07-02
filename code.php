@@ -226,28 +226,33 @@ function get_prefixVerbs(array $page, $index)
 
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
-      // Call recursive method;
-      parsePrefixVerb($page, $index + 1);
+      // Read lines until '/^#$/' encountered.
+      parsePrefixVerb($page, $index + 1, '/^#$/');
         
   if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
 
-        for ($i = $index + 1; $i < count($page) && false === strpos($page[$i], "7_9393_") ; ++$i) {
-
-            // TODO: Note: There wil frequently be more than one verb + definition, followed by example sentences.
-            if (1 === preg_match($regex_verbDefn, $page[$i], $matches) {
-
-            } else { { // It is an examples sentence(s).
-              
-            }
-        }
+      // Read lines until '/^7_9393_G/' encountered.
+      parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
+      
   } 
 }
 
-fucntion parsePrefixVerb($page, $index)
+fucntion parsePrefixVerb($page, $index, $regex_end)
 {
- if (...$page[$index]...) // Check for terminating condition
-
  $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
+
+ $examples = '';
+
+ $results = [];
+
+ for ($i = $index; 1 == preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
+     
+     // Is it a definition?
+     if (1 == preg_match($regex_verbDefn, $page[$i], $matches) {
+            
+          $verb = $matches[1];
+          $defn = $matches[2];  
+          for ( 
 
    
 }
