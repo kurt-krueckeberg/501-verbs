@@ -1,4 +1,9 @@
-Add to code.php the code to write and format the SEPARABLE and INSEPARABLE verbs. Prsopective form...
-....since ther can be several of  the speablae and inseparable, use either mulitple lines or better yet a delimeter between the separable and insepa-
-rable verbs.
+BUGS:
 
+* The separable and inseparable verb itself is not being written to the output.
+* only separable verbs are being written
+* German begin-quote and end-quote characters--perhpas--are not being written properly?
+
+THOUGHTS:
+
+Maybe I want a different form of output?

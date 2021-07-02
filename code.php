@@ -40,7 +40,7 @@ function get_page($ifile)
     
     if (0 === strpos($line, "PAGE_E")) break;
     
-    $page[] = $line . "\n";
+    $page[] = $line; 
   }
     
   return $page;
@@ -222,11 +222,15 @@ function get_prefixVerbs(array $page, $index)
   if (0 === strpos( $page[$index], 'SEPARABLE')) {
 
       // Read lines until '/^#$/' encountered.
-      list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$|^7_9393_/');
+      list($index, $results) = parsePrefixVerb($page, ++$index, '/^#$|^7_9393_/');
             
       $prefix_verbs['sep'] = $results; 
-  }      
-  if (0 === strpos($page[$index], 'INSEPARABLE')) {        
+  }
+  
+  if (++$index >= count($page))  // There are no inseparable verbs.
+      return $prefix_verbs;
+  
+  if (0 === strpos($page[++$index], 'INSEPARABLE')) {        
 
       // Read lines until '/^7_9393_G/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
@@ -328,14 +332,17 @@ while(!feof($ifile)) {
 
       if (count($prefix_verbs)) {
 
-          foreach($prefix_verbs as $key => $value) {
-
-             if (key[0] == 's')   
+          foreach($prefix_verbs as $prefix_type => $verbs) {
+            // TODO: I need to loop over each verb with $value
+             if ($prefix_type[0] == 's')   
                  $output .= "SEPARABLE: | ";
              else 
                  $output .= "INSEPARABLE: | ";
+             
+             foreach($verbs as $verb => $array) {
                           
-             $output .= $value[0] . " | " . $value[1]; 
+                $output .= $array[0] . " | " . $array[1] . "\n"; 
+             }
           }
       }
  
