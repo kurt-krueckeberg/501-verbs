@@ -1,0 +1,2 @@
+Some of the separable prefix and inseparable prefix verb example sentences have the wrong verb in results.txt. See ausziehen, which has the verb abziehen 
+in the sample sentences.
