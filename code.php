@@ -145,7 +145,7 @@ function get_infinitive($line)
         
         if (false !== $pos) {
             
-            $infinitive = substr($, 0, $pos);
+            $infinitive = substr($infinitive, 0, $pos);
         }
                  
     } else // This is an exception
@@ -223,6 +223,8 @@ function get_Examples_type2(array $lines, $index)
 function get_prefixVerbs(array $page, $index)
 {
  $prefix_verbs = [];
+ 
+ $pos = strpos('SEPARABLE', $page[$index]);
    
   if (0 === strpos('SEPARABLE', $page[$index])) {
 
@@ -320,7 +322,7 @@ while(!feof($ifile)) {
 	 	$a['sep']  => { 0 => the definition of the verb, 1 => A string of examples sentences. }
 	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
            */
-          if (++$index < count($page))
+          if (($index + 1)< count($page))
                 $prefixVerbs = get_prefixVerbs($page, $index + 1);  
       }
       
