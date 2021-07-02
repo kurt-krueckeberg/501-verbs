@@ -321,14 +321,14 @@ while(!feof($ifile)) {
 	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
            */
           if (($index + 1)< count($page))
-                $prefixVerbs = get_prefixVerbs($page, $index + 1);  
+                $prefix_verbs = get_prefixVerbs($page, $index + 1);  
       }
       
       $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
       if (count($prefix_verbs)) {
 
-          foreach($prefixVerbs as $key => $value) {
+          foreach($prefix_verbs as $key => $value) {
 
              if (key[0] == 's')   
                  $output .= "SEPARABLE: | ";
