@@ -202,7 +202,6 @@ function get_Examples_type2(array $lines, $index)
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
                     
                     $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
-                    $examples = preg_replace('/\s\s+/', ' ', $examples_); // remove double spaces
                     
                     return array($examples, $i);
                 }
@@ -269,7 +268,8 @@ function parsePrefixVerb($page, $index, $regex_end)
      if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {
        
        if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
-
+                      
+           $examples = preg_replace('/\s\s+/', ' ' $examples);
            $results[$verb] = array($defn, $examples);
        } 
 
