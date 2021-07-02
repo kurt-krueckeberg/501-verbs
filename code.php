@@ -224,7 +224,7 @@ function get_prefixVerbs(array $page, $index)
       list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
       $prefix_verbs['sep'] = $results; 
   }      
-  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
+  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index]))) {        
 
       // Read lines until '/^7_9393_G/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
@@ -246,9 +246,9 @@ function parsePrefixVerb($page, $index, $regex_end)
  for ($i = $index; 1 == preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
      
      // Is it a new definition?
-     if (1 == preg_match($regex_verbDefn, $page[$i], $matches) {
-          
-         if ($verb != '') { // If this is not first verb encountered, add the prior verb results array.
+     if (1 == preg_match($regex_verbDefn, $page[$i], $matches)) {
+         
+         if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
 
              $results[$verb] = array($defn, $examples);
          } 
