@@ -130,10 +130,9 @@ class NoType2ExamplesException extends Exception {
  
 function get_infinitive($line)
 {
-    $infinitive = '';
-    
-    $regex_verb = '/^((?:sich\s+)?[a-zöäüß]{3,})\s*$/';  // verb line may optionally start with 'sich ' -- but not '(sich) '.
-
+    $infinitive = ''; 
+    $regex_verb = '/^((?:[a-zöäüß]{3,}\s?)+)\s*$/'; // verb may come in several parts.
+         
     if (1 === preg_match($regex_verb, $line, $matches)) {
 
         for ($i = 1; $i < count($matches); ++$i) {
@@ -183,7 +182,7 @@ function get_Examples_type1(array $lines, $index)
 function get_Examples_type2(array $lines, $index)
 {
     $regex_start = '/^EXAMPLES\s*$/';
-    $regex_end = '/^Prefix Verbs\s*$/';
+    $regex_end = '/^Prefix Verbs|^7_9393_/';
     $exampes = '';
         
     for ($i = $index; $i < count($lines); ++$i) {
@@ -296,10 +295,12 @@ while(!feof($ifile)) {
    $prefix_verbs = [];
    
    try {
-        
-      $infinitive = get_infinitive($page[0]);
      
-      
+      if (0 === strpos($page[0], "glauben")) {
+          $debug = 10;
+      }       
+      $infinitive = get_infinitive($page[0]);
+       
       $principle_parts = get_PrincipleParts($page, 1);
       
       list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);

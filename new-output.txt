@@ -516,7 +516,6 @@ they will have 	been loved	will have 	been loved	would have 	been loved
 7_9393_501German_FM1  8/28/07  3:31 PM  Page 7 
 PAGE_END
 PAGE_START
-8	Sample German Verb Conjugation—Passive Voice	
 geliebt werden
 to be loved	
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
@@ -10570,25 +10569,6 @@ PAGE_END
 PAGE_START
 195	
 Gehören	
-Prefix Verbs
-SEPARABLE
-angehören—to be a member of
-Die ehemalige Innenministerin gehört
-jetzt der Opposition an.
-The former Minister of the Interior is now
-part of the opposition.
-dazugehören—to belong to, be a part of
-Er versuchte dazuzugehören, aber nicht
-aus Überzeugung.
-He tried to be a part of it, but he didn’t
-really believe in it.
-zusammengehören—to belong together
-,,Wir gehören zusammen wie der Wind
-und das Meer“, sagte der Matrose
-seiner Geliebten.
-“We belong together, like the wind and the
-sea,” said the sailor to his sweetheart.
-See also hören.
 EXAMPLES
 ,,Das Haus hat uns einst gehört, aber es
 gehört uns nicht mehr und du musst 
@@ -10622,6 +10602,25 @@ Daddy’s lost his job but he doesn’t believe that he’s ready for the scrap 
 Ihre Behauptungen gehören ins Reich der Fabel.
 Their assertions are sheer fantasies.  (Literally: “belong to the realm of
 fables”)	
+Prefix Verbs
+SEPARABLE
+angehören—to be a member of
+Die ehemalige Innenministerin gehört
+jetzt der Opposition an.
+The former Minister of the Interior is now
+part of the opposition.
+dazugehören—to belong to, be a part of
+Er versuchte dazuzugehören, aber nicht
+aus Überzeugung.
+He tried to be a part of it, but he didn’t
+really believe in it.
+zusammengehören—to belong together
+,,Wir gehören zusammen wie der Wind
+und das Meer“, sagte der Matrose
+seiner Geliebten.
+“We belong together, like the wind and the
+sea,” said the sailor to his sweetheart.
+See also hören.
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 195 
 PAGE_END
 PAGE_START
@@ -10681,6 +10680,11 @@ Principle Parts:  geliebt werden, wurde geliebt,
 ist geliebt worden, wird geliebt	
 IMPERATIVE	: werde  geliebt!, werdet geliebt!, 
 werden Sie geliebt!	
+Examples: Im Geschäftsleben wurde der Milliardär mehr gefürchtet als geliebt. Er wusste auch
+nicht, ob er wirklich von allen seinen sieben Frauen geliebt worden war. Er wollte nicht nur
+wegen seines Geldes geliebt werden. In busisnsess life the billionaire was more feared than loved.
+He also didn’t know whether he had been truly loved by all his seven wives. He wanted to be loved
+not just for his money.
 7_9393_GermanVerbs_2  8/28/07  2:46 PM  Page 196 
 PAGE_END
 PAGE_START
