@@ -260,12 +260,6 @@ function parsePrefixVerb($page, $index, $regex_end)
 
  for (; 0 === preg_match($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
      
-     // Is it a new definition?
-     if ($index >= count($page))  {
-           echo 'BUG: Index into $page[$index] exceedeed' . "\n";
-           exit();
-     } 
-         
      if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {
        
        if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
@@ -282,6 +276,7 @@ function parsePrefixVerb($page, $index, $regex_end)
      } else // These are sample sentences
         
        $examples .= $page[$index];
+       $examples = preg_replace('/““/', '“ “' $examples);
   }
 
   // Add last verb results 
