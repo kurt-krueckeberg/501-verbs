@@ -1,8 +1,7 @@
 BUGS:
 
-* The separable and inseparable verb itself is not being written to the output.
-* only separable verbs are being written
 * German begin-quote and end-quote characters--perhpas--are not being written properly?
+  Look into utf8_encode($string)
 
 THOUGHTS:
 

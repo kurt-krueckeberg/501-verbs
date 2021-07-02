@@ -230,7 +230,7 @@ function get_prefixVerbs(array $page, $index)
   if (++$index >= count($page))  // There are no inseparable verbs.
       return $prefix_verbs;
   
-  if (0 === strpos($page[++$index], 'INSEPARABLE')) {        
+  if (0 === strpos($page[$index], 'INSEPARABLE')) {        
 
       // Read lines until '/^7_9393_G/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
@@ -289,7 +289,7 @@ function parsePrefixVerb($page, $index, $regex_end)
 }
 
 $ifile = fopen("./new-output.txt", "r");
-$ofile = fopen("./results.txt", "w");
+$ofile = fopen("./test.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
@@ -307,8 +307,8 @@ while(!feof($ifile)) {
    
    try {
      
-     $infinitive = get_infinitive($page[0]);
-       
+      $infinitive = get_infinitive($page[0]);
+      
       $principle_parts = get_PrincipleParts($page, 1);
       
       list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);
@@ -333,7 +333,7 @@ while(!feof($ifile)) {
       if (count($prefix_verbs)) {
 
           foreach($prefix_verbs as $prefix_type => $verbs) {
-            // TODO: I need to loop over each verb with $value
+       
              if ($prefix_type[0] == 's')   
                  $output .= "SEPARABLE: | ";
              else 
