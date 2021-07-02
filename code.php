@@ -170,6 +170,7 @@ function get_Examples_type1(array $lines, $index)
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
             
                     $examples = preg_replace('/\s\s+/', ' ', $examples); // remove double spaces
+                    $examples = preg_replace('/,,/', '„', $examples); // remove non-german introductory quote with correct introd. quote.
 
                     return array(true, $examples);
                 }
@@ -276,7 +277,8 @@ function parsePrefixVerb($page, $index, $regex_end)
      } else // These are sample sentences
         
        $examples .= $page[$index];
-       $examples = preg_replace('/““/', '“ “' $examples);
+       $examples = preg_replace('/““/', '" “', $examples);
+       $examples = preg_replace('/,,/', '„', $examples); // Replace incorrect quote mark.
   }
 
   // Add last verb results 
