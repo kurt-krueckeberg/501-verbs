@@ -216,24 +216,18 @@ function get_Examples_type2(array $lines, $index)
 
 function get_prefixVerbs(array $page, $index)
 {
-  $regex_insep_end = '/^7_9393_/'; // The line that signals the end of inseparable verbs
-  
-  // $verbs['sep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
-  // $verbs['insep'] = { verb1%def1%examples%|verbs%def2%examples2|...};
-  $sep_index = 0;
-  $insep_index = 0;
-  $verbs = [];
-
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
       // Read lines until '/^#$/' encountered.
-      parsePrefixVerb($page, $index + 1, '/^#$/');
-        
+      list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
+      $prefix_verbs['sep'] = $results; 
+  }      
   if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
 
       // Read lines until '/^7_9393_G/' encountered.
-      parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
+      list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
       
+      $prefix_verbs['insep'] = $results; 
   } 
 }
 
@@ -241,20 +235,32 @@ fucntion parsePrefixVerb($page, $index, $regex_end)
 {
  $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})—(.*)$/';
 
- $examples = '';
+ $examples = $verb = $defn = '';
 
  $results = [];
 
  for ($i = $index; 1 == preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
      
-     // Is it a definition?
+     // Is it a new definition?
      if (1 == preg_match($regex_verbDefn, $page[$i], $matches) {
-            
-          $verb = $matches[1];
-          $defn = $matches[2];  
-          for ( 
+          
+         if ($verb != '') { // If this is not first verb encountered, add the prior verb results array.
 
-   
+             $results[$verb] = array($defn, $examples);
+         } 
+         // Gather up verb, defn, example sentences of prior verb  
+         $verb = $matches[1];
+         $defn = $matches[2];  
+
+     } else // These are sample sentences
+        
+         $examples .= $page[$i];
+  }
+
+  // Add last verb results 
+  $results[$verb] = array($defn, $examples);
+
+  return $results;
 }
 
 
