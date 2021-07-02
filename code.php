@@ -132,7 +132,7 @@ function get_infinitive($line)
 {
     $infinitive = '';
     
-    $regex_verb = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})\s*$/';    // verb line may optionally start with '(sich) '
+    $regex_verb = '/^((?:sich\s+)?[a-zöäü]{3,})\s*$/';  // verb line may optionally start with 'sich ' -- but not '(sich) '.
 
     if (1 === preg_match($regex_verb, $line, $matches)) {
 
@@ -224,16 +224,49 @@ function get_prefixVerbs(array $page, $index)
       list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
       $prefix_verbs['sep'] = $results; 
   }      
-  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index]))) {        
+  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index])) {        
 
       // Read lines until '/^7_9393_G/' encountered.
-      list($index, $results) = parsePrefixVerb($page, $index + 1, '/^7_9393_G/');
-            
+      list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
+      
       $prefix_verbs['insep'] = $results; 
   } 
 
   return $prefix_verbs;
 }
+
+function parsePrefixVerb($page, $index, $regex_end)
+{
+ $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})-(.*)$/';
+                  
+ $examples = $verb = $defn = '';
+
+ $results = [];
+
+ for ($i = $index; 1 == preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
+     
+     // Is it a new definition?
+     if (1 == preg_match($regex_verbDefn, $page[$i], $matches) {
+          
+         if ($verb != '') { // If this is not first verb encountered, add the prior verb results array.
+
+             $results[$verb] = array($defn, $examples);
+         } 
+         // Gather up verb, defn, example sentences of prior verb  
+         $verb = $matches[1];
+         $defn = $matches[2];  
+
+     } else // These are sample sentences
+        
+         $examples .= $page[$i];
+  }
+
+  // Add last verb results 
+  $results[$verb] = array($defn, $examples);
+
+  return $results;
+}
+
 
 $ifile = fopen("./new-output.txt", "r");
 $ofile = fopen("./results.txt", "w");

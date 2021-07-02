@@ -8555,8 +8555,7 @@ traffic.
 überfahren—to run over; run a red light
 Sie haben die Ampel bei Rot überfahren.
 You ran a red light.
-(sich) verfahren—to lose one’s way 
-driving
+(sich) verbargen-definition(sich) verfahren—to lose one’s way driving
 Leider hatten wir uns verfahren.
 Unfortunately, we lost our way.
 Note that überfahren can be both 
@@ -8914,8 +8913,7 @@ SEPARABLE
 abfinden—to compensate, indemnify
 Er wurde großzügig abgefunden.
 He received a generous settlement.
-(sich) abfinden mit —to accept grudg-
-ingly; put up with; resign oneself
+(sich) abfinden mit —to accept grudgingly; put up with; resign oneself
 Wir haben uns damit abgefunden.
 We’ve learned to live with it.
 auffinden —to locate, discover
