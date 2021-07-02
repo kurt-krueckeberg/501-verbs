@@ -30,7 +30,7 @@ function get_page($ifile)
           $page[] = '';
           return $page; 
     }
-    
+      
     if (0 === strpos($line, "PAGE_S")) break;
   }
     
@@ -158,6 +158,7 @@ function get_Examples_type1(array $lines, $index)
         if (1 === preg_match($regex_start, $lines[$i], $matches)) {
             
             $examples = $matches[1];
+            $en = mb_detect_encoding($examples, ['ASCII', 'UTF-8', 'ISO-8859-1'], false);
 
             for(; $i < count($lines); ++$i) {
 
@@ -203,7 +204,7 @@ function get_Examples_type2(array $lines, $index)
                     
                     $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
                     
-                    return array($examples, $i);
+                    return array($examples_, $i);
                 }
             }
         }
@@ -269,7 +270,8 @@ function parsePrefixVerb($page, $index, $regex_end)
        
        if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
                       
-           $examples = preg_replace('/\s\s+/', ' ' $examples);
+           $examples = preg_replace('/\s\s+/', ' ', $examples);
+           
            $results[$verb] = array($defn, $examples);
        } 
 
@@ -289,7 +291,7 @@ function parsePrefixVerb($page, $index, $regex_end)
 }
 
 $ifile = fopen("./new-output.txt", "r");
-$ofile = fopen("./test.txt", "w");
+$ofile = fopen("./results.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
@@ -308,7 +310,7 @@ while(!feof($ifile)) {
    try {
      
       $infinitive = get_infinitive($page[0]);
-      
+     
       $principle_parts = get_PrincipleParts($page, 1);
       
       list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);
@@ -345,7 +347,9 @@ while(!feof($ifile)) {
              }
           }
       }
- 
+      
+      $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
+      
       fputs($ofile, $output);
         
    } catch (Exception $e) {

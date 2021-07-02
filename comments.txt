@@ -1,8 +1,0 @@
-BUGS:
-
-* German begin-quote and end-quote characters--perhpas--are not being written properly?
-  Look into utf8_encode($string)
-
-THOUGHTS:
-
-Maybe I want a different form of output?
