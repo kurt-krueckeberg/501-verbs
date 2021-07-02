@@ -216,6 +216,8 @@ function get_Examples_type2(array $lines, $index)
 
 function get_prefixVerbs(array $page, $index)
 {
+ $prefix_verbs = [];
+
   if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
 
       // Read lines until '/^#$/' encountered.
@@ -229,6 +231,8 @@ function get_prefixVerbs(array $page, $index)
       
       $prefix_verbs['insep'] = $results; 
   } 
+
+  return $prefix_verbs;
 }
 
 fucntion parsePrefixVerb($page, $index, $regex_end)
@@ -279,6 +283,7 @@ while(!feof($ifile)) {
    $infinitive = '';
    $principle_parts = '';
    $examples = '';
+   $prefix_verbs = [];
    
    try {
       
@@ -291,36 +296,23 @@ while(!feof($ifile)) {
       $principle_parts = get_PrincipleParts($page, 1);
       
       list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);
-      
+
       if ($rc === false) {
           
           $page = get_page($ifile);
           list($mainVerb_examples, $index) = get_Examples_type2($page, 0);
 
-          // TODO: Complete this method
-          /*
-           * Each Prefix verbs are either/or both Separable or Inseparable. Each verb has a definition following the dash that follows the verb. Then, on the
-             next line it has examples. The Separable verbs/examples alwasy begin before the Inseparable. So the Separable examples are terminated by
-             the line '/^INSEPARABLE\s*$/'
-             
-             The Inseparable are terminated by: '/7_9393_/'
-                
-             Format for Sep/Insp verbs output in results.txt:
-             SEP:verb1%definition%examples. 
-             SEP:verb2%definition%examples. 
-             ....
-             INSEP:verb3%definition%examples
-             INSEP:verb4%definition%examples
-           * 
-           */ 
           $prefixVerbs = get_prefixVerbs($page, $index);  
 
-  
-          // TODO: get_prefixVerbs(start a $page[$prefix_row]
       }
       
       $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
+      if (count($prefix_verbs)) {
+
+         // TODO: Write out the prefix verbs: $prefix_verbs['sep'] and $prefix_verbs['insep']. See get_prefoxVerbs() for format of the array.        
+      }
+ 
       fputs($ofile, $output);
         
    } catch (Exception $e) {
