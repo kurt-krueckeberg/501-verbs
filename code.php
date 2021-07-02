@@ -140,7 +140,14 @@ function get_infinitive($line)
            if (0 != strlen($matches[$i]))
               $infinitive .= $matches[$i];
         }
-      
+        
+        $pos = strpos($infinitive, "\n");
+        
+        if (false !== $pos) {
+            
+            $infinitive = substr($, 0, $pos);
+        }
+                 
     } else // This is an exception
         throw new NoInfinitiveException("No infinitive was found on the first line of the page, which is: " . $line);
     
@@ -296,10 +303,7 @@ while(!feof($ifile)) {
    
    try {
      
-      if (0 === strpos($page[0], "glauben")) {
-          $debug = 10;
-      }       
-      $infinitive = get_infinitive($page[0]);
+     $infinitive = get_infinitive($page[0]);
        
       $principle_parts = get_PrincipleParts($page, 1);
       
