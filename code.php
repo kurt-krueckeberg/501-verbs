@@ -216,7 +216,7 @@ function get_Examples_type2(array $lines, $index)
 function get_prefixVerbs(array $page, $index)
 {
  $prefix_verbs = [];
-
+   
   if (0 === strpos('SEPARABLE', $page[$index])) {
 
       // Read lines until '/^#$/' encountered.
@@ -316,7 +316,8 @@ while(!feof($ifile)) {
 	 	$a['sep']  => { 0 => the definition of the verb, 1 => A string of examples sentences. }
 	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
            */
-          $prefixVerbs = get_prefixVerbs($page, $index + 1);  
+          if (++$index < count($page))
+                $prefixVerbs = get_prefixVerbs($page, $index + 1);  
       }
       
       $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
