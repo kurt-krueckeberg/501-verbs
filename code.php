@@ -310,6 +310,7 @@ while(!feof($ifile)) {
    try {
      
       $infinitive = get_infinitive($page[0]);
+      
      
       $principle_parts = get_PrincipleParts($page, 1);
       
@@ -336,14 +337,11 @@ while(!feof($ifile)) {
 
           foreach($prefix_verbs as $prefix_type => $verbs) {
        
-             if ($prefix_type[0] == 's')   
-                 $output .= "SEPARABLE: | ";
-             else 
-                 $output .= "INSEPARABLE: | ";
+             $prefix_4output = ($prefix_type[0] == 's') ? "SEPARABLE:" : "INSEPARABLE:";
              
              foreach($verbs as $verb => $array) {
                           
-                $output .= $array[0] . " | " . $array[1] . "\n"; 
+                $output .= $prefix_4output . " | ". $verb . " | ". $array[0] . " | " . $array[1] . "\n"; 
              }
           }
       }
