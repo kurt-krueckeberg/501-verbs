@@ -132,7 +132,7 @@ function get_infinitive($line)
 {
     $infinitive = '';
     
-    $regex_verb = '/^((?:sich\s+)?[a-zöäü]{3,})\s*$/';  // verb line may optionally start with 'sich ' -- but not '(sich) '.
+    $regex_verb = '/^((?:sich\s+)?[a-zöäüß]{3,})\s*$/';  // verb line may optionally start with 'sich ' -- but not '(sich) '.
 
     if (1 === preg_match($regex_verb, $line, $matches)) {
 
@@ -218,13 +218,14 @@ function get_prefixVerbs(array $page, $index)
 {
  $prefix_verbs = [];
 
-  if (1 === preg_match('/^SEPARABLE\s$/', $page[$index])) {
+  if (0 === strpos('SEPARABLE', $page[$index])) {
 
       // Read lines until '/^#$/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
+      
       $prefix_verbs['sep'] = $results; 
   }      
-  if (0 === strpos(preg_match('/^INSEPARABLE\s$/', $page[$index]))) {        
+  if (0 === strpos('INSEPARABLE', $page[$index])) {        
 
       // Read lines until '/^7_9393_G/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
@@ -235,30 +236,40 @@ function get_prefixVerbs(array $page, $index)
   return $prefix_verbs;
 }
 
+/*
+ * Input: $page[$index] is the first element of $page with which to begin
+ * Returns:
+ * An associative array of the form:
+ *    $a['sep']   => { 0 => the definition of the verb, 1 => A string of examples sentences. }
+ *    #a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
+ */
+
 function parsePrefixVerb($page, $index, $regex_end)
 {
- $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäü]{3,})-(.*)$/';
-                  
+ // Note: The type of dash used in the regex--and there seems to be more than one type--must be correct, or not match will occur!
+ $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäüß]{3,})—(.*)$/';
+                                     
  $examples = $verb = $defn = '';
 
  $results = [];
 
- for ($i = $index; 1 == preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
+ for ($i = $index; 0 === preg_match($regex_end, $page[$i]); ++$i)  { // Loop until terminating line found
      
      // Is it a new definition?
-     if (1 == preg_match($regex_verbDefn, $page[$i], $matches)) {
-         
-         if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
+     if (1 === preg_match($regex_verbDefn, $page[$i], $matches)) {
+       
+       if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
 
-             $results[$verb] = array($defn, $examples);
-         } 
-         // Gather up verb, defn, example sentences of prior verb  
-         $verb = $matches[1];
-         $defn = $matches[2];  
+           $results[$verb] = array($defn, $examples);
+       } 
+
+       // Gather up verb, defn, example sentences of prior verb  
+       $verb = $matches[1];
+       $defn = $matches[2];  
 
      } else // These are sample sentences
         
-         $examples .= $page[$i];
+       $examples .= $page[$i];
   }
 
   // Add last verb results 
@@ -266,7 +277,6 @@ function parsePrefixVerb($page, $index, $regex_end)
 
   return $results;
 }
-
 
 $ifile = fopen("./new-output.txt", "r");
 $ofile = fopen("./results.txt", "w");
@@ -286,12 +296,9 @@ while(!feof($ifile)) {
    $prefix_verbs = [];
    
    try {
-      
+        
       $infinitive = get_infinitive($page[0]);
-      
-      if (0 === strpos($infinitive, "arbeiten")) {
-          $stop = 10;
-      }
+     
       
       $principle_parts = get_PrincipleParts($page, 1);
       
@@ -301,16 +308,29 @@ while(!feof($ifile)) {
           
           $page = get_page($ifile);
           list($mainVerb_examples, $index) = get_Examples_type2($page, 0);
+          
+          /* 
+            get_prefixVerbs returns an associative array of the form:
 
-          $prefixVerbs = get_prefixVerbs($page, $index);  
-
+	 	$a['sep']  => { 0 => the definition of the verb, 1 => A string of examples sentences. }
+	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
+           */
+          $prefixVerbs = get_prefixVerbs($page, $index + 1);  
       }
       
       $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
       if (count($prefix_verbs)) {
 
-         // TODO: Write out the prefix verbs: $prefix_verbs['sep'] and $prefix_verbs['insep']. See get_prefoxVerbs() for format of the array.        
+          foreach($prefixVerbs as $key => $value) {
+
+             if (key[0] == 's')   
+                 $output .= "SEPARABLE: | ";
+             else 
+                 $output .= "INSEPARABLE: | ";
+                          
+             $output .= $value[0] . " | " . $value[1]; 
+          }
       }
  
       fputs($ofile, $output);
