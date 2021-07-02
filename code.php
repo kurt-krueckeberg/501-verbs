@@ -222,7 +222,7 @@ function get_prefixVerbs(array $page, $index)
   if (0 === strpos( $page[$index], 'SEPARABLE')) {
 
       // Read lines until '/^#$/' encountered.
-      list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
+      list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$|^7_9393_/');
             
       $prefix_verbs['sep'] = $results; 
   }      
@@ -257,6 +257,11 @@ function parsePrefixVerb($page, $index, $regex_end)
  for (; 0 === preg_match($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
      
      // Is it a new definition?
+     if ($index >= count($page))  {
+           echo 'BUG: Index into $page[$index] exceedeed' . "\n";
+           exit();
+     } 
+         
      if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {
        
        if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
