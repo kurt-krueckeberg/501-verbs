@@ -140,14 +140,7 @@ function get_infinitive($line)
            if (0 != strlen($matches[$i]))
               $infinitive .= $matches[$i];
         }
-        
-        $pos = strpos($infinitive, "\n");
-        
-        if (false !== $pos) {
-            
-            $infinitive = substr($infinitive, 0, $pos);
-        }
-                 
+                
     } else // This is an exception
         throw new NoInfinitiveException("No infinitive was found on the first line of the page, which is: " . $line);
     
@@ -224,16 +217,16 @@ function get_prefixVerbs(array $page, $index)
 {
  $prefix_verbs = [];
  
- $pos = strpos('SEPARABLE', $page[$index]);
+ $pos = strpos($page[$index], 'SEPARABLE');
    
-  if (0 === strpos('SEPARABLE', $page[$index])) {
+  if (0 === strpos( $page[$index], 'SEPARABLE')) {
 
       // Read lines until '/^#$/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1, '/^#$/');
       
       $prefix_verbs['sep'] = $results; 
   }      
-  if (0 === strpos('INSEPARABLE', $page[$index])) {        
+  if (0 === strpos($page[$index], 'INSEPARABLE')) {        
 
       // Read lines until '/^7_9393_G/' encountered.
       list($index, $results) = parsePrefixVerb($page, $index + 1,  '/^7_9393_G/');
