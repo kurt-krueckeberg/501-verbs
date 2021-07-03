@@ -1,2 +1,2 @@
-Some of the separable prefix and inseparable prefix verb example sentences have the wrong verb in results.txt. See ausziehen, which has the verb abziehen 
-in the sample sentences.
+The prefix verb sample sentences are not correctly paired with their verb. This is true of the very first prefix verb, abarbeiten. Some of its sample
+sentences are on the line with a later arbeiten-prefix verb.   
