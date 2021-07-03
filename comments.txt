@@ -2,3 +2,5 @@ Some/many of the prefix verb sample sentences are not paired with the correct ve
 with a different/later arbeiten prefix verb.
 
 It seems prefix verbs can have "/^Examples:$/" instead of--or in addtion, too--"/^EXAMPLES$/". Arbeiten is the first such example.
+
+Likely, $examples is not reset to '' in the loop.
