@@ -3,7 +3,7 @@ What info from results.txt do I want as flashcards?
 I. Definitions of all verbs, including prefix verbs, and Conjugations (of only strong and irregular verbs).
 
 - The only conjugations worth testing are those for strong/irregular verbs, so delete the Principle Parts of the weak verbs/non-strong-or-irregular.
-  by finishing the strong-and-irregular-verbs.txt.
+  So __finish__ strong-and-irregular-verbs.txt!
 
 - I don't care about the conjugation of any prefix verbs.
 
