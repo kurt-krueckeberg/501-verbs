@@ -126,7 +126,7 @@ function get_infinitive($line)
 
 function adjust_line($str)
 {
-  $str .= (substr($str, -1) != ' ') ? ' ' : '';
+  $str .= (substr($string, -1) != ' ') ? ' ' : '';
   return $str;
 }
 
@@ -146,7 +146,7 @@ function get_Examples_type1(array $lines, $index)
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
             
                     //$examples .= $lines[$i];
-                    $examples .= adjust_line($lines[$i]);
+                    $examples = adjust_line($lines[$i]);
  
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
             
@@ -180,9 +180,8 @@ function get_Examples_type2(array $lines, $index)
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
                    
                     // Don't copy the '\n' at the end of each $lines[$i]        .
-                    //$examples_ .= substr($lines[$i], 0, -1);
-                   $examples_ .= adjust_line($lines[$i]);
-                                       
+                    $examples_ .= substr($lines[$i], 0, -1);
+                    
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
                     
                     $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
@@ -250,7 +249,7 @@ function parsePrefixVerb($page, $index, $regex_end)
            $examples = preg_replace('/\s\s+/', ' ', $examples);
            
            $results[$verb] = array($defn, $examples);
-           $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we reset it to empty. 
+           $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we rest to empty. 
         } 
 
         // Gather up verb, defn, example sentences of prior verb  
@@ -259,8 +258,8 @@ function parsePrefixVerb($page, $index, $regex_end)
 
     } else {// These are sample sentences
         
-       $examples .= adjust_line($page[$index]);
-       
+       $examples .= $page[$index] . ' ' ; // If this line ends a sentence, we add a space so the next sentence on the next line is separated from it.
+                                          // If this is a sentence
        $examples = preg_replace('/““/', '" “', $examples);
        $examples = preg_replace('/,,/', '„', $examples); // Replace incorrect quote mark.
    }

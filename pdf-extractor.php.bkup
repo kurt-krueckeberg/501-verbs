@@ -119,35 +119,45 @@ function get_infinitive($line)
     return $infinitive;
 }
 
-/* Add extra blank at end if line does not have it. 
- * If it causes double spaces (because we trimmed-and-padded a sentence fragment), this is handled below. But this way, we don't have to
- * test when sentence fragments might or might not properly end in a space.  
+/*
+ * Determine is the string is the End Of a Sentence. A sentence in English and German may end with a punction mark of period, question mark of exclamation 
+   mark. They may optionally be preceded by an end quote mark; however, in output-pdf.txt, the German end quotation differs from that of the English.
+ * 
  */
-
-function adjust_line($str)
+function is_EOS($str)
 {
-  $str .= (substr($str, -1) != ' ') ? ' ' : '';
-  return $str;
+   $german_endquote = '“';
+   $endlis_endquote = '”';
+   $sentence_enders = "[\.\?!]";
+
+   $regex = '/'. $sentence_enders . "(?:" . $german_endquote . '|' . $english_endquote . '?$/';
+
+   if (preg_match('/[\.\?!]"?$/', 
+    
+    
 }
 
 function get_Examples_type1(array $lines, $index)
 {
-    $regex_start = '/^Examples:$/';
+    $regex_start = '/^Examples:(.*)$/';
     $regex_end = '/^7_9393_GermanVerbs_|^Principle Parts:/';
     $examples = '';
         
     for ($i = $index; $i < count($lines); ++$i) {
         
         if (1 === preg_match($regex_start, $lines[$i], $matches)) {
-
+            
+            $examples = $matches[1] . ' '; // Add extra blank so there is always a space between sentences on subsequent lines.
+                                           // If it causes double spaces, this is handled below.  
+            
             for(++$i; $i < count($lines); ++$i) {
 
                 // Get all the example sentences.
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
-            
-                    //$examples .= $lines[$i];
-                    $examples .= adjust_line($lines[$i]);
- 
+              
+                    $examples .= $lines[$i];
+                    //$examples = '';   // Reset to ''.
+                    
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
             
                     $examples = preg_replace('/\s\s+/', ' ', $examples); // remove double spaces
@@ -180,9 +190,8 @@ function get_Examples_type2(array $lines, $index)
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
                    
                     // Don't copy the '\n' at the end of each $lines[$i]        .
-                    //$examples_ .= substr($lines[$i], 0, -1);
-                   $examples_ .= adjust_line($lines[$i]);
-                                       
+                    $examples_ .= substr($lines[$i], 0, -1);
+                    
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
                     
                     $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
@@ -250,7 +259,7 @@ function parsePrefixVerb($page, $index, $regex_end)
            $examples = preg_replace('/\s\s+/', ' ', $examples);
            
            $results[$verb] = array($defn, $examples);
-           $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we reset it to empty. 
+           $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we rest to empty. 
         } 
 
         // Gather up verb, defn, example sentences of prior verb  
@@ -259,8 +268,8 @@ function parsePrefixVerb($page, $index, $regex_end)
 
     } else {// These are sample sentences
         
-       $examples .= adjust_line($page[$index]);
-       
+       $examples .= $page[$index] . ' ' ; // If this line ends a sentence, we add a space so the next sentence on the next line is separated from it.
+                                          // If this is a sentence
        $examples = preg_replace('/““/', '" “', $examples);
        $examples = preg_replace('/,,/', '„', $examples); // Replace incorrect quote mark.
    }
