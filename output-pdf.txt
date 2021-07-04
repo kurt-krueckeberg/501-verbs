@@ -1926,11 +1926,11 @@ PAGE_START
 EXAMPLES
 ,,Wir würden vielleicht fleißiger arbeiten,wenn uns die Arbeit mehr interessierte“,
 behaupteten die Arbeiter. 
-“Maybe we’d work harder if the work inter- ested us more,” declared the workers.
+“Maybe we’d work harder if the work interested us more,” declared the workers.
 Eva schrieb eine Doktorarbeit über die Arbeitslosigkeit und den heutigen
 Arbeitsmarkt. Sie arbeitet gern. Sie ist 
 sehr arbeitsam.
-Eva wrote a doctoral dissertation on unemploy- ment and today’s labor market. She likes to
+Eva wrote a doctoral dissertation on unemployment and today’s labor market. She likes to
 work. She’s very industrious.
 Sent. 1 is in the conditional, formed by the 
 auxiliary  würde(would) + the infin. at the end
@@ -1944,7 +1944,7 @@ abarbeiten—to work off; work down; run (computer)
 “Can your computer run this program?”
 aufarbeiten—to process; work up 
 ,,Er denkt daran, seine Kriegserlebnisse zu einem Artikel aufzuarbeiten.“
-“He’s thinking of working up his experi- ences in the war to make an article.”
+“He’s thinking of working up his experiences in the war to make an article.”
 ausarbeiten— to work out; expand;  elaborate
 ,,Sie will ihre Novelle zu einem Roman ausarbeiten.“
 “She wants to expand her short story into  a novel.”
@@ -1953,12 +1953,12 @@ durcharbeiten—to work through
 “We’re working through the text.”
 kurzarbeiten—to work reduced hours
 ,,Bei schlechter Konjunktur arbeiten wir oft kurz.“
-“We often work shorter hours when eco- nomic conditions are bad.”
-schwarzarbeiten—to work illicitly; moon- light
+“We often work shorter hours when economic conditions are bad.”
+schwarzarbeiten—to work illicitly; moonlight
 Das Finanzamt weiß, dass er jahrelang schwarzarbeitete.
-The tax authorities know that he did unde- clared work for years.
+The tax authorities know that he did undeclared work for years.
 umarbeiten—to deal with, handle; edit
-Am Drehbuch wurde zu viel von zu vie- len umgearbeitet.
+Am Drehbuch wurde zu viel von zu vielen umgearbeitet.
 Too many worked at rewriting the script.	
 #
 INSEPARABLE
@@ -1971,7 +1971,7 @@ erarbeiten—to work hard for
 verarbeiten—to work out; process
 Eva versucht, ihre schreckliche Vergangenheit zu verarbeiten.
 Eva is trying to work out her terrible past.
-Sie haben die Daten beleglos verar- beitet.
+Sie haben die Daten beleglos verarbeitet.
 They processed the data without vouchers. 
 Note:  EDV= elektronische Datenverar-
 beitung (electronic data processing).	
@@ -3052,7 +3052,7 @@ sie werden befreit haben werden befreit haben würden befreit haben
 Examples:Sie sind zu oft von zu vielen Armeen befreit worden. Sie möchten sich gerne von ihren
 ,,Befreiern” befreien. They’ve been liberated too often by too many armies. They would like to free
 themselves from their “liberators.” Sentence 1: In the perfect tenses of the passive, the past participle
-of the helping verb  werdenloses its ge- when used with another past participle.
+of the helping verb  werden loses its ge- when used with another past participle.
 Principle Parts: befreien, befreite, befreit, befreit	
 IMPERATIVE	: befreie!, befreit!, befreien Sie!	
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 61 
@@ -5090,7 +5090,7 @@ euphemistic for “to die in action/
 in the war/at sea”
 Die beiden Brüder blieben im Krieg— der eine auf See.
 Both brothers died in the war—one died  at sea.
-etwas bleiben lassen—to stop doing some- thing
+etwas bleiben lassen—to stop doing something
 Lass doch endlich das Nägelkauen bleiben!
 It’s high time you stopped chewing  your nails.	
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 97 
@@ -5477,7 +5477,7 @@ Sprit.
 The old car used too much gas.
 Idiom
 Otto Normalverbraucher—the average consumer/John Q. Public
-Wird das aber bei Otto Normalver- braucher gut ankommen?
+Wird das aber bei Otto Normalverbraucher gut ankommen?
 But will that catch on with the average  consumer?	
 7_9393_GermanVerbs_1  8/28/07  2:45 PM  Page 104 
 PAGE_END
@@ -5771,7 +5771,7 @@ friend since she’s now achieved fame and for-
 tune.” “Yes, she’s gone far in the world.”
 Kannst du mich morgen früh zum Bahnhof bringen, und dann am Abend mich abholen
 und wieder nach Hause bringen?
-Can you take me to the station tomorrow morn- ing and then pick me up and bring me home
+Can you take me to the station tomorrow morning and then pick me up and bring me home
 again in the evening?
 Die Kinder schreien und bringen mich um den Verstand. Bringen wir sie jetzt ins Bett.
 The kids are screaming and driving me crazy. Let’s put them to bed now.	
@@ -6263,10 +6263,8 @@ I’ve thought about it for a long time.
 umdenken—to rethink
 Das Verfahren muss umgedacht  werden.
 The process has to be rethought.
-wegdenken—to ignore; exclude; dismiss (usually used in the phrase  nicht wegzu-
-denken—unimaginable without) 
-Der Computer ist aus dem modernen Leben nicht wegzudenken.
-Life today is inconceivable without the  computer.
+wegdenken—to ignore; exclude; dismiss (used in the phrase  nicht wegzudenken)
+Der Computer ist aus dem modernen Leben nicht wegzudenken. Life today is inconceivable without the  computer.
 zudenken—to intend for
 Ursprünglich war das Geschenk mir zugedacht.
 The gift was originally intended for me.
@@ -8900,7 +8898,7 @@ PAGE_START
 EXAMPLES
 Wer meine Aktentasche findet, kriegt einenFinderlohn.
 Whoever finds my briefcase will get a finder’s reward.
-,,Wie fanden Sie das Konzert?“ ,,Wir kon- nten nicht herausfinden, um wie viel Uhr
+,,Wie fanden Sie das Konzert?“ ,,Wir konnten nicht herausfinden, um wie viel Uhr
 das Konzert stattfand.“
 “What did you think of the concert?” “We weren’t able to find out at what time the 
 concert took place.”
@@ -12106,7 +12104,7 @@ anhaben—to have on, wear
 Der Kaiser hatte nichts an—er war nackt.
 The emperor had nothing on—he was naked.
 innehaben—to hold an office
-Er hat schon zu lange sein Amt innege- habt.
+Er hat schon zu lange sein Amt innegehabt.
 He’s already held office for too long.
 liebhaben—to be fond of, love
 Hast du ihn noch lieb?
@@ -12241,7 +12239,7 @@ EXAMPLES
 hielten sich nicht an ihre Weisung.
 “Hold on tight,” said the mother to her children in the streetcar. But they didn’t pay attention
 to her instruction.
-Viele halten ihn für den großen amerikanis- chen Roman. Der Professor aber, hält ihn
+Viele halten ihn für den großen amerikanischen Roman. Der Professor aber, hält ihn
 für langweilig.
 Many consider it the great American novel.  But the professor thinks it’s boring. 
 ,,Dieses Getränk enthält viele Vitamine. Es ist an Vitaminen sehr reichhaltig.“
@@ -12725,7 +12723,7 @@ schlechtes Wetter.
 These dark clouds promise bad weather.
 Idioms
 gmit sich gehen heißen—to steal
-Im Kaufhaus hieß Hedi alles mit sich gehen, was nicht niet- und nagelfest
+Im Kaufhaus hieß Hedi alles mit sich gehen, was nicht nietund nagelfest
 war.
 In the department store Hedi pinched everything that wasn’t nailed down.
 Jetzt heißt es handeln!
@@ -13713,7 +13711,7 @@ SEPARABLE
 aberkennen—to divest; disallow; deprive
 Dem Spion wurde die Staatsbürgerschaft aberkannt.
 The spy was deprived of his citizenship.
-anerkennen—to admit, allow, acknowl- edge; recognize diplomatically
+anerkennen—to admit, allow, acknowledge; recognize diplomatically
 Endlich erkannte er seine Schuld an.
 He finally admitted his guilt.
 Zuerst wollten sie das neue Regime nicht anerkennen.
@@ -15426,7 +15424,7 @@ auslassen—to omit
 Du hast einige Posten ausgelassen.
 You left out some items.
 durchlassen—to let through; show through
-Die Polizei wollte uns nicht durch- lassen.
+Die Polizei wollte uns nicht durchlassen.
 The police wouldn’t let us through.
 Der Lampenschirm lässt zu viel Licht durch.
 The lampshade lets too much light through.
@@ -15461,7 +15459,7 @@ We’re really going to pig out tonight.
 zulassen—to accept, permit; admit
 Der Revolver wurde als Beweis nicht zugelassen, weil der Durchsuchungs-
 befehl nicht in Ordnung war.
-The revolver wasn’t admitted into evi- dence because the search warrant 
+The revolver wasn’t admitted into evidence because the search warrant 
 wasn’t in order.
 zurücklassen—to leave behind
 Sie mussten alles zurücklassen, und ihre Heimat verlassen.
@@ -15609,7 +15607,7 @@ As soon as he saw us he ran away.
 durchlaufen—to trickle through, filter; wear down/through
 Warte bis der Kaffee durchgelaufen ist.
 Wait till the coffee is filtered.
-Du hast deine Schuhsohlen durchge- laufen.
+Du hast deine Schuhsohlen durchgelaufen.
 You’ve worn down your shoe soles.
 einlaufen—to come in, enter
 Das Schiff lief in den Hafen ein.
@@ -15656,7 +15654,7 @@ INSEPARABLE
 Das beläuft sich auf 220 Euros.
 That comes to 220 euros.
 durchlaufen—to walk through; pass through
-Wir haben die ganze Stadt durch- laufen.
+Wir haben die ganze Stadt durchlaufen.
 We walked through the whole city. 
 Die Daten durchliefen viele Stadien.
 The data changed status several times.
@@ -15851,7 +15849,7 @@ May the bridal couple flourish. May they prosper. Hooray!
 INSEPARABLE
 erleben—to experience
 Bei unserer Indienreise haben wir viel Schönes erlebt.
-We experienced many beautiful things dur- ing our trip to India.
+We experienced many beautiful things during our trip to India.
 überleben—to survive
 Sie haben den Krieg nicht überlebt.
 They didn’t survive the war.
@@ -16020,7 +16018,7 @@ Prüfung ablegen (to take an exam ).
 anlegen—to put on; invest
 Leg den Mantel an, es wird kalt.
 Put your coat on, it’s getting cold.
-Wir hofften, unser Geld gewinnbrin- gend anzulegen.
+Wir hofften, unser Geld gewinnbringend anzulegen.
 We hoped to invest our money profitably.
 (sich) anlegen mit—to quarrel with,  take on
 Der Star legte sich oft mit dem Regisseur an.
@@ -17137,7 +17135,7 @@ hingehen?
 Does it matter to you if we don’t go?
 einmachen—to preserve, confect
 Oma macht viel Obst und Gemüse ein.
-Grandma preserves a lot of fruits and veg- etables.
+Grandma preserves a lot of fruits and vegetables.
 festmachen —to fix, fasten; moor (a ship);
 make definite
 Das Geschäft ist noch nicht festgemacht.
@@ -17796,7 +17794,7 @@ Spruch gedacht haben: ,,Dein Müssen und
 dein Mögen, sie stehen dir oft entgegen. 
 Du tust am besten nicht was du magst, 
 sondern was du musst.“
-Kant taught that inclination should be subordi- nate to duty. He probably was thinking of the
+Kant taught that inclination should be subordinate to duty. He probably was thinking of the
 old saying, “You’re often conflicted about
 what you must do and what you want to do.
 You’ll do best if you do not what you want,
@@ -18104,7 +18102,7 @@ schlecht benommen.“ ,,Sie sollten mehr
 Rücksicht auf mich und andere nehmen.“
 ,,Na, wenn Sie mich nur beschimpfen
 wollen, nehme ich Reißaus.“
-“You said you wanted to assume the responsi- bility and I took you at your word. But you
+“You said you wanted to assume the responsibility and I took you at your word. But you
 always make light of everything. Now you’ll
 have to take the consequences.” “Why are
 you always so strict about everything? 
@@ -18138,12 +18136,12 @@ Everything was very tasty, except for the chicken.
 In dem Nepplokal wird man wirklich ausgenommen.
 They really take you to the cleaner’s (fleece you) in that clip joint.
 einnehmen —to take in; take over, occupy
-Wie viel Geld haben wir heute ein- genommen?
+Wie viel Geld haben wir heute eingenommen?
 How much money did we take in today? Die Aufständischen nahmen die Stadt
 ein.
 The insurgents occupied the city.
 festnehmen—to take into custody, arrest
-Die Polizei hat ihn heute festgenom- men.
+Die Polizei hat ihn heute festgenommen.
 The police arrested him today.
 hinnehmen—to accept; tolerate
 So was nehmen wir nicht hin!
@@ -18152,10 +18150,10 @@ mitnehmen—to take along
 Nimm uns bitte doch mit!
 Please take us along.
 vornehmen—to undertake, effect
-Verhandlungen sollen bald vorgenom- men werden.
+Verhandlungen sollen bald vorgenommen werden.
 Negotiations are to be conducted soon.
 wahrnehmen—to perceive, realize
-Du hättest die Gelegenheit wahrneh- men sollen. Du willst es nur nicht
+Du hättest die Gelegenheit wahrnehmen sollen. Du willst es nur nicht
 wahrhaben.
 You should have taken the opportunity. You just refuse to realize (recognize)
 that.
@@ -18182,7 +18180,7 @@ Sein Sohn will das Geschäft nicht übernehmen.
 His son doesn’t want to take over the  business.
 (sich) übernehmen —to take on too much,
 overextend oneself
-Mit dieser Aufgabe habe ich mich wirk- lich übernommen.
+Mit dieser Aufgabe habe ich mich wirklich übernommen.
 I’ve really overextended myself with that task.
 unternehmen —to take, undertake
 Man hat schon die nötigen Schritte unternommen.
@@ -18192,7 +18190,7 @@ Morgen wird die Hauptzeugin verhört.
 The key witness will be heard tomorrow.	
 Idioms
 die Verantwortung auf sich nehmen—to assume responsibility
-jmdn. beim Wort nehmen—to take some- one at their word 
+jmdn. beim Wort nehmen—to take someone at their word 
 auf die leichte Schulter nehmen —to make
 light of, minimize
 die Folgen auf sich nehmen—to take the  consequences
@@ -21976,7 +21974,7 @@ SEPARABLE
 abschlagen—to cut, chop off; refuse,reject
 Maria Stuart und Marie Antoinette schlug man den Kopf ab.
 Mary Stuart and Marie Antoinette got their heads chopped off.
-Ihren Antrag muss ich leider abschla- gen.
+Ihren Antrag muss ich leider abschlagen.
 I must, unfortunately, refuse your request.
 anschlagen—to fix, nail, post
 Hat er wirklich die 95 Thesen an die Tür der Schlosskirche angeschlagen?
@@ -21984,7 +21982,7 @@ Did he really post the 95 Theses on the door of the Castle Church?
 aufschlagen—to set up, pitch; raise
 Hier schlagen wir unser Zelt auf.
 Here is where we’ll pitch our tent.
-Die Preise hat man wieder aufgeschla- gen.
+Die Preise hat man wieder aufgeschlagen.
 They’ve raised their prices again.
 ausschlagen—to knock out; start to bloom, come out, burgeon, bud
 ,,Ich schlag dir die Zähne aus“, drohte der Rohling.
@@ -22006,13 +22004,13 @@ La fraternité ou la mort
 nachschlagen—to look up
 Das müsste ich erst nachschlagen.
 I’d have to look that up first.
-niederschlagen—to knock down; sup- press
+niederschlagen—to knock down; suppress
 Sie haben den Aufstand blutig niedergeschlagen.
 They brutally (“bloodily”) suppressed the revolt.
 totschlagen—to beat to death, strike down
 Mein Mann schlägt mich. Er droht oft, mich totzuschlagen.
 My husband beats me. He often threatens to beat me to death.
-Du kannst mich totschlagen, ich erin- nere mich gar nicht mehr daran.
+Du kannst mich totschlagen, ich erinnere mich gar nicht mehr daran.
 For the life of me, I don’t remember it at all anymore.
 überschlagen—to cross; turn into; crack (voice)
 Schlag nicht die Beine über!
@@ -22051,7 +22049,7 @@ erschlagen—to slay
 Siegfried hat den Drachen erschlagen.
 Siegfried slew the dragon.
 unterschlagen—to embezzle
-Sie wird verdächtigt, das Geld unter- schlagen zu haben.
+Sie wird verdächtigt, das Geld unterschlagen zu haben.
 She’s suspected of having embezzled the money.
 überschlagen—to make a rough estimate; skip
 Überschlagen Sie zuerst die Kosten.
@@ -23114,7 +23112,7 @@ I’ve made a note of that.
 Noch ein Bier! Schreib’s bitte auf!
 Another beer! Put it on the tab.
 gutschreiben—to credit
-Der Betrag ist Ihrem Konto gut- geschrieben worden.
+Der Betrag ist Ihrem Konto gutgeschrieben worden.
 The amount has been credited to your account.
 umschreiben—to rewrite
 Das Stück muss völlig umgeschrieben werden.
@@ -23125,7 +23123,7 @@ beschreiben—to describe
 Beschreib’s mir genau!
 Describe it to me exactly.
 überschreiben—to caption, title; write over; sign over
-Wie wollen Sie Ihren Artikel über- schreiben?
+Wie wollen Sie Ihren Artikel überschreiben?
 How to you want to title your article?
 Die Diskette wurde überschrieben.
 The diskette was written over.
@@ -24079,7 +24077,7 @@ absehen von—to disregard
 ,,Abgesehen von einigen Fehlern, ist es eine glänzende Arbeit.“ ,,Von diesen
 Fehlern wollen wir aber nicht abse-
 hen.“
-“Apart from a few mistakes, it’s a splen- did job.” “But we don’t want to disre-
+“Apart from a few mistakes, it’s a splendid job.” “But we don’t want to disre-
 gard those mistakes.”
 ansehen—to look at; consider
 ,,Sieh dir das nur an!” ,,Ich hab’s mir schon angesehen.“
@@ -24108,8 +24106,8 @@ Ja, ich weiß, für die Zukunft siehst du immer schwarz.
 Yes I know, you’re always pessimistic about the future.
 Jahrelang haben wir schwarzgesehen.
 We watched TV without paying the  government-required fee for years.
-(sich) übersehen—to get tired of look- ing at something
-Diese vier Wände hab ich mir überge- sehen.
+(sich) übersehen—to get tired of looking at something
+Diese vier Wände hab ich mir übergesehen.
 I’m fed up with looking at these four walls.
 umsehen—to look around, browse
 ,,Sehen Sie etwas, was Ihnen gefällt?“ ,,Ich sehe mich nur ein bisschen um.“
@@ -25131,12 +25129,12 @@ Mrs. Neu. “I see you take playing very
 seriously,” replied the salesperson.
 Wichtige Interessen standen auf dem Spiel, und du hast sie verspielt, weil du falsch
 gespielt hast. Du hast jetzt ausgespielt.
-Important interests were at stake and you gam- bled them away, because you played falsely.
+Important interests were at stake and you gambled them away, because you played falsely.
 It’s all over with you now.
 ,,Spiel mir etwas auf deiner Geige vor, du Schöner!” bat Tina den Zigeuner. ,,Du
 spielst ein gefährliches Spiel“, sagte ihre
 Freundin Ute.
-“Play me something on your violin, hand- some,” Tina asked the gypsy. “You’re playing
+“Play me something on your violin, handsome,” Tina asked the gypsy. “You’re playing
 a dangerous game,” said her friend Ute.
 In example 1, Spielen is used twice as a verbal
 noun, “playing.” Notice the many related
@@ -25164,10 +25162,10 @@ Morgen spielen sie Kreneks Jazzoper ,,Jonny spielt auf.“
 Tomorrow they’re performing Krenek’s jazz opera “Johnny Strikes up the
 Band.”
 (sich) aufspielen—to put on airs
-Er hat sich vor den Mädchen aufge- spielt.
+Er hat sich vor den Mädchen aufgespielt.
 He showed off in front of the girls.
 ausspielen—to finish playing; play off against
-Der Virtuose hat noch nicht ausge- spielt.
+Der Virtuose hat noch nicht ausgespielt.
 The virtuoso hasn’t finished playing  yet.
 Sie versuchen, mich gegen meinen Geschäftspartner auszuspielen.
 You’re trying to play me off against my business partner.
@@ -25178,7 +25176,7 @@ durchspielen—to act out, run through (play, scene)
 Wir spielten ihr neues Stück durch.
 We acted out her new play. einspielen—to bring in, gross; to record
 music; to load software/data
-Ihr letzter Film hat Millionen einge- spielt.
+Ihr letzter Film hat Millionen eingespielt.
 Her last movie grossed millions.
 Die Bühnenmusik soll jetzt eingespielt werden.
 The stage music is to be recorded now.
@@ -25202,7 +25200,7 @@ weiterspielen —to continue playing
 Spielen Sie ruhig weiter!
 Just keep on playing.
 zusammenspielen—to play together
-Die Kinder haben schön zusammenge- spielt.
+Die Kinder haben schön zusammengespielt.
 The children played together nicely.
 zuspielen—to pass; to leak to the press
 Er spielte ihm den Ball zu.
@@ -25228,7 +25226,7 @@ Paul Lincke’s Lady Luna is set/takes place
 on the moon.
 Mit spielender Leichtigkeit zeichnete Uwe ihr Porträt. Es war ihm ein Kinderspiel.
 Uwe drew her portrait with the greatest of ease. It was child’s play for him.
-Wir hätten das Meisterschaftsspiel gewon- nen, wenn die Tormänner besser gespielt
+Wir hätten das Meisterschaftsspiel gewonnen, wenn die Tormänner besser gespielt
 hätten.
 We would have won the championship match if the goalkeepers had played better.
 Was wird heute im Kino gespielt?
@@ -25375,7 +25373,7 @@ Sprachen, aber manchmal wird sie aber
 nervös, wenn sie angesprochen wird. Dann
 fällt ihr das Sprechen schwer. Ihr bleibt die
 Sprache weg.
-Anna speaks fluent German and her pronuncia- tion is good. She recently read Nietzsche’s
+Anna speaks fluent German and her pronunciation is good. She recently read Nietzsche’s
 Thus Spoke Zarathustra. She speaks many
 languages but sometimes when people
 address her she gets nervous. Then, speaking
@@ -25408,7 +25406,7 @@ SEPARABLE
 absprechen—to refuse, deny; arrange
 Sie sprach ihm jede Kompetenz ab.
 She denied that he had any competence whatsoever.
-Den Preis hab ich schon mit ihm abge- sprochen.
+Den Preis hab ich schon mit ihm abgesprochen.
 He and I have already agreed on the price.
 ansprechen —to speak to, address, accost;
 respond, react
@@ -25417,7 +25415,7 @@ Anna gets nervous when people address her.
 Die Bremsen sprechen nicht an.
 The brakes aren’t reacting.
 aussprechen—to pronounce; express
-Sprechen Sie bitte das Wort noch ein- mal aus!
+Sprechen Sie bitte das Wort noch einmal aus!
 Please pronounce the word again.
 Die Staatsanwältin sprach einige Verdächtigung aus.
 The DA expressed some suspicion.
@@ -25441,11 +25439,11 @@ Oh, if word gets out about that!
 vorsprechen—to recite; audition
 Sprich uns dein Gedicht vor!
 Recite your poem for us.
-Der Regisseur ließ mich mehrmals vor- sprechen.
+Der Regisseur ließ mich mehrmals vorsprechen.
 The director auditioned me several times.
 zusprechen —to award, grant custody of;
 dig into, tank up on
-Warum hat man ihm den Preis zuge- sprochen?
+Warum hat man ihm den Preis zugesprochen?
 Why did they award the prize to him?
 Dem Cognac habe ich im Wartesaal kräftig zugesprochen, aber ich war
 nicht betrunken.
@@ -26228,7 +26226,7 @@ Everybody wants to see the film stars. The whole city’s going wild. The fans a
 in line in front of the movie theater.
 Annie stand vor dem Spiegel und dachte: ,,Ja, der Hut steht mir gut.“
 Annie stood before the mirror and thought: “Yes, the hat is very becoming to me.”
-Herr Link stand im Verdacht, Geld unter- schlagen zu haben. Trotz allem stand seine
+Herr Link stand im Verdacht, Geld unterschlagen zu haben. Trotz allem stand seine
 Frau ihm bei.
 Mr. Link was under suspicion of having  embezzled money. Despite everything his 
 wife stood by him.	
@@ -26554,7 +26552,7 @@ sideline
 Der Präsident versucht, die Opposition kaltzustellen.
 The president is trying to neutralize the opposition.
 unterstellen—to place under, store 
-Ihr könnt die Möbel bei uns unter- stellen.
+Ihr könnt die Möbel bei uns unterstellen.
 You can store the furniture with us.
 (sich) unterstellen —to take cover, stand
 under
@@ -26563,7 +26561,7 @@ Why didn’t you take cover from the rain?
 Prefix Verbs
 nicht von der Stelle kommen—to make no progress 
 ans Licht stellen—to bring to light, reveal
-in ein falsches Licht stellen—to misrep- resent
+in ein falsches Licht stellen—to misrepresent
 eine Frage stellen—to ask/pose/put a question
 zur Rede stellen—to take to task, ask for an accounting Additional idioms are:
 an den Pranger stellen—to pillory, criti-
@@ -26695,7 +26693,7 @@ absterben—to go/grow numb; die
 Vor Kälte sind dem Polarforscher Fingerund Zehen abgestorben.
 The polar explorer’s fingers and toes went numb with cold.
 austerben—to die out, become extinct
-Diese Pflanzenart ist fast ganz ausgestor- ben.
+Diese Pflanzenart ist fast ganz ausgestorben.
 This botanical species is almost extinct.
 wegsterben—to die off
 ,,Meine Männer sterben mir einfach weg. Ich kann nichts dafür“, sagte die Witwe
@@ -26706,7 +26704,7 @@ INSEPARABLE
 ersterben  (literary)—to die away, die
 down, fade
 In der Ferne erstarben die Festklänge.
-The festive sounds died away in the dis- tance.
+The festive sounds died away in the distance.
 versterben  (elevated)—to pass away 
 Er verstarb im hohen Alter von 99 Jahren.
 He passed away at the advanced age of 99.
@@ -27996,7 +27994,7 @@ They asked me to give you their regards.
 austragen—to deliver, distribute; carry  to term
 Ist die Post schon ausgetragen?
 Has the mail been distributed yet?
-Sie hat das Kind nicht austragen kön- nen.
+Sie hat das Kind nicht austragen können.
 She couldn’t carry the child to term.
 beitragen—to contribute
 Du hast unserer Sache viel beizutragen.
@@ -28020,7 +28018,7 @@ Do you still hold that against us?
 vortragen—to recite, perform
 Er trägt nur allzu gern seine Gedichte vor.
 He’s all too fond of reciting his poems.
-zutragen—to carry something to some- body; report, repeat
+zutragen—to carry something to somebody; report, repeat
 Warum hast du’s ihm zugetragen?
 Why’d you repeat that to him?
 (sich) zutragen (elevated)—to take place
@@ -29511,7 +29509,7 @@ ihr werdet verführt haben werdet verführt haben würdet verführt haben
 sie werden verführt haben werden verführt haben würden verführt haben
 528
 Examples:Der Mann auf der Straße bot uns einen sehr verführerischen Wechselkurs an. Aber
-wir wussten, dass wir Geld weder ein- noch ausführen durften und ließen uns nicht verführen.
+wir wussten, dass wir Geld weder einnoch ausführen durften und ließen uns nicht verführen.
 The man on the street offered us a very tempting exchange rate. But we knew that we could neither 
 take in nor take out money and didn’t allow ourselves to be led astray.	
 Principle Parts:  verführen, verführte, verführt, verführt	
@@ -32312,7 +32310,7 @@ SEPARABLE
 innewerden  (elevated)—to become aware
 of
 Der Ernst des Lebens ist ihm plötzlich innegeworden.
-He suddenly became aware of the serious- ness of life.
+He suddenly became aware of the seriousness of life.
 irrewerden—to lose faith, have doubts
 Wie kannst du an mir irrewerden?
 How can you have doubts about me?
@@ -32424,7 +32422,7 @@ Der Schneepflug wirft immer viel Schnee vor der Einfahrt auf.
 The snow plough always piles up a lot of snow in front of the driveway.
 Erna warf die Tür auf und ertappte sie auf frischer Tat.
 Erna flung open the door and caught them red-handed.
-Warum musstest die diese Frage auf- werfen?
+Warum musstest die diese Frage aufwerfen?
 Why did you have to bring up that issue?
 auswerfen—to cast; spew out, eject; pay out; dig out
 Die Fischer warfen ihre Netze aus.
@@ -32436,26 +32434,26 @@ That stock didn’t pay any dividend this year.
 Den Graben werfen wir hier aus.
 We’ll dig the ditch here.
 einwerfen—to put in, insert; smash
-Zwei Münzen habe ich schon eingewor- fen und es passiert nichts.
+Zwei Münzen habe ich schon eingeworfen und es passiert nichts.
 I’ve already put in two coins and nothing happens.
-Wer von euch hat das Fenster eingewor- fen?
+Wer von euch hat das Fenster eingeworfen?
 Which one of you broke the window? niederwerfen
 —to defeat, suppress, put
 down
 Man hat den Aufstand niedergeworfen.
 They put down the revolt.
 überwerfen—to throw on
-Sie hat sich schnell ein Kleid übergewor- fen.
+Sie hat sich schnell ein Kleid übergeworfen.
 She threw on a dress quickly.
 umwerfen—to knock down/over; stun
 Die Nachricht hat uns umgeworfen.
 The news bowled us over.
 Die alte Hexe hält sich für umwerfend schön. Das finden alle umwerfend
 komisch.
-That old witch thinks she’s stunningly beau- tiful. Everyone thinks that hilariously
+That old witch thinks she’s stunningly beautiful. Everyone thinks that hilariously
 funny.
 vorwerfen—to throw to; reproach
-Dem Hund hat er den Knochen vorge- worfen.
+Dem Hund hat er den Knochen vorgeworfen.
 He threw the bone to the dog.
 Hast du mir noch was vorzuwerfen?
 Is there anything else you’d like to reproach me for?
@@ -32471,7 +32469,7 @@ the drain.”
 zurückwerfen—to throw back; repulse
 Mélisande warf ihr langes Haar zurück.
 Melisande threw back her long hair.
-Sie versuchten, den Feind zurückzu- werfen.
+Sie versuchten, den Feind zurückzuwerfen.
 They tried to repulse the enemy.
 zusammenwerfen—to lump together
 Das sind unterschiedliche Elemente, die man nicht zusammengwerfen kann.
@@ -32982,7 +32980,7 @@ Wohnen
 Prefix Verbs
 SEPARABLE
 beiwohnen  (elevated)—to be present at
-Viele haben der Veranstaltung beige- wohnt.
+Viele haben der Veranstaltung beigewohnt.
 Many were present at the event.
 innewohnen  (elevated)—to indwell, be
 inherent

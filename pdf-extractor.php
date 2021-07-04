@@ -129,7 +129,7 @@ function get_Examples_type1(array $lines, $index)
         
         if (1 === preg_match($regex_start, $lines[$i], $matches)) {
             
-            $examples = $matches[1];
+            $examples = $matches[1] . ' '; // Add extra blank so there is always a space between sentences on subsequent lines. 
             
             for(++$i; $i < count($lines); ++$i) {
 
