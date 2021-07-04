@@ -57,34 +57,6 @@ function advance_to($regex, $ifile)
  }
 }
 
-class NoInfinitiveException extends Exception {
-    
-  public function __construct($msg, $code = 0, Throwable $previous = null) 
-  {
-      parent::__construct($msg, $code, $previous);
-  }  
-  /*
-  public function getMessage()
-  {
-      return parent::getMessage();
-  }
-   * 
-   */
-}
-
-class NoPrinciplePartsException extends Exception {
-    
-  public function __construct($msg, $code = 0, Throwable $previous = null) 
-  {
-      parent::__construct($msg, $code, $previous);
-  }  
-    
-  public function errorMessage() {
-    //error message
-     return "No Principle Parts found on page. Line Number when exception occurred: " . $this->getLine();
-   }
-}
-
 function reorder_princ_parts($pp)
 {    
     $parts = explode(',', $pp);
@@ -142,7 +114,7 @@ function get_infinitive($line)
         }
                 
     } else // This is an exception
-        throw new NoInfinitiveException("No infinitive was found on the first line of the page, which is: " . $line);
+        throw new ErrorException("No infinitive was found on the first line of the page, which is: " . $line);
     
     return $infinitive;
 }
@@ -211,7 +183,7 @@ function get_Examples_type2(array $lines, $index)
         }
     }
     
-   throw new NoType2ExamplesException("No EXAMPLE (s) found in lines starting with " . $lines[$index]); 
+   throw new ErrorException("No EXAMPLE (s) found in lines starting with " . $lines[$index]); 
 }
 
 function get_prefixVerbs(array $page, $index)
@@ -288,7 +260,7 @@ function parsePrefixVerb($page, $index, $regex_end)
   return array($index, $results);
 }
 
-$ifile = fopen("./pdf-output.txt", "r");
+$ifile = fopen("./output-pdf.txt", "r");
 $ofile = fopen("./results.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);

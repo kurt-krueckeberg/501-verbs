@@ -1423,7 +1423,7 @@ PAGE_START
 7_9393_501German_FM1  8/28/07  3:31 PM  Page 32 
 PAGE_END
 PAGE_START
-abholen	
+abholen
 Principle Parts: abholen, holte ab, abgeholt, holt ab	to pick up, call for, collect	
 IMPERATIVE	: hole ab!, holt ab!, holen Sie ab!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
