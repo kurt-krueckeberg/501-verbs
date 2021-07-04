@@ -130,14 +130,14 @@ function get_Examples_type1(array $lines, $index)
         if (1 === preg_match($regex_start, $lines[$i], $matches)) {
             
             $examples = $matches[1];
-            $en = mb_detect_encoding($examples, ['ASCII', 'UTF-8', 'ISO-8859-1'], false);
-
-            for(; $i < count($lines); ++$i) {
+            
+            for(++$i; $i < count($lines); ++$i) {
 
                 // Get all the example sentences.
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
               
                     $examples .= $lines[$i];
+                    //$examples = '';   // Reset to ''.
                     
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
             
@@ -280,8 +280,7 @@ while(!feof($ifile)) {
    try {
      
       $infinitive = get_infinitive($page[0]);
-      
-     
+       
       $principle_parts = get_PrincipleParts($page, 1);
       
       list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);

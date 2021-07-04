@@ -3,7 +3,7 @@
 Reformats the output so the sample sentences are one string, and all the verb info is on one line.
  */
 require_once "./essential-verbs.php";
-require_once "./bsearch.php";
+require_once "./algorithms.php";
   
 function get_line($ifile)
 {
