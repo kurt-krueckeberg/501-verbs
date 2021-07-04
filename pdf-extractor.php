@@ -1,8 +1,5 @@
 <?php
- /*
-  * Figure out where EXAMPLES, including SEPARABLE and INSEPARABLE
-  *
-  */ 
+
 function get_line($ifile)
 {
    if (!feof($ifile)) {
@@ -311,13 +308,13 @@ while(!feof($ifile)) {
                 $prefix_verbs = get_prefixVerbs($page, $index + 1);  
       }
       
-      $output = $infinitive . ' | PP: ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
+      $output = $infinitive . ' | ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
       if (count($prefix_verbs)) {
 
           foreach($prefix_verbs as $prefix_type => $verbs) {
        
-             $prefix_4output = ($prefix_type[0] == 's') ? "SEPARABLE:" : "INSEPARABLE:";
+             $prefix_4output = ($prefix_type[0] == 's') ? "SEP:" : "INSEP:";
              
              foreach($verbs as $verb => $array) {
                           
