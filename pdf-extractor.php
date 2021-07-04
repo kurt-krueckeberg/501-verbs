@@ -12,8 +12,8 @@ function get_line($ifile)
      return trim($line);
 
   } 
-  $nothing = '';
-  return $nothing;
+  
+  return '';
 }
 /*
  * Returns an array of strings corresponding to the lines of the page. Each is terminated by '\n'.
