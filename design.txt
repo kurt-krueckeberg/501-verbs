@@ -1,7 +1,12 @@
 What info from results.txt do I want as flashcards?
 
-- The only conjugations worth testing are those for strong/irregular verbs, so delete the Principle Parts of the others.
-- I don't care about the conjugation of prefix verbs.
-- I want the definition in a consistent, simple form like that in verbs.txt.
+- The only conjugations worth testing are those for strong/irregular verbs, so delete the Principle Parts of the weak verbs/non-strong-or-irregular.
+  by finishing the strong-and-irregular-verbs.txt.
+
+- I don't care about the conjugation of any prefix verbs.
+
+- I want the definition in a consistent, simple form like that in verbs.txt. Use either the definition in the index, which are one word; or make the results.txt
+  definitions consistent and simpler.
+
 - I want the sample sentences as cloze sentences in which the verb is replaced with ___________, and the translation of the sentence is in parentheses after 
   the German sentence. An the answer is the German verb correctly conjugated.
