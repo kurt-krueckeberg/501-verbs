@@ -1,6 +1,0 @@
-Some/many of the prefix verb sample sentences are not paired with the correct verb. They are paried with a subsequent prfix verb. For example, abarbeiten is on the line
-with a different/later arbeiten prefix verb.
-
-It seems prefix verbs can have "/^Examples:$/" instead of--or in addtion, too--"/^EXAMPLES$/". Arbeiten is the first such example.
-
-Likely, $examples is not reset to '' in the loop.

@@ -261,28 +261,29 @@ function parsePrefixVerb($page, $index, $regex_end)
 
  for (; 0 === preg_match($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
      
-     if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {
+    if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {  // Is this line a verb-definition?
        
-       if ($verb !== '') { // If this is not first verb encountered, add the prior verb results array.
+        if ($verb !== '') { // If this is not first verb encountered, insert the prior verb results into the array.
                       
            $examples = preg_replace('/\s\s+/', ' ', $examples);
            
            $results[$verb] = array($defn, $examples);
-       } 
+           $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we rest to empty. 
+        } 
 
-       // Gather up verb, defn, example sentences of prior verb  
-       $verb = $matches[1];
-       $defn = $matches[2];  
+        // Gather up verb, defn, example sentences of prior verb  
+        $verb = $matches[1];
+        $defn = $matches[2];  
 
-     } else // These are sample sentences
+    } else {// These are sample sentences
         
        $examples .= $page[$index];
        $examples = preg_replace('/““/', '" “', $examples);
        $examples = preg_replace('/,,/', '„', $examples); // Replace incorrect quote mark.
-  }
-
-  // Add last verb results 
-  $results[$verb] = array($defn, $examples);
+   }
+ }
+ // Add last verb results 
+ $results[$verb] = array($defn, $examples);
 
   return array($index, $results);
 }
