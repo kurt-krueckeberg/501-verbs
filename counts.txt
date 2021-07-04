@@ -1,2 +1,0 @@
-Count of 'Example:' lines = 446
-Count of 'EXAMPLE' lines = 54

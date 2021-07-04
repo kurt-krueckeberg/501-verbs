@@ -288,7 +288,7 @@ function parsePrefixVerb($page, $index, $regex_end)
   return array($index, $results);
 }
 
-$ifile = fopen("./new-output.txt", "r");
+$ifile = fopen("./pdf-output.txt", "r");
 $ofile = fopen("./results.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
