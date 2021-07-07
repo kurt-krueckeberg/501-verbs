@@ -13,9 +13,80 @@ Does preg_match work correctly with unicode strings? See:
 Solution for binary search:
 
 Option 1: Use the Collator class to compare strings and to sort arrays, or use collator__create/compare methods, and pass it as a lambda to binary_search
+
 Option 2: Create a function object using a class with a binary __invoke($str1, $str2) method. This mimics the C++ binary_search() template with a binary
 predicate object. 
 
+.. code-block:: php
+
+    <?php
+    declare(strict_types = 1);
+
+     // new algorithms.php code    
+    function binary_search_(array $a, int $first, int $last, mixed $key, object $comparator)
+    {
+        $lo = $first; 
+        $hi = $last - 1;
+    
+        while ($lo <= $hi) {
+    
+            $mid = (int)(($hi - $lo) / 2) + $lo;
+       
+            $cmp = $comparator($a[$mid], $key);
+    
+            if ($cmp < 0) {
+                
+                $lo = $mid + 1;
+    
+            } elseif ($cmp > 0) {
+    
+                $hi = $mid - 1;
+    
+            } else {
+    
+                return true; //$mid;
+            }
+        }
+        return false;
+    }
+    
+    function binary_search(array $a, mixed $key, object $comparator)
+    {
+      return binary_search_($a, 0, count($a), $key, $comparator); 
+    }
+
+    // new binary predicate class
+    class GermanComparator {
+    
+       private $collator;
+    
+       public function __construct()
+       {
+           $this->collator = new Collator('de_DE');
+       }
+    
+       public function __invoke(string $str1, string $str2)
+       {
+           return $this->collator.compare($str1, $str2); 
+       }
+       
+       public function sort(array &$array)
+       {
+           return $this->collator->sort($array);
+       }
+    }
+   
+     // test case 
+    $germanComp = new GermanComparator();
+
+    $keys = array_keys($verbs);
+    
+    shuffle($keys);
+    
+    $germanComp->sort($keys);
+    
+    print_r($keys);
+    
 Then use the solution in pdf-extractor.php and insert-definitions.php.
 
 Resources:
