@@ -2,21 +2,10 @@
 declare(strict_types = 1);
 
 require_once "./verbs.php";
-/*
- * Parameters: 
- *   $a - The sort array.
- *   $first - First index of the array to be searched (inclusive).
- *   $last - Last index of the array to be searched (exclusive).
- *   $key - The key to be searched for.
- *   $compare - A user defined function for comparison. Same definition as the one in usort
- *
- * Return:
- *   index of the search key if found, otherwise return (-insert_index - 1). 
- *   insert_index is the index of smallest element that is greater than $key or sizeof($a) if $key
- *   is larger than all elements in the array.
- */
+// callable is more flexible than 'object'. It 
 
-function binary_search_(array $a, int $first, int $last, mixed $key, object $comparator)
+// USE
+function binary_search_(array $a, int $first, int $last, string $key, callable /* object type also works */ $comparator)
 {
     $lo = $first; 
     $hi = $last - 1;
@@ -43,11 +32,11 @@ function binary_search_(array $a, int $first, int $last, mixed $key, object $com
     return false;
 }
 
-function binary_search(array $a, mixed $key, object $comparator)
+function binary_search(array $a, string $key, callable $closure)
 {
-  return binary_search_($a, 0, count($a), $key, $comparator); 
+  return binary_search_($a, 0, count($a), $key, $closure); 
 }
-
+// USE
 class GermanComparator {
 
    private $collator;
@@ -59,15 +48,20 @@ class GermanComparator {
 
    public function __invoke(string $str1, string $str2)
    {
-       return $this->collator.compare($str1, $str2); 
+       return $this->collator->compare($str1, $str2); 
    }
-   
+    
+   public function compare(string $str1, string $str2)
+   {
+       return $this->collator->compare($str1, $str2);
+   }
+  
    public function sort(array &$array)
    {
        return $this->collator->sort($array);
    }
 }
-
+try {
  
 $germanComp = new GermanComparator();
 
@@ -76,5 +70,18 @@ $keys = array_keys($verbs);
 shuffle($keys);
 
 $germanComp->sort($keys);
-
+$rc = $germanComp->compare($keys[20], $keys[22]);
 print_r($keys);
+
+echo "\n" . $rc . "\n";
+
+$closure = function (string $str1, string $str2) use ($germanComp) { return $germanComp->compare($str1, $str2); };
+
+binary_search($keys, 'ächzen', $closure); 
+
+binary_search($keys, 'ächzen', $germanComp);
+
+} catch(Exception $e) {
+    
+    echo $e->getMessage();
+}
