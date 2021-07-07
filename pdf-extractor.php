@@ -1,5 +1,7 @@
 <?php
  
+require_once "./SplFileObjectExtended.php";
+
 function get_line($ifile)
 {
    if (!feof($ifile)) {

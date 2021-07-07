@@ -8,9 +8,14 @@ binary search evidently doesn't work--and maybe the string functions (not sure a
 Does preg_match work correctly with unicode strings? See:
 
 * `Article about PHP 7 and Unicode  <https://alanstorm.com/php-and-unicode/>`_
+
 * See the 'u' regex flag to do unicode regex comparisons: '/regex_here/u'
  
 Then use the solution in pdf-extractor.php and insert-definitions.php.
+
+Notes:
+
+ `p{L}` and `\p{N}` are Unicode property shortcuts. `\p{L}` stands for a Unicode letters, and `\p{N}` stands for Unicode digit(s).
 
 Resources:
 ---------
