@@ -10,8 +10,6 @@ Does preg_match work correctly with unicode strings? See:
 * `Article about PHP 7 and Unicode  <https://alanstorm.com/php-and-unicode/>`_
 * See the 'u' regex flag to do unicode regex comparisons: '/regex_here/u'
  
-Solution for binary search: see new-bsearch.php
-    
 Then use the solution in pdf-extractor.php and insert-definitions.php.
 
 Resources:
