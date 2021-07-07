@@ -1,6 +1,12 @@
 Bugs & Design
 =============
 
+I think utf-8 will work fine with the prg_match() functions. So:
+
+* Read this `Character Encoding for PHP Developers: Unicode, UTF-8 and ASCII <https://www.honeybadger.io/blog/php-character-encoding-unicode-utf8-ascii/>`_
+* Check with lots of examples that the preg_matches() do wha they should with both asii and utf-8 input.
+* Double check that bineary_search() works correct by testing examples.
+
 Unicode-relate problems:
 ------------------------
    
@@ -20,6 +26,7 @@ Notes:
 Resources:
 ---------
 
+`Character Encoding for PHP Developers: Unicode, UTF-8 and ASCII <https://www.honeybadger.io/blog/php-character-encoding-unicode-utf8-ascii/>`_
 `regex and unicode <ttps://www.regular-expressions.info/unicode.html>`_
 
 Design:
