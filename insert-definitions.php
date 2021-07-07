@@ -3,7 +3,7 @@ require_once "SplFileObjectExtended.php";
 
 require_once "./algorithms.php";
 
-require_once "./verb.php";
+require_once "./dict.php";
 
 $ifile = new SplFileObjectExtended("./results.txt", "r");
 $ofile = new SplFileObjectExtended("./new-results.txt", "w");
