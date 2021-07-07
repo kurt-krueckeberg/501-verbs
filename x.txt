@@ -1,0 +1,2364 @@
+(standard input):1:PAGE_START
+(standard input)-2-BARRON’S	
+(standard input)-3-BARRON’S	
+--
+(standard input):50:PAGE_START
+(standard input)-51- 
+(standard input)-52-PAGE_END
+(standard input):53:PAGE_START
+(standard input)-54-FOURTH EDITION	
+(standard input)-55-Fully conjugated in all the tenses in a new, 
+--
+(standard input):68:PAGE_START
+(standard input)-69-© Copyright 2008, 1998 by Barron’s Educational Series, Inc.
+(standard input)-70-Prior editions © Copyright 1990, 1972 by Barron’s Educational Series, Inc.
+--
+(standard input):98:PAGE_START
+(standard input)-99-Forewordiv
+(standard input)-100-Pronunciation 1
+--
+(standard input):127:PAGE_START
+(standard input)-128-Foreword
+(standard input)-129-The verb is a very important part of speech; it denotes action or state of being.
+--
+(standard input):170:PAGE_START
+(standard input)-171-v	
+(standard input)-172-commented that it served the professor right if he was trying to teach the poor
+--
+(standard input):216:PAGE_START
+(standard input)-217-vi	
+(standard input)-218-This new edition of 501 GERMAN VERBS has many features that should be
+--
+(standard input):240:PAGE_START
+(standard input)-241-Pronunciation	1	
+(standard input)-242-Pronunciation
+--
+(standard input):284:PAGE_START
+(standard input)-285-2	Pronunciation	
+(standard input)-286-APPROXIMATE ENGLISH
+--
+(standard input):325:PAGE_START
+(standard input)-326-Pronunciation	3	
+(standard input)-327-rr(rolled in the throat, as in French, Reise
+--
+(standard input):346:PAGE_START
+(standard input)-347-4	Tenses and Moods in German, with English Equivalents	
+(standard input)-348-Tenses and Moods in German, 
+--
+(standard input):378:PAGE_START
+(standard input)-379-Sample English Verb Conjugation	5	
+(standard input)-380-speak	
+--
+(standard input):435:PAGE_START
+(standard input)-436-6	Sample German Verb Conjugation	
+(standard input)-437-sprechen
+--
+(standard input):462:PAGE_START
+(standard input)-463-Sample English Verb Conjugation—Passive Voice	7	
+(standard input)-464-to be loved	
+--
+(standard input):518:PAGE_START
+(standard input)-519-geliebt werden
+(standard input)-520-to be loved	
+--
+(standard input):577:PAGE_START
+(standard input)-578-Weak and Strong Verbs	9	
+(standard input)-579-Weak and Strong Verbs
+--
+(standard input):621:PAGE_START
+(standard input)-622-10	Weak and Strong Verbs	
+(standard input)-623-PASTPAST	3RD SINGULAR	
+--
+(standard input):666:PAGE_START
+(standard input)-667-Weak and Strong Verbs	11	
+(standard input)-668-Other verbs which follow this pattern but do not have “ie” in the infinitive are:saufen—to drink soff gesoffen säuft
+--
+(standard input):698:PAGE_START
+(standard input)-699-12	Weak and Strong Verbs	
+(standard input)-700-PASTPAST	3RD SINGULAR	
+--
+(standard input):740:PAGE_START
+(standard input)-741-Weak and Strong Verbs	13	
+(standard input)-742-PASTPAST	3RD SINGULAR	
+--
+(standard input):777:PAGE_START
+(standard input)-778-14	Weak and Strong Verbs	
+(standard input)-779-Principal Parts of Irregular Mixed Verbs and Wissen
+--
+(standard input):799:PAGE_START
+(standard input)-800-Special Verb Uses	15	
+(standard input)-801-Special Verb Uses
+--
+(standard input):837:PAGE_START
+(standard input)-838-16	Special Verb Uses
+(standard input)-839-Wo arbeitet sie? Arbeitete sie nicht für ihren Vater? Arbeitet sie noch 
+--
+(standard input):877:PAGE_START
+(standard input)-878-Special Verb Uses	17	
+(standard input)-879-With the exception of most “-ieren” verbs and all verbs beginning with an
+--
+(standard input):919:PAGE_START
+(standard input)-920-18	Special Verb Uses
+(standard input)-921-Remember that the inseparable prefix be-
+--
+(standard input):946:PAGE_START
+(standard input)-947-Some Pointers on the Use of Tenses	19	
+(standard input)-948-Some Pointers on the Use of Tenses
+--
+(standard input):982:PAGE_START
+(standard input)-983-20	Some Pointers on the Use of Tenses
+(standard input)-984-Imperfect
+--
+(standard input):1027:PAGE_START
+(standard input)-1028-Some Pointers on the Use of Tenses	21	
+(standard input)-1029-Ein Student kam, zog in den Wald. (kommen, ziehen)
+--
+(standard input):1068:PAGE_START
+(standard input)-1069-22	Some Pointers on the Use of Tenses
+(standard input)-1070-Past Perfect
+--
+(standard input):1107:PAGE_START
+(standard input)-1108-Some Pointers on the Use of Tenses	23	
+(standard input)-1109-Würden Sie bitte so lieb sein?
+--
+(standard input):1119:PAGE_START
+(standard input)-1120-24	The Subjunctive Mood	
+(standard input)-1121-The Subjunctive Mood
+--
+(standard input):1160:PAGE_START
+(standard input)-1161-The Subjunctive Mood	25	
+(standard input)-1162-Strong verbs also add an umlautin the Subjunctive if the vowel in the Past
+--
+(standard input):1199:PAGE_START
+(standard input)-1200-26	The Subjunctive Mood
+(standard input)-1201-Indirect Discourse
+--
+(standard input):1238:PAGE_START
+(standard input)-1239-Verbs with a Dative Object	27	
+(standard input)-1240-Verbs with a Dative Object
+--
+(standard input):1277:PAGE_START
+(standard input)-1278-28	Subject Pronouns and Verb Forms in the Imperative Mood	
+(standard input)-1279-Subject Pronouns and Verb Forms 
+--
+(standard input):1307:PAGE_START
+(standard input)-1308-Essential 55 Verb List	29
+(standard input)-1309-Beginning students should pay careful attention to the 55 verbs on this list. They 
+--
+(standard input):1414:PAGE_START
+(standard input)-1415-7_9393_501German_FM1  8/28/07  3:31 PM  Page 30 
+(standard input)-1416-PAGE_END
+(standard input):1417:PAGE_START
+(standard input)-1418-Alphabetical Listing of 501 German Verbs 
+(standard input)-1419-Fully Conjugated in  All the Tenses	
+--
+(standard input):1422:PAGE_START
+(standard input)-1423-7_9393_501German_FM1  8/28/07  3:31 PM  Page 32 
+(standard input)-1424-PAGE_END
+(standard input):1425:PAGE_START
+(standard input)-1426-abholen
+(standard input)-1427-Principle Parts: abholen, holte ab, abgeholt, holt ab	to pick up, call for, collect	
+--
+(standard input):1481:PAGE_START
+(standard input)-1482-achten
+(standard input)-1483-to pay attention;	
+--
+(standard input):1537:PAGE_START
+(standard input)-1538-ächzen	
+(standard input)-1539-Principle Parts: ächzen, ächzte, geächzt, ächzt	to groan, moan; creak	
+--
+(standard input):1593:PAGE_START
+(standard input)-1594-ändern
+(standard input)-1595-to change, alter	
+--
+(standard input):1651:PAGE_START
+(standard input)-1652-anfangen	
+(standard input)-1653-Principle Parts: anfangen, fing an, angefangen, fängt an	to begin	
+--
+(standard input):1707:PAGE_START
+(standard input)-1708-ankommen
+(standard input)-1709-to arrive; succeed; 	
+--
+(standard input):1765:PAGE_START
+(standard input)-1766-antworten	
+(standard input)-1767-Principle Parts: antworten, antworte, antwortet	to answer, reply	
+--
+(standard input):1821:PAGE_START
+(standard input)-1822-sich anziehen
+(standard input)-1823-to get dressed	
+--
+(standard input):1880:PAGE_START
+(standard input)-1881-arbeiten
+(standard input)-1882-to work	
+--
+(standard input):1932:PAGE_START
+(standard input)-1933-42	
+(standard input)-1934-EXAMPLES
+--
+(standard input):1988:PAGE_START
+(standard input)-1989-atmen
+(standard input)-1990-to breathe	
+--
+(standard input):2046:PAGE_START
+(standard input)-2047-aufhalten
+(standard input)-2048-to stop, delay, arrest	
+--
+(standard input):2103:PAGE_START
+(standard input)-2104-aufmachen	
+(standard input)-2105-to open; present, feature	
+--
+(standard input):2161:PAGE_START
+(standard input)-2162-ausgeben
+(standard input)-2163-to spend; to deal (cards);to treat to drinks	
+--
+(standard input):2219:PAGE_START
+(standard input)-2220-auskommen	
+(standard input)-2221-to come out; have enough of,	make do; get along with	
+--
+(standard input):2277:PAGE_START
+(standard input)-2278-ausstellen
+(standard input)-2279-to exhibit, expose;write out	
+--
+(standard input):2334:PAGE_START
+(standard input)-2335-sich ausziehen	
+(standard input)-2336-to get undressed	
+--
+(standard input):2393:PAGE_START
+(standard input)-2394-backen
+(standard input)-2395-to bake	
+--
+(standard input):2450:PAGE_START
+(standard input)-2451-baden
+(standard input)-2452-to bathe	
+--
+(standard input):2507:PAGE_START
+(standard input)-2508-bauen
+(standard input)-2509-to build, construct;cultivate, mine	
+--
+(standard input):2565:PAGE_START
+(standard input)-2566-beben	
+(standard input)-2567-to tremble, quake	
+--
+(standard input):2623:PAGE_START
+(standard input)-2624-bedeuten
+(standard input)-2625-to mean, signify	
+--
+(standard input):2680:PAGE_START
+(standard input)-2681-sich bedienen	
+(standard input)-2682-to help oneself;	make use of something	
+--
+(standard input):2739:PAGE_START
+(standard input)-2740-sich beeilen
+(standard input)-2741-to hurry	
+--
+(standard input):2796:PAGE_START
+(standard input)-2797-beeindrucken	
+(standard input)-2798-to impress	
+--
+(standard input):2855:PAGE_START
+(standard input)-2856-beeinflussen
+(standard input)-2857-to influence	
+--
+(standard input):2913:PAGE_START
+(standard input)-2914-befehlen	
+(standard input)-2915-to order, command	
+--
+(standard input):2971:PAGE_START
+(standard input)-2972-sich befinden
+(standard input)-2973-to be, find oneself; feel	
+--
+(standard input):3030:PAGE_START
+(standard input)-3031-befreien	
+(standard input)-3032-to liberate, set free; exempt	
+--
+(standard input):3087:PAGE_START
+(standard input)-3088-begegnen
+(standard input)-3089-to meet	
+--
+(standard input):3144:PAGE_START
+(standard input)-3145-beginnen	
+(standard input)-3146-to begin	
+--
+(standard input):3202:PAGE_START
+(standard input)-3203-begleiten
+(standard input)-3204-to accompany	
+--
+(standard input):3260:PAGE_START
+(standard input)-3261-behalten	
+(standard input)-3262-to retain, keep	
+--
+(standard input):3318:PAGE_START
+(standard input)-3319-beißen
+(standard input)-3320-to bite	
+--
+(standard input):3375:PAGE_START
+(standard input)-3376-bejahen	
+(standard input)-3377-to answer in the affirmative,	agree, assent	
+--
+(standard input):3432:PAGE_START
+(standard input)-3433-bekehren
+(standard input)-3434-to convert	
+--
+(standard input):3490:PAGE_START
+(standard input)-3491-bekommen	
+(standard input)-3492-1. to get, receive;2. to agree with, suit*	
+--
+(standard input):3545:PAGE_START
+(standard input)-3546-70
+(standard input)-3547-EXAMPLES
+--
+(standard input):3597:PAGE_START
+(standard input)-3598-beleben	
+(standard input)-3599-to enliven, animate; cheer, brighten 	
+--
+(standard input):3655:PAGE_START
+(standard input)-3656-beleidigen
+(standard input)-3657-to insult, offend	
+--
+(standard input):3713:PAGE_START
+(standard input)-3714-bellen	
+(standard input)-3715-to bark, bay	
+--
+(standard input):3771:PAGE_START
+(standard input)-3772-bergen
+(standard input)-3773-to recover; conceal	
+--
+(standard input):3828:PAGE_START
+(standard input)-3829-berichten	
+(standard input)-3830-to report	
+--
+(standard input):3885:PAGE_START
+(standard input)-3886-bersten
+(standard input)-3887-to burst	
+--
+(standard input):3943:PAGE_START
+(standard input)-3944-beschäftigen	
+(standard input)-3945-to occupy; preoccupy;	busy; employ	
+--
+(standard input):4003:PAGE_START
+(standard input)-4004-beschuldigen
+(standard input)-4005-to accuse, charge (with)	
+--
+(standard input):4061:PAGE_START
+(standard input)-4062-besitzen	
+(standard input)-4063-to possess, own	
+--
+(standard input):4119:PAGE_START
+(standard input)-4120-bestehen
+(standard input)-4121-to pass (an exam) ; exist; endure; withstand	
+--
+(standard input):4178:PAGE_START
+(standard input)-4179-bestellen	
+(standard input)-4180-to order (goods); arrange;	deliver  (regards, message )	
+--
+(standard input):4236:PAGE_START
+(standard input)-4237-besuchen
+(standard input)-4238-to visit, attend	
+--
+(standard input):4293:PAGE_START
+(standard input)-4294-beten
+(standard input)-4295-to pray	
+--
+(standard input):4351:PAGE_START
+(standard input)-4352-betrügen
+(standard input)-4353-to deceive, cheat	
+--
+(standard input):4408:PAGE_START
+(standard input)-4409-bewegen	
+(standard input)-4410-to move, agitate, shake	
+--
+(standard input):4465:PAGE_START
+(standard input)-4466-bewegen
+(standard input)-4467-to induce, persuade,prevail upon	
+--
+(standard input):4522:PAGE_START
+(standard input)-4523-beweisen	
+(standard input)-4524-to prove	
+--
+(standard input):4580:PAGE_START
+(standard input)-4581-bezahlen
+(standard input)-4582-to pay	
+--
+(standard input):4639:PAGE_START
+(standard input)-4640-bezeichnen
+(standard input)-4641-to designate, mark, label	
+--
+(standard input):4696:PAGE_START
+(standard input)-4697-biegen
+(standard input)-4698-to bend; turn*	
+--
+(standard input):4753:PAGE_START
+(standard input)-4754-bieten	
+(standard input)-4755-to offer, bid	
+--
+(standard input):4811:PAGE_START
+(standard input)-4812-bilden
+(standard input)-4813-to form, mold; educate	
+--
+(standard input):4870:PAGE_START
+(standard input)-4871-binden
+(standard input)-4872-to bind, tie	
+--
+(standard input):4927:PAGE_START
+(standard input)-4928-bitten
+(standard input)-4929-to ask (for), request, beg, intercede	
+--
+(standard input):4985:PAGE_START
+(standard input)-4986-blasen	
+(standard input)-4987-to blow; to play a wind or	brass instrument	
+--
+(standard input):5042:PAGE_START
+(standard input)-5043-bleiben
+(standard input)-5044-to remain, stay;keep; be	
+--
+(standard input):5094:PAGE_START
+(standard input)-5095-97	
+(standard input)-5096-EXAMPLES
+--
+(standard input):5157:PAGE_START
+(standard input)-5158-blicken
+(standard input)-5159-Examples:
+--
+(standard input):5215:PAGE_START
+(standard input)-5216-blitzen	
+(standard input)-5217-to emit lightning;	flash; take flash photos	
+--
+(standard input):5272:PAGE_START
+(standard input)-5273-blühen
+(standard input)-5274-to bloom, flower, flourish	
+--
+(standard input):5329:PAGE_START
+(standard input)-5330-bluten
+(standard input)-5331-to bleed	
+--
+(standard input):5387:PAGE_START
+(standard input)-5388-braten
+(standard input)-5389-to roast; broil; fry; grill	
+--
+(standard input):5445:PAGE_START
+(standard input)-5446-brauchen	
+(standard input)-5447-to need, require; 	take (for periods of time)	
+--
+(standard input):5499:PAGE_START
+(standard input)-5500-brauchen
+(standard input)-5501-EXAMPLES
+--
+(standard input):5548:PAGE_START
+(standard input)-5549-brauen
+(standard input)-5550-Examples:
+--
+(standard input):5604:PAGE_START
+(standard input)-5605-brausen
+(standard input)-5606-to storm, roar;take a shower	
+--
+(standard input):5661:PAGE_START
+(standard input)-5662-brechen	
+(standard input)-5663-to break	
+--
+(standard input):5718:PAGE_START
+(standard input)-5719-brennen
+(standard input)-5720-to burn; distill	
+--
+(standard input):5775:PAGE_START
+(standard input)-5776-bringen	
+(standard input)-5777-to bring; present; take (convey); 	put; achieve, accomplish	
+--
+(standard input):5827:PAGE_START
+(standard input)-5828-bringen
+(standard input)-5829-EXAMPLES
+--
+(standard input):5887:PAGE_START
+(standard input)-5888-brüllen	
+(standard input)-5889-Examples:
+--
+(standard input):5943:PAGE_START
+(standard input)-5944-buchen
+(standard input)-5945-to book; enter	
+--
+(standard input):6000:PAGE_START
+(standard input)-6001-bürsten
+(standard input)-6002-to brush	
+--
+(standard input):6057:PAGE_START
+(standard input)-6058-dämpfen
+(standard input)-6059-to muffle, damp, quench, attenuate, smother	
+--
+(standard input):6115:PAGE_START
+(standard input)-6116-danken
+(standard input)-6117-to thank	
+--
+(standard input):6172:PAGE_START
+(standard input)-6173-decken
+(standard input)-6174-to cover; set (a table)	
+--
+(standard input):6229:PAGE_START
+(standard input)-6230-denken	
+(standard input)-6231-to think; have in mind	
+--
+(standard input):6281:PAGE_START
+(standard input)-6282-118
+(standard input)-6283-EXAMPLES
+--
+(standard input):6350:PAGE_START
+(standard input)-6351-dichten
+(standard input)-6352-to write poetry; invent;to tighten; caulk	
+--
+(standard input):6407:PAGE_START
+(standard input)-6408-dienen
+(standard input)-6409-to serve	
+--
+(standard input):6464:PAGE_START
+(standard input)-6465-donnern
+(standard input)-6466-to thunder	
+--
+(standard input):6523:PAGE_START
+(standard input)-6524-dringen	
+(standard input)-6525-to urge; press forward;	rush; pierce; penetrate	
+--
+(standard input):6580:PAGE_START
+(standard input)-6581-drucken
+(standard input)-6582-to print	
+--
+(standard input):6636:PAGE_START
+(standard input)-6637-drücken	
+(standard input)-6638-to squeeze, push, 	press; oppress	
+--
+(standard input):6693:PAGE_START
+(standard input)-6694-dürfen
+(standard input)-6695-to be permitted,be allowed, may	
+--
+(standard input):6751:PAGE_START
+(standard input)-6752-ehren	
+(standard input)-6753-to honor; esteem	
+--
+(standard input):6808:PAGE_START
+(standard input)-6809-einkaufen
+(standard input)-6810-to shop, buy	
+--
+(standard input):6867:PAGE_START
+(standard input)-6868-empfangen	
+(standard input)-6869-to receive	
+--
+(standard input):6925:PAGE_START
+(standard input)-6926-empfehlen
+(standard input)-6927-to recommend	
+--
+(standard input):6982:PAGE_START
+(standard input)-6983-entbehren	
+(standard input)-6984-to do without; lack, 	miss	
+--
+(standard input):7040:PAGE_START
+(standard input)-7041-entfernen
+(standard input)-7042-to remove, make distant	
+--
+(standard input):7097:PAGE_START
+(standard input)-7098-entführen	
+(standard input)-7099-Principle Parts: entführen, entführte, entführt, entführt,	to carry off, abduct, kidnap	
+--
+(standard input):7154:PAGE_START
+(standard input)-7155-entgegnen
+(standard input)-7156-to reply, retort, answer	
+--
+(standard input):7211:PAGE_START
+(standard input)-7212-enthalten	
+(standard input)-7213-to contain, hold	
+--
+(standard input):7270:PAGE_START
+(standard input)-7271-entkommen
+(standard input)-7272-to escape, get away	
+--
+(standard input):7327:PAGE_START
+(standard input)-7328-entscheiden
+(standard input)-7329-to decide; rule	
+--
+(standard input):7386:PAGE_START
+(standard input)-7387-entschuldigen
+(standard input)-7388-to excuse; apologize	
+--
+(standard input):7444:PAGE_START
+(standard input)-7445-entstellen	
+(standard input)-7446-to disfigure, deform	
+--
+(standard input):7501:PAGE_START
+(standard input)-7502-erfahren
+(standard input)-7503-to find out, learn; undergo, experience	
+--
+(standard input):7559:PAGE_START
+(standard input)-7560-erfinden	
+(standard input)-7561-to invent; discover; 	find out	
+--
+(standard input):7616:PAGE_START
+(standard input)-7617-erhalten
+(standard input)-7618-to obtain, receive; preserve	
+--
+(standard input):7674:PAGE_START
+(standard input)-7675-erinnern
+(standard input)-7676-to remind	
+--
+(standard input):7733:PAGE_START
+(standard input)-7734-sich erkälten
+(standard input)-7735-to catch a cold	
+--
+(standard input):7792:PAGE_START
+(standard input)-7793-erklären	
+(standard input)-7794-to explain, declare, announce	
+--
+(standard input):7849:PAGE_START
+(standard input)-7850-erlauben
+(standard input)-7851-to permit	
+--
+(standard input):7906:PAGE_START
+(standard input)-7907-erlöschen	
+(standard input)-7908-to become extinguished, 	dim, go out	
+--
+(standard input):7964:PAGE_START
+(standard input)-7965-erreichen
+(standard input)-7966-to reach; attain, achieve; arrive at	
+--
+(standard input):8022:PAGE_START
+(standard input)-8023-errichten	
+(standard input)-8024-to erect, establish	
+--
+(standard input):8080:PAGE_START
+(standard input)-8081-erschöpfen
+(standard input)-8082-to exhaust, drain	
+--
+(standard input):8137:PAGE_START
+(standard input)-8138-erschrecken	
+(standard input)-8139-to be startled/frightened	
+--
+(standard input):8197:PAGE_START
+(standard input)-8198-ersticken
+(standard input)-8199-to choke, stifle	
+--
+(standard input):8254:PAGE_START
+(standard input)-8255-erwägen	
+(standard input)-8256-to consider, ponder	
+--
+(standard input):8311:PAGE_START
+(standard input)-8312-erwähnen
+(standard input)-8313-to mention	
+--
+(standard input):8368:PAGE_START
+(standard input)-8369-erzählen
+(standard input)-8370-to tell, relate	
+--
+(standard input):8425:PAGE_START
+(standard input)-8426-essen
+(standard input)-8427-to eat	
+--
+(standard input):8477:PAGE_START
+(standard input)-8478-157	
+(standard input)-8479-EXAMPLES
+--
+(standard input):8542:PAGE_START
+(standard input)-8543-fahren
+(standard input)-8544-to travel; drive; ride; go	
+--
+(standard input):8594:PAGE_START
+(standard input)-8595-159	
+(standard input)-8596-EXAMPLES
+--
+(standard input):8673:PAGE_START
+(standard input)-8674-fallen
+(standard input)-8675-to fall	
+--
+(standard input):8730:PAGE_START
+(standard input)-8731-fangen	
+(standard input)-8732-to catch, capture	
+--
+(standard input):8787:PAGE_START
+(standard input)-8788-fassen
+(standard input)-8789-to grasp, seize, contain,conceive	
+--
+(standard input):8844:PAGE_START
+(standard input)-8845-fechten	
+(standard input)-8846-to fight; fence	
+--
+(standard input):8902:PAGE_START
+(standard input)-8903-feststellen
+(standard input)-8904-to ascertain, establish	
+--
+(standard input):8959:PAGE_START
+(standard input)-8960-finden
+(standard input)-8961-to find	
+--
+(standard input):9011:PAGE_START
+(standard input)-9012-166	
+(standard input)-9013-EXAMPLES
+--
+(standard input):9061:PAGE_START
+(standard input)-9062-fliegen	
+(standard input)-9063-to fly	
+--
+(standard input):9119:PAGE_START
+(standard input)-9120-fliehen
+(standard input)-9121-to flee, shun, avoid	
+--
+(standard input):9176:PAGE_START
+(standard input)-9177-fließen
+(standard input)-9178-to flow	
+--
+(standard input):9234:PAGE_START
+(standard input)-9235-fluchen
+(standard input)-9236-to curse, swear	
+--
+(standard input):9291:PAGE_START
+(standard input)-9292-folgen
+(standard input)-9293-to follow	
+--
+(standard input):9348:PAGE_START
+(standard input)-9349-fragen
+(standard input)-9350-to ask (a question)	
+--
+(standard input):9400:PAGE_START
+(standard input)-9401-173	
+(standard input)-9402-EXAMPLES
+--
+(standard input):9467:PAGE_START
+(standard input)-9468-fressen
+(standard input)-9469-to eat, feed, devour	
+--
+(standard input):9525:PAGE_START
+(standard input)-9526-sich freuen
+(standard input)-9527-to be glad or	pleased, rejoice	
+--
+(standard input):9586:PAGE_START
+(standard input)-9587-frieren
+(standard input)-9588-to freeze; feel cold	
+--
+(standard input):9643:PAGE_START
+(standard input)-9644-frühstücken
+(standard input)-9645-to eat breakfast	
+--
+(standard input):9701:PAGE_START
+(standard input)-9702-fühlen
+(standard input)-9703-to feel; perceive	
+--
+(standard input):9758:PAGE_START
+(standard input)-9759-führen
+(standard input)-9760-to lead	
+--
+(standard input):9815:PAGE_START
+(standard input)-9816-füllen
+(standard input)-9817-to fill	
+--
+(standard input):9873:PAGE_START
+(standard input)-9874-fürchten	
+(standard input)-9875-to fear	
+--
+(standard input):9930:PAGE_START
+(standard input)-9931-gähnen
+(standard input)-9932-to yawn; gape	
+--
+(standard input):9988:PAGE_START
+(standard input)-9989-gären	
+(standard input)-9990-to ferment	
+--
+(standard input):10046:PAGE_START
+(standard input)-10047-gebären
+(standard input)-10048-to give birth to	
+--
+(standard input):10107:PAGE_START
+(standard input)-10108-geben
+(standard input)-10109-to give	
+--
+(standard input):10159:PAGE_START
+(standard input)-10160-186	
+(standard input)-10161-EXAMPLES
+--
+(standard input):10279:PAGE_START
+(standard input)-10280-gebrauchen
+(standard input)-10281-to use	
+--
+(standard input):10335:PAGE_START
+(standard input)-10336-gedeihen	
+(standard input)-10337-to thrive, prosper	
+--
+(standard input):10392:PAGE_START
+(standard input)-10393-gefallen
+(standard input)-10394-to be pleasing; like	
+--
+(standard input):10449:PAGE_START
+(standard input)-10450-gehen	
+(standard input)-10451-to go; walk	
+--
+(standard input):10501:PAGE_START
+(standard input)-10502-192	
+(standard input)-10503-Gehen	
+--
+(standard input):10649:PAGE_START
+(standard input)-10650-gehören
+(standard input)-10651-to belong, own	
+--
+(standard input):10701:PAGE_START
+(standard input)-10702-195	
+(standard input)-10703-Gehören	
+--
+(standard input):10758:PAGE_START
+(standard input)-10759-geliebt werden
+(standard input)-10760-to be loved	
+--
+(standard input):10824:PAGE_START
+(standard input)-10825-gelingen
+(standard input)-10826-to succeed	
+--
+(standard input):10883:PAGE_START
+(standard input)-10884-gelten
+(standard input)-10885-to be valid, be worth, hold good	
+--
+(standard input):10941:PAGE_START
+(standard input)-10942-genesen	
+(standard input)-10943-to recover, convalesce	
+--
+(standard input):10998:PAGE_START
+(standard input)-10999-sich genieren
+(standard input)-11000-to feel embarrassedor awkward	
+--
+(standard input):11057:PAGE_START
+(standard input)-11058-genießen	
+(standard input)-11059-to enjoy	
+--
+(standard input):11115:PAGE_START
+(standard input)-11116-geraten
+(standard input)-11117-to get into, fall into orupon; turn out, prosper	
+--
+(standard input):11173:PAGE_START
+(standard input)-11174-geschehen
+(standard input)-11175-to happen; to take place;	to come to pass	
+--
+(standard input):11231:PAGE_START
+(standard input)-11232-gewinnen
+(standard input)-11233-to win, gain	
+--
+(standard input):11290:PAGE_START
+(standard input)-11291-sich gewöhnen	
+(standard input)-11292-to become accustomed	
+--
+(standard input):11350:PAGE_START
+(standard input)-11351-gießen
+(standard input)-11352-to pour; cast (metal)	
+--
+(standard input):11407:PAGE_START
+(standard input)-11408-glänzen
+(standard input)-11409-to glitter,	shine; be brilliant	
+--
+(standard input):11464:PAGE_START
+(standard input)-11465-glauben
+(standard input)-11466-to believe	
+--
+(standard input):11516:PAGE_START
+(standard input)-11517-209	
+(standard input)-11518-Glauben	
+--
+(standard input):11572:PAGE_START
+(standard input)-11573-gleichen
+(standard input)-11574-to be like, resemble,equal	
+--
+(standard input):11628:PAGE_START
+(standard input)-11629-gleiten	
+(standard input)-11630-to slide, glide	
+--
+(standard input):11686:PAGE_START
+(standard input)-11687-glimmen
+(standard input)-11688-to glimmer, glow;smolder	
+--
+(standard input):11745:PAGE_START
+(standard input)-11746-glotzen	
+(standard input)-11747-to gawk, stare	
+--
+(standard input):11802:PAGE_START
+(standard input)-11803-glühen
+(standard input)-11804-to glow; burn	
+--
+(standard input):11859:PAGE_START
+(standard input)-11860-graben	
+(standard input)-11861-to dig	
+--
+(standard input):11915:PAGE_START
+(standard input)-11916-greifen
+(standard input)-11917-to seize, grasp, grab	
+--
+(standard input):11973:PAGE_START
+(standard input)-11974-grollen	
+(standard input)-11975-to be resentful or angry; 	rumble, roll	
+--
+(standard input):12030:PAGE_START
+(standard input)-12031-gründen
+(standard input)-12032-to found; base	
+--
+(standard input):12087:PAGE_START
+(standard input)-12088-grüßen	
+(standard input)-12089-to greet, salute, send 	regards or compliments	
+--
+(standard input):12144:PAGE_START
+(standard input)-12145-gucken
+(standard input)-12146-to look; peep	
+--
+(standard input):12201:PAGE_START
+(standard input)-12202-haben
+(standard input)-12203-to have	
+--
+(standard input):12253:PAGE_START
+(standard input)-12254-222	
+(standard input)-12255-Haben	
+--
+(standard input):12329:PAGE_START
+(standard input)-12330-halten	
+(standard input)-12331-to hold; stop; keep;	consider	
+--
+(standard input):12380:PAGE_START
+(standard input)-12381-224	
+(standard input)-12382-Halten	
+--
+(standard input):12443:PAGE_START
+(standard input)-12444-handeln	
+(standard input)-12445-to act; trade, traffic, deal	(in goods)	
+--
+(standard input):12500:PAGE_START
+(standard input)-12501-hängen
+(standard input)-12502-to hang	
+--
+(standard input):12558:PAGE_START
+(standard input)-12559-hassen
+(standard input)-12560-to hate	
+--
+(standard input):12614:PAGE_START
+(standard input)-12615-hauen
+(standard input)-12616-to strike; hew; cut; chop; beat	
+--
+(standard input):12672:PAGE_START
+(standard input)-12673-heben	
+(standard input)-12674-to lift; raise; heave	
+--
+(standard input):12729:PAGE_START
+(standard input)-12730-heiraten
+(standard input)-12731-to marry	
+--
+(standard input):12786:PAGE_START
+(standard input)-12787-heißen	
+(standard input)-12788-to be called or named;	mean; command	
+--
+(standard input):12838:PAGE_START
+(standard input)-12839-232	
+(standard input)-12840-Heißen	
+--
+(standard input):12903:PAGE_START
+(standard input)-12904-heizen
+(standard input)-12905-Examples:
+--
+(standard input):12959:PAGE_START
+(standard input)-12960-helfen
+(standard input)-12961-to help, aid, assist	
+--
+(standard input):13011:PAGE_START
+(standard input)-13012-235	
+(standard input)-13013-Helfen	
+--
+(standard input):13088:PAGE_START
+(standard input)-13089-hetzen
+(standard input)-13090-to hunt; rush about; incite	
+--
+(standard input):13144:PAGE_START
+(standard input)-13145-hoffen	
+(standard input)-13146-to hope; expect	
+--
+(standard input):13200:PAGE_START
+(standard input)-13201-hören
+(standard input)-13202-to hear, listen	
+--
+(standard input):13252:PAGE_START
+(standard input)-13253-239	
+(standard input)-13254-EXAMPLES
+--
+(standard input):13331:PAGE_START
+(standard input)-13332-hüpfen
+(standard input)-13333-Examples:
+--
+(standard input):13387:PAGE_START
+(standard input)-13388-sich interessieren	
+(standard input)-13389-to be interested in	
+--
+(standard input):13446:PAGE_START
+(standard input)-13447-interpretieren
+(standard input)-13448-to interpret	
+--
+(standard input):13504:PAGE_START
+(standard input)-13505-kämpfen	
+(standard input)-13506-to fight, struggle	
+--
+(standard input):13561:PAGE_START
+(standard input)-13562-kauen
+(standard input)-13563-to chew	
+--
+(standard input):13618:PAGE_START
+(standard input)-13619-kaufen	
+(standard input)-13620-to buy	
+--
+(standard input):13670:PAGE_START
+(standard input)-13671-246	
+(standard input)-13672-EXAMPLES
+--
+(standard input):13740:PAGE_START
+(standard input)-13741-kehren	
+(standard input)-13742-Examples:
+--
+(standard input):13796:PAGE_START
+(standard input)-13797-kennen
+(standard input)-13798-to know (by acquaintance);be familiar with	
+--
+(standard input):13848:PAGE_START
+(standard input)-13849-249	
+(standard input)-13850-EXAMPLES
+--
+(standard input):13913:PAGE_START
+(standard input)-13914-kennenlernen
+(standard input)-13915-Examples:
+--
+(standard input):13972:PAGE_START
+(standard input)-13973-klagen	
+(standard input)-13974-to lament; complain of	
+--
+(standard input):14029:PAGE_START
+(standard input)-14030-klatschen
+(standard input)-14031-to clap; slap; gossip	
+--
+(standard input):14087:PAGE_START
+(standard input)-14088-kleben	
+(standard input)-14089-to paste; stick	
+--
+(standard input):14145:PAGE_START
+(standard input)-14146-klingen
+(standard input)-14147-to ring; sound	
+--
+(standard input):14203:PAGE_START
+(standard input)-14204-klopfen	
+(standard input)-14205-to knock, beat	
+--
+(standard input):14261:PAGE_START
+(standard input)-14262-kneifen
+(standard input)-14263-to pinch, squeeze; shirk	
+--
+(standard input):14318:PAGE_START
+(standard input)-14319-knüpfen
+(standard input)-14320-to tie; knot; 	fasten together	
+--
+(standard input):14376:PAGE_START
+(standard input)-14377-kochen
+(standard input)-14378-to cook; boil; seethe	
+--
+(standard input):14433:PAGE_START
+(standard input)-14434-kommen	
+(standard input)-14435-to come	
+--
+(standard input):14485:PAGE_START
+(standard input)-14486-260
+(standard input)-14487-EXAMPLES
+--
+(standard input):14633:PAGE_START
+(standard input)-14634-können
+(standard input)-14635-to be able (can); 
+--
+(standard input):14688:PAGE_START
+(standard input)-14689-263	
+(standard input)-14690-English “could” can be either the indicative
+--
+(standard input):14753:PAGE_START
+(standard input)-14754-kosten
+(standard input)-14755-to cost; taste, try	
+--
+(standard input):14810:PAGE_START
+(standard input)-14811-kotzen	
+(standard input)-14812-to vomit, puke	
+--
+(standard input):14867:PAGE_START
+(standard input)-14868-krächzen
+(standard input)-14869-to caw, croak	
+--
+(standard input):14925:PAGE_START
+(standard input)-14926-kratzen	
+(standard input)-14927-to scratch, scrape	
+--
+(standard input):14983:PAGE_START
+(standard input)-14984-kriechen
+(standard input)-14985-to creep, crawl	
+--
+(standard input):15040:PAGE_START
+(standard input)-15041-kriegen	
+(standard input)-15042-to get, obtain	
+--
+(standard input):15097:PAGE_START
+(standard input)-15098-kühlen
+(standard input)-15099-to cool; refresh; refrigerate	
+--
+(standard input):15154:PAGE_START
+(standard input)-15155-kürzen	
+(standard input)-15156-to shorten, abbreviate	
+--
+(standard input):15211:PAGE_START
+(standard input)-15212-küssen
+(standard input)-15213-to kiss	
+--
+(standard input):15268:PAGE_START
+(standard input)-15269-lächeln
+(standard input)-15270-to smile	
+--
+(standard input):15325:PAGE_START
+(standard input)-15326-lachen
+(standard input)-15327-to laugh	
+--
+(standard input):15383:PAGE_START
+(standard input)-15384-laden	
+(standard input)-15385-to invite; cite, summon, load	
+--
+(standard input):15441:PAGE_START
+(standard input)-15442-landen
+(standard input)-15443-to land; end up; succeed	
+--
+(standard input):15501:PAGE_START
+(standard input)-15502-lassen	
+(standard input)-15503-to let; leave; allow; abandon; stop; have something done (with infinitive)	
+--
+(standard input):15553:PAGE_START
+(standard input)-15554-278
+(standard input)-15555-EXAMPLES
+--
+(standard input):15695:PAGE_START
+(standard input)-15696-laufen
+(standard input)-15697-to run; walk; function	
+--
+(standard input):15747:PAGE_START
+(standard input)-15748-281	
+(standard input)-15749-EXAMPLES
+--
+(standard input):15880:PAGE_START
+(standard input)-15881-lauschen	
+(standard input)-15882-to listen to; eavesdrop	
+--
+(standard input):15937:PAGE_START
+(standard input)-15938-leben
+(standard input)-15939-to live	
+--
+(standard input):15989:PAGE_START
+(standard input)-15990-285	
+(standard input)-15991-EXAMPLES
+--
+(standard input):16058:PAGE_START
+(standard input)-16059-lecken
+(standard input)-16060-to lick; leak	
+--
+(standard input):16116:PAGE_START
+(standard input)-16117-legen	
+(standard input)-16118-to lay, put, place, deposit	
+--
+(standard input):16168:PAGE_START
+(standard input)-16169-288
+(standard input)-16170-EXAMPLES
+--
+(standard input):16276:PAGE_START
+(standard input)-16277-lehren
+(standard input)-16278-to teach	
+--
+(standard input):16334:PAGE_START
+(standard input)-16335-leiden
+(standard input)-16336-to suffer	
+--
+(standard input):16391:PAGE_START
+(standard input)-16392-leihen
+(standard input)-16393-to lend; borrow from; hire	
+--
+(standard input):16448:PAGE_START
+(standard input)-16449-lernen	
+(standard input)-16450-to learn; study	
+--
+(standard input):16505:PAGE_START
+(standard input)-16506-lesen
+(standard input)-16507-to read; gather	
+--
+(standard input):16562:PAGE_START
+(standard input)-16563-leuchten	
+(standard input)-16564-to shine, gleam	
+--
+(standard input):16620:PAGE_START
+(standard input)-16621-lichten
+(standard input)-16622-to thin out, lighten	
+--
+(standard input):16678:PAGE_START
+(standard input)-16679-lieben
+(standard input)-16680-to love	
+--
+(standard input):16735:PAGE_START
+(standard input)-16736-liefern
+(standard input)-16737-to deliver; supply	
+--
+(standard input):16793:PAGE_START
+(standard input)-16794-liegen	
+(standard input)-16795-to lie; be situated;	appeal to	
+--
+(standard input):16845:PAGE_START
+(standard input)-16846-300
+(standard input)-16847-EXAMPLES
+--
+(standard input):16923:PAGE_START
+(standard input)-16924-loben
+(standard input)-16925-Examples:
+--
+(standard input):16979:PAGE_START
+(standard input)-16980-locken
+(standard input)-16981-to entice, allure	
+--
+(standard input):17036:PAGE_START
+(standard input)-17037-lohnen	
+(standard input)-17038-to reward, recompense	
+--
+(standard input):17093:PAGE_START
+(standard input)-17094-lösen
+(standard input)-17095-to loosen; solve	
+--
+(standard input):17150:PAGE_START
+(standard input)-17151-lügen	
+(standard input)-17152-to tell a lie	
+--
+(standard input):17207:PAGE_START
+(standard input)-17208-lutschen
+(standard input)-17209-to suck	
+--
+(standard input):17265:PAGE_START
+(standard input)-17266-machen
+(standard input)-17267-to make; do	
+--
+(standard input):17317:PAGE_START
+(standard input)-17318-EXAMPLES
+(standard input)-17319-,,Kannst du dir einen Begriff von unseremjetztigen leben machen? Wir machen keine
+--
+(standard input):17392:PAGE_START
+(standard input)-17393-mahlen	
+(standard input)-17394-to mill, grind	
+--
+(standard input):17448:PAGE_START
+(standard input)-17449-malen
+(standard input)-17450-to paint, portray	
+--
+(standard input):17506:PAGE_START
+(standard input)-17507-meiden	
+(standard input)-17508-to avoid, shun	
+--
+(standard input):17563:PAGE_START
+(standard input)-17564-meinen
+(standard input)-17565-to be of the opinion, think; mean	
+--
+(standard input):17620:PAGE_START
+(standard input)-17621-merken	
+(standard input)-17622-to notice; note; perceive	
+--
+(standard input):17678:PAGE_START
+(standard input)-17679-messen
+(standard input)-17680-to measure	
+--
+(standard input):17735:PAGE_START
+(standard input)-17736-mieten	
+(standard input)-17737-to rent, hire	
+--
+(standard input):17793:PAGE_START
+(standard input)-17794-mögen
+(standard input)-17795-to like; want; may 	
+--
+(standard input):17846:PAGE_START
+(standard input)-17847-317	
+(standard input)-17848-EXAMPLES
+--
+(standard input):17908:PAGE_START
+(standard input)-17909-müssen
+(standard input)-17910-to have to, must	
+--
+(standard input):17960:PAGE_START
+(standard input)-17961-319	
+(standard input)-17962-EXAMPLES
+--
+(standard input):18032:PAGE_START
+(standard input)-18033-nagen
+(standard input)-18034-320
+--
+(standard input):18089:PAGE_START
+(standard input)-18090-nähren	
+(standard input)-18091-to nourish; suckle	
+--
+(standard input):18147:PAGE_START
+(standard input)-18148-naschen
+(standard input)-18149-to nibble, eat sweets(on the sly), “nosh”	
+--
+(standard input):18204:PAGE_START
+(standard input)-18205-necken
+(standard input)-18206-to tease	
+--
+(standard input):18261:PAGE_START
+(standard input)-18262-nehmen
+(standard input)-18263-to take	
+--
+(standard input):18313:PAGE_START
+(standard input)-18314-325	
+(standard input)-18315-EXAMPLES
+--
+(standard input):18427:PAGE_START
+(standard input)-18428-nennen	
+(standard input)-18429-Principle Parts: nennen, nannte, genannt, nennt	to name, call	
+--
+(standard input):18485:PAGE_START
+(standard input)-18486-nicken
+(standard input)-18487-to nod, doze	
+--
+(standard input):18543:PAGE_START
+(standard input)-18544-nützen	
+(standard input)-18545-to use, be profitable	
+--
+(standard input):18601:PAGE_START
+(standard input)-18602-öffnen
+(standard input)-18603-to open	
+--
+(standard input):18658:PAGE_START
+(standard input)-18659-pachten	
+(standard input)-18660-to lease, rent; farm	
+--
+(standard input):18715:PAGE_START
+(standard input)-18716-packen
+(standard input)-18717-to pack; seize, grab	
+--
+(standard input):18772:PAGE_START
+(standard input)-18773-passen	
+(standard input)-18774-to fit, be suitable	
+--
+(standard input):18830:PAGE_START
+(standard input)-18831-passieren
+(standard input)-18832-to happen, take place;pass*	
+--
+(standard input):18888:PAGE_START
+(standard input)-18889-pfeifen
+(standard input)-18890-to whistle	
+--
+(standard input):18946:PAGE_START
+(standard input)-18947-pflanzen
+(standard input)-18948-to plant	
+--
+(standard input):19003:PAGE_START
+(standard input)-19004-plagen	
+(standard input)-19005-to plague, annoy	
+--
+(standard input):19061:PAGE_START
+(standard input)-19062-preisen
+(standard input)-19063-to praise; consider	
+--
+(standard input):19118:PAGE_START
+(standard input)-19119-putzen	
+(standard input)-19120-to clean, groom	
+--
+(standard input):19176:PAGE_START
+(standard input)-19177-quälen
+(standard input)-19178-to torture, torment	
+--
+(standard input):19233:PAGE_START
+(standard input)-19234-quellen	
+(standard input)-19235-to gush, spring from	
+--
+(standard input):19292:PAGE_START
+(standard input)-19293-rächen
+(standard input)-19294-to avenge	
+--
+(standard input):19349:PAGE_START
+(standard input)-19350-raten	
+(standard input)-19351-to advise; guess	
+--
+(standard input):19405:PAGE_START
+(standard input)-19406-rauchen
+(standard input)-19407-to smoke	
+--
+(standard input):19463:PAGE_START
+(standard input)-19464-räumen	
+(standard input)-19465-to clear away, clean;	evacuate	
+--
+(standard input):19521:PAGE_START
+(standard input)-19522-rauschen
+(standard input)-19523-to rush; rustle	
+--
+(standard input):19579:PAGE_START
+(standard input)-19580-rechnen	
+(standard input)-19581-to count, calculate, reckon	
+--
+(standard input):19637:PAGE_START
+(standard input)-19638-regnen
+(standard input)-19639-to rain	
+--
+(standard input):19696:PAGE_START
+(standard input)-19697-reiben	
+(standard input)-19698-to rub	
+--
+(standard input):19754:PAGE_START
+(standard input)-19755-reichen
+(standard input)-19756-to reach; pass; extend;be enough	
+--
+(standard input):19811:PAGE_START
+(standard input)-19812-reinigen	
+(standard input)-19813-to clean; refine; clarify	
+--
+(standard input):19868:PAGE_START
+(standard input)-19869-reisen
+(standard input)-19870-to travel	
+--
+(standard input):19925:PAGE_START
+(standard input)-19926-reißen
+(standard input)-19927-to tear, rip	
+--
+(standard input):19982:PAGE_START
+(standard input)-19983-reiten
+(standard input)-19984-to ride (on horse)	
+--
+(standard input):20039:PAGE_START
+(standard input)-20040-reizen	
+(standard input)-20041-to excite; irritate; charm	
+--
+(standard input):20097:PAGE_START
+(standard input)-20098-rennen
+(standard input)-20099-to run; race	
+--
+(standard input):20154:PAGE_START
+(standard input)-20155-retten	
+(standard input)-20156-to save, rescue	
+--
+(standard input):20211:PAGE_START
+(standard input)-20212-richten
+(standard input)-20213-to set right; adjust; prepare(meals, etc.) ; point; judge	
+--
+(standard input):20269:PAGE_START
+(standard input)-20270-riechen
+(standard input)-20271-to smell	
+--
+(standard input):20326:PAGE_START
+(standard input)-20327-ringen
+(standard input)-20328-to struggle; wrestle; wring	
+--
+(standard input):20383:PAGE_START
+(standard input)-20384-rinnen	
+(standard input)-20385-to run (of liquids) ; flow; drip	
+--
+(standard input):20442:PAGE_START
+(standard input)-20443-rollen
+(standard input)-20444-to roll	
+--
+(standard input):20499:PAGE_START
+(standard input)-20500-rösten
+(standard input)-20501-to roast	
+--
+(standard input):20557:PAGE_START
+(standard input)-20558-rücken
+(standard input)-20559-to move; bring nearer	
+--
+(standard input):20615:PAGE_START
+(standard input)-20616-rufen	
+(standard input)-20617-to call; shout	
+--
+(standard input):20672:PAGE_START
+(standard input)-20673-ruhen
+(standard input)-20674-to rest	
+--
+(standard input):20730:PAGE_START
+(standard input)-20731-rühmen	
+(standard input)-20732-to praise, glorify	
+--
+(standard input):20788:PAGE_START
+(standard input)-20789-rühren
+(standard input)-20790-to stir; touch	
+--
+(standard input):20846:PAGE_START
+(standard input)-20847-rüsten	
+(standard input)-20848-to arm; mobilize; prepare	
+--
+(standard input):20903:PAGE_START
+(standard input)-20904-sagen
+(standard input)-20905-to say; tell; speak	
+--
+(standard input):20955:PAGE_START
+(standard input)-20956-371	
+(standard input)-20957-EXAMPLES
+--
+(standard input):21026:PAGE_START
+(standard input)-21027-saufen
+(standard input)-21028-to drink (of animals) ; drink to excess	
+--
+(standard input):21084:PAGE_START
+(standard input)-21085-saugen	
+(standard input)-21086-to suck; absorb	
+--
+(standard input):21142:PAGE_START
+(standard input)-21143-säumen
+(standard input)-21144-to delay, hesitate; hem; line	
+--
+(standard input):21199:PAGE_START
+(standard input)-21200-schaden	
+(standard input)-21201-Principle Parts: schaden, schadete, geschadet, schadet	to damage, hurt	
+--
+(standard input):21255:PAGE_START
+(standard input)-21256-schaffen
+(standard input)-21257-to create*	
+--
+(standard input):21315:PAGE_START
+(standard input)-21316-schalten	
+(standard input)-21317-to direct; switch; insert;	shift gears	
+--
+(standard input):21373:PAGE_START
+(standard input)-21374-schätzen
+(standard input)-21375-to value; estimate; reckon; respect	
+--
+(standard input):21430:PAGE_START
+(standard input)-21431-schauen	
+(standard input)-21432-to see, look, gaze	
+--
+(standard input):21487:PAGE_START
+(standard input)-21488-schäumen
+(standard input)-21489-to foam	
+--
+(standard input):21544:PAGE_START
+(standard input)-21545-scheiden	
+(standard input)-21546-to separate; part; divide; go away	
+--
+(standard input):21602:PAGE_START
+(standard input)-21603-scheinen
+(standard input)-21604-to shine; seem	
+--
+(standard input):21660:PAGE_START
+(standard input)-21661-schelten	
+(standard input)-21662-to scold, reproach	
+--
+(standard input):21717:PAGE_START
+(standard input)-21718-schenken
+(standard input)-21719-to give	
+--
+(standard input):21776:PAGE_START
+(standard input)-21777-schichten	
+(standard input)-21778-to pile up, heap, stratify	
+--
+(standard input):21834:PAGE_START
+(standard input)-21835-schicken
+(standard input)-21836-to send, dispatch	
+--
+(standard input):21891:PAGE_START
+(standard input)-21892-schieben	
+(standard input)-21893-to push; shove;move; profiteer	
+--
+(standard input):21948:PAGE_START
+(standard input)-21949-schießen
+(standard input)-21950-to shoot	
+--
+(standard input):22005:PAGE_START
+(standard input)-22006-schlachten	
+(standard input)-22007-to slaughter, butcher;	massacre	
+--
+(standard input):22062:PAGE_START
+(standard input)-22063-schlafen
+(standard input)-22064-to sleep	
+--
+(standard input):22114:PAGE_START
+(standard input)-22115-391	
+(standard input)-22116-EXAMPLES
+--
+(standard input):22176:PAGE_START
+(standard input)-22177-schlagen
+(standard input)-22178-to hit; beat; strike	
+--
+(standard input):22228:PAGE_START
+(standard input)-22229-393	
+(standard input)-22230-EXAMPLES
+--
+(standard input):22353:PAGE_START
+(standard input)-22354-schleichen
+(standard input)-22355-to sneak; creep	
+--
+(standard input):22409:PAGE_START
+(standard input)-22410-schleifen
+(standard input)-22411-to grind; polish; slide*	
+--
+(standard input):22469:PAGE_START
+(standard input)-22470-schlichten	
+(standard input)-22471-to make smooth; settle	
+--
+(standard input):22526:PAGE_START
+(standard input)-22527-schließen
+(standard input)-22528-to close; conclude; shut; lock	
+--
+(standard input):22583:PAGE_START
+(standard input)-22584-schlingen	
+(standard input)-22585-to gulp; devour; weave	
+--
+(standard input):22640:PAGE_START
+(standard input)-22641-schlucken
+(standard input)-22642-to swallow, guzzle	
+--
+(standard input):22698:PAGE_START
+(standard input)-22699-schlüpfen
+(standard input)-22700-to slip, glide	
+--
+(standard input):22755:PAGE_START
+(standard input)-22756-schmecken
+(standard input)-22757-to taste; taste good	
+--
+(standard input):22812:PAGE_START
+(standard input)-22813-schmeißen	
+(standard input)-22814-to fling, hurl, throw	
+--
+(standard input):22869:PAGE_START
+(standard input)-22870-schmelzen
+(standard input)-22871-to melt	
+--
+(standard input):22927:PAGE_START
+(standard input)-22928-schmerzen
+(standard input)-22929-to hurt, pain, distress, smart	
+--
+(standard input):22984:PAGE_START
+(standard input)-22985-schmieren
+(standard input)-22986-to smear; grease; bribe; scribble	
+--
+(standard input):23042:PAGE_START
+(standard input)-23043-schmollen
+(standard input)-23044-to sulk; pout	
+--
+(standard input):23099:PAGE_START
+(standard input)-23100-schneiden
+(standard input)-23101-to cut	
+--
+(standard input):23156:PAGE_START
+(standard input)-23157-schneien	
+(standard input)-23158-to snow	
+--
+(standard input):23215:PAGE_START
+(standard input)-23216-schnüren
+(standard input)-23217-to tie, tighten	
+--
+(standard input):23271:PAGE_START
+(standard input)-23272-schöpfen	
+(standard input)-23273-to scoop; 	obtain, conceive*	
+--
+(standard input):23329:PAGE_START
+(standard input)-23330-schreiben
+(standard input)-23331-to write	
+--
+(standard input):23381:PAGE_START
+(standard input)-23382-413	
+(standard input)-23383-EXAMPLES
+--
+(standard input):23450:PAGE_START
+(standard input)-23451-schreien
+(standard input)-23452-to shout, scream, shriek, cry	
+--
+(standard input):23507:PAGE_START
+(standard input)-23508-schreiten	
+(standard input)-23509-to stride; step; walk	
+--
+(standard input):23564:PAGE_START
+(standard input)-23565-schwanken
+(standard input)-23566-to sway, rock;fluctuate	
+--
+(standard input):23621:PAGE_START
+(standard input)-23622-schwänzen
+(standard input)-23623-to play hooky, 	cut classes	
+--
+(standard input):23678:PAGE_START
+(standard input)-23679-schwärzen
+(standard input)-23680-to blacken, slander, vilify	
+--
+(standard input):23736:PAGE_START
+(standard input)-23737-schwatzen	
+(standard input)-23738-to chatter, prattle	
+--
+(standard input):23793:PAGE_START
+(standard input)-23794-schweben
+(standard input)-23795-to soar; hover; be pending	
+--
+(standard input):23850:PAGE_START
+(standard input)-23851-schweigen	
+(standard input)-23852-to be silent	
+--
+(standard input):23908:PAGE_START
+(standard input)-23909-schwellen
+(standard input)-23910-to swell; rise; increase in size	
+--
+(standard input):23965:PAGE_START
+(standard input)-23966-schwimmen
+(standard input)-23967-to swim; float	
+--
+(standard input):24022:PAGE_START
+(standard input)-24023-schwinden
+(standard input)-24024-to fade; wane; dwindle	
+--
+(standard input):24081:PAGE_START
+(standard input)-24082-schwingen	
+(standard input)-24083-to swing; vibrate	
+--
+(standard input):24138:PAGE_START
+(standard input)-24139-schwitzen
+(standard input)-24140-to sweat, perspire	
+--
+(standard input):24194:PAGE_START
+(standard input)-24195-schwören	
+(standard input)-24196-to curse, swear	
+--
+(standard input):24252:PAGE_START
+(standard input)-24253-segnen
+(standard input)-24254-to bless	
+--
+(standard input):24310:PAGE_START
+(standard input)-24311-sehen	
+(standard input)-24312-to see; realize	
+--
+(standard input):24362:PAGE_START
+(standard input)-24363-430
+(standard input)-24364-EXAMPLES
+--
+(standard input):24462:PAGE_START
+(standard input)-24463-senden
+(standard input)-24464-to send; transmit	
+--
+(standard input):24521:PAGE_START
+(standard input)-24522-sich setzen	
+(standard input)-24523-to sit down	
+--
+(standard input):24577:PAGE_START
+(standard input)-24578-seufzen
+(standard input)-24579-to sigh	
+--
+(standard input):24634:PAGE_START
+(standard input)-24635-sichten	
+(standard input)-24636-to sight; sift; examine	
+--
+(standard input):24691:PAGE_START
+(standard input)-24692-sieden
+(standard input)-24693-to boil, seethe, simmer	
+--
+(standard input):24747:PAGE_START
+(standard input)-24748-siegen	
+(standard input)-24749-to conquer, triumph,	be victorious	
+--
+(standard input):24804:PAGE_START
+(standard input)-24805-singen
+(standard input)-24806-to sing	
+--
+(standard input):24861:PAGE_START
+(standard input)-24862-sinken
+(standard input)-24863-to sink	
+--
+(standard input):24918:PAGE_START
+(standard input)-24919-sinnen
+(standard input)-24920-to think; reflect; plan	
+--
+(standard input):24975:PAGE_START
+(standard input)-24976-sitzen	
+(standard input)-24977-to sit; fit (clothing)	
+--
+(standard input):25027:PAGE_START
+(standard input)-25028-444
+(standard input)-25029-EXAMPLES
+--
+(standard input):25095:PAGE_START
+(standard input)-25096-sollen	
+(standard input)-25097-to be; be supposed to; ought;	be said to; be expected to	
+--
+(standard input):25149:PAGE_START
+(standard input)-25150-446
+(standard input)-25151-EXAMPLES
+--
+(standard input):25213:PAGE_START
+(standard input)-25214-spalten	
+(standard input)-25215-to split, cleave	
+--
+(standard input):25271:PAGE_START
+(standard input)-25272-sparen
+(standard input)-25273-to save (money); economize	
+--
+(standard input):25329:PAGE_START
+(standard input)-25330-spazieren
+(standard input)-25331-to walk, stroll	
+--
+(standard input):25386:PAGE_START
+(standard input)-25387-spielen
+(standard input)-25388-to play; act, perform	
+--
+(standard input):25438:PAGE_START
+(standard input)-25439-451	
+(standard input)-25440-EXAMPLES
+--
+(standard input):25565:PAGE_START
+(standard input)-25566-spinnen	
+(standard input)-25567-to spin	
+--
+(standard input):25622:PAGE_START
+(standard input)-25623-sprechen
+(standard input)-25624-to speak, talk	
+--
+(standard input):25674:PAGE_START
+(standard input)-25675-Die Donauschwaben sprechen Dialekt aberdie meisten können auch die Schriftsprache
+(standard input)-25676-sprechen.
+--
+(standard input):25797:PAGE_START
+(standard input)-25798-sprengen	
+(standard input)-25799-to blow up, blast; 	break the bank (gambling)	
+--
+(standard input):25855:PAGE_START
+(standard input)-25856-sprießen
+(standard input)-25857-to sprout, bud	
+--
+(standard input):25914:PAGE_START
+(standard input)-25915-springen	
+(standard input)-25916-to jump, leap, spring; explode	
+--
+(standard input):25971:PAGE_START
+(standard input)-25972-spritzen
+(standard input)-25973-to squirt, gush	
+--
+(standard input):26028:PAGE_START
+(standard input)-26029-sprühen	
+(standard input)-26030-to sparkle; scintillate;	spray	
+--
+(standard input):26085:PAGE_START
+(standard input)-26086-spucken
+(standard input)-26087-to spit	
+--
+(standard input):26142:PAGE_START
+(standard input)-26143-spülen	
+(standard input)-26144-to rinse, flush; 	wash against, 	lap	
+--
+(standard input):26198:PAGE_START
+(standard input)-26199-spüren
+(standard input)-26200-to feel, perceive; trace,scent out	
+--
+(standard input):26255:PAGE_START
+(standard input)-26256-stattfinden	
+(standard input)-26257-to take place, happen	
+--
+(standard input):26313:PAGE_START
+(standard input)-26314-staunen
+(standard input)-26315-to be astonished, surprised, or amazed	
+--
+(standard input):26370:PAGE_START
+(standard input)-26371-stechen	
+(standard input)-26372-to sting; prick; stab	
+--
+(standard input):26427:PAGE_START
+(standard input)-26428-stecken
+(standard input)-26429-to set, plant; remain, be stuck or involved	
+--
+(standard input):26484:PAGE_START
+(standard input)-26485-stehen	
+(standard input)-26486-to stand; be located	
+--
+(standard input):26536:PAGE_START
+(standard input)-26537-470
+(standard input)-26538-EXAMPLES
+--
+(standard input):26653:PAGE_START
+(standard input)-26654-stehlen
+(standard input)-26655-to steal	
+--
+(standard input):26710:PAGE_START
+(standard input)-26711-steigen	
+(standard input)-26712-to climb; increase; rise	
+--
+(standard input):26767:PAGE_START
+(standard input)-26768-stellen
+(standard input)-26769-to put, place	
+--
+(standard input):26819:PAGE_START
+(standard input)-26820-475	
+(standard input)-26821-EXAMPLES
+--
+(standard input):26942:PAGE_START
+(standard input)-26943-sterben	
+(standard input)-26944-to die	
+--
+(standard input):26994:PAGE_START
+(standard input)-26995-478	
+(standard input)-26996-EXAMPLES
+--
+(standard input):27059:PAGE_START
+(standard input)-27060-stinken	
+(standard input)-27061-to stink	
+--
+(standard input):27117:PAGE_START
+(standard input)-27118-stöhnen
+(standard input)-27119-to groan, moan	
+--
+(standard input):27172:PAGE_START
+(standard input)-27173-stopfen	
+(standard input)-27174-to stuff; cram;constipate; darn	
+--
+(standard input):27229:PAGE_START
+(standard input)-27230-stören
+(standard input)-27231-to disturb	
+--
+(standard input):27287:PAGE_START
+(standard input)-27288-stoßen	
+(standard input)-27289-to push; shove; thrust	
+--
+(standard input):27345:PAGE_START
+(standard input)-27346-strahlen
+(standard input)-27347-to radiate; beam	
+--
+(standard input):27401:PAGE_START
+(standard input)-27402-streben
+(standard input)-27403-to strive	
+--
+(standard input):27458:PAGE_START
+(standard input)-27459-strecken
+(standard input)-27460-to stretch; extend	
+--
+(standard input):27515:PAGE_START
+(standard input)-27516-streichen	
+(standard input)-27517-to strike; cancel; paint	
+--
+(standard input):27572:PAGE_START
+(standard input)-27573-streiten
+(standard input)-27574-to quarrel, dispute	
+--
+(standard input):27630:PAGE_START
+(standard input)-27631-stricken	
+(standard input)-27632-to knit	
+--
+(standard input):27687:PAGE_START
+(standard input)-27688-studieren
+(standard input)-27689-to study; be at college	
+--
+(standard input):27743:PAGE_START
+(standard input)-27744-stürzen	
+(standard input)-27745-to plunge; fall; hurl;	overthrow	
+--
+(standard input):27801:PAGE_START
+(standard input)-27802-stutzen
+(standard input)-27803-to stop short, be startled;curtail	
+--
+(standard input):27859:PAGE_START
+(standard input)-27860-stützen	
+(standard input)-27861-to prop; support; peg	
+--
+(standard input):27915:PAGE_START
+(standard input)-27916-suchen
+(standard input)-27917-to seek, look for	
+--
+(standard input):27973:PAGE_START
+(standard input)-27974-tanken	
+(standard input)-27975-to refuel, get gasoline	
+--
+(standard input):28030:PAGE_START
+(standard input)-28031-tanzen
+(standard input)-28032-to dance	
+--
+(standard input):28087:PAGE_START
+(standard input)-28088-taugen	
+(standard input)-28089-to be of use or value, 	be worth; be good or fit for	
+--
+(standard input):28144:PAGE_START
+(standard input)-28145-toben
+(standard input)-28146-to storm; rage; rave	
+--
+(standard input):28200:PAGE_START
+(standard input)-28201-töten
+(standard input)-28202-to kill	
+--
+(standard input):28257:PAGE_START
+(standard input)-28258-tragen
+(standard input)-28259-to carry, bear; wear	
+--
+(standard input):28309:PAGE_START
+(standard input)-28310-501	
+(standard input)-28311-EXAMPLES
+--
+(standard input):28417:PAGE_START
+(standard input)-28418-trauen	
+(standard input)-28419-to trust, believe in;venture, dare; marry	
+--
+(standard input):28474:PAGE_START
+(standard input)-28475-träumen
+(standard input)-28476-to dream	
+--
+(standard input):28531:PAGE_START
+(standard input)-28532-treffen	
+(standard input)-28533-to meet; hit	
+--
+(standard input):28583:PAGE_START
+(standard input)-28584-506	
+(standard input)-28585-EXAMPLES
+--
+(standard input):28641:PAGE_START
+(standard input)-28642-treiben	
+(standard input)-28643-to drive; push; pursue	
+--
+(standard input):28698:PAGE_START
+(standard input)-28699-treten
+(standard input)-28700-to step; go; kick	
+--
+(standard input):28756:PAGE_START
+(standard input)-28757-trinken
+(standard input)-28758-to drink	
+--
+(standard input):28814:PAGE_START
+(standard input)-28815-trocknen
+(standard input)-28816-to dry	
+--
+(standard input):28871:PAGE_START
+(standard input)-28872-tropfen	
+(standard input)-28873-to drip, drop	
+--
+(standard input):28929:PAGE_START
+(standard input)-28930-trösten
+(standard input)-28931-to console	
+--
+(standard input):28986:PAGE_START
+(standard input)-28987-trotzen	
+(standard input)-28988-to defy	
+--
+(standard input):29043:PAGE_START
+(standard input)-29044-tun
+(standard input)-29045-to do; make; put; act	
+--
+(standard input):29095:PAGE_START
+(standard input)-29096-515	
+(standard input)-29097-EXAMPLES
+--
+(standard input):29173:PAGE_START
+(standard input)-29174-üben
+(standard input)-29175-Examples:
+--
+(standard input):29229:PAGE_START
+(standard input)-29230-überraschen	
+(standard input)-29231-to surprise	
+--
+(standard input):29288:PAGE_START
+(standard input)-29289-überwinden
+(standard input)-29290-to overcome, conquer	
+--
+(standard input):29344:PAGE_START
+(standard input)-29345-umstellen	
+(standard input)-29346-to shift; transpose; 	change over	
+--
+(standard input):29400:PAGE_START
+(standard input)-29401-unterbrechen
+(standard input)-29402-to interupt	
+--
+(standard input):29457:PAGE_START
+(standard input)-29458-sich unterhalten	
+(standard input)-29459-to converse; amuse oneself	
+--
+(standard input):29515:PAGE_START
+(standard input)-29516-verachten
+(standard input)-29517-to despise, scorn	
+--
+(standard input):29572:PAGE_START
+(standard input)-29573-verderben	
+(standard input)-29574-to ruin; spoil; perish	
+--
+(standard input):29627:PAGE_START
+(standard input)-29628-verdichten
+(standard input)-29629-to thicken; condense 	
+--
+(standard input):29681:PAGE_START
+(standard input)-29682-verdienen	
+(standard input)-29683-to earn; deserve	
+--
+(standard input):29736:PAGE_START
+(standard input)-29737-verdrießen
+(standard input)-29738-to annoy; displease; grieve	
+--
+(standard input):29792:PAGE_START
+(standard input)-29793-vereinigen	
+(standard input)-29794-to unite; join; assemble	
+--
+(standard input):29848:PAGE_START
+(standard input)-29849-verführen
+(standard input)-29850-to seduce	
+--
+(standard input):29905:PAGE_START
+(standard input)-29906-vergessen	
+(standard input)-29907-to forget	
+--
+(standard input):29960:PAGE_START
+(standard input)-29961-vergewaltigen
+(standard input)-29962-to do violence to; rape	
+--
+(standard input):30016:PAGE_START
+(standard input)-30017-sich verhalten	
+(standard input)-30018-to behave, act; be the case	
+--
+(standard input):30075:PAGE_START
+(standard input)-30076-verhandeln
+(standard input)-30077-to negotiate	
+--
+(standard input):30132:PAGE_START
+(standard input)-30133-verhehlen	
+(standard input)-30134-to hide, conceal	
+--
+(standard input):30187:PAGE_START
+(standard input)-30188-verkaufen
+(standard input)-30189-to sell	
+--
+(standard input):30243:PAGE_START
+(standard input)-30244-verkehren	
+(standard input)-30245-to trade, traffic; frequent, 	visit; reverse, pervert	
+--
+(standard input):30298:PAGE_START
+(standard input)-30299-verklagen
+(standard input)-30300-to accuse; sue	
+--
+(standard input):30353:PAGE_START
+(standard input)-30354-verklären	
+(standard input)-30355-to transfigure, glorify,	make radiant	
+--
+(standard input):30407:PAGE_START
+(standard input)-30408-verkommen
+(standard input)-30409-to decay, go bad	
+--
+(standard input):30462:PAGE_START
+(standard input)-30463-sich verlieben	
+(standard input)-30464-to fall in love	
+--
+(standard input):30518:PAGE_START
+(standard input)-30519-verlieren
+(standard input)-30520-to lose	
+--
+(standard input):30572:PAGE_START
+(standard input)-30573-vermehren	
+(standard input)-30574-to increase	
+--
+(standard input):30627:PAGE_START
+(standard input)-30628-vernichten
+(standard input)-30629-to annihilate; nullify	
+--
+(standard input):30682:PAGE_START
+(standard input)-30683-verraten
+(standard input)-30684-to betray	
+--
+(standard input):30738:PAGE_START
+(standard input)-30739-verrecken
+(standard input)-30740-to die, (slang)croak	
+--
+(standard input):30792:PAGE_START
+(standard input)-30793-verrichten	
+(standard input)-30794-to do, perform, execute	
+--
+(standard input):30846:PAGE_START
+(standard input)-30847-versagen
+(standard input)-30848-to refuse; fail	
+--
+(standard input):30901:PAGE_START
+(standard input)-30902-versehren	
+(standard input)-30903-to wound, hurt, damage	
+--
+(standard input):30956:PAGE_START
+(standard input)-30957-versprechen
+(standard input)-30958-to promise	
+--
+(standard input):31014:PAGE_START
+(standard input)-31015-verstehen
+(standard input)-31016-to understand	
+--
+(standard input):31069:PAGE_START
+(standard input)-31070-verstricken
+(standard input)-31071-to entangle, ensnare	
+--
+(standard input):31124:PAGE_START
+(standard input)-31125-versuchen	
+(standard input)-31126-to attempt, try; tempt;	sample	
+--
+(standard input):31179:PAGE_START
+(standard input)-31180-verwalten
+(standard input)-31181-to administer, manage	
+--
+(standard input):31234:PAGE_START
+(standard input)-31235-verwechseln	
+(standard input)-31236-to confuse; 	change by mistake	
+--
+(standard input):31291:PAGE_START
+(standard input)-31292-verweilen
+(standard input)-31293-to stay, stop, linger, tarry	
+--
+(standard input):31347:PAGE_START
+(standard input)-31348-verzehren
+(standard input)-31349-to consume	
+--
+(standard input):31402:PAGE_START
+(standard input)-31403-verzeihen
+(standard input)-31404-to pardon, forgive, excuse	
+--
+(standard input):31456:PAGE_START
+(standard input)-31457-vorkommen
+(standard input)-31458-to occur; seem;	come forth	
+--
+(standard input):31513:PAGE_START
+(standard input)-31514-vorstellen
+(standard input)-31515-to set in front of;introduce	
+--
+(standard input):31567:PAGE_START
+(standard input)-31568-wachen	
+(standard input)-31569-to be awake; keep watch; 	guard	
+--
+(standard input):31621:PAGE_START
+(standard input)-31622-wachsen
+(standard input)-31623-to grow	
+--
+(standard input):31676:PAGE_START
+(standard input)-31677-wagen
+(standard input)-31678-to dare	
+--
+(standard input):31731:PAGE_START
+(standard input)-31732-wählen
+(standard input)-31733-to choose; vote	
+--
+(standard input):31785:PAGE_START
+(standard input)-31786-währen	
+(standard input)-31787-to last	
+--
+(standard input):31839:PAGE_START
+(standard input)-31840-walten
+(standard input)-31841-to rule, govern	
+--
+(standard input):31893:PAGE_START
+(standard input)-31894-wälzen	
+(standard input)-31895-to roll, turn about	
+--
+(standard input):31947:PAGE_START
+(standard input)-31948-wandern
+(standard input)-31949-to wander, hike	
+--
+(standard input):32002:PAGE_START
+(standard input)-32003-warten	
+(standard input)-32004-to wait; service	
+--
+(standard input):32054:PAGE_START
+(standard input)-32055-568
+(standard input)-32056-EXAMPLES
+--
+(standard input):32108:PAGE_START
+(standard input)-32109-waschen	
+(standard input)-32110-Examples:
+--
+(standard input):32161:PAGE_START
+(standard input)-32162-wechseln
+(standard input)-32163-to change, exchange	
+--
+(standard input):32216:PAGE_START
+(standard input)-32217-wecken	
+(standard input)-32218-to wake, rouse	
+--
+(standard input):32271:PAGE_START
+(standard input)-32272-wehren
+(standard input)-32273-to restrain, check; prevent	
+--
+(standard input):32327:PAGE_START
+(standard input)-32328-weichen	
+(standard input)-32329-to yield, give way	
+--
+(standard input):32381:PAGE_START
+(standard input)-32382-weihen
+(standard input)-32383-to consecrate; ordain; devote	
+--
+(standard input):32435:PAGE_START
+(standard input)-32436-weinen	
+(standard input)-32437-to weep, cry	
+--
+(standard input):32489:PAGE_START
+(standard input)-32490-weisen
+(standard input)-32491-to point out, show	
+--
+(standard input):32545:PAGE_START
+(standard input)-32546-wenden	
+(standard input)-32547-to turn	
+--
+(standard input):32600:PAGE_START
+(standard input)-32601-werben
+(standard input)-32602-to recruit; woo; court; solicit	
+--
+(standard input):32655:PAGE_START
+(standard input)-32656-werden	
+(standard input)-32657-to become; shall or 	will†;be††	
+--
+(standard input):32713:PAGE_START
+(standard input)-32714-580
+(standard input)-32715-EXAMPLES
+--
+(standard input):32766:PAGE_START
+(standard input)-32767-werfen	
+(standard input)-32768-throw, hurl, fling	
+--
+(standard input):32817:PAGE_START
+(standard input)-32818-EXAMPLES
+(standard input)-32819-Wirf mir den Ball!
+--
+(standard input):32941:PAGE_START
+(standard input)-32942-wetzen
+(standard input)-32943-to whet; 	sharpen
+--
+(standard input):32995:PAGE_START
+(standard input)-32996-widmen	
+(standard input)-32997-to dedicate; devote	
+--
+(standard input):33050:PAGE_START
+(standard input)-33051-wiederholen
+(standard input)-33052-to repeat	
+--
+(standard input):33104:PAGE_START
+(standard input)-33105-wiederholen	
+(standard input)-33106-to bring/fetch back	
+--
+(standard input):33161:PAGE_START
+(standard input)-33162-wiegen
+(standard input)-33163-to weigh	
+--
+(standard input):33218:PAGE_START
+(standard input)-33219-wissen	
+(standard input)-33220-to know (a fact)	
+--
+(standard input):33270:PAGE_START
+(standard input)-33271-590
+(standard input)-33272-EXAMPLES
+--
+(standard input):33335:PAGE_START
+(standard input)-33336-wohnen	
+(standard input)-33337-to reside, live, dwell	
+--
+(standard input):33386:PAGE_START
+(standard input)-33387-592
+(standard input)-33388-EXAMPLES
+--
+(standard input):33445:PAGE_START
+(standard input)-33446-wühlen	
+(standard input)-33447-Examples:
+--
+(standard input):33500:PAGE_START
+(standard input)-33501-wünschen
+(standard input)-33502-to wish; desire	
+--
+(standard input):33554:PAGE_START
+(standard input)-33555-würzen	
+(standard input)-33556-to spice, season	
+--
+(standard input):33609:PAGE_START
+(standard input)-33610-zahlen
+(standard input)-33611-to pay	
+--
+(standard input):33663:PAGE_START
+(standard input)-33664-zeichnen
+(standard input)-33665-to draw; sign	
+--
+(standard input):33719:PAGE_START
+(standard input)-33720-zeigen
+(standard input)-33721-to show, indicate, point out	
+--
+(standard input):33773:PAGE_START
+(standard input)-33774-zerstören	
+(standard input)-33775-to destroy	
+--
+(standard input):33828:PAGE_START
+(standard input)-33829-ziehen
+(standard input)-33830-to pull, draw; go, move*	
+--
+(standard input):33881:PAGE_START
+(standard input)-33882-603	
+(standard input)-33883-EXAMPLES
+--
+(standard input):34076:PAGE_START
+(standard input)-34077-zwingen
+(standard input)-34078-to force, compel	

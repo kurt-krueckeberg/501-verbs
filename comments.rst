@@ -1,27 +1,9 @@
-Bugs & Design
-=============
+TODO
+====
 
-preg_match seems to work find with lines that are "utf-8" will work fine with the prg_match() functions. So:
-
-* Read this `Character Encoding for PHP Developers: Unicode, UTF-8 and ASCII <https://www.honeybadger.io/blog/php-character-encoding-unicode-utf8-ascii/>`_
-* Check with lots of examples that the preg_matches() do wha they should with both asii and utf-8 input.
-* Double check that bineary_search() works correct by testing examples.
-
-Unicode-relate problems:
-------------------------
-   
-binary search evidently doesn't work--and maybe the string functions (not sure about preg_match)--because of Unicode!?
-Does preg_match work correctly with unicode strings? See:
-
-* `Article about PHP 7 and Unicode  <https://alanstorm.com/php-and-unicode/>`_
-
-* See the 'u' regex flag to do unicode regex comparisons: '/regex_here/u'
- 
-Then use the solution in pdf-extractor.php and insert-definitions.php.
-
-Notes:
-
- `p{L}` and `\p{N}` are Unicode property shortcuts. `\p{L}` stands for a Unicode letters, and `\p{N}` stands for Unicode digit(s).
+Get expanded definitions from output-pdf.txt. For most lines the definition immediately follows the infinitive. For those lines where it doesn't, add it!
+So we will NOT rely on the definitions in dict.php, in $dict[]. Instead we will rewrite or overwrite them. For Prefix Verbs, we already are getting the 
+definitions from output-pdf.txt and no change is needed..
 
 Resources:
 ---------
@@ -29,7 +11,6 @@ Resources:
 `Character Encoding for PHP Developers: Unicode, UTF-8 and ASCII <https://www.honeybadger.io/blog/php-character-encoding-unicode-utf8-ascii/>`_
 `regex and unicode <ttps://www.regular-expressions.info/unicode.html>`_
 
-Design:
 
 What info from results.txt do I want as flashcards?
 
