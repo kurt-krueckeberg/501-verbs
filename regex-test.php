@@ -49,7 +49,7 @@ function advance_to($regex, $ifile)
 
       $line = get_line($ifile);
        
-      if (1 == preg_match_u($regex, $line)) 
+      if (1 == preg_match($regex, $line)) 
               break;
  }
 }
@@ -77,7 +77,7 @@ function get_PrincipleParts($lines, $start_index)
           
   for ($i = $start_index; $i < count($lines); ++$i) {
         
-        if (1 === preg_match_u($regex_start, $lines[$i], $matches)) 
+        if (1 === preg_match($regex_start, $lines[$i], $matches)) 
             $pp = $matches[1];
   }
   
@@ -96,22 +96,13 @@ class NoType2ExamplesException extends Exception {
       parent::__construct($msg, $code, $previous);
   }  
 };
- // append 'u' to regex if the $str is encoded as utf-8.
-function preg_match_u($regex, $str, array &$matches = null) 
-{
-     $regex .= (strpos(mb_detect_encoding($str), "UTF") === 0) ? 'u' : ''; 
-
-     return preg_match($regex, $str, $matches);
-}
  
 function get_infinitive($line)
 {
     $infinitive = ''; 
     $regex_verb = '/^((?:[a-zöäüß]{3,}\s?)+)\s*$/'; // verb may come in several parts.
-     
-    $regex_verb .= (strpos(mb_detect_encoding($line), "UTF") == 0) ? 'u' : ''; // If UTF-8 encoding, then append 'u'; although it doesn't seem to matter.
-        
-    if (1 === preg_match_u($regex_verb, $line, $matches)) {
+         
+    if (1 === preg_match($regex_verb, $line, $matches)) {
 
         for ($i = 1; $i < count($matches); ++$i) {
          
@@ -144,12 +135,12 @@ function get_Examples_type1(array $lines, $index)
         
     for ($i = $index; $i < count($lines); ++$i) {
         
-        if (1 === preg_match_u($regex_start, $lines[$i], $matches)) {
+        if (1 === preg_match($regex_start, $lines[$i], $matches)) {
 
             for(++$i; $i < count($lines); ++$i) {
 
                 // Get all the example sentences.
-               if (0 === preg_match_u($regex_end, $lines[$i], $matches)) {
+               if (0 === preg_match($regex_end, $lines[$i], $matches)) {
             
                     //$examples .= $lines[$i];
                     $examples .= adjust_line($lines[$i]);
@@ -176,14 +167,14 @@ function get_Examples_type2(array $lines, $index)
         
     for ($i = $index; $i < count($lines); ++$i) {
         
-        if (1 === preg_match_u($regex_start, $lines[$i])) {
+        if (1 === preg_match($regex_start, $lines[$i])) {
             
             $examples = '';
 
             for(++$i; $i < count($lines); ++$i) {
 
                 // Get all the example sentences.
-               if (0 === preg_match_u($regex_end, $lines[$i], $matches)) {
+               if (0 === preg_match($regex_end, $lines[$i], $matches)) {
                    
                    $examples .= adjust_line($lines[$i]);
                                        
@@ -247,9 +238,9 @@ function parsePrefixVerb($page, $index, $regex_end)
 
  $results = [];
 
- for (; 0 === preg_match_u($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
+ for (; 0 === preg_match($regex_end, $page[$index]); ++$index)  { // Loop until terminating line found
      
-    if (1 === preg_match_u($regex_verbDefn, $page[$index], $matches)) {  // Is this line a verb-definition?
+    if (1 === preg_match($regex_verbDefn, $page[$index], $matches)) {  // Is this line a verb-definition?
        
         if ($verb !== '') { // If this is not first verb encountered, insert the prior verb results into the array.
                       
@@ -278,64 +269,44 @@ function parsePrefixVerb($page, $index, $regex_end)
 }
 
 $ifile = fopen("./output-pdf.txt", "r");
-$ofile = fopen("./results.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
 while(!feof($ifile)) {
   
    $page = get_page($ifile); // page is a string with '\n' separating each 'line' within it.
-
+  
    if (count($page) == 1 && empty($page[0]))
         break;
 
+   foreach ($page as $line) {
+
+
+        if (strpos($enc, "UTF") === 0) {
+
+                // This should always find words of at least three characters.  
+                $regex_verb = '/(hätte)\s/'; // verb may come in several parts.
+         
+    		if (1 === preg_match($regex_verb, $line, $matches)) {
+
+                     $m1 = $matches[1];
+
+               	     $debug = 10;
+                } 
+               ++$debug;  
+        } else {
+            
+              $debug = 11;
+        }
+     
+   }
    $infinitive = '';
    $principle_parts = '';
    $examples = '';
    $prefix_verbs = [];
    
    try {
-     
-      $infinitive = get_infinitive($page[0]);
-       
-      $principle_parts = get_PrincipleParts($page, 1);
-      
-      list($rc, $mainVerb_examples) = get_Examples_type1($page, 1);
-
-      if ($rc === false) {
-          
-          $page = get_page($ifile);
-          list($mainVerb_examples, $index) = get_Examples_type2($page, 0);
-          
-          /* 
-            get_prefixVerbs returns an associative array of the form:
-
-	 	$a['sep']  => { 0 => the definition of the verb, 1 => A string of examples sentences. }
-	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
-           */
-          if (($index + 1)< count($page))
-                $prefix_verbs = get_prefixVerbs($page, $index + 1);  
-      }
-      
-      $output = $infinitive . ' | ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
-
-      if (count($prefix_verbs)) {
-
-          foreach($prefix_verbs as $prefix_type => $verbs) {
-       
-             $prefix_4output = ($prefix_type[0] == 's') ? "SEP:" : "INSEP:";
-             
-             foreach($verbs as $verb => $array) {
-                          
-                $output .= $prefix_4output . " | ". $verb . " | ". $array[0] . " | " . $array[1] . "\n"; 
-             }
-          }
-      }
-      
-      $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
-      
-      fputs($ofile, $output);
-        
+  
    } catch (Exception $e) {
        echo "Exception for Infinitive: " . $infinitive . "\n";    
        echo $e->getMessage() . "\n";
