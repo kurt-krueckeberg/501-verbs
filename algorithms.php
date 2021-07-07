@@ -14,7 +14,7 @@
  *   is larger than all elements in the array.
  */
 
-function binary_search_(array $a, $first, $last, $key, $compare)
+function binary_search_(array $a, $first, $last, $key, $comparator)
 {
     $lo = $first; 
     $hi = $last - 1;
@@ -23,7 +23,7 @@ function binary_search_(array $a, $first, $last, $key, $compare)
 
         $mid = (int)(($hi - $lo) / 2) + $lo;
    
-        $cmp = call_user_func($compare, $a[$mid], $key);
+        $cmp = $compartor($a[$mid], $key);
 
         if ($cmp < 0) {
             
@@ -41,7 +41,7 @@ function binary_search_(array $a, $first, $last, $key, $compare)
     return false;
 }
 
-function binary_search(array $a, $key)
+function binary_search(array $a, $key, $comparator)
 {
   return binary_search_($a, 0, count($a), $key, 'strcmp');
 }

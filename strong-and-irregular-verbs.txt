@@ -244,7 +244,6 @@ umbringen
 umziehen
 unterbrechen
 sich unterhalten
-RESUME
 unterlassen
 unterliegen
 unterscheiden
@@ -260,13 +259,11 @@ vergessen
 sich verhalten
 verkommen
 verlassen
-sich verlieben
 verlieren
 vermeiden
 vernehmen
 verraten
 verrecken
-verrichten
 verschlingen
 verschwinden
 versehen
@@ -277,65 +274,34 @@ vertreiben
 vertreten
 verwenden
 verwerfen
-RESUME
-verwöhnen
-verzehren
 verzeihen
 vollziehen
 vorhaben
 vorkommen
 vorschlagen
 vorstellen
-sich vorstellen
 vorziehen
-wachenbe
 wachsen
-wagen
-wählen
-währen
 wahrnehmen
-walten
-wälzen
 wandern
-warten
 waschen
-wechseln
-wecken
 weggehen
-wehren
 weichen
-weihen
-weinen
 weisen
 wenden
 werben
 werden
 werfen
-wetzen
-widerlegen
 widersprechen
-widmen
-wiederholen
-wiederholen
 wiegen
 wissen
-wohnen
 wollen
-wühlen
-wünschen
-würzen
-zahlen
 zählen
-zeichnen
-zeigen
-zerstören
 ziehen
 zugeben
-zumachen
 zunehmen
 zurückbringen
 zurückweisen
-zusagen
 zusehen
 sich zutragen
 zwingen

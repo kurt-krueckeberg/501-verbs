@@ -1,0 +1,186 @@
+anfangen|anfangen, fängt an, fing an, angefangen
+ankommen|ankommen, kommt an	matter, kam an, ist angekommen
+aufhalten|aufhalten, hält auf, hielt auf, aufgehalten
+aufmachen|aufmachen, macht auf, machte auf, aufgemacht
+ausgeben|ausgeben, gibt aus, gab aus, ausgegeben
+auskommen|auskommen, kam aus,
+backen|backen, bäckt, buk (backte), gebacken
+baden|baden, badet, badete, gebadet
+befehlen|befehlen, befiehlt, befahl, befohlen
+begegnen|begegnen, begegnet, begegnete, ist begegnet
+beginnen|beginnen, beginnt, begann, begonnen
+behalten|behalten, behält, behielt, behalten
+beißen|beißen, beißt, biss, gebissen
+bekommen|bekommen, bekommt, bekam, bekommen
+bersten|bersten, birst, barst, ist geborsten
+besitzen|besitzen, besitzt, besaß, besessen
+bestehen|bestehen, besteht, bestand, bestanden
+beten|beten, betet, betete, gebetet
+blasen|blasen, bläst, blies, geblasen
+bleiben|bleiben, bleibt, blieb, ist geblieben
+braten|braten, brät, briet, gebraten
+brauchen|brauchen, braucht, brauchte, gebraucht
+brechen|brechen, bricht, brach, gebrochen
+brennen|brennen, brennt, brannte, gebrannt
+bringen|bringen, bringt, brachte, gebracht
+danken|danken, dankt, dankte, gedankt
+denken|denken, denkt, dachte, gedacht
+dürfen|dürfen, darf, durfte, gedurft
+empfangen|empfangen, empfängt, empfing, empfangen
+empfehlen|empfehlen, empfiehlt, empfahl, empfohlen
+enthalten|enthalten, enthält, enthielt, enthalten
+entkommen|entkommen, entkommt, entkam, ist entkommen
+entscheiden|entscheiden, entscheidet, entschied, entschieden
+erfahren|erfahren, erfährt, erfuhr, erfahren
+erfinden|erfinden, erfindet, erfand, erfunden
+erhalten|erhalten, erhält, erhielt, erhalten
+erlöschen|erlöschen, erlischt, erlosch, ist erloschen
+essen|essen, isst, aß, gegessen
+fahren|fahren, fährt, fuhr, ist gefahren
+fallen|fallen, fällt, fiel, ist gefallen
+fangen|fangen, fängt, fing, gefangen
+finden|finden, findet, fand, gefunden
+fliegen|fliegen, fliegt, flog, ist geflogen
+fliehen|fliehen, flieht, floh, ist geflohen
+fließen|fließen, fliest, floss, ist geflossen
+fressen|fressen, frisst, fraß, gefressen
+frieren|frieren, friert, fror, gefroren
+gebrauchen|gebrauchten, gebraucht, gebrauchte, gebraucht
+gefallen|gefallen, gefällt, gefiel, gefallen
+geliebt werden|geliebt werden, wurde geliebt,
+gelingen|gelingen, gelingt, gelang, ist gelungen
+gelten|gelten, gilt, galt, gegolten
+genesen|genesen, genest, genas, ist genesen
+genießen|genießen, genießt, genoss, genossen
+geraten|geraten, gerät, geriet, ist geraten
+geschehen|geschehen, geschah, ist geschehen
+gewinnen|gewinnen, gewinnt, gewann, gewonnen
+gießen|gießen, gießt, goss, gegossen
+gleichen|gleichen, gleicht, glich, geglichen
+gleiten|gleiten, gleitet, glitt, ist geglitten
+glimmen|glimmen, glimmt, glomm, geglommen
+graben|graben, gräbt, grub, gegraben
+greifen|greifen, greift, griff, gegriffen
+grollen|grollen, grollt, grollte, gegrollt
+haben|haben, hat, hatte, gehabt
+halten|halten, hält, hielt, gehalten
+heben|heben, hebt, hob, gehoben
+heißen|heißen, heißt, hieß, geheißen
+helfen|helfen, hilft, half, geholfen
+kennen|kennen, kennt, kennte, gekannt
+kennenlernen|kennenlernen, lernte kennen,
+klingen|klingen, klingt, klang, geklungen
+kneifen|kneifen, kneift, kniff, gekniffen
+knüpfen|knüpfen, knüpft, knüpfte, geknüpft
+kochen|kochen, kocht, kockte, gekocht
+kommen|kommen, kommt, kam, ist gekommen
+können|können, konnte, gekonnt (können when
+laden|laden, lädt, lud (ladete), geladen
+landen|landen, landet, landete, gelandet*
+lassen|lassen, lässt, ließ, gelassen
+laufen|laufen, läuft, lief, ist gelaufen
+lehren|lehren, lehrt, lehrte, gelehrt
+leiden|leiden, leidet, litt, gelitten
+leihen|leihen, leiht, lieh, geliehen
+lesen|lesen, liest, las, gelesen
+liegen|liegen, liegt, lag, gelegen
+lügen|lügen, lügt, log, gelogen
+messen|messen, misst, maß, gemessen
+mögen|mögen, when, mochte, gemocht (mögen
+müssen|müssen, when, musste, gemusst (müssen
+nehmen|nehmen, nimmt, nahm, genommen
+nennen|nennen, nennt, nannte, genannt
+nützen|nützen, nützt, nützte, genützt
+passieren|passieren, passiert, passierte, ist passiert
+pfeifen|pfeifen, pfeift, pfiff, gepfiffen
+quellen|quellen, quillt, quoll, ist gequollen
+raten|raten, rät, riet, geraten
+reiben|reiben, reibt, rieb, gerieben
+reiten|reite, reitet, ritt, ist geritten
+rennen|rennen, rennt, rannte, ist gerannt
+retten|retten, rettet, rettete, gerettet
+richten|richten, richtet, richtete, gerichtet
+riechen|riechen, riecht, roch, gerochen
+ringen|ringen, ringt, rang, gerungen
+rinnen|rinnen, rinnt, rann, ist geronnen
+rufen|rufen, ruft, rief, gerufen
+saufen|saufen, säuft, soff, gesoffen
+saugen|saugen, saugt, sog, gesogen
+schaffen|schaffen, schafft, schuf, geschaffen
+scheinen|scheinen, scheint, schien, geschienen
+schelten|schelten, schilt, schalt, gescholten
+schieben|schieben, schiebt, schob, geschoben
+schießen|schießen, schießt, schoss, geschossen
+schlafen|schlafen, schläft, schlief, geschlafen
+schlagen|schlagen, schlägt, schlug, geschlagen
+schleichen|schleichen, schleicht, schlich, ist geschlichen
+schleifen|schleifen, schleift, schliff, geschliffen
+schlichten|schlichten, schlichtet, schlichtete, geschlichtet
+schließen|schließen, schließt, schloss, geschlossen
+schlingen|schlingen, schlingt, schlang, geschlungen
+schlüpfen|schlüpfen, schlüpft, schlüpfte, ist geschlüpft
+schmeißen|schmeißen, schmeißt, schmiss, geschmissen
+schmelzen|schmelzen, schmilzt, schmolz, *ist geschmolzen
+schneiden|schneiden, schneidet, schnitt, geschnitten
+schreiben|schreiben, schreibt, schrieb, geschrieben
+schreien|schreien, schreit, schrie, geschrie(e)n
+schreiten|schreiten, schreitet, schritt, ist geschritten
+schweigen|schweigen, schweigt, schwieg, geschwiegen
+schwellen|schwellen, schwillt, schwoll, ist geschwollen
+schwimmen|schwimmen, schwimmt, schwamm, ist geschwommen
+schwinden|schwinden, schwindet, schwand, ist geschwunden
+schwingen|schwingen, schwingt, schwang, geschwungen
+schwören|schwören, schwört, schwur, geschworen
+sehen|sehen, sieht, sah, gesehen
+senden|senden, sendet, sandte, gesandt
+sich setzen|sich setzen, setzt sich, setzte sich, hat sich gesetzt
+singen|singen, singt, sang, gesungen
+sinken|sinken, sinkt, sank, ist gesunken
+sinnen|sinnen, sinnt, sann, gessonnen
+sitzen|sitzen, sitzt, saß, gesessen
+sollen|sollen, sollte, gesollt (sollen
+spalten|spalten, spaltet, spaltete, gespalten*
+spazieren|spazieren, spaziert, spaziert, ist spaziert
+spinnen|spinnen, spinnt, spann, gesponnen
+sprechen|sprechen, spricht, sprach, gesprochen
+sprießen|sprießen, sprießt, spross, ist gesprossen
+springen|springen, springt, sprang, ist gesprungen
+stattfinden|stattfinden, findet statt, fand statt, stattgefunden
+stechen|stechen, sticht, stach, gestochen
+stehen|stehen, steht, stand, gestanden
+stehlen|stehlen, stiehlt, stahl, gestohlen
+steigen|steigen, steigt, stieg, ist gestiegen
+sterben|sterben, stirbt, starb, ist gestorben
+stinken|stinken, stinkt, stank, gestunken
+stoßen|stoßen, stößt, stieß, gestoßen
+streichen|streichen, streicht, strich, gestrichen
+streiten|streiten, streitet, stritt, gestritten
+stricken|stricken, strickt, strickte, gestrickt
+tragen|tragen, trägt, trug, getragen
+treffen|treffen, trifft, traf, getroffen
+treiben|treiben, treibt, trieb, getrieben
+treten|treten, tritt, trat, ist getreten
+trinken|trinken, trinkt, trank, getrunken
+tun|tun, tut, tat, getan
+verkommen|verkommen, verkommt, verkam, ist verkommen
+verlieren|verlieren, verliert, verlor, verloren
+verraten|verraten, verrät, verriet, verraten
+verrecken|verrecken, verreckt, verreckte, ist verreckt
+versprechen|versprechen, verspricht, versprach, versprochen
+verstehen|verstehen, versteht, verstand, verstanden
+verzeihen|verzeihen, verzeiht, verzieh, verziehen
+vorkommen|vorkommen, kommt vor, kam vor, ist vorgekommen
+vorstellen|vorstellen, stellt vor, stellte vor, vorgestellt
+wachsen|wachsen, wächst, wuchs, ist gewachsen
+wandern|wandern, wandert, wanderte, ist gewandert
+waschen|waschen, wäscht, wusch, gewaschen
+weichen|weichen, weicht, wich, ist gewichen
+weisen|weisen, weist, wies, gewiesen
+wenden|wenden, wendet, wandte, gewandt
+werben|werben, wirbt, warb, geworben
+werden|werden, wird, wurde, ist geworden
+werfen|werfen, wirft, warf, geworfen
+wiegen|wiegen, wiegt, wog, gewogen
+wissen|wissen, weiß, wusste, gewusst
+ziehen|ziehen, zieht, zog, gezogen
+zwingen|zwingen, zwingt, zwang, gezwungen

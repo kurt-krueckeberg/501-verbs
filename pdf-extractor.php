@@ -169,22 +169,22 @@ function get_Examples_type2(array $lines, $index)
         
         if (1 === preg_match($regex_start, $lines[$i])) {
             
-            $examples_ = '';
+            $examples = '';
 
             for(++$i; $i < count($lines); ++$i) {
 
                 // Get all the example sentences.
                if (0 === preg_match($regex_end, $lines[$i], $matches)) {
                    
-                    // Don't copy the '\n' at the end of each $lines[$i]        .
-                    //$examples_ .= substr($lines[$i], 0, -1);
-                   $examples_ .= adjust_line($lines[$i]);
+                   $examples .= adjust_line($lines[$i]);
                                        
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
                     
-                    $examples_ = preg_replace('/\n/', ' ', $examples_);  // replace '\n' with a space.
-                    
-                    return array($examples_, $i);
+                    $examples = preg_replace('/\n/', ' ', $examples);  // replace '\n' with a space. 
+                    $examples = preg_replace('/\s\s+/', ' ', $examples); // remove double spaces
+                    $examples = preg_replace('/,,/', '„', $examples); // remove non-german introductory quote with correct introd. quote.
+
+                    return array($examples, $i);
                 }
             }
         }
