@@ -1,20 +1,11 @@
 <?php
+declare(strict_types = 1);
 
 /*
- * Parameters: 
- *   $a - The sort array.
- *   $first - First index of the array to be searched (inclusive).
- *   $last - Last index of the array to be searched (exclusive).
- *   $key - The key to be searched for.
- *   $compare - A user defined function for comparison. Same definition as the one in usort
- *
- * Return:
- *   index of the search key if found, otherwise return (-insert_index - 1). 
- *   insert_index is the index of smallest element that is greater than $key or sizeof($a) if $key
- *   is larger than all elements in the array.
+ * $comparator can be either a lambda or a binary predicate object.
+ * Note: Type 'object' can be used in place of 'callable' without code breaking.
  */
-
-function binary_search_(array $a, $first, $last, $key, $comparator)
+function binary_search_(array $a, int $first, int $last, string $key, callable $comparator)
 {
     $lo = $first; 
     $hi = $last - 1;
@@ -23,7 +14,7 @@ function binary_search_(array $a, $first, $last, $key, $comparator)
 
         $mid = (int)(($hi - $lo) / 2) + $lo;
    
-        $cmp = $compartor($a[$mid], $key);
+        $cmp = $comparator($a[$mid], $key);
 
         if ($cmp < 0) {
             
@@ -41,7 +32,7 @@ function binary_search_(array $a, $first, $last, $key, $comparator)
     return false;
 }
 
-function binary_search(array $a, $key, $comparator)
+function binary_search(array $a, string $key, callable $comparator)
 {
-  return binary_search_($a, 0, count($a), $key, 'strcmp');
+  return binary_search_($a, 0, count($a), $key, $comparator); 
 }
