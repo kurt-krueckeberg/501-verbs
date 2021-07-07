@@ -5774,7 +5774,7 @@ IMPERATIVE	: brenne!, brennt!, brennen Sie!
 PAGE_END
 PAGE_START
 bringen	
-to bring; present; take (convey); 	put; achieve, accomplish	
+to bring; present; take (convey); put; achieve, accomplish	
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichbringe bringe brächte
@@ -13912,6 +13912,7 @@ You misjudge my intentions.
 PAGE_END
 PAGE_START
 kennenlernen
+to get to know; meet; become acquainted with
 Examples:
 Lulu hat er zuerst in Paris kennengelernt. In Amsterdam glaubte er, sie erkannt zu
 haben. Aber sie wollte sich nicht zu erkennen geben. He met Lulu in Paris first. He thought he 
@@ -14632,9 +14633,7 @@ It was finally our turn.
 PAGE_END
 PAGE_START
 können
-to be able (can); 
-to know (a language 
-or how to do something)	
+to be able (can); to know (a language or how to do something)	
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichkann könne könnte
@@ -16922,6 +16921,7 @@ These goods are subject to customs duty.
 PAGE_END
 PAGE_START
 loben
+to praise
 Examples:
 Nachdem die anderen Ritter die Keuschheit gelobt hatten, sang Tannhäuser eine
 Lobeshymne auf Venus. After the other knights had praised chasity, Tannhäuser sang a hymn of 
@@ -18031,6 +18031,7 @@ Müssen
 PAGE_END
 PAGE_START
 nagen
+to gnaw, nibble
 320
 Examples:
 Der Dichter musste am Hungertuch nagen, weil keiner seine Gedichte kaufte. 
@@ -18426,6 +18427,7 @@ Reißaus nehmen—to clear out fast
 PAGE_END
 PAGE_START
 nennen	
+to name. call
 Principle Parts: nennen, nannte, genannt, nennt	to name, call	
 IMPERATIVE	: nenne!, nennt!, nennen Sie!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
@@ -18829,7 +18831,7 @@ IMPERATIVE	: passe! passt, passen Sie!
 PAGE_END
 PAGE_START
 passieren
-to happen, take place;pass*	
+to happen, take place;
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichpassiere passiere passierte
@@ -21254,7 +21256,7 @@ your health. Pity you refuse to recognize that.” Schadentakaes a dative object
 PAGE_END
 PAGE_START
 schaffen
-to create*	
+to create	
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichschaffe schaffe schüfe
@@ -24746,7 +24748,7 @@ IMPERATIVE	:siede!, siedet!, sieden Sie!
 PAGE_END
 PAGE_START
 siegen	
-to conquer, triumph,	be victorious	
+to conquer, triumph, be victorious	
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichsiege siege siegte
