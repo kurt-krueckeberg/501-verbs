@@ -1,186 +1,185 @@
-anfangen|anfangen, fängt an, fing an, angefangen
-ankommen|ankommen, kommt an, kam an, ist angekommen
-aufhalten|aufhalten, hält auf, hielt auf, aufgehalten
-aufmachen|aufmachen, macht auf, machte auf, aufgemacht
-ausgeben|ausgeben, gibt aus, gab aus, ausgegeben
-auskommen|auskommen, kam aus,
-backen|backen, bäckt, buk (backte), gebacken
-baden|baden, badet, badete, gebadet
-befehlen|befehlen, befiehlt, befahl, befohlen
-begegnen|begegnen, begegnet, begegnete, ist begegnet
-beginnen|beginnen, beginnt, begann, begonnen
-behalten|behalten, behält, behielt, behalten
-beißen|beißen, beißt, biss, gebissen
-bekommen|bekommen, bekommt, bekam, bekommen
-bersten|bersten, birst, barst, ist geborsten
-besitzen|besitzen, besitzt, besaß, besessen
-bestehen|bestehen, besteht, bestand, bestanden
-beten|beten, betet, betete, gebetet
-blasen|blasen, bläst, blies, geblasen
-bleiben|bleiben, bleibt, blieb, ist geblieben
-braten|braten, brät, briet, gebraten
-brauchen|brauchen, braucht, brauchte, gebraucht
-brechen|brechen, bricht, brach, gebrochen
-brennen|brennen, brennt, brannte, gebrannt
-bringen|bringen, bringt, brachte, gebracht
-danken|danken, dankt, dankte, gedankt
-denken|denken, denkt, dachte, gedacht
-dürfen|dürfen, darf, durfte, gedurft
-empfangen|empfangen, empfängt, empfing, empfangen
-empfehlen|empfehlen, empfiehlt, empfahl, empfohlen
-enthalten|enthalten, enthält, enthielt, enthalten
-entkommen|entkommen, entkommt, entkam, ist entkommen
-entscheiden|entscheiden, entscheidet, entschied, entschieden
-erfahren|erfahren, erfährt, erfuhr, erfahren
-erfinden|erfinden, erfindet, erfand, erfunden
-erhalten|erhalten, erhält, erhielt, erhalten
-erlöschen|erlöschen, erlischt, erlosch, ist erloschen
-essen|essen, isst, aß, gegessen
-fahren|fahren, fährt, fuhr, ist gefahren
-fallen|fallen, fällt, fiel, ist gefallen
-fangen|fangen, fängt, fing, gefangen
-finden|finden, findet, fand, gefunden
-fliegen|fliegen, fliegt, flog, ist geflogen
-fliehen|fliehen, flieht, floh, ist geflohen
-fließen|fließen, fliest, floss, ist geflossen
-fressen|fressen, frisst, fraß, gefressen
-frieren|frieren, friert, fror, gefroren
-gebrauchen|gebrauchten, gebraucht, gebrauchte, gebraucht
-gefallen|gefallen, gefällt, gefiel, gefallen
-geliebt werden|geliebt werden, wurde geliebt,
-gelingen|gelingen, gelingt, gelang, ist gelungen
-gelten|gelten, gilt, galt, gegolten
-genesen|genesen, genest, genas, ist genesen
-genießen|genießen, genießt, genoss, genossen
-geraten|geraten, gerät, geriet, ist geraten
-geschehen|geschehen, geschah, ist geschehen
-gewinnen|gewinnen, gewinnt, gewann, gewonnen
-gießen|gießen, gießt, goss, gegossen
-gleichen|gleichen, gleicht, glich, geglichen
-gleiten|gleiten, gleitet, glitt, ist geglitten
-glimmen|glimmen, glimmt, glomm, geglommen
-graben|graben, gräbt, grub, gegraben
-greifen|greifen, greift, griff, gegriffen
-grollen|grollen, grollt, grollte, gegrollt
-haben|haben, hat, hatte, gehabt
-halten|halten, hält, hielt, gehalten
-heben|heben, hebt, hob, gehoben
-heißen|heißen, heißt, hieß, geheißen
-helfen|helfen, hilft, half, geholfen
-kennen|kennen, kennt, kennte, gekannt
-kennenlernen|kennenlernen, lernte kennen,
-klingen|klingen, klingt, klang, geklungen
-kneifen|kneifen, kneift, kniff, gekniffen
-knüpfen|knüpfen, knüpft, knüpfte, geknüpft
-kochen|kochen, kocht, kockte, gekocht
-kommen|kommen, kommt, kam, ist gekommen
-können|können, konnte, gekonnt (können when
-laden|laden, lädt, lud (ladete), geladen
-landen|landen, landet, landete, gelandet*
-lassen|lassen, lässt, ließ, gelassen
-laufen|laufen, läuft, lief, ist gelaufen
-lehren|lehren, lehrt, lehrte, gelehrt
-leiden|leiden, leidet, litt, gelitten
-leihen|leihen, leiht, lieh, geliehen
-lesen|lesen, liest, las, gelesen
-liegen|liegen, liegt, lag, gelegen
-lügen|lügen, lügt, log, gelogen
-messen|messen, misst, maß, gemessen
-mögen|mögen, when, mochte, gemocht (mögen
-müssen|müssen, when, musste, gemusst (müssen
-nehmen|nehmen, nimmt, nahm, genommen
-nennen|nennen, nennt, nannte, genannt
-nützen|nützen, nützt, nützte, genützt
-passieren|passieren, passiert, passierte, ist passiert
-pfeifen|pfeifen, pfeift, pfiff, gepfiffen
-quellen|quellen, quillt, quoll, ist gequollen
-raten|raten, rät, riet, geraten
-reiben|reiben, reibt, rieb, gerieben
-reiten|reite, reitet, ritt, ist geritten
-rennen|rennen, rennt, rannte, ist gerannt
-retten|retten, rettet, rettete, gerettet
-richten|richten, richtet, richtete, gerichtet
-riechen|riechen, riecht, roch, gerochen
-ringen|ringen, ringt, rang, gerungen
-rinnen|rinnen, rinnt, rann, ist geronnen
-rufen|rufen, ruft, rief, gerufen
-saufen|saufen, säuft, soff, gesoffen
-saugen|saugen, saugt, sog, gesogen
-schaffen|schaffen, schafft, schuf, geschaffen
-scheinen|scheinen, scheint, schien, geschienen
-schelten|schelten, schilt, schalt, gescholten
-schieben|schieben, schiebt, schob, geschoben
-schießen|schießen, schießt, schoss, geschossen
-schlafen|schlafen, schläft, schlief, geschlafen
-schlagen|schlagen, schlägt, schlug, geschlagen
-schleichen|schleichen, schleicht, schlich, ist geschlichen
-schleifen|schleifen, schleift, schliff, geschliffen
-schlichten|schlichten, schlichtet, schlichtete, geschlichtet
-schließen|schließen, schließt, schloss, geschlossen
-schlingen|schlingen, schlingt, schlang, geschlungen
-schlüpfen|schlüpfen, schlüpft, schlüpfte, ist geschlüpft
-schmeißen|schmeißen, schmeißt, schmiss, geschmissen
-schmelzen|schmelzen, schmilzt, schmolz, *ist geschmolzen
-schneiden|schneiden, schneidet, schnitt, geschnitten
-schreiben|schreiben, schreibt, schrieb, geschrieben
-schreien|schreien, schreit, schrie, geschrie(e)n
-schreiten|schreiten, schreitet, schritt, ist geschritten
-schweigen|schweigen, schweigt, schwieg, geschwiegen
-schwellen|schwellen, schwillt, schwoll, ist geschwollen
-schwimmen|schwimmen, schwimmt, schwamm, ist geschwommen
-schwinden|schwinden, schwindet, schwand, ist geschwunden
-schwingen|schwingen, schwingt, schwang, geschwungen
-schwören|schwören, schwört, schwur, geschworen
-sehen|sehen, sieht, sah, gesehen
-senden|senden, sendet, sandte, gesandt
-sich setzen|sich setzen, setzt sich, setzte sich, hat sich gesetzt
-singen|singen, singt, sang, gesungen
-sinken|sinken, sinkt, sank, ist gesunken
-sinnen|sinnen, sinnt, sann, gessonnen
-sitzen|sitzen, sitzt, saß, gesessen
-sollen|sollen, sollte, gesollt (sollen
-spalten|spalten, spaltet, spaltete, gespalten*
-spazieren|spazieren, spaziert, spaziert, ist spaziert
-spinnen|spinnen, spinnt, spann, gesponnen
-sprechen|sprechen, spricht, sprach, gesprochen
-sprießen|sprießen, sprießt, spross, ist gesprossen
-springen|springen, springt, sprang, ist gesprungen
-stattfinden|stattfinden, findet statt, fand statt, stattgefunden
-stechen|stechen, sticht, stach, gestochen
-stehen|stehen, steht, stand, gestanden
-stehlen|stehlen, stiehlt, stahl, gestohlen
-steigen|steigen, steigt, stieg, ist gestiegen
-sterben|sterben, stirbt, starb, ist gestorben
-stinken|stinken, stinkt, stank, gestunken
-stoßen|stoßen, stößt, stieß, gestoßen
-streichen|streichen, streicht, strich, gestrichen
-streiten|streiten, streitet, stritt, gestritten
-stricken|stricken, strickt, strickte, gestrickt
-tragen|tragen, trägt, trug, getragen
-treffen|treffen, trifft, traf, getroffen
-treiben|treiben, treibt, trieb, getrieben
-treten|treten, tritt, trat, ist getreten
-trinken|trinken, trinkt, trank, getrunken
-tun|tun, tut, tat, getan
-verkommen|verkommen, verkommt, verkam, ist verkommen
-verlieren|verlieren, verliert, verlor, verloren
-verraten|verraten, verrät, verriet, verraten
-verrecken|verrecken, verreckt, verreckte, ist verreckt
-versprechen|versprechen, verspricht, versprach, versprochen
-verstehen|verstehen, versteht, verstand, verstanden
-verzeihen|verzeihen, verzeiht, verzieh, verziehen
-vorkommen|vorkommen, kommt vor, kam vor, ist vorgekommen
-vorstellen|vorstellen, stellt vor, stellte vor, vorgestellt
-wachsen|wachsen, wächst, wuchs, ist gewachsen
-wandern|wandern, wandert, wanderte, ist gewandert
-waschen|waschen, wäscht, wusch, gewaschen
-weichen|weichen, weicht, wich, ist gewichen
-weisen|weisen, weist, wies, gewiesen
-wenden|wenden, wendet, wandte, gewandt
-werben|werben, wirbt, warb, geworben
-werden|werden, wird, wurde, ist geworden
-werfen|werfen, wirft, warf, geworfen
-wiegen|wiegen, wiegt, wog, gewogen
-wissen|wissen, weiß, wusste, gewusst
-ziehen|ziehen, zieht, zog, gezogen
-zwingen|zwingen, zwingt, zwang, gezwungen
+anfangen (to begin)|anfangen, fängt an, fing an, angefangen
+ankommen (to arrive; succeed)|ankommen, kommt an, kam an, ist angekommen
+aufhalten (to stop, delay, arrest)|aufhalten, hält auf, hielt auf, aufgehalten
+ausgeben (to spend; to deal (cards);to treat to drinks)|ausgeben, gibt aus, gab aus, ausgegeben
+auskommen (to come out; have enough of, make do; get along with)|auskommen, kam aus,
+backen (to bake)|backen, bäckt, buk (backte), gebacken
+baden (to bathe)|baden, badet, badete, gebadet
+befehlen (to order, command)|befehlen, befiehlt, befahl, befohlen
+begegnen (to meet)|begegnen, begegnet, begegnete, ist begegnet
+beginnen (to begin)|beginnen, beginnt, begann, begonnen
+behalten (to retain, keep)|behalten, behält, behielt, behalten
+beißen (to bite)|beißen, beißt, biss, gebissen
+bekommen (1. to get, receive;2. to agree with, suit)|bekommen, bekommt, bekam, bekommen
+bersten (to burst)|bersten, birst, barst, ist geborsten
+besitzen (to possess, own)|besitzen, besitzt, besaß, besessen
+bestehen (to pass (an exam) ; exist; endure; withstand)|bestehen, besteht, bestand, bestanden
+beten (to pray)|beten, betet, betete, gebetet
+blasen (to blow; to play a wind or brass instrument)|blasen, bläst, blies, geblasen
+bleiben (to remain, stay;keep; be)|bleiben, bleibt, blieb, ist geblieben
+braten (to roast; broil; fry; grill)|braten, brät, briet, gebraten
+brauchen (to need, require; take (for periods of time))|brauchen, braucht, brauchte, gebraucht
+brechen (to break)|brechen, bricht, brach, gebrochen
+brennen (to burn; distill)|brennen, brennt, brannte, gebrannt
+bringen (to bring; present; take (convey); put; achieve, accomplish)|bringen, bringt, brachte, gebracht
+danken (to thank)|danken, dankt, dankte, gedankt
+denken (to think; have in mind)|denken, denkt, dachte, gedacht
+dürfen (to be permitted,be allowed, may)|dürfen, darf, durfte, gedurft
+empfangen (to receive)|empfangen, empfängt, empfing, empfangen
+empfehlen (to recommend)|empfehlen, empfiehlt, empfahl, empfohlen
+enthalten (to contain, hold)|enthalten, enthält, enthielt, enthalten
+entkommen (to escape, get away)|entkommen, entkommt, entkam, ist entkommen
+entscheiden (to decide; rule)|entscheiden, entscheidet, entschied, entschieden
+erfahren (to find out, learn; undergo, experience)|erfahren, erfährt, erfuhr, erfahren
+erfinden (to invent; discover; find out)|erfinden, erfindet, erfand, erfunden
+erhalten (to obtain, receive; preserve)|erhalten, erhält, erhielt, erhalten
+erlöschen (to become extinguished, dim, go out)|erlöschen, erlischt, erlosch, ist erloschen
+essen (to eat)|essen, isst, aß, gegessen
+fahren (to travel; drive; ride; go)|fahren, fährt, fuhr, ist gefahren
+fallen (to fall)|fallen, fällt, fiel, ist gefallen
+fangen (to catch, capture)|fangen, fängt, fing, gefangen
+finden (to find)|finden, findet, fand, gefunden
+fliegen (to fly)|fliegen, fliegt, flog, ist geflogen
+fliehen (to flee, shun, avoid)|fliehen, flieht, floh, ist geflohen
+fließen (to flow)|fließen, fliest, floss, ist geflossen
+fressen (to eat, feed, devour)|fressen, frisst, fraß, gefressen
+frieren (to freeze; feel cold)|frieren, friert, fror, gefroren
+gebrauchen (to use)|gebrauchten, gebraucht, gebrauchte, gebraucht
+gefallen (to be pleasing; like)|gefallen, gefällt, gefiel, gefallen
+geliebt werden (to be loved)|geliebt werden, wurde geliebt,
+gelingen (to succeed)|gelingen, gelingt, gelang, ist gelungen
+gelten (to be valid, be worth, hold good)|gelten, gilt, galt, gegolten
+genesen (to recover, convalesce)|genesen, genest, genas, ist genesen
+genießen (to enjoy)|genießen, genießt, genoss, genossen
+geraten (to get into, fall into orupon; turn out, prosper)|geraten, gerät, geriet, ist geraten
+geschehen (to happen; to take place; to come to pass)|geschehen, geschah, ist geschehen
+gewinnen (to win, gain)|gewinnen, gewinnt, gewann, gewonnen
+gießen (to pour; cast (metal))|gießen, gießt, goss, gegossen
+gleichen (to be like, resemble,equal)|gleichen, gleicht, glich, geglichen
+gleiten (to slide, glide)|gleiten, gleitet, glitt, ist geglitten
+glimmen (to glimmer, glow;smolder)|glimmen, glimmt, glomm, geglommen
+graben (to dig)|graben, gräbt, grub, gegraben
+greifen (to seize, grasp, grab)|greifen, greift, griff, gegriffen
+grollen (to be resentful or angry; rumble, roll)|grollen, grollt, grollte, gegrollt
+haben (to have)|haben, hat, hatte, gehabt
+halten (to hold; stop; keep; consider)|halten, hält, hielt, gehalten
+heben (to lift; raise; heave)|heben, hebt, hob, gehoben
+heißen (to be called or named; mean; command)|heißen, heißt, hieß, geheißen
+helfen (to help, aid, assist)|helfen, hilft, half, geholfen
+kennen (to know (by acquaintance);be familiar with)|kennen, kennt, kennte, gekannt
+kennenlernen (to get to know; meet; become acquainted with)|kennenlernen, lernte kennen,
+klingen (to ring; sound)|klingen, klingt, klang, geklungen
+kneifen (to pinch, squeeze; shirk)|kneifen, kneift, kniff, gekniffen
+knüpfen (to tie; knot; fasten together)|knüpfen, knüpft, knüpfte, geknüpft
+kochen (to cook; boil; seethe)|kochen, kocht, kockte, gekocht
+kommen (to come)|kommen, kommt, kam, ist gekommen
+können (to be able (can); to know (a language or how to do something))|können, konnte, gekonnt (können when
+laden (to invite; cite, summon, load)|laden, lädt, lud (ladete), geladen
+landen (to land; end up; succeed)|landen, landet, landete, gelandet
+lassen (to let; leave; allow; abandon; stop; have something done (with infinitive))|lassen, lässt, ließ, gelassen
+laufen (to run; walk; function)|laufen, läuft, lief, ist gelaufen
+lehren (to teach)|lehren, lehrt, lehrte, gelehrt
+leiden (to suffer)|leiden, leidet, litt, gelitten
+leihen (to lend; borrow from; hire)|leihen, leiht, lieh, geliehen
+lesen (to read; gather)|lesen, liest, las, gelesen
+liegen (to lie; be situated; appeal to)|liegen, liegt, lag, gelegen
+lügen (to tell a lie)|lügen, lügt, log, gelogen
+messen (to measure)|messen, misst, maß, gemessen
+mögen (to like; want; may)|mögen, when, mochte, gemocht (mögen
+müssen (to have to, must)|müssen, when, musste, gemusst (müssen
+nehmen (to take)|nehmen, nimmt, nahm, genommen
+nennen (to name. call)|nennen, nennt, nannte, genannt
+nützen (to use, be profitable)|nützen, nützt, nützte, genützt
+passieren (to happen, take place)|passieren, passiert, passierte, ist passiert
+pfeifen (to whistle)|pfeifen, pfeift, pfiff, gepfiffen
+quellen (to gush, spring from)|quellen, quillt, quoll, ist gequollen
+raten (to advise; guess)|raten, rät, riet, geraten
+reiben (to rub)|reiben, reibt, rieb, gerieben
+reiten (to ride (on horse))|reite, reitet, ritt, ist geritten
+rennen (to run; race)|rennen, rennt, rannte, ist gerannt
+retten (to save, rescue)|retten, rettet, rettete, gerettet
+richten (to set right; adjust; prepare(meals, etc.) ; point; judge)|richten, richtet, richtete, gerichtet
+riechen (to smell)|riechen, riecht, roch, gerochen
+ringen (to struggle; wrestle; wring)|ringen, ringt, rang, gerungen
+rinnen (to run (of liquids) ; flow; drip)|rinnen, rinnt, rann, ist geronnen
+rufen (to call; shout)|rufen, ruft, rief, gerufen
+saufen (to drink (of animals) ; drink to excess)|saufen, säuft, soff, gesoffen
+saugen (to suck; absorb)|saugen, saugt, sog, gesogen
+schaffen (to create)|schaffen, schafft, schuf, geschaffen
+scheinen (to shine; seem)|scheinen, scheint, schien, geschienen
+schelten (to scold, reproach)|schelten, schilt, schalt, gescholten
+schieben (to push; shove;move; profiteer)|schieben, schiebt, schob, geschoben
+schießen (to shoot)|schießen, schießt, schoss, geschossen
+schlafen (to sleep)|schlafen, schläft, schlief, geschlafen
+schlagen (to hit; beat; strike)|schlagen, schlägt, schlug, geschlagen
+schleichen (to sneak; creep)|schleichen, schleicht, schlich, ist geschlichen
+schleifen (to grind; polish; slide)|schleifen, schleift, schliff, geschliffen
+schlichten (to make smooth; settle)|schlichten, schlichtet, schlichtete, geschlichtet
+schließen (to close; conclude; shut; lock)|schließen, schließt, schloss, geschlossen
+schlingen (to gulp; devour; weave)|schlingen, schlingt, schlang, geschlungen
+schlüpfen (to slip, glide)|schlüpfen, schlüpft, schlüpfte, ist geschlüpft
+schmeißen (to fling, hurl, throw)|schmeißen, schmeißt, schmiss, geschmissen
+schmelzen (to melt)|schmelzen, schmilzt, schmolz, ist geschmolzen
+schneiden (to cut)|schneiden, schneidet, schnitt, geschnitten
+schreiben (to write)|schreiben, schreibt, schrieb, geschrieben
+schreien (to shout, scream, shriek, cry)|schreien, schreit, schrie, geschrie(e)n
+schreiten (to stride; step; walk)|schreiten, schreitet, schritt, ist geschritten
+schweigen (to be silent)|schweigen, schweigt, schwieg, geschwiegen
+schwellen (to swell; rise; increase in size)|schwellen, schwillt, schwoll, ist geschwollen
+schwimmen (to swim; float)|schwimmen, schwimmt, schwamm, ist geschwommen
+schwinden (to fade; wane; dwindle)|schwinden, schwindet, schwand, ist geschwunden
+schwingen (to swing; vibrate)|schwingen, schwingt, schwang, geschwungen
+schwören (to curse, swear)|schwören, schwört, schwur, geschworen
+sehen (to see; realize)|sehen, sieht, sah, gesehen
+senden (to send; transmit)|senden, sendet, sandte, gesandt
+sich setzen (to sit down)|sich setzen, setzt sich, setzte sich, hat sich gesetzt
+singen (to sing)|singen, singt, sang, gesungen
+sinken (to sink)|sinken, sinkt, sank, ist gesunken
+sinnen (to think; reflect; plan)|sinnen, sinnt, sann, gessonnen
+sitzen (to sit; fit (clothing))|sitzen, sitzt, saß, gesessen
+sollen (to be; be supposed to; ought; be said to; be expected to)|sollen, sollte, gesollt (sollen
+spalten (to split, cleave)|spalten, spaltet, spaltete, gespalten
+spazieren (to walk, stroll)|spazieren, spaziert, spaziert, ist spaziert
+spinnen (to spin)|spinnen, spinnt, spann, gesponnen
+sprechen (to speak, talk)|sprechen, spricht, sprach, gesprochen
+sprießen (to sprout, bud)|sprießen, sprießt, spross, ist gesprossen
+springen (to jump, leap, spring; explode)|springen, springt, sprang, ist gesprungen
+stattfinden (to take place, happen)|stattfinden, findet statt, fand statt, stattgefunden
+stechen (to sting; prick; stab)|stechen, sticht, stach, gestochen
+stehen (to stand; be located)|stehen, steht, stand, gestanden
+stehlen (to steal)|stehlen, stiehlt, stahl, gestohlen
+steigen (to climb; increase; rise)|steigen, steigt, stieg, ist gestiegen
+sterben (to die)|sterben, stirbt, starb, ist gestorben
+stinken (to stink)|stinken, stinkt, stank, gestunken
+stoßen (to push; shove; thrust)|stoßen, stößt, stieß, gestoßen
+streichen (to strike; cancel; paint)|streichen, streicht, strich, gestrichen
+streiten (to quarrel, dispute)|streiten, streitet, stritt, gestritten
+stricken (to knit)|stricken, strickt, strickte, gestrickt
+tragen (to carry, bear; wear)|tragen, trägt, trug, getragen
+treffen (to meet; hit)|treffen, trifft, traf, getroffen
+treiben (to drive; push; pursue)|treiben, treibt, trieb, getrieben
+treten (to step; go; kick)|treten, tritt, trat, ist getreten
+trinken (to drink)|trinken, trinkt, trank, getrunken
+tun (to do; make; put; act)|tun, tut, tat, getan
+verkommen (to decay, go bad)|verkommen, verkommt, verkam, ist verkommen
+verlieren (to lose)|verlieren, verliert, verlor, verloren
+verraten (to betray)|verraten, verrät, verriet, verraten
+verrecken (to die, (slang)croak)|verrecken, verreckt, verreckte, ist verreckt
+versprechen (to promise)|versprechen, verspricht, versprach, versprochen
+verstehen (to understand)|verstehen, versteht, verstand, verstanden
+verzeihen (to pardon, forgive, excuse)|verzeihen, verzeiht, verzieh, verziehen
+vorkommen (to occur; seem; come forth)|vorkommen, kommt vor, kam vor, ist vorgekommen
+vorstellen (to set in front of;introduce)|vorstellen, stellt vor, stellte vor, vorgestellt
+wachsen (to grow)|wachsen, wächst, wuchs, ist gewachsen
+wandern (to wander, hike)|wandern, wandert, wanderte, ist gewandert
+waschen (Examples:)|waschen, wäscht, wusch, gewaschen
+weichen (to yield, give way)|weichen, weicht, wich, ist gewichen
+weisen (to point out, show)|weisen, weist, wies, gewiesen
+wenden (to turn)|wenden, wendet, wandte, gewandt
+werben (to recruit; woo; court; solicit)|werben, wirbt, warb, geworben
+werden (to become; shall or will†;be††)|werden, wird, wurde, ist geworden
+werfen (throw, hurl, fling)|werfen, wirft, warf, geworfen
+wiegen (to weigh)|wiegen, wiegt, wog, gewogen
+wissen (to know (a fact))|wissen, weiß, wusste, gewusst
+ziehen (to pull, draw; go, move)|ziehen, zieht, zog, gezogen
+zwingen (to force, compel)|zwingen, zwingt, zwang, gezwungen
