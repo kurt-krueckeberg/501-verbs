@@ -7,6 +7,7 @@ Design
 php -f pdf-extractor.php  -->  results.txt
 php -f delimit_sentences.php --> new-results.txt, results.txt will sentences separated by @.
 mv new-results.txt results.txt
+php -f sent-extractor.php --> sentence-results.txt, has infinitive followed by sample sentences. This should be manually edited, so that the German and
 
 TODO:
 -----
