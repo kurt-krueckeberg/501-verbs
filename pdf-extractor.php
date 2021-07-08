@@ -70,6 +70,17 @@ function reorder_princ_parts($pp)
 
     return implode(',', $reorder);
 }
+
+function remove_ws($str)
+{
+   // replace any tabs with a space, then remove duplicate spaces.
+   $str = preg_replace('/\s\s+/', ' ', $str);
+   
+   $enc = mb_detect_encoding($str);
+   
+   $str = str_replace("\t", " ", $str);
+   return $str;
+}
          
 function get_PrincipleParts($lines, $start_index)
 {
@@ -83,7 +94,7 @@ function get_PrincipleParts($lines, $start_index)
             $pp = $matches[1];
   }
   
-  $pp = preg_replace('/\s\s+/', ' ', $pp);
+  $pp = remove_ws($pp);
         
   $pp = preg_replace("/\sto\s.*$/", '', $pp);
    
@@ -126,6 +137,8 @@ function get_verb_defn($page, $line_no)
     ++$line_no;
     $defn = trim($page[$line_no]);
 
+    // Remove extra whitespace
+    $defn = remove_ws($defn);
     return array($infinitive, $defn);
 }
 
@@ -181,7 +194,7 @@ function get_Examples_type1(array $lines, $index)
  
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
             
-                    $examples = preg_replace('/\s\s+/', ' ', $examples); // remove double spaces
+                    $examples = remove_ws($examples); // remove double spaces
                     $examples = preg_replace('/,,/', '„', $examples); // remove non-german introductory quote with correct introd. quote.
 
                     return array(true, $examples);
@@ -215,7 +228,7 @@ function get_Examples_type2(array $lines, $index)
                 } else {  // It did match the delimeter of the example sentences, so we have all the example sentences.
                     
                     $examples = preg_replace('/\n/', ' ', $examples);  // replace '\n' with a space. 
-                    $examples = preg_replace('/\s\s+/', ' ', $examples); // remove double spaces
+                    $examples = remove_ws($examples); // remove double spaces
                     $examples = preg_replace('/,,/', '„', $examples); // remove non-german introductory quote with correct introd. quote.
 
                     return array($examples, $i);
@@ -278,7 +291,7 @@ function parsePrefixVerb($page, $index, $regex_end)
        
         if ($verb !== '') { // If this is not first verb encountered, insert the prior verb results into the array.
                       
-           $examples = preg_replace('/\s\s+/', ' ', $examples);
+           $examples = remove_ws($examples);
            
            $results[$verb] = array($defn, $examples);
            $examples = ''; // So that the new verb doesn't have sample sentences from the prior verb, we reset it to empty. 
@@ -302,8 +315,41 @@ function parsePrefixVerb($page, $index, $regex_end)
   return array($index, $results);
 }
 
+function write_2dictionary($ofile, $infinitive, $definition, array $prefix_verbs)
+{
+static $first_time = true;
+   
+  if ($first_time == true) {
+      
+    $output = '$dict = [];' ."\n";  
+    $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
+    $ofile->fwrite($output);
+     
+    $first_time = false;
+  }
+  
+  // Write infinitive and definition
+  $output = '$dict[\'' . $infinitive . '\'] = ' . '\'' . $definition . '\';' . "\n";  
+  $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
+  $ofile->fwrite($output);
+      
+  if (count($prefix_verbs) > 0) {
+      
+    foreach ($prefix_verbs as $prefix_type => $verb_array) {
+        
+        foreach($verb_array as $verb => $array)  {
+                              
+            $output = '$dict[\'' . $verb . '\'] = ' . '\'' . $array[0] . '\';' . "\n";
+            $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
+            $ofile->fwrite($output);
+        }
+    }
+  }
+}
+
 $ifile = new SplFileObjectExtended("./output-pdf.txt", "r");
-$rfile = fopen("./results.txt", "w");
+$rfile = new SplFileObject("./results.txt", "w");
+$dictfile = new SplFileObject("./dictionary.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
@@ -320,7 +366,12 @@ while(!$ifile->eof()) {
    $prefix_verbs = [];
    
    try {
-       
+       // DEBUG
+       /*
+       $x = trim($page[0]);
+       if ($x == "bestellen")
+             $debug = 10;  
+       */
       list($infinitive, $definition) = get_verb_defn($page, 0);
        
       $principle_parts = get_PrincipleParts($page, 1);
@@ -337,9 +388,10 @@ while(!$ifile->eof()) {
             get_prefixVerbs returns an associative array of the form:
 
 	 	$a['sep']  => { 0 => the definition of the verb, 1 => A string of examples sentences. }
-	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
+	    	$a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
            */
           if (($index + 1)< count($page))
+
                $prefix_verbs = get_prefixVerbs($page, $index + 1);  
       }
       
@@ -360,8 +412,11 @@ while(!$ifile->eof()) {
       
       $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
       
-      fputs($rfile, $output);
+      $rfile->fwrite($output);
         
+      // Write verbs and definitions to dictionary.txt 
+      write_2dictionary($dictfile, $infinitive, $definition, $prefix_verbs);  
+ 
    } catch (Exception $e) {
        echo "Exception for Infinitive: " . $infinitive . "\n";    
        echo $e->getMessage() . "\n";

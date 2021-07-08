@@ -1,4 +1,3 @@
-<?php
 $dict = [];
 $dict['abholen'] = 'to pick up, call for, collect';
 $dict['achten'] = 'to pay attention;';
@@ -861,7 +860,7 @@ $dict['weinen'] = 'to weep, cry';
 $dict['weisen'] = 'to point out, show';
 $dict['wenden'] = 'to turn';
 $dict['werben'] = 'to recruit; woo; court; solicit';
-$dict['werden'] = 'to become; shall or will; be';
+$dict['werden'] = 'to become; shall or will†;be††';
 $dict['innewerden'] = 'to become aware';
 $dict['irrewerden'] = 'to lose faith, have doubts';
 $dict['loswerden'] = 'to get rid of';

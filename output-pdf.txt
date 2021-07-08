@@ -7097,7 +7097,8 @@ IMPERATIVE	: entferne!, entfernt!, entfernen Sie!
 PAGE_END
 PAGE_START
 entführen	
-Principle Parts: entführen, entführte, entführt, entführt,	to carry off, abduct, kidnap	
+to carry off, abduct, kidnap	
+Principle Parts: entführen, entführte, entführt, entführt
 IMPERATIVE	: entführe!, entführt!, entführen Sie!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
@@ -27047,11 +27048,10 @@ der Polizei.
 “My husbands just die on me. I can’t help it,” said the widow to the police.
 #
 INSEPARABLE
-ersterben  (literary)—to die away, die
-down, fade
+ersterben—literary: to die away, die down, fade
 In der Ferne erstarben die Festklänge.
 The festive sounds died away in the distance.
-versterben  (elevated)—to pass away 
+versterben—to pass away 
 Er verstarb im hohen Alter von 99 Jahren.
 He passed away at the advanced age of 99.
 Note  verstorben  (adj.; deceased) as used in
@@ -28388,7 +28388,7 @@ He’s all too fond of reciting his poems.
 zutragen—to carry something to somebody; report, repeat
 Warum hast du’s ihm zugetragen?
 Why’d you repeat that to him?
-(sich) zutragen (elevated)—to take place
+(sich) zutragen—to take place
 Wo hat sich das alles zugetragen?
 Where did all that occur?
 #
@@ -32744,7 +32744,7 @@ can.”
 Werden	
 Prefix Verbs
 SEPARABLE
-innewerden  (elevated)—to become aware
+innewerden—to become aware
 of
 Der Ernst des Lebens ist ihm plötzlich innegeworden.
 He suddenly became aware of the seriousness of life.
@@ -32931,7 +32931,7 @@ Die Römer unterwarfen viele Völker.
 The Romans subjugated many peoples.
 Ihre Tätigkeit muss einer genauen Aufsicht unterworfen werden.
 Their activity must be subjected to close surveillance.
-verwerfen —to reject, dismiss
+verwerfen—to reject, dismiss
 Warum hat man ihren Antrag verworfen?
 Why did they turn down her application?
 (sich) verwerfen—to warp
@@ -33421,10 +33421,10 @@ live in a centrally located area.”
 Wohnen	
 Prefix Verbs
 SEPARABLE
-beiwohnen  (elevated)—to be present at
+beiwohnen—to be present at
 Viele haben der Veranstaltung beigewohnt.
 Many were present at the event.
-innewohnen  (elevated)—to indwell, be
+innewohnen—to indwell, be
 inherent
 Das wohnt der Natur der Sache inne.
 That is inherent to the nature of the matter.
@@ -34051,7 +34051,7 @@ Have you overdrawn your account again?
 (sich) überziehen —to become covered
 Der Himmel überzog sich.
 The sky grew overcast.
-umziehen  (elevated)—to surround
+umziehen—to surround
 Er glaubt sich von Feinden umzogen.
 He thinks he’s surrounded by enemies.
 unterziehen—to subject to
