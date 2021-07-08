@@ -1248,7 +1248,8 @@ But I recommend the fish (to you),” said the waiter.
 In the examples above, “you” is the indirect object (dative), and “fish” and
 “meat” are direct objects. Some verbs take the dative (indirect object) in German but the accusative (direct
 object) in English. Some of the more common verbs that take the dative are:
-antworten to answer gleichento resemble
+antworten
+to answer gleichento resemble
 ausweichen to avoid, be evasive gratulierento congratulate
 begegnen to meet helfento help
 danken to thank nutzento be of use, utilize
@@ -1537,7 +1538,8 @@ geachtet. Er verachtet die Grammatik. The schoolboy didn’t pay attention to th
 PAGE_END
 PAGE_START
 ächzen	
-Principle Parts: ächzen, ächzte, geächzt, ächzt	to groan, moan; creak	
+to groan, moan; creak	
+Principle Parts: ächzen, ächzte, geächzt, ächzt
 IMPERATIVE	: ächze!, ächzt!, ächzen Sie!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
@@ -1651,7 +1653,8 @@ You’ll have to think differently, change your way of thinking.”
 PAGE_END
 PAGE_START
 anfangen	
-Principle Parts: anfangen, fing an, angefangen, fängt an	to begin	
+to begin
+Principle Parts: anfangen, fing an, angefangen, fängt an
 IMPERATIVE	: fange an!, fangt an!, fangen Sie an!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
@@ -1765,7 +1768,8 @@ ankommen.
 PAGE_END
 PAGE_START
 antworten	
-Principle Parts: antworten, antworte, antwortet	to answer, reply	
+to answer, reply
+Principle Parts: antworten, antworte, antwortet
 IMPERATIVE	: antworte!, antwortet!, antworten sie!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
@@ -21202,7 +21206,8 @@ IMPERATIVE	: säume!, säume!, säumen Sie!
 PAGE_END
 PAGE_START
 schaden	
-Principle Parts: schaden, schadete, geschadet, schadet	to damage, hurt	
+to damage, hurt
+Principle Parts: schaden, schadete, geschadet, schadet
 IMPERATIVE	: schade!, schadet!, schaden Sie!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	

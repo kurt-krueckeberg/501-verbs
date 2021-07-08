@@ -321,7 +321,7 @@ static $first_time = true;
    
   if ($first_time == true) {
       
-    $output = '$dict = [];' ."\n";  
+    $output = '<?php' . "\n" . '$dict = [];' ."\n";  
     $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
     $ofile->fwrite($output);
      
@@ -349,7 +349,7 @@ static $first_time = true;
 
 $ifile = new SplFileObjectExtended("./output-pdf.txt", "r");
 $rfile = new SplFileObject("./results.txt", "w");
-$dictfile = new SplFileObject("./dictionary.txt", "w");
+$dictfile = new SplFileObject("./dict.php", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 

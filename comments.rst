@@ -1,9 +1,8 @@
 TODO
 ====
 
-Get expanded definitions from output-pdf.txt. For most lines the definition immediately follows the infinitive. For those lines where it doesn't, add it!
-So we will NOT rely on the definitions in dict.php, in $dict[]. Instead we will rewrite or overwrite them. For Prefix Verbs, we already are getting the 
-definitions from output-pdf.txt and no change is needed..
+I think verbs-2-conjugate.txt contins only the essentail verbs that are strong or irregular. Any related prefix verbs that might be in must-conjugate.php
+will not be found in verbs-2-conjugate.txt  It is really the list to use.
 
 Resources:
 ---------
