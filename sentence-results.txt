@@ -29,102 +29,68 @@ ankommen
 „Es kommt darauf an, ob sie mit dem IC fährt."@“It depends on whether she’s taking the IC (Inter City express)."
 Leider kommt er oft spät an.“@"Unfortunately, it often arrives late.”
 
-RESUME HERE
 antworten
-„Wer ist für die Verzögerung verantwortlich?
-Antworten Sie mir sofort!
-Sie haben viel zu verantworten.“ “Who is responsible for the delay?
-Answer me right away.
-You have much to answer for.” Antwortenis in the imperative in sentence 2.
-Note the dative (indirect) object mir.
-Verantworten (to answer for) is a related verb. 
+„Wer ist für die Verzögerung verantwortlich?“@“Who is responsible for the delay?
+Antworten Sie mir sofort!@Answer me right away.
+„Sie haben viel zu verantworten.“@"You have much to answer for.”
 
 sich anziehen
-Dagwald Bumstedt zog sich schnell seinen neuen Anzug an.
-Nur halb angezogen verließ er sein Haus.
-Dagwood Bumstead quickly put on his new suit.
-Only half-dressed, he left his house.
-In the present and imperfect (past) tenses of separable prefix verbs, the prefix is placed at the end.
-The past participle angezogenis used as an adjective here, not as a verb.
-Therefore there is no auxiliary (helping verb). 
+Dagwald Bumstedt zog sich schnell seinen neuen Anzug an.@Dagwood Bumstead quickly put on his new suit.
+Nur halb angezogen verließ er sein Haus.@Only half-dressed, he left his house.
 
 arbeiten
-„Wir würden vielleicht fleißiger arbeiten,wenn uns die Arbeit mehr interessierte“, behaupteten die Arbeiter.
-“Maybe we’d work harder if the work interested us more,” declared the workers.
-Eva schrieb eine Doktorarbeit über die Arbeitslosigkeit und den heutigen Arbeitsmarkt.
-Sie arbeitet gern.
-Sie ist sehr arbeitsam.
-Eva wrote a doctoral dissertation on unemployment and today’s labor market.
-She likes to work.
-She’s very industrious.
-Sent.
-1 is in the conditional, formed by the auxiliary würde(would) + the infin.
-at the end of the clause. 
+„Wir würden vielleicht fleißiger arbeiten, wenn uns die Arbeit mehr interessierte“, behaupteten die Arbeiter.@“Maybe we’d work harder if the work interested us more,” declared the workers.
+Eva schrieb eine Doktorarbeit über die Arbeitslosigkeit und den heutigen Arbeitsmarkt.@Eva wrote a doctoral dissertation on unemployment and today’s labor market.
+Sie ist sehr arbeitsam.@She’s very industrious.
 
 abarbeiten
-„Er hat seine Schulden abgearbeitet.“ “He’s worked off his debts.” „Kann dein Computer dieses Programm abarbeiten?“ “Can your computer run this program?” 
+„Er hat seine Schulden abgearbeitet.“@“He’s worked off his debts.”
+„Kann dein Computer dieses Programm abarbeiten?“@“Can your computer run this program?” 
 
 aufarbeiten
-„Er denkt daran, seine Kriegserlebnisse zu einem Artikel aufzuarbeiten.“ “He’s thinking of working up his experiences in the war to make an article.” 
+„Er denkt daran, seine Kriegserlebnisse zu einem Artikel aufzuarbeiten.“@“He’s thinking of working up his experiences in the war to make an article.” 
 
 ausarbeiten
-„Sie will ihre Novelle zu einem Roman ausarbeiten.“ “She wants to expand her short story into a novel.” 
+„Sie will ihre Novelle zu einem Roman ausarbeiten.“@“She wants to expand her short story into a novel.” 
 
 durcharbeiten
-„Wir arbeiten den Text durch.“ “We’re working through the text.” 
+„Wir arbeiten den Text durch.“@“We’re working through the text.” 
 
 kurzarbeiten
-„Bei schlechter Konjunktur arbeiten wir oft kurz.“ “We often work shorter hours when economic conditions are bad.” 
+„Bei schlechter Konjunktur arbeiten wir oft kurz.“@“We often work shorter hours when economic conditions are bad.” 
 
 schwarzarbeiten
-Das Finanzamt weiß, dass er jahrelang schwarzarbeitete.
-The tax authorities know that he did undeclared work for years. 
+Das Finanzamt weiß, dass er jahrelang schwarzarbeitete.@The tax authorities know that he did undeclared work for years. 
 
 umarbeiten
-Am Drehbuch wurde zu viel von zu vielen umgearbeitet.
-Too many worked at rewriting the script.	 
+Am Drehbuch wurde zu viel von zu vielen umgearbeitet.@Too many worked at rewriting the script.	 
 
 bearbeiten
-Das Material muss neu bearbeitet werden.
-The material has to be revised. 
+Das Material muss neu bearbeitet werden.@The material has to be revised. 
 
 erarbeiten
-„Wenn du den Preis willst, musst du ihn erarbeiten.“ “If you want the prize you’ll have to work for it.” 
+„Wenn du den Preis willst, musst du ihn erarbeiten.“@“If you want the prize you’ll have to work for it.” 
 
 verarbeiten
-Eva versucht, ihre schreckliche Vergangenheit zu verarbeiten.
-Eva is trying to work out her terrible past.
-Sie haben die Daten beleglos verarbeitet.
-They processed the data without vouchers.
-Note:  EDV= elektronische Datenverar- beitung (electronic data processing).	 
+Eva versucht, ihre schreckliche Vergangenheit zu verarbeiten.@Eva is trying to work out her terrible past.
+Sie haben die Daten beleglos verarbeitet.@They processed the data without vouchers.
 
 atmen
-Wir atmeten tief auf, als wir den Gipfel erreichten und die atemberaubende Aussicht genießen konnten.
-Unsere Joga Lehrerin atmete tief und begann ihre Atemübungen.
-We breathed a sigh of relief when we reached the summit and could enjoy the breathtaking view.
-Our yoga instructor breathed deeply and began her breathing exercises.
-Since the stem ends in -m, eis added in some forms.
-Aufatmen (sentence 1) is separable.
-So are einatmen(to inhale) and ausatmen(to exhale). 
+Wir atmeten tief auf, als wir den Gipfel erreichten und die atemberaubende Aussicht genießen konnten.@We breathed a sigh of relief when we reached the summit and could enjoy the breathtaking view.
+Unsere Joga Lehrerin atmete tief und begann ihre Atemübungen.@Our yoga instructor breathed deeply and began her breathing exercises.
 
 aufhalten
-„Sie halten sich immer bei Kleinigkeiten auf“, klagte er.
-“You’re always dwelling on (hung up on) trifles,” he complained.
-Ich will dich nicht länger aufhalten.
-I don’t want to hold you up any longer.
-Aufhalten is separable.
-The reflexive sich aufhalten + mit or bei means “to dwell on something.” 
+„Sie halten sich immer bei Kleinigkeiten auf“, klagte er.@“You’re always dwelling on (hung up on) trifles,” he complained.
+Ich will dich nicht länger aufhalten.@I don’t want to hold you up any longer.
 
 aufmachen
-„Wenn die Sonne scheint, muss ich die Fenster aufmachen.
-Ich habe sie alle weit aufgemacht.“ „Es ist mir kalt.
-Mach sie jetzt zu.
-Wenn ich fort bin, kannst du sie wieder auf- machen.“ “When the sun shines I have to open the windows.
-I opened them all wide.” “I feel cold.
-Close them now.
-After I’ve left you can open them again.” Der Prozess wurde in den Medien groß aufgemacht.
-The trial got wide media coverage. 
+„Wenn die Sonne scheint, muss ich die Fenster aufmachen.@Ich habe sie alle weit aufgemacht.“
+„Es ist mir kalt. Mach sie jetzt zu.@“I feel cold. Close them now."
+„Wenn ich fort bin, kannst du sie wieder aufmachen.“
+“When the sun shines I have to open the windows.@"After I’ve left you can open them again.” 
+Der Prozess wurde in den Medien groß aufgemacht.@The trial got wide media coverage. 
 
+RESUME
 ausgeben
 „Warum habt ihr so viel Geld ausgegeben?“ „Wir hatten viele unvermeidliche Ausgaben.“ “Why did you spend so much money?” “We had many unavoidable expenses.” „Wer gab die Karten aus?“ “Who dealt the cards?” Ich gab allen eine Runde aus aber hat keiner mir einen ausgegeben.
 I treated everyone to a round of drinks, but nobody bought me a drink.
@@ -7042,14 +7008,11 @@ We just passed through Belgium quickly when we drove from Paris to Cologne.
 entziehen
 Ihm wurde der Führerschein entzogen.
 They took away his driver’s license.
-Den Ärzten ist es nicht gelungen, ihn seiner Heroinsucht zu entziehen.
-The doctors didn’t succeed in curing his heroin addiction.
-(sich) entziehen —to avoid, shirk Seinen Pflichten hat er sich wieder entzogen.
-He’s avoided his duties again. 
+Den Ärzten ist es nicht gelungen, ihn seiner Heroinsucht zu entziehen.@The doctors didn’t succeed in curing his heroin addiction.
+Seinen Pflichten hat er sich wieder entzogen.@He’s avoided his duties again. 
 
 erziehen
-Sie haben ihre Kinder schlecht erzogen.
-They brought up their children badly. 
+Sie haben ihre Kinder schlecht erzogen.@They brought up their children badly. 
 
 überziehen
 Hast du dein Konto wieder überzogen?
