@@ -1,27 +1,29 @@
 <?php
- 
-function get_line($ifile)
-{
-   if (!feof($ifile)) {
 
-     $line = fgets($ifile);
+require_once "./SplFileObjectExtended.php";
+ 
+function get_line($file)
+{
+   if (!$file->eof()) {
+
+     $line = $file->fgets();
 
      return trim($line);
-
   } 
   
   return '';
 }
+
 /*
  * Returns an array of strings corresponding to the lines of the page. Each is terminated by '\n'.
  */
-function get_page($ifile)
+function get_page($file)
 {
   $page = array();  
   
-  while(!feof($ifile)) {
+  while(!$file->eof()) {
       
-    $line = get_line($ifile);
+    $line = $file->fgets();
 
     if ($line == '') {
           $page[] = '';
@@ -31,9 +33,9 @@ function get_page($ifile)
     if (0 === strpos($line, "PAGE_S")) break;
   }
     
-  while(!feof($ifile)) {
+  while(!$file->eof()) {
       
-    $line = get_line($ifile);
+    $line = $file->fgets();
     
     if (0 === strpos($line, "PAGE_E")) break;
     
@@ -43,14 +45,14 @@ function get_page($ifile)
   return $page;
 }
 
-function advance_to($regex, $ifile)
-{
-  while(!feof($ifile)) {
+function advance_to($regex, $file)
+{ 
+  while(!$file->eof()) {
 
-      $line = get_line($ifile);
-       
-      if (1 == preg_match_u($regex, $line)) 
-              break;
+      $line = $file->fgets();
+      
+     if (1 == preg_match_u($regex, $line)) 
+             break;
  }
 }
 
@@ -89,13 +91,7 @@ function get_PrincipleParts($lines, $start_index)
   
   return $pp;
 }
-class NoType2ExamplesException extends Exception {
-    
-  public function __construct($msg, $code = 0, Throwable $previous = null) 
-  {
-      parent::__construct($msg, $code, $previous);
-  }  
-};
+
  // append 'u' to regex if the $str is encoded as utf-8.
 function preg_match_u($regex, $str, array &$matches = null) 
 {
@@ -103,7 +99,36 @@ function preg_match_u($regex, $str, array &$matches = null)
 
      return preg_match($regex, $str, $matches);
 }
+
+/*
+ * Returns: an array with infinitive and its definition
+ *
+ */
  
+function get_verb_defn($page, $line_no)
+{
+    $infinitive = ''; 
+    $regex_verb = '/^((?:[a-zöäüß]{3,}\s?)+)\s*$/'; // verb may come in several parts.
+
+    $line = $page[$line_no];
+           
+    if (1 === preg_match_u($regex_verb, $line, $matches)) {
+
+        for ($i = 1; $i < count($matches); ++$i) {
+         
+           if (0 != strlen($matches[$i]))
+              $infinitive .= trim($matches[$i]);
+        }
+                
+    } else // This is an exception
+        throw new ErrorException("No infinitive was found on the first line of the page, which is: " . $line);
+
+    ++$line_no;
+    $defn = trim($page[$line_no]);
+
+    return array($infinitive, $defn);
+}
+
 function get_infinitive($line)
 {
     $infinitive = ''; 
@@ -277,26 +302,26 @@ function parsePrefixVerb($page, $index, $regex_end)
   return array($index, $results);
 }
 
-$ifile = fopen("./output-pdf.txt", "r");
-$ofile = fopen("./results.txt", "w");
+$ifile = new SplFileObjectExtended("./output-pdf.txt", "r");
+$rfile = fopen("./results.txt", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
-while(!feof($ifile)) {
+while(!$ifile->eof()) {
   
-   $page = get_page($ifile); // page is a string with '\n' separating each 'line' within it.
+   $page = get_page($ifile); 
 
    if (count($page) == 1 && empty($page[0]))
         break;
 
-   $infinitive = '';
+   $infinitive = $definition = '';
    $principle_parts = '';
    $examples = '';
    $prefix_verbs = [];
    
    try {
-     
-      $infinitive = get_infinitive($page[0]);
+       
+      list($infinitive, $definition) = get_verb_defn($page, 0);
        
       $principle_parts = get_PrincipleParts($page, 1);
       
@@ -305,6 +330,7 @@ while(!feof($ifile)) {
       if ($rc === false) {
           
           $page = get_page($ifile);
+          
           list($mainVerb_examples, $index) = get_Examples_type2($page, 0);
           
           /* 
@@ -314,10 +340,10 @@ while(!feof($ifile)) {
 	    	a['insep'] => { 0 => the definition of the verb, 1 => A string of examples sentences. }
            */
           if (($index + 1)< count($page))
-                $prefix_verbs = get_prefixVerbs($page, $index + 1);  
+               $prefix_verbs = get_prefixVerbs($page, $index + 1);  
       }
       
-      $output = $infinitive . ' | ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
+      $output = $infinitive . ' | ' . $definition . ' | ' . $principle_parts . ' | ' . $mainVerb_examples . "\n";
 
       if (count($prefix_verbs)) {
 
@@ -327,14 +353,14 @@ while(!feof($ifile)) {
              
              foreach($verbs as $verb => $array) {
                           
-                $output .= $prefix_4output . " | ". $verb . " | ". $array[0] . " | " . $array[1] . "\n"; 
+                $output .= $prefix_4output . ' ' .$verb . " | ". $array[0] . " | " . $array[1] . "\n"; 
              }
           }
       }
       
       $output = mb_convert_encoding($output, "UTF-8"); // Convert $output to UTF-8 encoding.
       
-      fputs($ofile, $output);
+      fputs($rfile, $output);
         
    } catch (Exception $e) {
        echo "Exception for Infinitive: " . $infinitive . "\n";    

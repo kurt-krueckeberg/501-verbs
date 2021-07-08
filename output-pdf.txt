@@ -1424,6 +1424,7 @@ PAGE_START
 PAGE_END
 PAGE_START
 abholen
+to pick up, call for, collect
 Principle Parts: abholen, holte ab, abgeholt, holt ab	to pick up, call for, collect	
 IMPERATIVE	: hole ab!, holt ab!, holen Sie ab!
 INDICATIVE SUBJUNCTIVE	PRIMARYSECONDARY	Present Time
@@ -1953,7 +1954,7 @@ abarbeiten—to work off; work down; run (computer)
 aufarbeiten—to process; work up 
 ,,Er denkt daran, seine Kriegserlebnisse zu einem Artikel aufzuarbeiten.“
 “He’s thinking of working up his experiences in the war to make an article.”
-ausarbeiten— to work out; expand;  elaborate
+ausarbeiten—to work out; expand;  elaborate
 ,,Sie will ihre Novelle zu einem Roman ausarbeiten.“
 “She wants to expand her short story into  a novel.”
 durcharbeiten—to work through
@@ -5535,7 +5536,7 @@ I can make good use of that.
 missbrauchen—to abuse
 Du hast mein Vertrauen missbraucht.
 You abused my confidence.
-verbrauchen—  to use up; consume
+verbrauchen—to use up; consume
 Der alte Wagen verbrauchte zu viel
 Sprit.
 The old car used too much gas.
@@ -23272,7 +23273,7 @@ IMPERATIVE	: schnüre!, schnürt!, schnüren Sie!
 PAGE_END
 PAGE_START
 schöpfen	
-to scoop; 	obtain, conceive*	
+to scoop; obtain, conceive
 INDICATIVESUBJUNCTIVE	PRIMARYSECONDARY	Present Time
 Present (Pres. Subj.)(Imperf. Subj.)	
 ichschöpfe schöpfe schöpfte
@@ -33976,8 +33977,8 @@ Zieh dir den neuen Pulli an.
 Put on your new pullover.
 umziehen—to move, relocate 
 Wir ziehen nach Honolulu um.
-We’re moving to Honolulu. *(sich) umziehen
-—to change clothes
+We’re moving to Honolulu. *
+(sich) umziehen—to change clothes
 In den Tropen mussten wir uns täglich mehrmals umziehen.
 In the tropics we had to change clothes several times a day.
 unterziehen —to put on underneath
@@ -33997,7 +33998,7 @@ The pilgrims have moved on.
 zurückziehen—to withdraw
 Ihren Antrag haben sie zurückgezogen.
 They’ve withdrawn their request.
-(sich) zurückziehen —to retire
+(sich) zurückziehen—to retire
 Die Chefin schlug ihm vor, sich  zurückzuziehen.
 The boss suggested he retire.
 zuziehen—to draw; contract; consult

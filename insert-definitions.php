@@ -6,7 +6,7 @@ require_once "./algorithms.php";
 require_once "./dict.php";
 
 $ifile = new SplFileObjectExtended("./results.txt", "r");
-$ofile = new SplFileObjectExtended("./new-results.txt", "w");
+$rfile = new SplFileObjectExtended("./new-results.txt", "w");
 
 $keys = array_keys($verb); // <-- Need 
 
@@ -14,7 +14,7 @@ foreach($ifile as $lineno => $line) {
 
    if (0 === (strpos($line, "SEP")) || 0 === (strpos($line, "INS"))) {
 
-               $ofile->fwrite($line . "\n");
+               $rfile->fwrite($line . "\n");
    } else { 
 
        $parts = explode(" | ", $line);
@@ -32,6 +32,6 @@ foreach($ifile as $lineno => $line) {
 
         $output = substr($output, 0, -3);
    
-        $ofile->fwrite($output . "\n");
+        $rfile->fwrite($output . "\n");
   }
 }

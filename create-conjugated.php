@@ -5,7 +5,7 @@ require_once "./must-conjugate.php";
 require_once "./algorithms.php";
 
 $ifile = new SplFileObjectExtended("./results.txt", "r");
-$ofile = new SplFileObjectExtended("./verbs-2-conjugate.txt", "w");
+$rfile = new SplFileObjectExtended("./verbs-2-conjugate.txt", "w");
 
 foreach($ifile as $lineno => $line) {
 
@@ -18,6 +18,6 @@ foreach($ifile as $lineno => $line) {
 
             $output = $parts[0] . '|' . $parts[1] . "\n";
 
-            $ofile->fwrite($output);
+            $rfile->fwrite($output);
     }
 }
