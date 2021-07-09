@@ -92,18 +92,18 @@ Der Prozess wurde in den Medien groß aufgemacht.@The trial got wide media cover
 
 RESUME
 ausgeben
-„Warum habt ihr so viel Geld ausgegeben?“ „Wir hatten viele unvermeidliche Ausgaben.“ “Why did you spend so much money?” “We had many unavoidable expenses.” „Wer gab die Karten aus?“ “Who dealt the cards?” Ich gab allen eine Runde aus aber hat keiner mir einen ausgegeben.
-I treated everyone to a round of drinks, but nobody bought me a drink.
-Die Schwindler gaben sich für reiche Unternehmer aus.
-The con men pretended to be rich entrepreneurs. 
+„Warum habt ihr so viel Geld ausgegeben?“@ “Why did you spend so much money?
+”„Wir hatten viele unvermeidliche Ausgaben.“@“We had many unavoidable expenses.”
+„Wer gab die Karten aus?“@“Who dealt the cards?”
+Ich gab allen eine Runde aus aber hat keiner mir einen ausgegeben.@I treated everyone to a round of drinks, but nobody bought me a drink.
+Die Schwindler gaben sich für reiche Unternehmer aus.@The con men pretended to be rich entrepreneurs. 
 
 auskommen
- „Wir kommen selten aus unserem Dorf heraus.
-Mit meinem Gehalt allein kommen wir nicht mehr aus.
-Es ist aber unmöglich mit unseren reichen Verwandten auszukommen.“ “We rarely leave our village.
-We can’t get along on my salary anymore.
-But it’s impossible to get along with our rich relatives.” 
+„Wir kommen selten aus unserem Dorf heraus."@ “We rarely leave our village."
+Mit meinem Gehalt allein kommen wir nicht mehr aus.@We can’t get along on my salary anymore.
+Es ist aber unmöglich mit unseren reichen Verwandten auszukommen.“@"But it’s impossible to get along with our rich relatives.” 
 
+RESUME
 ausstellen
 Suzanne hat ihre Gemälde in vielen Galerien ausgestellt.
 Sie hofft, ihre Werke bei der nächsten Weltausstellung auszustellen.
@@ -298,32 +298,22 @@ See “Future and Future Perfect,” page 22.
 Bekommen 
 
 abbekommen
-Vom Bombenkrieg hat Heidelberg wenig abbekommen.
-Heidelberg was largely spared bombing during the war. 
+Vom Bombenkrieg hat Heidelberg wenig abbekommen.@Heidelberg was largely spared bombing during the war. 
 
 freibekommen
-Kannst du morgen Nachmittag freibekommen?
-Can you get tomorrow afternoon off?
-Die Regierung bezahlte ein Lösegeld, um die Geiseln freizubekommen.
-The government paid a ransom to get the hostages released. 
+Kannst du morgen Nachmittag freibekommen?@Can you get tomorrow afternoon off?
+Die Regierung bezahlte ein Lösegeld, um die Geiseln freizubekommen.@The government paid a ransom to get the hostages released. 
 
 mitbekommen
-Hast du was davon mitbekommen?
-Did you get any of that? 
+Hast du was davon mitbekommen?@Did you get any of that? 
 
 zurückbekommen
-Wann bekomme ich das Buch zurück?
-When will I get the book back?	 
+Wann bekomme ich das Buch zurück?@When will I get the book back?	 
 
 beleben
-Endlich gelang es Dr.
-Frankenstein, sein Geschöpf zu beleben.
-Dr.
-Frankenstein finally succeeded in bringing his creature to life.
-Nach einem Operettenbesuch in Wien fühlte sich Graf Dracula neu belebt.
-„Wiener Blut, du belebst uns, erhebst uns den Mut“, sang er.
-After going to an operetta in Vienna, Count Dracula felt reinvigorated.
-“Vienna blood, you cheer us, you raise our spirits,” he sang. 
+Endlich gelang es Dr. Frankenstein, sein Geschöpf zu beleben.@Dr. Frankenstein finally succeeded in bringing his creature to life.
+Nach einem Operettenbesuch in Wien fühlte sich Graf Dracula neu belebt.@After going to an operetta in Vienna, Count Dracula felt reinvigorated.
+„Wiener Blut, du belebst uns, erhebst uns den Mut“, sang er.@“Vienna blood, you cheer us, you raise our spirits,” he sang. 
 
 beleidigen
 Es war nicht meine Absicht, Ernst zu beleidigen, aber er fühlt sich leicht beleidigt.
