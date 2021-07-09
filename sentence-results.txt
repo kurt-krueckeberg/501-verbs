@@ -115,42 +115,23 @@ backen
 „Alles, was in unserer Bäckerei gebacken wird, ist hervorragend."@“Everything baked in our bakery is outstanding.
 Heute Morgen backte ich schmackhafte Brötchen“, sagte der Bäcker.@This morning I baked tasty rolls,” said the baker.
 
-RESUME
 baden
-Unsere Tochter Klärchen badet gern ihre Puppe.
-Manchmal badet sie sich mit der Puppe.
-Our daughter Klärchen likes to bathe her doll.
-Sometimes she bathes with the doll.
-Verbs whose stem ends in -dadd an -e in some forms.
-The example contrasts reflexive/nonreflexive use.
-In English we usually omit the reflexive pronoun and say “I wash,” not “I wash myself.” 
+Unsere Tochter Klärchen badet gern ihre Puppe.@Manchmal badet sie sich mit der Puppe.@
 
 bauen
-Der Architekt hat viele Neubauten gebaut.
-Wir wollen uns von ihm ein schönes Haus bauen lassen.
-Auf ihn und seine Firma können wir bauen.
-The architect built many new buildings.
-We want to have him build us a nice new house.
-We can count on him and his firm.
-Lassen, here used with bauen, can be used with any verb meaning “to have (something) done.”The idiom bauen auf means “to count on.” 
+Der Architekt hat viele Neubauten gebaut.@The architect built many new buildings.
+Wir wollen uns von ihm ein schönes Haus bauen lassen.@We want to have him build us a nice new house.
+Auf ihn und seine Firma können wir bauen.@We can count on him and his firm.
 
 beben
- Beim letzten Erdbeben hat die Erde wenig gebebt.
-Aber die Menschen bebten vor Furcht.
-During the last earthquake the earth trembled only a little.
-But people trembled in fright.
-Sentence 1 is in the present perfect, colloquially used for past time.
-The imperfect, however, is used for narratives, for relating connected events in the past.
-The speaker switched to the imperfect to recount details of the earthquake. 
+Beim letzten Erdbeben hat die Erde wenig gebebt.@During the last earthquake the earth trembled only a little.
+Aber die Menschen bebten vor Furcht.@But people trembled in fright.
 
 bedeuten
-Der Dichter sagte, er wüsste nicht, was es bedeuten sollte.
-The poet said he didn’t know what it meant.
-Was bedeutet eigentlich Materialismus?
-What does materialism really mean?
-The stem ends in -tand therefore an extra eis added in some forms.
-Inseparable bedeutenis used more often than the basic verb deuten. 
+Der Dichter sagte, er wüsste nicht, was es bedeuten sollte.@The poet said he didn’t know what it meant.
+Was bedeutet eigentlich Materialismus?@What does materialism really mean?
 
+RESUME
 sich bedienen
  „Du hast dich am Büfett reichlich bedient.
 Heute bist du krank und brauchst jemand, der dich bedient.“ “You helped yourself copiously at the buffet.
