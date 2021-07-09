@@ -1,5 +1,8 @@
 <?php
-
+/*
+ * Adds definition found $verbs[] (from dict.php) to the input file.
+ *
+ */
 require_once "dict.php";
 require_once "algorithms.php";
 require_once "./SplFileObjectExtended.php";
@@ -8,7 +11,6 @@ function format($str)
 {
    return mb_convert_encoding($str, "UTF-8"); // Convert $output to UTF-8 encoding.
 }
-
 
 $ifile = new SplFileObjectExtended("./german-strong-irr-conjugations.txt" , "r");
 $ofile = new SplFileObjectExtended("./new-german-conjugations.txt" , "w");
