@@ -131,137 +131,81 @@ bedeuten
 Der Dichter sagte, er wüsste nicht, was es bedeuten sollte.@The poet said he didn’t know what it meant.
 Was bedeutet eigentlich Materialismus?@What does materialism really mean?
 
-RESUME
 sich bedienen
- „Du hast dich am Büfett reichlich bedient.
-Heute bist du krank und brauchst jemand, der dich bedient.“ “You helped yourself copiously at the buffet.
-Today you’re sick and need somebody to wait on you.” Sich bedienenis reflexive; note the reflexive pronoun dich.
-Nonreflexive bedienen also means “to make use of something; to operate.” 
+„Du hast dich am Büfett reichlich bedient."@ You helped yourself copiously at the buffet.
+Heute bist du krank und brauchst jemand, der dich bedient.“@Today you’re sick and need somebody to wait on you.”
 
 sich beeilen
-Wir beeilen uns, Ihren Brief zu beantworten.
-We hasten to reply to your letter.
-Sie beeilte sich, rechtzeitig nach Hause zu kommen.
-She hurried to get home on time.
-Be careful to sound the e of the prefix be when pronouncing beeilen. 
+Wir beeilen uns, Ihren Brief zu beantworten.@We hasten to reply to your letter.
+Sie beeilte sich, rechtzeitig nach Hause zu kommen.@She hurried to get home on time.
 
 beeindrucken
-„Sie hat mich sehr beeindruckt.“ „Auf uns hat sie keinen guten Eindruck gemacht.
-Du lässt dich zu leicht beeindrucken.“ “She impressed me very much.” “She didn’t make a good impression on us.
-You’re too easily impressed.” 
+„Sie hat mich sehr beeindruckt.“@“She impressed me very much.”
+„Auf uns hat sie keinen guten Eindruck gemacht."@“She didn’t make a good impression on us." 
+„Du lässt dich zu leicht beeindrucken.“@"You’re too easily impressed.” 
 
 beeinflussen
-„Herr Magnus ist der einflussreichste Mann der Stadt.
-Könntest du ihn vielleicht beeinflussen, seine Entscheidung zu ändern?“ „Er ist nicht leicht zu beeinflussen.
-Ich habe keinen Einfluss auf ihn.“ “Mr.
-Magnus is the most influential man in town.
-Could you perhaps influence him to change his decision?” “He’s not easily influenced.
-I have no influence on him.” Ihr Vater hat sie mehr beeinflusst als ihre Mutter.
-Her father influenced her more than her mother. 
+„Herr Magnus ist der einflussreichste Mann der Stadt."@“Mr. Magnus is the most influential man in town.
+„Könntest du ihn vielleicht beeinflussen, seine Entscheidung zu ändern?“@Could you perhaps influence him to change his decision?”
+„Er ist nicht leicht zu beeinflussen."@“He’s not easily influenced."
+„Ich habe keinen Einfluss auf ihn.“ @"I have no influence on him.”
+Ihr Vater hat sie mehr beeinflusst als ihre Mutter.@Her father influenced her more than her mother. 
 
 befehlen
-Der Oberbefehlshaber befahl den Soldaten, auf den Feind zu schießen, aber sie gehorchten ihm nicht.
-Er befahl sich Gott und erschoss sich.
-The Commander in Chief ordered the soldiers to shoot at the enemy, but they didn’t obey him.
-He commended himself to God and shot himself.
-The imperfect (past) is used here to recount connected events in the past. 
+Der Oberbefehlshaber befahl den Soldaten, auf den Feind zu schießen, aber sie gehorchten ihm nicht.@The Commander in Chief ordered the soldiers to shoot at the enemy, but they didn’t obey him.
+Er befahl sich Gott und erschoss sich.@He commended himself to God and shot himself.
 
 sich befinden
-Die Chefin befindet sich jetzt auf einer Asienreise.
-The boss is away on a trip to Asia now.
-Wie befinden sich Ihre Eltern?
-How are your parents feeling (doing)?
-Verbs whose stem ends in dinsert an e in some forms.
-The past participle of finden, the basic verb, is gefunden.
-Be-, however, is an inseparable prefix. 
+Die Chefin befindet sich jetzt auf einer Asienreise.@The boss is away on a trip to Asia now.
+Wie befinden sich Ihre Eltern?@How are your parents feeling (doing)?
 
 befreien
-Sie sind zu oft von zu vielen Armeen befreit worden.
-Sie möchten sich gerne von ihren „Befreiern” befreien.
-They’ve been liberated too often by too many armies.
-They would like to free themselves from their “liberators.” Sentence 1: In the perfect tenses of the passive, the past participle of the helping verb werden loses its ge- when used with another past participle. 
+Sie sind zu oft von zu vielen Armeen befreit worden.@They’ve been liberated too often by too many armies.
+Sie möchten sich gerne von ihren „Befreiern” befreien.@They would like to free themselves from their “liberators.”
 
 begegnen
- „Gestern bin ich unserer alten Lehrerin Frau Weber begegnet.“ „Erna hat mir erzählt, dass sie ihr auch neulich begegnet ist.“ “Yesterday I met our old teacher Ms.
-Weber.” “Erna told me that she also met her recently.” Begegnentakes a dative object (see page 27).
-It is also a sein verb, that is, it uses sein(to be) not haben(to have) to form the perfect tenses. 
+„Gestern bin ich unserer alten Lehrerin Frau Weber begegnet.“@“Yesterday I met our old teacher Ms. Weber.”
+“Erna told me that she also met her recently.”@„Erna hat mir erzählt, dass sie ihr auch neulich begegnet ist.“  
 
 beginnen
-Die Lehrerin hatte begonnen, ein Märchen vorzulesen.
-„Es war einmal“, so beginnen die Märchen.
-The teacher had begun to read a fairy tale aloud.
-“Once upon a time” is how fairy tales begin.
-The pluperfect (past perfect) in sentence 1 is used for an action in the past that started before another action.
-The be-of beginnen is never separated. 
+Die Lehrerin hatte begonnen, ein Märchen vorzulesen.@The teacher had begun to read a fairy tale aloud.
+„Es war einmal“, so beginnen die Märchen."@“Once upon a time” is how fairy tales begin."
 
 begleiten
-Lola sang und er begleitete sie am Flügel.
-Nach dem Konzert wollte er sie nach Hause begleiten.
-Lola sang and he accompanied her at the piano.
-After the concert he wanted to see her home.
-The stem of begleiten ends in -t.
-An eis added in some forms, such as the imperfect here.
-In sentence 2, begleitenis the complementary infinitive of the modal, wolte, and is therefore at the end of the sentence. 
+Lola sang und er begleitete sie am Flügel.@Lola sang and he accompanied her at the piano.
+Nach dem Konzert wollte er sie nach Hause begleiten.@After the concert he wanted to see her home.
 
 behalten
-„Wenn Sie das Endziel stets im Auge behalten, werden wir die Oberhand behalten.
-Behalten Sie Ihre Fassung!
-Dann behalten wir recht“, verlangte der Chef.
-“If you always keep the final goal in sight, then we’ll continue to have the upper hand.
-Keep your composure.
-Then we’ll be proven right,” demanded the boss.
-The Sieand wirforms of the present resemble the infinitive in most verbs. 
+„Wenn Sie das Endziel stets im Auge behalten, werden wir die Oberhand behalten."@ “If you always keep the final goal in sight, then we’ll continue to have the upper hand."
+Behalten Sie Ihre Fassung!@Keep your composure.
+„Dann behalten wir recht“, verlangte der Chef."@Then we’ll be proven right,” demanded the boss.
 
 beißen
-Der Chef machte der Konkurrenz ein Angebot.
-Sie aber bissen nicht an.
-Er machte bissige Bermerkingen; musste aber trotzdem in den sauren Apfel beißen.
-The boss made an offer to the competition.
-But they didn’t take the bait.
-He made nasty remarks, but had to swallow the bitter pill.
-Anbeißen in sentence 2 is used idiomatically. 
+Der Chef machte der Konkurrenz ein Angebot.@The boss made an offer to the competition.
+Sie aber bissen nicht an.@But they didn’t take the bait.
+Er machte bissige Bermerkingen; musste aber trotzdem in den sauren Apfel beißen.@He made nasty remarks, but had to swallow the bitter pill.
 
 bejahen
-Die meisten bejahten alles, was der Chef vorlegte, aber einige sagten nichts.
-„Wer schweigt, bejaht“, folgerte er.
-Most agreed with everything the boss proposed.
-But a few said nothing.
-“Silence gives consent,” he concluded.
-Here the inseparable prefix be-makes a verb out of another part of speech: the word ja(plus the letter h). 
+Die meisten bejahten alles, was der Chef vorlegte, aber einige sagten nichts.@Most agreed with everything the boss proposed. But a few said nothing.
+„Wer schweigt, bejaht“, folgerte er.@“Silence gives consent,” he concluded.
 
 bekehren
-Der berühmte Bekehrer konnte viele zum neuen Glauben bekehren, nur nicht sich selbst.
-Er war wirklich nicht vom Alkohol bekehrt.
-The famous missionary was able to convert many to the new faith, but not himself.
-He really hadn’t turned his back on alcohol.
-The basic verb is kehren (to sweep; turn).
-Bekehrenis used for an inner turning.
-It is often used with “to” ( zu), but note the idiom bekehrt von. 
+Der berühmte Bekehrer konnte viele zum neuen Glauben bekehren, nur nicht sich selbst.@The famous missionary was able to convert many to the new faith, but not himself.
+Er war wirklich nicht vom Alkohol bekehrt.@                                            He really hadn’t turned his back on alcohol.
 
 bekommen
-In der ganzen Stadt war kein Zimmer zubekommen.
-Da bekam ich Hunger.
-Ich war auch nahe daran, einen Schnupfen zu bekommen.
-Endlich gelang es mir, in einem Gasthof im Nachbardorf ein Zimmer zu bekommen.
-Die Wirtin fragte mich, „Was bekommen Sie bitte?“ „Zuerst bekomme ich ein Glas Wein“, antwortete ich.
-Das Essen war sehr bekömmlich.
-Alles ist mir dort wohl bekommen.
-„Was bekommen Sie von mir?“ fragte ich.
-In the whole city no room was to be had.
-Then I got hungry.
-I was also close to catching a cold.
-Finally, I succeeded in getting a room at an inn in a nearby village.
-The innkeeper asked me, “What will you have, please?” “First I’ll have a glass of wine,” I replied.
-The meal was very wholesome.
-Everything agreed with me.
-“How much do I owe you?” I asked.
-„Ich habe eine E-mail von Erna bekommen.
-Sie sagt, sie habe den Scheck noch nicht bekommen.“ „Bisjetzt wird sie ihn wohl bekommen haben.“ “I got an e-mail from Erna.
-She says she hasn’t received the check yet.” “By now she’s proba- bly received it.” In the last example, the speaker reports on what Erna wrote and doesn’t quote her directly.
-Therefore the “Subjunctive in Indirect Discourse” (page 26) is used.
-In the last sentence the future perfect is used to express probability.
-See “Future and Future Perfect,” page 22.
-Bekommen 
+In der ganzen Stadt war kein Zimmer zubekommen.@In the whole city no room was to be had.
+Da bekam ich Hunger.@Then I got hungry.
+Ich war auch nahe daran, einen Schnupfen zu bekommen.@I was also close to catching a cold. 
+Endlich gelang es mir, in einem Gasthof im Nachbardorf ein Zimmer zu bekommen.@Finally, I succeeded in getting a room at an inn in a nearby village.                         
+Die Wirtin fragte mich, „Was bekommen Sie bitte?“@The innkeeper asked me, “What will you have, please?”
+„Zuerst bekomme ich ein Glas Wein“, antwortete ich.@ “First I’ll have a glass of wine,” I replied. 
+Das Essen war sehr bekömmlich.@The meal was very wholesome.  
+Alles ist mir dort wohl bekommen.@ Everything agreed with me.
+„Was bekommen Sie von mir?“ fragte ich.@“How much do I owe you?” I asked.
+„Ich habe eine E-mail von Erna bekommen."@“I got an e-mail from Erna."
+Sie sagt, „sie habe den Scheck noch nicht bekommen.“@She says, "she hasn’t received the check yet.” 
+“By now she’s proba- bly received it.”@„Bis jetzt wird sie ihn wohl bekommen haben.“
 
 abbekommen
 Vom Bombenkrieg hat Heidelberg wenig abbekommen.@Heidelberg was largely spared bombing during the war. 
@@ -282,27 +226,18 @@ Nach einem Operettenbesuch in Wien fühlte sich Graf Dracula neu belebt.@After g
 „Wiener Blut, du belebst uns, erhebst uns den Mut“, sang er.@“Vienna blood, you cheer us, you raise our spirits,” he sang. 
 
 beleidigen
-Es war nicht meine Absicht, Ernst zu beleidigen, aber er fühlt sich leicht beleidigt.
-Er spielt oft die beleidigte Leberwurst.
-It wasn’t my intention to insult Ernst, but he’s easily offended.
-He’s often in a huff.
-Beleidigtis the past participle used as an adjective, with no ending in sentence 1 because it follows the noun it modifies.
-In the last sentence it precedes die Leberwurstand therefore has an ending. 
+Es war nicht meine Absicht, Ernst zu beleidigen, aber er fühlt sich leicht beleidigt.@It wasn’t my intention to insult Ernst, but he’s easily offended.
 
 bellen
-„Das andauernde Bellen Ihres Hundes kann ich nicht mehr aushalten“, sagte der Nachbar.
-„Bellende Hunde beißen nicht.
-Gestern hat er alle angebellt, aber heute ist er ausgebellt“, sagte die Nachbarin.“ “I can’t put up with your dog’s barking anymore,” said the neighbor (male).
-“Barking dogs don’t bite.
-Yesterday he barked at everybody.
-But today he’s all barked out,” said the neighbor (female). 
+„Das andauernde Bellen Ihres Hundes kann ich nicht mehr aushalten“, sagte der Nachbar.@“I can’t put up with your dog’s barking anymore,” said the neighbor (male).
+„Bellende Hunde beißen nicht."@“Barking dogs don’t bite."
+„Gestern hat er alle angebellt, aber heute ist er ausgebellt“, sagte die Nachbarin.“@"Yesterday he barked at everybody, but today he’s all barked out,” said the neighbor (female). 
 
 bergen
-Die Mannschaft ist geborgen, aber man hat das Schiff nicht bergen können.
-The crew is safe, but they couldn’t save the ship.
-„Mein Sohn, was birgst du so bang dein Gesicht?“ “My son, why do you hide your face so?” In sentence 1 the past participle geborgenis used as an adjective.
-In sentence 2, bergenmeans “to conceal.” More usual now in this sense is verbergen. 
+Die Mannschaft ist geborgen, aber man hat das Schiff nicht bergen können.@The crew is safe, but they couldn’t save the ship.
+„Mein Sohn, was birgst du so bang dein Gesicht?“@“My son, why do you hide your face so?”
 
+RESUME
 berichten
 Lange hatte unsere Berichterstatterin wenig Erfeuliches zu berichten.
 Es wird aber soeben berichtet, dass die Lage besser wird.
@@ -1342,91 +1277,56 @@ Als er über die Alpen fuhr, fluchte er auf das schlechte Wetter.
 When he crossed the Alps, he cursed the bad weather. 
 
 folgen
- Viele sind dem Diktator blindlings gefolgt.
-Das hat üble Folgen gehabt.
-Many followed the dictator blindly.
-That had bad consequences.
-Ich kann Ihrem Antrag nicht Folge leisten.
-I can’t comply with your request.
-Emil folgte dem Dieb.
-Emil und die Detektive verfolgten den Dieb.
-Emil followed the thief.
-Emil and the detectives pursued the thief. 
+Viele sind dem Diktator blindlings gefolgt.@Many followed the dictator blindly.
+Das hat üble Folgen gehabt.@That had bad consequences.
+Ich kann Ihrem Antrag nicht Folge leisten.@I can’t comply with your request.
+Emil folgte dem Dieb.@Emil followed the thief.
+Emil und die Detektive verfolgten den Dieb.@Emil and the detectives pursued the thief. 
 
 fragen
-„Frag nicht so dumm!
-Hör doch auf mit derewigen Fragerei!
-Du fragst immer nach den anderen.
-Du stellst mir zu viele Fragen.
-Du fragst mir ein Loch in den Bauch.
-Du willst alles über mich wissen, aber das kommt gar nicht in Frage,” behauptete Blaubart.
-“Don’t ask such silly questions.
-Quit all that interrogating.
-You’re always asking me about the others.
-You ask too many questions.
-You’re pestering me with your questions.
-You want to know everything about me.
-But that’s out of the question,” declared Bluebeard.
-Remember that fragen means “to ask (a ques- tion)”.
-“To ask for something” is um etwas bitten.
-In the passage above, note the following idioms: dumm fragen (to ask a silly question/ questions); fragen nach (to ask about, make inquiries); eine Frage stellen (to ask [pose] a question); jemandem ein Loch in den Bauch fragen (to talk someone’s head off, pester with questions, literally “to ask a hole in someone’s stomach”); nicht in Frage kommen (to be out of the question).
-Reflexive sich fragen is “to wonder.” Wir fragen uns, warum er das getan hat.
-We wonder why he did that.
-Note: anfragen is to make an initial inquiry.
-Nachfragen is to make a follow-up inquiry, an inquiry subsequent to an earlier one.
-The noun die Nachfrage means “demand” as in: das Verhältnis von Angebot und Nachfrage (the relationship between supply and demand).
-Fragen 
+„Frag nicht so dumm!"@“Don’t ask such silly questions."
+Hör doch auf mit derewigen Fragerei!@Quit all that interrogating.
+Du fragst immer nach den anderen.@You’re always asking me about the others.
+Du stellst mir zu viele Fragen.@You ask too many questions.
+Du fragst mir ein Loch in den Bauch.@You’re pestering me with your questions.
+Du willst alles über mich wissen, aber das kommt gar nicht in Frage,” behauptete Blaubart.@You want to know everything about me, but that’s out of the question,” declared Bluebeard.
 
 anfragen
-Bei den Nachbarn hab ich schon angefragt.
-I’ve already made inquiries at the neighbors’. 
+Bei den Nachbarn hab ich schon angefragt.@I’ve already made inquiries at the neighbors’. 
 
 ausfragen
-Der Detektiv versuchte uns auszufragen.
-The detective tried to question us. 
+Der Detektiv versuchte uns auszufragen.@ The detective tried to question us. 
 
 nachfragen
-Hast du schon nachgefragt?
-Have you already inquired? 
+Hast du schon nachgefragt?@Have you already inquired? 
 
 umfragen
-Wir haben umgefragt und wissen, dass dieses Produkt bei den Hausfrauen gut ankommen wird.
-We’ve done surveys and know that this product will be popular with housewives. 
+Wir haben umgefragt und wissen, dass dieses Produkt bei den Hausfrauen gut ankommen wird.@We’ve done surveys and know that this product will be popular with housewives. 
 
 befragen
-„Nie sollst du mich befragen“, mahnte Lohengrin.
-“You must never interrogate me,” warned Lohengrin. 
+„Nie sollst du mich befragen“, mahnte Lohengrin."@“You must never interrogate me,” warned Lohengrin. 
 
 erfragen
-Das will ich erfragen.
-I’ll make inquiries about that. 
+Das will ich erfragen.@I’ll make inquiries about that. 
 
 hinterfragen
-Es lohnt sich, die Sache zu hinterfragen.
-The matter is worth investigating. 
+Es lohnt sich, die Sache zu hinterfragen.@The matter is worth investigating. 
 
 überfragen
-Ich soll Ihnen die Relativitätstheorie erklären?
-Da bin ich überfragt!
-You want me to explain the Theory of Relativity to you?
-You’re asking too much!	 
+Ich soll Ihnen die Relativitätstheorie erklären?@You want me to explain the Theory of Relativity to you?
+Da bin ich überfragt!@You’re asking too much!	 
 
 fressen
-„Du frisst ja wie ein Tier!
-Iss doch wie ein Mensch!” schrie die Mutter ihren Jungen an.
-„Wenn das kein so elendes Fressen wäre, würde ich vornehm essen.“ “You’re eating like an animal!
-Eat like a human being, will you!” the mother yelled at her son.
-“If the eats weren’t so lousy, I’d eat daintily.” 
+„Du frisst ja wie ein Tier!                                      @“You’re eating like an animal!"
+„Iss doch wie ein Mensch!” schrie die Mutter ihren Jungen an.@     Eat like a human being, will you!” the mother yelled at her son.
+„Wenn das kein so elendes Fressen wäre, würde ich vornehm essen.“@“If the eats weren’t so lousy, I’d eat daintily.” 
 
 sich freuen
-Es freut mich, dass Sie sich wieder am Leben freuen.
-Ich freue mich sehr darüber.
-I’m glad you’re taking pleasure in life again.
-I’m pleased about that.
-Darf ich mich auf meine baldige Entlassung freuen?
-May I look forward to my release soon?
-Note the different prepositions used above: an, über, and auf. 
+Es freut mich, dass Sie sich wieder am Leben freuen.@I’m glad you’re taking pleasure in life again.
+Ich freue mich sehr darüber.@I’m pleased about that.
+Darf ich mich auf meine baldige Entlassung freuen?@May I look forward to my release soon?
 
+RESUME
 frieren
 Nach dem Krieg hungerten und froren Millionen.
 Tausende fand man im Schnee erfroren.
@@ -6998,8 +6898,5 @@ See “Doubtful Prefixes,” page 610.
 See  (sich) anziehen, (sich) ausziehen.	 
 
 zwingen
-Man hat uns dazu gezwungen.
-They forced us to do it.
-Aber die Begeisterung lässt sich nicht zwingen.
-But enthusiasm can’t be compelled. 
-
+Man hat uns dazu gezwungen.@They forced us to do it.
+Aber die Begeisterung lässt sich nicht zwingen.@But enthusiasm can’t be compelled. 
