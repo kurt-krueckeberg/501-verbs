@@ -90,7 +90,6 @@ aufmachen
 “When the sun shines I have to open the windows.@"After I’ve left you can open them again.” 
 Der Prozess wurde in den Medien groß aufgemacht.@The trial got wide media coverage. 
 
-RESUME
 ausgeben
 „Warum habt ihr so viel Geld ausgegeben?“@ “Why did you spend so much money?
 ”„Wir hatten viele unvermeidliche Ausgaben.“@“We had many unavoidable expenses.”
@@ -103,36 +102,22 @@ auskommen
 Mit meinem Gehalt allein kommen wir nicht mehr aus.@We can’t get along on my salary anymore.
 Es ist aber unmöglich mit unseren reichen Verwandten auszukommen.“@"But it’s impossible to get along with our rich relatives.” 
 
-RESUME
 ausstellen
-Suzanne hat ihre Gemälde in vielen Galerien ausgestellt.
-Sie hofft, ihre Werke bei der nächsten Weltausstellung auszustellen.
-Suzanne has exhibited her paintings in many galleries.
-She hopes to exhibit her works at the next World’s Fair.
-When used with an auxiliary to form the perfect tenses, as in sentence 1, the past participle never changes. 
+Suzanne hat ihre Gemälde in vielen Galerien ausgestellt.@Suzanne has exhibited her paintings in many galleries.
+Sie hofft, ihre Werke bei der nächsten Weltausstellung auszustellen.@She hopes to exhibit her works at the next World’s Fair.
 
 sich ausziehen
- Die Tänzer zogen sich langsam aus.
-Aber sie weigerten sich, sich ganz auszuziehen.
-The dancers undressed slowly.
-But they refused to undress completely.
-Hier wird man wirklich ausgezogen.
-They really fleece you here.
-Note the prefix at the end in the past in sentence 1.
-In the second example, manis a substitute for the passive.
-Ausziehenis separable. 
+Die Tänzer zogen sich langsam aus.@The dancers undressed slowly.
+Aber sie weigerten sich, sich ganz auszuziehen.@But they refused to undress completely.
+Hier wird man wirklich ausgezogen.@They really fleece you here.
 
 backen
- „Alles, was in unserer Bäckerei gebacken wird, ist hervorragend.
-Heute Morgen backte ich schmackhafte Brötchen“, sagte der Bäcker.
-“Everything baked in our bakery is outstanding.
-This morning I baked tasty rolls,” said the baker.
-The weak imperfect forms backte, etc.
-are more common nowadays.
-Our baker uses backte. 
+„Alles, was in unserer Bäckerei gebacken wird, ist hervorragend."@“Everything baked in our bakery is outstanding.
+Heute Morgen backte ich schmackhafte Brötchen“, sagte der Bäcker.@This morning I baked tasty rolls,” said the baker.
 
+RESUME
 baden
- Unsere Tochter Klärchen badet gern ihre Puppe.
+Unsere Tochter Klärchen badet gern ihre Puppe.
 Manchmal badet sie sich mit der Puppe.
 Our daughter Klärchen likes to bathe her doll.
 Sometimes she bathes with the doll.
