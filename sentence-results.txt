@@ -91,14 +91,14 @@ aufmachen
 Der Prozess wurde in den Medien groß aufgemacht.@The trial got wide media coverage. 
 
 ausgeben
-„Warum habt ihr so viel Geld ausgegeben?“@ “Why did you spend so much money?
+„Warum habt ihr so viel Geld ausgegeben?“@“Why did you spend so much money?
 ”„Wir hatten viele unvermeidliche Ausgaben.“@“We had many unavoidable expenses.”
 „Wer gab die Karten aus?“@“Who dealt the cards?”
 Ich gab allen eine Runde aus aber hat keiner mir einen ausgegeben.@I treated everyone to a round of drinks, but nobody bought me a drink.
 Die Schwindler gaben sich für reiche Unternehmer aus.@The con men pretended to be rich entrepreneurs. 
 
 auskommen
-„Wir kommen selten aus unserem Dorf heraus."@ “We rarely leave our village."
+„Wir kommen selten aus unserem Dorf heraus."@“We rarely leave our village."
 Mit meinem Gehalt allein kommen wir nicht mehr aus.@We can’t get along on my salary anymore.
 Es ist aber unmöglich mit unseren reichen Verwandten auszukommen.“@"But it’s impossible to get along with our rich relatives.” 
 
@@ -132,7 +132,7 @@ Der Dichter sagte, er wüsste nicht, was es bedeuten sollte.@The poet said he di
 Was bedeutet eigentlich Materialismus?@What does materialism really mean?
 
 sich bedienen
-„Du hast dich am Büfett reichlich bedient."@ You helped yourself copiously at the buffet.
+„Du hast dich am Büfett reichlich bedient."@You helped yourself copiously at the buffet.
 Heute bist du krank und brauchst jemand, der dich bedient.“@Today you’re sick and need somebody to wait on you.”
 
 sich beeilen
@@ -148,7 +148,7 @@ beeinflussen
 „Herr Magnus ist der einflussreichste Mann der Stadt."@“Mr. Magnus is the most influential man in town.
 „Könntest du ihn vielleicht beeinflussen, seine Entscheidung zu ändern?“@Could you perhaps influence him to change his decision?”
 „Er ist nicht leicht zu beeinflussen."@“He’s not easily influenced."
-„Ich habe keinen Einfluss auf ihn.“ @"I have no influence on him.”
+„Ich habe keinen Einfluss auf ihn.“@"I have no influence on him.”
 Ihr Vater hat sie mehr beeinflusst als ihre Mutter.@Her father influenced her more than her mother. 
 
 befehlen
@@ -176,7 +176,7 @@ Lola sang und er begleitete sie am Flügel.@Lola sang and he accompanied her at 
 Nach dem Konzert wollte er sie nach Hause begleiten.@After the concert he wanted to see her home.
 
 behalten
-„Wenn Sie das Endziel stets im Auge behalten, werden wir die Oberhand behalten."@ “If you always keep the final goal in sight, then we’ll continue to have the upper hand."
+„Wenn Sie das Endziel stets im Auge behalten, werden wir die Oberhand behalten."@“If you always keep the final goal in sight, then we’ll continue to have the upper hand."
 Behalten Sie Ihre Fassung!@Keep your composure.
 „Dann behalten wir recht“, verlangte der Chef."@Then we’ll be proven right,” demanded the boss.
 
@@ -191,7 +191,7 @@ Die meisten bejahten alles, was der Chef vorlegte, aber einige sagten nichts.@Mo
 
 bekehren
 Der berühmte Bekehrer konnte viele zum neuen Glauben bekehren, nur nicht sich selbst.@The famous missionary was able to convert many to the new faith, but not himself.
-Er war wirklich nicht vom Alkohol bekehrt.@                                            He really hadn’t turned his back on alcohol.
+Er war wirklich nicht vom Alkohol bekehrt.@He really hadn’t turned his back on alcohol.
 
 bekommen
 In der ganzen Stadt war kein Zimmer zubekommen.@In the whole city no room was to be had.
@@ -199,9 +199,9 @@ Da bekam ich Hunger.@Then I got hungry.
 Ich war auch nahe daran, einen Schnupfen zu bekommen.@I was also close to catching a cold. 
 Endlich gelang es mir, in einem Gasthof im Nachbardorf ein Zimmer zu bekommen.@Finally, I succeeded in getting a room at an inn in a nearby village.                         
 Die Wirtin fragte mich, „Was bekommen Sie bitte?“@The innkeeper asked me, “What will you have, please?”
-„Zuerst bekomme ich ein Glas Wein“, antwortete ich.@ “First I’ll have a glass of wine,” I replied. 
+„Zuerst bekomme ich ein Glas Wein“, antwortete ich.@“First I’ll have a glass of wine,” I replied. 
 Das Essen war sehr bekömmlich.@The meal was very wholesome.  
-Alles ist mir dort wohl bekommen.@ Everything agreed with me.
+Alles ist mir dort wohl bekommen.@Everything agreed with me.
 „Was bekommen Sie von mir?“ fragte ich.@“How much do I owe you?” I asked.
 „Ich habe eine E-mail von Erna bekommen."@“I got an e-mail from Erna."
 Sie sagt, „sie habe den Scheck noch nicht bekommen.“@She says, "she hasn’t received the check yet.” 
@@ -237,271 +237,163 @@ bergen
 Die Mannschaft ist geborgen, aber man hat das Schiff nicht bergen können.@The crew is safe, but they couldn’t save the ship.
 „Mein Sohn, was birgst du so bang dein Gesicht?“@“My son, why do you hide your face so?”
 
-RESUME
 berichten
-Lange hatte unsere Berichterstatterin wenig Erfeuliches zu berichten.
-Es wird aber soeben berichtet, dass die Lage besser wird.
-For a long time our correspondent had little good news to report.
-But reports now say that the situation is improving.
-The literal translation of wird soeben berichtet (is just being reported) is awkward.
-It is best to translate freely. 
+Lange hatte unsere Berichterstatterin wenig Erfeuliches zu berichten.@For a long time our correspondent had little good news to report.
+Es wird aber soeben berichtet, dass die Lage besser wird.@But reports now say that the situation is improving.
 
 bersten
- „Die Wasserleitungen sind geborsten.
-Mein Mann versucht, sie zu reparieren, aber er macht alles nur schlimmer.
-Wenn Sie nicht sofort kommen, werde ich vor Wut bersten,“ sagte Blondchen dem Klempner.
-“The water pipes have burst.
-My husband is trying to repair them, but he’s just making everything worse.
-If you don’t come right away, I’ll burst with rage,” Blondie said to the plumber. 
+„Die Wasserleitungen sind geborsten."@“The water pipes have burst."
+Mein Mann versucht, sie zu reparieren, aber er macht alles nur schlimmer.@My husband is trying to repair them, but he’s just making everything worse.
+Wenn Sie nicht sofort kommen, werde ich vor Wut bersten,“ sagte Blondchen dem Klempner.@If you don’t come right away, I’ll burst with rage,” Blondie said to the plumber. 
 
 beschäftigen
-Wie soll ich die Kinder beschäftigen?
-How am I supposed to keep the kids busy?
-Im Augenblick ist sie zu sehr mit ihren eigenen Problemen beschäftigt.
-At the moment she’s too preoccupied with her own problems.
-Der Betrieb beschäftigt viele in der Gegend.
-The company employs many in the area.
-„Ich habe mich lange genug mit der Sache beschäftigt, und will jetzt anderen Geschäften nachgehen.“ „Leider müssen Sie sich wieder damit beschäftigen.“ “I’ve devoted enough time to that matter and want to pursue other business now.” “Unfortunately, you’ll have to concern yourself with it again.” 
+Wie soll ich die Kinder beschäftigen?@How am I supposed to keep the kids busy?
+Im Augenblick ist sie zu sehr mit ihren eigenen Problemen beschäftigt.@At the moment she’s too preoccupied with her own problems.
+Der Betrieb beschäftigt viele in der Gegend.@The company employs many in the area.
+„Ich habe mich lange genug mit der Sache beschäftigt, und will jetzt anderen Geschäften nachgehen.“@“I’ve devoted enough time to that matter and want to pursue other business now.”
+ „Leider müssen Sie sich wieder damit beschäftigen.“@“Unfortunately, you’ll have to concern yourself with it again.”  
 
 beschuldigen
-„Man hat Fritz des Diebstahls beschuldigt.
-Er behauptet, er sei nicht schuldig.
-Glauben Sie, dass er schuldig oder unschuldig ist?“ “They’ve accused Fritz of theft.
-He claims he’s not guilty.
-Do you think he’s guilty or innocent?” Beschuldigentakes a genitive object.
-It is often used in a legal context. 
+Man hat Fritz des Diebstahls beschuldigt.@They’ve accused Fritz of theft.
+Er behauptet, er sei nicht schuldig.@He claims he’s not guilty.                                             
+Glauben Sie, dass er schuldig oder unschuldig ist?“@Do you think he’s guilty or innocent?” Beschuldigentakes a genitive object.
 
 besitzen
- Der Drache wollte nur liegen, besitzen und schlafen.
-All the dragon wanted to do was stay put, possess, and sleep.
-„Was du vererbt von deinen Vätern hast, erwirb es, um es zu besitzen!” (Goethe) “Earn what you’ve inherited from your ancestors, so that you (truly) own it.” In sentence 1, the infinitives are dependent on the modal; no zuis used.
-In sentence 2, an infinitive phrase with um .
-.
-.
-zu is used. 
+Der Drache wollte nur liegen, besitzen und schlafen.@All the dragon wanted to do was stay put, possess, and sleep.
+„Was du vererbt von deinen Vätern hast, erwirb es, um es zu besitzen!”(Goethe) “Earn what you’ve inherited from your ancestors, so that you (truly) own it.” 
 
 bestehen
-Die Prüfung hat er wieder nicht bestanden.
-Besteht die Hoffnung, dass er sie je bestehen wird?
-He failed the exam again.
-Is there any hope that he’ll ever pass it?
-Gegen die Konkurrenz aus dem Ausland konnte die Firma nicht bestehen.
-The firm couldn’t hold up to foreign competition.
-Bestehen aus= “to consist of .”Der Roman besteht aus 10 Kapiteln.
-The novel consists of 10 chapters.
-Bestehen auf= “to insist on .”„Ich bestehe auf einer Nachzählung.“ „Na ja, wenn du darauf bestehst.“ “I insist on a recount.” “Oh well, if you insist.” 
+Die Prüfung hat er wieder nicht bestanden.@He failed the exam again.
+Besteht die Hoffnung, dass er sie je bestehen wird?@Is there any hope that he’ll ever pass it?
+Gegen die Konkurrenz aus dem Ausland konnte die Firma nicht bestehen.@The firm couldn’t hold up to foreign competition.
+Der Roman besteht aus 10 Kapiteln.@The novel consists of 10 chapters.
+„Ich bestehe auf einer Nachzählung.“@“I insist on a recount.”
+„Na ja, wenn du darauf bestehst.“@“Oh well, if you insist.” 
 
 bestellen
-Im Restaurant bestellen Klaus und Trude immer nur die teuersten Gerichte.
-At the restaurant Klaus and Trude always order only the most expensive dishes.
-Bestellen Sie ihnen einen schönen Gruß von uns!
-Give them our best regards.
-In simple, declarative sentences, the verb is the second unit.
-In sentence 1, the prepositional phrase “at the restaurant” is the first unit; the verb is the second. 
+Im Restaurant bestellen Klaus und Trude immer nur die teuersten Gerichte.@At the restaurant Klaus and Trude always order only the most expensive dishes.
+Bestellen Sie ihnen einen schönen Gruß von uns!@Give them our best regards.
 
 besuchen
-Letztes Jahr haben wir unsere Freunde in Wien besucht.
-Wir besuchten oft das Theater und haben Dürrenmatts Ber Besuch der alten Damegesehen.Last year we visited our friends in Vienna.
-We went to the theater a lot and saw Dürrenmatt’s The Visit of the Old Lady.
-Rotkäppchen besuchte oft ihre Großmutter.
-Little Red Riding Hood often visited her grandmother. 
+Letztes Jahr haben wir unsere Freunde in Wien besucht.@Last year we visited our friends in Vienna.
+Wir besuchten oft das Theater und haben Dürrenmatts Ber Besuch der alten Damegesehen.@We went to the theater a lot and saw Dürrenmatt’s The Visit of the Old Lady.
+Rotkäppchen besuchte oft ihre Großmutter.@Little Red Riding Hood often visited her grandmother. 
 
 beten
- Diese Forschungsreisende hat in vielen Tempeln, Kirchen und Moscheen gebetet.
-„Erfindet neue Gebete und betet auch an die noch werdenden Götter und Göttinnen!” riet sie.
-This explorer has prayed in many temples, churches, and mosques.
-“Devise new prayers and pray to the developing gods and goddesses, too,” she advised.
-Ali betet fünfmal am Tage.
-Er sagt, er bete auch für mich.
+Diese Forschungsreisende hat in vielen Tempeln, Kirchen und Moscheen gebetet.@This explorer has prayed in many temples, churches, and mosques.
+„Erfindet neue Gebete und betet auch an die noch werdenden Götter und Göttinnen!” riet sie.@“Devise new prayers and pray to the developing gods and goddesses, too,” she advised.
+Ali betet fünfmal am Tage.@
 Ali prays five times a day.
-He says he’s also praying for me. 
+Er sagt, er bete auch für mich.@He says he’s also praying for me. 
 
 betrügen
- Der Betrüger hat die Aktionäre um ihr Geld betrogen.
-Er hat sie belogen und betrogen.
-„Du wirst auch mich einmal betrügen“, seufzte seine Frau.
-Er hat sie aber niemals betrogen.
-The swindler defrauded the stockholders of their money.
-He lied to them and deceived them.
-“You’ll betray me too, one day,” sighed his wife.
-But he never cheated on her. 
+Der Betrüger hat die Aktionäre um ihr Geld betrogen.@The swindler defrauded the stockholders of their money.
+Er hat sie belogen und betrogen.@He lied to them and deceived them.
+„Du wirst auch mich einmal betrügen“, seufzte seine Frau.@“You’ll betray me too, one day,” sighed his wife.
+Er hat sie aber niemals betrogen.@But he never cheated on her. 
 
 bewegen
-Gestern war ich so schwach, dass ich meinen Koffer nicht von der Stelle bewegen konnte.
-Yesterday I was so weak I couldn’t budge my suitcase from the spot.
-Kopernikus behauptete, die Erde bewege sich um die Sonne.
-Copernicus asserted that the earth moves around the sun.
-The subject bewegein example 2 is an example of indirect discourse. 
+Gestern war ich so schwach, dass ich meinen Koffer nicht von der Stelle bewegen konnte.@Yesterday I was so weak I couldn’t budge my suitcase from the spot.
+Kopernikus behauptete, die Erde bewege sich um die Sonne.@Copernicus asserted that the earth moves around the sun.
 
 bewegen
-Was hat ihn dazu bewogen?
-What made him do that?
-Er wurde von seinen Freunden dazu bewogen.
-Von falschem Idealismus bewogen, richteten sie viel Unheil an.
-He was led into it by his friends.
-Motivated by false idealism, they caused much misfortune.
-Contrast this strong verb with the preceding weak one.
-Both are inseparable prefix verbs. 
+Was hat ihn dazu bewogen?@What made him do that?
+Er wurde von seinen Freunden dazu bewogen.@He was led into it by his friends.
+Von falschem Idealismus bewogen, richteten sie viel Unheil an.@Motivated by false idealism, they caused much misfortune.
 
 beweisen
-„Bisjetzt hast du nichts bewiesen.
-Wirst du die Unschuld deiner Mandantin je beweisen können?
-Gibt es Beweise dafür?“ „Ich sammle noch Beweismaterial.“ “So far, you haven’t proven anything.
-Will you ever be able to prove your client’s innocence?
-Is there any proof of that?” “I’m still gathering evidence.” Diese Pflanzen haben sich als wirksame Heilmittel bewiesen.
-These plants have proven themselves as effective therapeutic agents.
-See also weisen. 
+„Bisjetzt hast du nichts bewiesen."@“So far, you haven’t proven anything.
+Wirst du die Unschuld deiner Mandantin je beweisen können?@Will you ever be able to prove your client’s innocence?
+Gibt es Beweise dafür?“@Is there any proof of that?”
+„Ich sammle noch Beweismaterial.“@“I’m still gathering evidence.” 
+Diese Pflanzen haben sich als wirksame Heilmittel bewiesen.@These plants have proven themselves as effective therapeutic agents.
 
 bezahlen
-„Das kann ich nicht bezahlen.“ „Ihr Freund hat schon bezahlt.“ “I can’t pay for that.” “Your friend has already paid.” Möchten Sie per Scheck, Kreditkarte oder Überweisung bezahlen?
-Do you want to pay by check, credit card, or electronic bank transfer?
-Für die ganze schwere Arbeit habe ich bisher nichts bezahlt bekommen.
-So far I haven’t been paid for all that hard work.
-Ihre Anlage wird sich schnell bezahlt machen.
-Investieren Sie jetzt!
-Your investment will pay off fast.
-Invest now! 
+„Das kann ich nicht bezahlen.“@“I can’t pay for that.”
+„Ihr Freund hat schon bezahlt.“@“Your friend has already paid.”
+Möchten Sie per Scheck, Kreditkarte oder Überweisung bezahlen?@Do you want to pay by check, credit card, or electronic bank transfer?
+Für die ganze schwere Arbeit habe ich bisher nichts bezahlt bekommen.@So far I haven’t been paid for all that hard work.
+Ihre Anlage wird sich schnell bezahlt machen.@Your investment will pay off fast.
+Investieren Sie jetzt!@Invest now! 
 
 bezeichnen
-Die Soldaten betraten ein Minenfeld, das auf ihrer Landkarte nicht bezeichnet war.
-Den Überlebenden wurde das Verwundetenabzeichen verliehen.
-Die Presse bezeichnete sie als Helden.
-The soldiers walked into a mine field that wasn’t indicated on their map.
-The survivors were awarded the Wound Badge (“Purple Heart”).
-The press characterized them as heroes. 
+Die Soldaten betraten ein Minenfeld, das auf ihrer Landkarte nicht bezeichnet war.@The soldiers walked into a mine field that wasn’t indicated on their map.
+Den Überlebenden wurde das Verwundetenabzeichen verliehen.@The survivors were awarded the Wound Badge (“Purple Heart”).
+Die Presse bezeichnete sie als Helden.@The press characterized them as heroes. 
 
 biegen
-Der strenge alte Grammatiker war ganz unbiegsam.
-Alle um ihn mussten sich vor seiner Unbiegsamkeit schmiegen und biegen.
-The stern old grammarian was quite unyielding.
-All those around him had to cringe and kowtow to his inflexibility.
-Sich schmiegen und biegenis an idiom. 
+Der strenge alte Grammatiker war ganz unbiegsam.@The stern old grammarian was quite unyielding.
+Alle um ihn mussten sich vor seiner Unbiegsamkeit schmiegen und biegen.@All those around him had to cringe and kowtow to his inflexibility.
 
 bieten
-Auf der Versteigerung hatte sie viel Geld auf das Gemälde geboten.
-Aber ihr Gebot wurde überboten.
-At the auction she had bid a lot of money for the painting.
-But she was outbid.
-Von dieser verbotenen Frucht hat man uns nichts angeboten.
-They didn’t offer us any of that forbidden fruit.
-Bietenis cognate with “bid.” Don’t confuse this verb with the inseparable prefix verb gebieten (to command). 
+Auf der Versteigerung hatte sie viel Geld auf das Gemälde geboten.@At the auction she had bid a lot of money for the painting.
+Aber ihr Gebot wurde überboten.@But she was outbid.
+Von dieser verbotenen Frucht hat man uns nichts angeboten.@They didn’t offer us any of that forbidden fruit.
 
 bilden
-Die neue Präsidentin hat ihr Kabinett noch nicht gebildet.
-Daher kann ich mir keine Meinung über die Regierung bilden.
-The new president hasn’t formed her cabinet yet.
-Therefore I can’t form any opinion about the government.
-Lili ist sehr gebildet.
-Sie wurde in einer Kunstschule ausgebildet, wo sie die bildenden Künste studierte.
-Auch reist sie viel.
-Reisen bildet den Geist.
-Lili is very cultivated.
-She was educated in an art school where she studied the plastic arts.
-She also travels a lot.
-Travel broadens the mind. 
+Die neue Präsidentin hat ihr Kabinett noch nicht gebildet.@@The new president hasn’t formed her cabinet yet.
+Daher kann ich mir keine Meinung über die Regierung bilden.@Therefore I can’t form any opinion about the government.
+Lili ist sehr gebildet.@Lili is very cultivated.
+Sie wurde in einer Kunstschule ausgebildet, wo sie die bildenden Künste studierte.@She was educated in an art school where she studied the plastic arts.
+Auch reist sie viel.@She also travels a lot.
+Reisen bildet den Geist.@Travel broadens the mind. 
 
 binden
-Odysseus ließ sich an den Mast binden.
-Ulysses had himself tied to the mast.
-Jetzt halten wir den Vertrag für nicht mehr bindend.
-Now we no longer consider the contract binding.
-Lassen + an infinitive (1) means “ to have something done.”Because it follows the noun it modifies (Vertrag), bindendhas no ending here. 
+Odysseus ließ sich an den Mast binden.@Ulysses had himself tied to the mast.
+Jetzt halten wir den Vertrag für nicht mehr bindend.@Now we no longer consider the contract binding.
 
 bitten
- Man bittet um Erlaubnis.
-One asks for permission.Bitte schön.You’re welcome.
-Elisabeth hat für Tannhäuser gebeten und auch für ihn gebetet.
-Elisabeth interceded for Tannhäuser and also prayed for him.
-Don’t confuse bitten(to ask for ) and fragen (to ask a question).
-Bittenshould also not be confused with beten(to pray). 
+Man bittet um Erlaubnis.@One asks for permission.
+Bitte schön.@You’re welcome.
+Elisabeth hat für Tannhäuser gebeten und auch für ihn gebetet.@Elisabeth interceded for Tannhäuser and also prayed for him.
 
 blasen
- Roland blies zum letzten Mal in sein Horn.
-Roland blew his horn for the last time.
-Kalt bläst der Wind.
-There’s a cold wind blowing.
-Sie nannte Baron Ochs einen aufgeblasenen schlechten Kerl.
-She called Baron Ochs a puffed-up, bad fellow.
-The 2nd and 3rd person singular of the present have an umlaut, as in bläst. 
+Roland blies zum letzten Mal in sein Horn.@Roland blew his horn for the last time.
+Kalt bläst der Wind.@There’s a cold wind blowing.
+Sie nannte Baron Ochs einen aufgeblasenen schlechten Kerl.@She called Baron Ochs a puffed-up, bad fellow.
 
 bleiben
-Er blieb nur kurze Zeit bei uns, aber wirbleiben noch in Verbindung.
-He stayed with us for just a short time, but we stay in touch.
-„Du willst bei deiner Entscheidung bleiben?
-Es soll alles beim Alten bleiben?“ „Ja, ich bleibe dabei.
-Dabei bleibt es!” “You want to stick with your decision?
-Everything is to stay the same old same old?
-“Yes, I won’t budge.
-That’s the end of it!” Bleiben is often translated by forms of “to be.” Wo bleibt das Essen?
-Where’s the food?
-Das Geschäft bleibt heute geschlossen.
-The store is closed today.
-Es blieb keine andere Wahl.
-There was no other choice.
-Bis zur Abreise bleibt uns wenig Zeit.
-There isn’t much time before our departure.
-Bleiben 
+Er blieb nur kurze Zeit bei uns, aber wirbleiben noch in Verbindung.@He stayed with us for just a short time, but we stay in touch.
+„Du willst bei deiner Entscheidung bleiben?@ “You want to stick with your decision?
+„Es soll alles beim Alten bleiben?“@Everything is to stay the same old same old?
+„Ja, ich bleibe dabei."@“Yes, I won’t budge.
+„Dabei bleibt es!”@ That’s the end of it!” 
+Es blieb keine andere Wahl.@There was no other choice.
+Das Geschäft bleibt heute geschlossen.@The store is closed today.
+Bis zur Abreise bleibt uns wenig Zeit.@There isn’t much time before our departure.
 
 aufbleiben
-Ich bin die ganze Nacht aufgeblieben.
-I stayed up all night. 
+Ich bin die ganze Nacht aufgeblieben.@I stayed up all night. 
 
 ausbleiben
-Trotz aller Anstrengungen blieb der Sieg aus.
-Despite all efforts there was no victory. 
+Trotz aller Anstrengungen blieb der Sieg aus.@Despite all efforts there was no victory. 
 
 dabeibleiben
-Es bleibt dabei!
-Basta!
-That’s how it’s gonna stay.
-Case closed!
-fernbleiben —to stay away from; be absent Wir bleiben ihnen fern.
-We stay away from them. 
+Es bleibt dabei!@That’s how it’s gonna stay.
+Basta!@Case closed!
+
+fernbleiben
+Wir bleiben ihnen fern.@We stay away from them. 
 
 steckenbleiben
-Die Armee ist im Schlamm  steckengeblieben.
-The army got stuck in the mud. 
+Die Armee ist im Schlamm  steckengeblieben.@The army got stuck in the mud. 
 
 unterbleiben
-Künftig hat das zu unterbleiben.
-In the future that’s got to stop. 
+Künftig hat das zu unterbleiben.@In the future that’s got to stop. 
 
 verbleiben
-Mein Onkel ist nicht lange im Beruf verblieben.
-My uncle didn’t continue long in the profession.	 Idioms bei etwas bleiben—to stick to something Bleiben Sie bei der Sache!
+Mein Onkel ist nicht lange im Beruf verblieben.@My uncle didn’t continue long in the profession.
 Stick to the point!
-Bleiben Sie dran!—Hold the line (telephone).
-Stay tuned (radio, TV).
-im Feld/im Krieg/auf See bleiben — euphemistic for “to die in action/ in the war/at sea” Die beiden Brüder blieben im Krieg— der eine auf See.
-Both brothers died in the war—one died  at sea.
-etwas bleiben lassen—to stop doing something Lass doch endlich das Nägelkauen bleiben!
-It’s high time you stopped chewing  your nails.	 
 
 blicken
-Sie haben sich seit zwanzig Minuten nicht blicken lassen.
-You haven’t put in an appearance for 20 minutes.
-Augenblick mal!
-Warum blicken Sie mich so gehässig an?
-Just a minute now.
-Why are you giving me such a nasty look?
-Blickenis used for a short look, for glancing.
-An Augenblick(moment, second ) is shorter still.
-For “to look at,” the separable anblicken is used.
-blicken to look, glance INDICATIVE SUBJUNCTIVE PRIMARYSECONDARY Present Time Present (Pres.
-Subj.)(Imperf.
-Subj.) ichblicke blicke blickte du blickst blickest blicktest er blickt blicke blickte wir blicken blicken blickten ihr blickt blicket blicktet sie blicken blicken blickten Imperfect ichblickte du blicktest er blickte wir blickten ihr blicktet sie blickten Past Time Perfect (Perf.
-Subj.)(Pluperf.
-Subj.) ichhabe geblickt habe geblickt hätte geblickt du hast geblickt habest geblickt hättest geblickt er hat geblickt habe geblickt hätte geblickt wir haben geblickt haben geblickt hätten geblickt ihr habt geblickt habet geblickt hättet geblickt sie haben geblickt haben geblickt hätten geblickt Pluperfect ich hatte geblickt du hattest geblickt er hatte geblickt wir hatten geblickt ihr hattet geblickt sie hatten geblickt Future Time Future (Fut.
-Subj.)(Pres.
-Conditional) ichwerde blicken werde blicken würde blicken du wirst blicken werdest blicken würdest blicken er wird blicken werde blicken würde blicken wir werden blicken werden blicken würden blicken ihr werdet blicken werdet blicken würdet blicken sie werden blicken werden blicken würden blicken Future Perfect Time Future Perfect (Fut.
-Perf.
-Subj.)(Past Conditional ) ichwerde geblickt haben werde geblickt haben würde geblickt haben du wirst geblickt haben werdest geblickt haben würdest geblickt haben er wird geblickt haben werde geblickt haben würde geblickt haben wir werden geblickt haben werden geblickt haben würden geblickt haben ihr werdet geblickt haben werdet geblickt haben würdet geblickt haben sie werden geblickt haben werden geblickt haben würden geblickt haben 
+Sie haben sich seit zwanzig Minuten nicht blicken lassen.@You haven’t put in an appearance for 20 minutes.
+Augenblick mal!@ Just a minute now.
+Warum blicken Sie mich so gehässig an?@Why are you giving me such a nasty look?
 
 blitzen
- Draußen donnerte und blitzte es, als man die Polka Donner und Blitzspielte.
-Outside there was thunder and lightning when they played the polka Thunder and Lightning.
-Except for the slang meaning “ to flash; to moon,” blitzenis used impersonally. 
+Draußen donnerte und blitzte es, als man die Polka Donner und Blitzspielte.@Outside there was thunder and lightning when they played the polka Thunder and Lightning.
 
+RESUME
 blühen
 Vor dem Krieg blühten der Handel und die Künste.
 Before the war, commerce and the arts flourished.
@@ -1295,7 +1187,7 @@ anfragen
 Bei den Nachbarn hab ich schon angefragt.@I’ve already made inquiries at the neighbors’. 
 
 ausfragen
-Der Detektiv versuchte uns auszufragen.@ The detective tried to question us. 
+Der Detektiv versuchte uns auszufragen.@The detective tried to question us. 
 
 nachfragen
 Hast du schon nachgefragt?@Have you already inquired? 
@@ -1317,8 +1209,8 @@ Ich soll Ihnen die Relativitätstheorie erklären?@You want me to explain the Th
 Da bin ich überfragt!@You’re asking too much!	 
 
 fressen
-„Du frisst ja wie ein Tier!                                      @“You’re eating like an animal!"
-„Iss doch wie ein Mensch!” schrie die Mutter ihren Jungen an.@     Eat like a human being, will you!” the mother yelled at her son.
+„Du frisst ja wie ein Tier!@“You’re eating like an animal!"
+„Iss doch wie ein Mensch!” schrie die Mutter ihren Jungen an.@Eat like a human being, will you!” the mother yelled at her son.
 „Wenn das kein so elendes Fressen wäre, würde ich vornehm essen.“@“If the eats weren’t so lousy, I’d eat daintily.” 
 
 sich freuen
