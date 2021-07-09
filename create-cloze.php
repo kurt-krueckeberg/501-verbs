@@ -1,6 +1,8 @@
 <?php
 /*
- * Adds definition found $verbs[] (from dict.php) to the input file.
+ *
+ * Reads sentence-results.txt and converts Germans sentences into cloze sentences with the English following the cloze sentnece in parenthesis.
+ * Write results to new-sentence-results.txt 
  *
  */
 require_once "dict.php";
@@ -11,8 +13,9 @@ function format($str)
 {
    return mb_convert_encoding($str, "UTF-8"); // Convert $output to UTF-8 encoding.
 }
+
 /*
- * Returns Associative array: $array['some_verb'] = array(its conjugation)
+ * Returns: associative array mapping verbs as key to its conjugation as a array: $array['some_verb'] = array(its conjugation)
  */
 function get_conjugations($fname)
 {
@@ -50,8 +53,22 @@ function get_verbBlock($file)
 
 function transform(string $verb, array $sents, array $conjs)
 {
+ $result = [];
+  for ($sents as $sent) {
 
+   $pos = strpos($sent, '@');
+   $deu_sent = substr($sent, 0, $pos);
+   $eng_sent = substr($sent, $pos + 1);
 
+   $result[] = cloze($deut_sent, $eng_sent, $conjs);    
+     
+  }
+  return $result;
+}
+
+function cloze(string $verb, string $deu_sent, $eng_sent, array $conjs)
+{
+   str???
 }
 
 function write_out(string $verb, array $new_sents)
