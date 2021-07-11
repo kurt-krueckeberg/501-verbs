@@ -1,11 +1,14 @@
 <?php
+use App\File\SplFileObjectExtended;
+
+require_once './boot-strap.php';
+
+boot_strap();
 
 function format($str)
 {
    return mb_convert_encoding($str, "UTF-8"); // Convert $output to UTF-8 encoding.
 }
-
-require_once "./SplFileObjectExtended.php";
 
 $eng_closequote = '”';
 $deu_closequote = '“';

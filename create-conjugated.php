@@ -1,11 +1,16 @@
 <?php
-require_once "SplFileObjectExtended.php";
+use App\File\SplFileObjectExtended;
+
+require_once './boot-strap.php';
+
+boot_strap();
 
 require_once "./must-conjugate.php";
 require_once "./algorithms.php";
 
 $ifile = new SplFileObjectExtended("./results.txt", "r");
 $rfile = new SplFileObjectExtended("./verbs-2-conjugate.txt", "w");
+
 
 foreach($ifile as $lineno => $line) {
 

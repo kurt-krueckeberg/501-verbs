@@ -1,4 +1,5 @@
 <?php
+namespace App\File;
  
 class SplFileObjectExtended extends \SplFileObject   { 
 

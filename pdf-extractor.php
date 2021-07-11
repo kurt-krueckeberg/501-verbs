@@ -1,6 +1,9 @@
 <?php
+use App\File\SplFileObjectExtended;
 
-require_once "./SplFileObjectExtended.php";
+require_once "./boot-strap.php";
+boot_strap();
+
  
 function get_line($file)
 {
