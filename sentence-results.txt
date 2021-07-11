@@ -393,7 +393,6 @@ Warum blicken Sie mich so gehässig an?@Why are you giving me such a nasty look?
 blitzen
 Draußen donnerte und blitzte es, als man die Polka Donner und Blitzspielte.@Outside there was thunder and lightning when they played the polka Thunder and Lightning.
 
-RESUME
 blühen
 Vor dem Krieg blühten der Handel und die Künste.@Before the war, commerce and the arts flourished.
 Das blühend schöne Mädchen pflückte Blumen und legte sie auf das Grab.@The vital, beautiful girl picked flowers and placed them on the grave.
@@ -651,93 +650,64 @@ Der Schiedsrichter hat das Spiel zu unseren Gunsten entschieden.@ The umpire rul
 „Wirst du dich für oder gegen den Plan entscheiden?“ „Ich weiß nicht.@"Will you decide for or against the plan?" "I don't know.
 Ich kann mich nicht entscheiden.“@I can’t make up my mind.” 
 
-RESUME
 entschuldigen
-Karl versuchte sich wegen seines schlechten Benehmens bei seiner Frau zu entschuldigen.
-Sie aber antwortete ihm: „So etwas lässt sich nicht entschuldigen.“ Karl tried to apologize to his wife for his bad behavior.
-But she answered him, “A thing like that can’t be excused.” The inseparable prefix ent-often denotes separation, as in the previous verb. 
+Karl versuchte sich wegen seines schlechten Benehmens bei seiner Frau zu entschuldigen.@ Karl tried to apologize to his wife for his bad behavior.
+Sie aber antwortete ihm: „So etwas lässt sich nicht entschuldigen.“@But she answered him, “A thing like that can’t be excused.” 
 
 entstellen
-Viele Statuen aus dem klassischen Altertum sind leider durch Verstümmelung entstellt worden.
-Many statues from classical antiquity have unfortunately been disfigured by mutilation.
-„Warum versuchen Sie immer wieder, die Wahrheit zu entstellen?“ fragte der Rechtsanwalt.
-“Why do you repeatedly try to distort the truth?” asked the lawyer. 
+Viele Statuen aus dem klassischen Altertum sind leider durch Verstümmelung entstellt worden.@Many statues from classical antiquity have unfortunately been disfigured by mutilation.
+„Warum versuchen Sie immer wieder, die Wahrheit zu entstellen?“ fragte der Rechtsanwalt.@“Why do you repeatedly try to distort the truth?” asked the lawyer. 
 
 erfahren
-„Sie wissen wohl, dass sie einen Rückschlag erfahren hat.
-„Nein, davon erfahre ich erst jetzt.“ “You probably know she experienced (suffered) a relapse.” “No, I’m just hearing about it now.” „Wir haben viel Leid erfahren.
-Aber diese Erfahrungen haben uns nur bereichert.
-Wir würden jetzt gerne Liebe und Verständnis erfahren.“ “We’ve experienced much sorrow.
-But these experiences have only enriched us.
-We’d gladly experience love and understanding now.” 
+„Sie wissen wohl, dass sie einen Rückschlag erfahren hat.@ “You probably know she experienced (suffered) a relapse.”
+„Nein, davon erfahre ich erst jetzt.“@“No, I’m just hearing about it now.”
+„Wir haben viel Leid erfahren."@“We’ve experienced much sorrow."
+Aber diese Erfahrungen haben uns nur bereichert.@But these experiences have only enriched us.
+Wir würden jetzt gerne Liebe und Verständnis erfahren.“@We’d gladly experience love and understanding now.” 
 
 erfinden
-Paul ist sehr erfinderisch, und ich bewundere seine Erfindungsgabe.
-Ich glaube aber, dass er die Geschichte von seiner Jupiterreise erfunden hat.
-Paul is very inventive and I admire his talent for invention.
-But I think he invented the story of his trip to Jupiter.
-Er-is an inseparable prefix.
-Therefore the past participle does not begin with ge-. 
+Paul ist sehr erfinderisch, und ich bewundere seine Erfindungsgabe.@Paul is very inventive and I admire his talent for invention.
+Ich glaube aber, dass er die Geschichte von seiner Jupiterreise erfunden hat.@But I think he invented the story of his trip to Jupiter.
 
 erhalten
-Wir haben Ihre Anfrage dankend erhalten.
-Alle Kunstwerke, die wir verkaufen, sind gut erhalten.
-We received your inquiry and thank you for it.
-All the artworks we sell are in a good state of preservation.
-Kennen Sie Haydns Hymne: „Gott Erhalte Franz, den Kaiser”?
-Do you know Haydn’s hymn, May God Maintain Franz, the Emperor ?
-Because of the inseparable prefix er-, the past participle does not begin with ge-. 
+Wir haben Ihre Anfrage dankend erhalten.                  @We received your inquiry and thank you for it.
+Alle Kunstwerke, die wir verkaufen, sind gut erhalten.    @All the artworks we sell are in a good state of preservation.
+Kennen Sie Haydns Hymne: „Gott Erhalte Franz, den Kaiser”?@Do you know Haydn’s hymn, May God Maintain Franz, the Emperor ?
 
 erinnern
-„Wir müssen Sie leider wieder daran erinnern, dass Sie unsere Rechnung noch nicht bezahlt haben.“ „Wenn Sie mich wieder daran erinnern, breche ich alle Beziehungen zu Ihrer Firma ab.
-Ich möchte Sie daran erinnern, dass Sie jahrelang gewinnbringende Geschäfte mit uns gemacht haben.“ “Unfortunately, we must again remind you that you haven’t paid our bill yet.” “If you remind me again, I’ll break off all dealings with your firm.
-I’d like to remind you that for years you’ve done profitable business with us.” 
+„Wir müssen Sie leider wieder daran erinnern, dass Sie unsere Rechnung noch nicht bezahlt haben.“@“Unfortunately, we must again remind you that you haven’t paid our bill yet.”
+„Wenn Sie mich wieder daran erinnern, breche ich alle Beziehungen zu Ihrer Firma ab.@ “If you remind me again, I’ll break off all dealings with your firm.
+Ich möchte Sie daran erinnern, dass Sie jahrelang gewinnbringende Geschäfte mit uns gemacht haben.“ @ I’d like to remind you that for years you’ve done profitable business with us.” 
 
 sich erkälten
-„Ich bin wieder erkältet“, klagte Karl seiner Frau.
-„Zieh dich wärmer an, wenn’s kalt ist.
-Dann wirst du dich weniger erkälten“, sagte sie.
-Später fragte sie den Apotheker: „Was empfehlen Sie mir gegen eine Erkältung?“ “I’ve got a cold again.” Karl complained to his wife.
-“Dress warmer when it’s cold.
-Then you’ll catch cold less often,” she said.
-Later she asked the pharmacist, “What do you recommend for a cold?” 
+„Ich bin wieder erkältet“, klagte Karl seiner Frau.@ “I’ve got a cold again.” Karl complained to his wife.
+„Zieh dich wärmer an, wenn’s kalt ist.@“Dress warmer when it’s cold.
+Dann wirst du dich weniger erkälten“, sagte sie.@Then you’ll catch cold less often,” she said.
+Später fragte sie den Apotheker: „Was empfehlen Sie mir gegen eine Erkältung?“@Later she asked the pharmacist, “What do you recommend for a cold?” 
 
 erklären
-„Warum hat man den Krieg erklärt?
-Das kann ich mir gar nicht erklären.
-Gibt es eine vernünftige Erklärung dafür?
-Wir hätten uns deutlicher für den Frieden erklären sollen“, erklärte der Historiker.
-“Why was war declared?
-I can’t account for that at all.
-Is there a rational explanation for it?
-We should have come out more strongly for peace,” declared the historian. 
+„Warum hat man den Krieg erklärt?@“Why was war declared?
+Das kann ich mir gar nicht erklären.@I can’t account for that at all.
+Gibt es eine vernünftige Erklärung dafür?@Is there a rational explanation for it?
+Wir hätten uns deutlicher für den Frieden erklären sollen“, erklärte der Historiker.@We should have come out more strongly for peace,” declared the historian. 
 
 erlauben
-„Ich habe es ihm nicht erlaubt und die Erlaubnis verweigert.
-Er hat’s aber trotzdem getan.
-Er erlaubt sich alles.
-Er glaubt, seine Mittel erlauben ihm alles.“ “I didn’t allow him to do it and refused permission.
-He did it anyway.
-He does just as he pleases.
-He thinks his means permit him everything.” 
+„Ich habe es ihm nicht erlaubt und die Erlaubnis verweigert.@“I didn’t allow him to do it and refused permission.
+Er hat’s aber trotzdem getan.@He did it anyway.
+Er erlaubt sich alles.@He does just as he pleases.
+Er glaubt, seine Mittel erlauben ihm alles.“@He thinks his means permit him everything.” 
 
 erlöschen
- In einem Lied von Brahms behauptet ein Junge, dass seine Liebe erlöschen wird, wenn er draußen in der Kälte bleiben muss.
-„Lass sie löschen nur“, antwortet das Mädchen.
-In a song by Brahms, a boy declares that his love will grow dim if he has to stay outside in the cold.
-“Let it go out,” answers the girl.
-Erlöschenis inseparable and is conjugated with seinin the perfect tenses. 
+In einem Lied von Brahms behauptet ein Junge, dass seine Liebe erlöschen wird, wenn er draußen in der Kälte bleiben muss.@In a song by Brahms, a boy declares that his love will grow dim if he has to stay outside in the cold.
+„Lass sie löschen nur“, antwortet das Mädchen.@“Let it go out,” answers the girl.
 
 erreichen
-Telefonisch kann ich ihn nicht mehr erreichen.
-Ich fürchte, bei ihm ist jetzt nichts zu erreichen.
-I can’t reach him by telephone anymore.
-I’m afraid we won’t be able to get anywhere with him now.
-Immer wieder Staus—ich dachte, ich würde ihr Haus nie erreichen.
-Leider ist ihr Dorf mit dem Zug nicht erreichbar.
-Frequent traffic backups—I thought I’d never get to their house.
-Unfortunately, their village can’t be reached by train. 
+Telefonisch kann ich ihn nicht mehr erreichen.@I can’t reach him by telephone anymore.
+Ich fürchte, bei ihm ist jetzt nichts zu erreichen.@I’m afraid we won’t be able to get anywhere with him now.
+Immer wieder Staus—ich dachte, ich würde ihr Haus nie erreichen.@Frequent traffic backups—I thought I’d never get to their house.
+Leider ist ihr Dorf mit dem Zug nicht erreichbar.@Unfortunately, their village can’t be reached by train. 
 
+RESUME
 errichten
 Der Soziologe errichtete ein Institut, um seine Pläne zu verwirklichen.
 Aber alles, was er errichtet hatte, wurde durch den Krieg zerstört.
