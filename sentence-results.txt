@@ -404,10 +404,6 @@ Rasputin wusste, dieses Bluten aufzuhalten.@Rasputin knew how to stop this bleed
 Er versuchte auch, das Blutvergießen des Krieges zu verhindern.@He also tried to prevent the bloodshed of the war.
 Aber Millionen verbluteten auf den blutigen Schlachtfeldern.@But millions bled to death on the bloody battlefields. 
 
-
-
-
-
 braten
 „Soll ich dir das Fleisch am Spieß braten?“ „Nein, lieber in der Bratpfanne."@“Shall I roast the meat on the spit for you?” “No, better the frying pan.
 Aber nicht zu scharf braten. Nur leicht anbraten.@But don’t fry it too hard. Just sear it lightly.
@@ -585,114 +581,77 @@ Fritz ist dann schnell wieder abgedonnert.@Then Fritz quickly roared off again.
 
 dringen
 Ich dringe auf mein Recht und dringe in Sie, mir zu helfen.@ I insist on my right and I’m urging you to help me.
-Es ist aber dringend.                         @But it’s urgent.
-Die Zeit dringt.                              @Time is pressing.
+Es ist aber dringend.@But it’s urgent.
+Die Zeit dringt.@Time is pressing.
 Ich bin auch vor Kälte und Nässe durchdrungen.@I’m also cold and wet through.
 
 drucken
 Berühmte Druckereien in Mainz, Straßburg und Venedig haben die „Wiegendrucke” gedruckt.@Famous printing presses in Mainz, Strasbourg, and Venice printed the “Incunabula.” Wiege means “cradle.” Wiegendruckeare works printed in the infancy of printing, before 1501. 
 
 drücken
-Die Zensur hätte ein Auge zudrücken können.@ The censors could have closed an eye.
+Die Zensur hätte ein Auge zudrücken können.@The censors could have closed an eye.
 Wir drücken die Daumen für Sie.@We’ll keep our fingers crossed for you.
 Goethe drückte sich kräftig aus.@ Goethe expressed himself strongly.
 
-RESUME
 dürfen
-In der Stadt Mahagonny durfte man fast alles.
-Heutzutage darf man alles, heißt es in einem Lied von Cole Porter.
-In the city of Mahagonny almost everything was permitted.
-Today, anything goes, maintains Cole Porter in a song.
-Modals take complementary (completing) infinitives.
-But verbs like tunare sometimes understood and therefore not expressed. 
+In der Stadt Mahagonny durfte man fast alles.                     @In the city of Mahagonny almost everything was permitted.
+Heutzutage darf man alles, heißt es in einem Lied von Cole Porter.@Today, anything goes, maintains Cole Porter in a song.
 
 ehren
-Sehr geehrte Damen und Herren, Ihr Vertrauen ehrt mich.
-Ganz ehrlich muss ich Ihnen aber sagen, dass ich grundsätzlich alle Ehrenämter ablehne.
-Dear Ladies and Gentlemen: Your confidence honors me.
-I must tell you quite frankly, however, that as a matter of principle I refuse all honorary offices.
-The past participle, geehrt, is used as an adjective in the salutation. 
+Sehr geehrte Damen und Herren, Ihr Vertrauen ehrt mich.                                  @Dear Ladies and Gentlemen: Your confidence honors me.
+Ganz ehrlich muss ich Ihnen aber sagen, dass ich grundsätzlich alle Ehrenämter ablehne.  @I must tell you quite frankly, however, that as a matter of principle I refuse all honorary offices.
 
 einkaufen
-„Warum kaufen Sie nicht mehr bei mir ein?
-Ihre Mutter hat immer bei mir eingekauft.
-Was macht Ihre Mutter jetzt?“ „Sie geht nicht mehr einkaufen.
-Sie hat sich in ein Seniorenheim eingekauft.
-Ich habe bessere Einkaufsquellen gefunden und kaufe jetzt billiger ein.“ “Why don’t you shop at my store anymore?
-Your mother always bought from me.
-What’s your mother doing now?” “She doesn’t go shopping anymore.
-She’s bought a share in an old people’s home.
-I’ve found better places to buy and shop for less now.” 
+„Warum kaufen Sie nicht mehr bei mir ein?@ “Why don’t you shop at my store anymore?
+Ihre Mutter hat immer bei mir eingekauft.                                @Your mother always bought from me.
+Was macht Ihre Mutter jetzt?“ „Sie geht nicht mehr einkaufen.            @What’s your mother doing now?” “She doesn’t go shopping anymore.
+Sie hat sich in ein Seniorenheim eingekauft.                             @She’s bought a share in an old people’s home.
+Ich habe bessere Einkaufsquellen gefunden und kaufe jetzt billiger ein.“ @I’ve found better places to buy and shop for less now.” 
 
 empfangen
- Wir haben die Sendung noch nicht empfangen.
-We haven’t received the shipment yet.
-Beim Empfang will die Botschafterin alle Gäste persönlich empfangen.
-Sie empfängt alle immer sehr herzlich.
-At the reception the ambassador wants to receive all the guests personally.
-She always receives everyone very cordially. 
+Wir haben die Sendung noch nicht empfangen.@ We haven’t received the shipment yet.
+Beim Empfang will die Botschafterin alle Gäste persönlich empfangen.@At the reception the ambassador wants to receive all the guests personally.
+Sie empfängt alle immer sehr herzlich.                              @She always receives everyone very cordially. 
 
 empfehlen
- „Herr Ober, gibt es heute etwas Besonderes zu empfehlen?“ fragte der Feinschmecker.
-„Der Inhaber will, dass ich den Fisch empfehle.
-Aber bei diestem Wetter empfiehlt es sich nicht, Fisch zu essen.“ “Waiter, can you recommend anything special today?” asked the gourmet.
-“The proprietor wants me to recommend the fish.
-But in this weather it’s not advisable to eat fish.” 
+„Herr Ober, gibt es heute etwas Besonderes zu empfehlen?“ fragte der Feinschmecker.@ “Waiter, can you recommend anything special today?” asked the gourmet.
+„Der Inhaber will, dass ich den Fisch empfehle.                    @“The proprietor wants me to recommend the fish.
+Aber bei diestem Wetter empfiehlt es sich nicht, Fisch zu essen.“@But in this weather it’s not advisable to eat fish.” 
 
 entbehren
-„Entbehren sollst du, sollst entbehren“, klagte Faust.
-Auch wir haben im Krieg große Entbehrungen auf uns genommen.
-Wir mussten vieles entbehren lernen, was wir früher für untentbehrlich gehalten hatten.
-“Do without, you’ve got to do without,” complained Faust.
-We, too, had to make many sacrifices in the war.
-We had to learn how to do without many things that we formerly thought indispensable. 
+„Entbehren sollst du, sollst entbehren“, klagte Faust.                                 @“Do without, you’ve got to do without,” complained Faust.
+Auch wir haben im Krieg große Entbehrungen auf uns genommen.                           @We, too, had to make many sacrifices in the war.
+Wir mussten vieles entbehren lernen, was wir früher für untentbehrlich gehalten hatten.@We had to learn how to do without many things that we formerly thought indispensable. 
 
 entfernen
-Der Taugenichts entfernte das Gemüse und pflanzte Blumen.
-The good-for-nothing removed the vegetables and planted flowers.
-„Entfernen Sie sich“, sagte zornig die Herzogin.
-“Remove yourself (go away),” said the duchess angrily.
-Fernmeans “distant.” Entfernenis thus “to make distant.” Sich entfernenis “to make oneself distant.” 
+Der Taugenichts entfernte das Gemüse und pflanzte Blumen.@ The good-for-nothing removed the vegetables and planted flowers.
+„Entfernen Sie sich“, sagte zornig die Herzogin.@“Remove yourself (go away),” said the duchess angrily.
 
 entführen
-In Tolstoys Krieg und Frieden wird Natascha nicht entführt, obwohl sie sich gerne entführen lassen wollte.
-In Tolstoy’s War and Peace Natasha is not abducted, although she was very willing to elope.
-Die Terroristen entführten den General.
-Als er befreit wurde, sagten sie, dass sie andere entführen würden.
-The terrorists kidnapped the general.
-When he was liberated, they said they’d kidnap others. 
+In Tolstoys Krieg und Frieden wird Natascha nicht entführt, obwohl sie sich gerne entführen lassen wollte.@In Tolstoy’s War and Peace Natasha is not abducted, although she was very willing to elope.
+Die Terroristen entführten den General.                              @The terrorists kidnapped the general.
+Als er befreit wurde, sagten sie, dass sie andere entführen würden.  @When he was liberated, they said they’d kidnap others. 
 
 entgegnen
-Er konnte mir nichts entgegnen.
-He could give me no answer.
-„Unsere Gegner haben eine so schlagende Entgegnung nicht erwartet“, sagte die Rechtsanwältin ihrem Mandanten.
-“Our opponents weren’t expecting a snappy retort like that,” said the lawyer to her client.
-Entgegnen is often literary or legal. 
+Er konnte mir nichts entgegnen.@He could give me no answer.
+„Unsere Gegner haben eine so schlagende Entgegnung nicht erwartet“, sagte die Rechtsanwältin ihrem Mandanten.@“Our opponents weren’t expecting a snappy retort like that,” said the lawyer to her client.
 
 enthalten
-Ernst braute Karl einen Tee, der wunderbare Kräuter enthält.
-Karl konnte sich nicht enthalten, seinem Bruder zu sagen: „Du kannst ihn behalten, deinen Tee.“ Manchmal kann er seinen Bruder Ernst nicht aushalten.
-Ernst brewed a tea containing marvelous herbs for Karl.
-Karl couldn’t restrain himself from telling his brother, “You can keep it yourself.” Sometimes he can’t stand his brother Ernst. 
+Ernst braute Karl einen Tee, der wunderbare Kräuter enthält.                                                                                         @Ernst brewed a tea containing marvelous herbs for Karl.
+Karl konnte sich nicht enthalten, seinem Bruder zu sagen: „Du kannst ihn behalten, deinen Tee.“ Manchmal kann er seinen Bruder Ernst nicht aushalten.@Karl couldn’t restrain himself from telling his brother, “You can keep it yourself.” Sometimes he can’t stand his brother Ernst. 
 
 entkommen
- Mehrmals versuchte Uwe, Grete ins Wasser zu ziehen, aber sie entkam ihm immer wieder.
-„Diesmal entkommst mir nicht“, sagte er ihr lächelnd.
-Uwe repeatedly tried to pull Grete into the water, but she always got away from him.
-“This time you won’t escape from me,” he said to her smiling.
-Ent-often conveys the idea of “away from” and takes a dative object. 
+Mehrmals versuchte Uwe, Grete ins Wasser zu ziehen, aber sie entkam ihm immer wieder.@Uwe repeatedly tried to pull Grete into the water, but she always got away from him.
+„Diesmal entkommst mir nicht“, sagte er ihr lächelnd.@“This time you won’t escape from me,” he said to her smiling.
 
 entscheiden
-Es ist noch nichts entschieden.
-Vielleicht wird das Gericht entscheiden müssen.
-Nothing’s been decided yet.
-Maybe the court will have to settle it.
-Der Schiedsrichter hat das Spiel zu unseren Gunsten entschieden.
-The umpire ruled the game in our favor.
-sich entscheiden—to decide, make up one’s mind „Wirst du dich für oder gegen den Plan entscheiden?“ „Ich weiß nicht.
-Ich kann mich nicht entscheiden.“ “Will you decide for or against the plan?” “I don’t know.
-I can’t make up my mind.” 
+Es ist noch nichts entschieden.                @Nothing’s been decided yet.
+Vielleicht wird das Gericht entscheiden müssen.@Maybe the court will have to settle it.
+Der Schiedsrichter hat das Spiel zu unseren Gunsten entschieden.@ The umpire ruled the game in our favor.
+„Wirst du dich für oder gegen den Plan entscheiden?“ „Ich weiß nicht.@"Will you decide for or against the plan?" "I don't know.
+Ich kann mich nicht entscheiden.“@I can’t make up my mind.” 
 
+RESUME
 entschuldigen
 Karl versuchte sich wegen seines schlechten Benehmens bei seiner Frau zu entschuldigen.
 Sie aber antwortete ihm: „So etwas lässt sich nicht entschuldigen.“ Karl tried to apologize to his wife for his bad behavior.
