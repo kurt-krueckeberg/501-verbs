@@ -354,10 +354,10 @@ Sie nannte Baron Ochs einen aufgeblasenen schlechten Kerl.@She called Baron Ochs
 
 bleiben
 Er blieb nur kurze Zeit bei uns, aber wirbleiben noch in Verbindung.@He stayed with us for just a short time, but we stay in touch.
-„Du willst bei deiner Entscheidung bleiben?@ “You want to stick with your decision?
+„Du willst bei deiner Entscheidung bleiben?@“You want to stick with your decision?
 „Es soll alles beim Alten bleiben?“@Everything is to stay the same old same old?
 „Ja, ich bleibe dabei."@“Yes, I won’t budge.
-„Dabei bleibt es!”@ That’s the end of it!” 
+„Dabei bleibt es!”@That’s the end of it!” 
 Es blieb keine andere Wahl.@There was no other choice.
 Das Geschäft bleibt heute geschlossen.@The store is closed today.
 Bis zur Abreise bleibt uns wenig Zeit.@There isn’t much time before our departure.
@@ -387,7 +387,7 @@ Stick to the point!
 
 blicken
 Sie haben sich seit zwanzig Minuten nicht blicken lassen.@You haven’t put in an appearance for 20 minutes.
-Augenblick mal!@ Just a minute now.
+Augenblick mal!@Just a minute now.
 Warum blicken Sie mich so gehässig an?@Why are you giving me such a nasty look?
 
 blitzen
@@ -395,14 +395,14 @@ Draußen donnerte und blitzte es, als man die Polka Donner und Blitzspielte.@Out
 
 RESUME
 blühen
-Vor dem Krieg blühten der Handel und die Künste.@ Before the war, commerce and the arts flourished.
+Vor dem Krieg blühten der Handel und die Künste.@Before the war, commerce and the arts flourished.
 Das blühend schöne Mädchen pflückte Blumen und legte sie auf das Grab.@The vital, beautiful girl picked flowers and placed them on the grave.
 
 bluten
-Der Zarewitsch war Bluter und blutete oft.                       @ The Tsarevitch was a haemophiliac and bled often.
-Rasputin wusste, dieses Bluten aufzuhalten.                      @ Rasputin knew how to stop this bleeding.
-Er versuchte auch, das Blutvergießen des Krieges zu verhindern.  @ He also tried to prevent the bloodshed of the war.
-Aber Millionen verbluteten auf den blutigen Schlachtfeldern.     @ But millions bled to death on the bloody battlefields. 
+Der Zarewitsch war Bluter und blutete oft.@The Tsarevitch was a haemophiliac and bled often.
+Rasputin wusste, dieses Bluten aufzuhalten.@Rasputin knew how to stop this bleeding.
+Er versuchte auch, das Blutvergießen des Krieges zu verhindern.@He also tried to prevent the bloodshed of the war.
+Aber Millionen verbluteten auf den blutigen Schlachtfeldern.@But millions bled to death on the bloody battlefields. 
 
 
 
@@ -412,15 +412,15 @@ braten
 „Soll ich dir das Fleisch am Spieß braten?“ „Nein, lieber in der Bratpfanne."@“Shall I roast the meat on the spit for you?” “No, better the frying pan.
 Aber nicht zu scharf braten. Nur leicht anbraten.@But don’t fry it too hard. Just sear it lightly.
 Meistens brätst du mein Steak zu lange.@You usually cook my steak too long.
-Du weißt, ich lieb’s blutig, nicht durchgebraten.@ You know I like it rare, not well-done.
+Du weißt, ich lieb’s blutig, nicht durchgebraten.@You know I like it rare, not well-done.
 „Brat’s dir selber.“@“Roast it yourself.” 
 
 brauchen
-„Brauchst du wirklich so viel Geld?“ „Ja,ich brauch’s."@ “Do you really need that much money?” “Yes, I need it."
+„Brauchst du wirklich so viel Geld?“ „Ja,ich brauch’s."@“Do you really need that much money?” “Yes, I need it."
 „Und bald werde ich noch mehr brauchen.“@And soon I’ll need even more.”
-Wir brauchen einen neuen Wagen, wollen aber keinen Gebrauchtwagen.@ We need a new car but don’t want a used car.
+Wir brauchen einen neuen Wagen, wollen aber keinen Gebrauchtwagen.@We need a new car but don’t want a used car.
 „Sie brauchen diese Ware dringend.“ „Wozu brauchen sie wieder so viel?"@“They urgently need the merchandise.” “Why do they need so much again?
-„Ist das alles ihnen wirklich brauchbar?“ „Sie verbrauchen immer schnell ihre Vorräte.“ @ "Can they really use that much?” “They always use up their supplies fast.”
+„Ist das alles ihnen wirklich brauchbar?“ „Sie verbrauchen immer schnell ihre Vorräte.“@"Can they really use that much?” “They always use up their supplies fast.”
 Damals brauchte ich wirklich deine Unterstützung.@At that time I really needed your support.
 Ich brauche dir nicht zu sagen, dass du mir nicht geholfen hast.@I don’t have to tell you that you didn’t help me.
 Um das alles aufzubauen, haben wir Jahre gebraucht.@It took us years to build up all that.
@@ -430,7 +430,7 @@ aufbrauchen
 Mit seinem Saufen und Zocken hat mein Mann unsere ganzen Ersparnisse aufgebraucht.@With his drinking and gambling, my  husband’s gone through all our savings. 
 
 gebrauchen
-Das kann ich gut gebrauchen.@ I can make good use of that. 
+Das kann ich gut gebrauchen.@I can make good use of that. 
 
 missbrauchen
 Du hast mein Vertrauen missbraucht.@You abused my confidence. 
@@ -440,20 +440,20 @@ Der alte Wagen verbrauchte zu viel Sprit.@The old car used too much gas.
 Public Wird das aber bei Otto Normalverbraucher gut ankommen?@But will that catch on with the average  consumer?	 
 
 brauen
-Einst braute der Braumeister ein besseres Bier.@ Once the brew master brewed a better beer
+Einst braute der Braumeister ein besseres Bier.@Once the brew master brewed a better beer
 Damals hielt er das Bierbrauen für eine große Kunst.@Then he considered beer brewing a great art.
-Später aber betrank er sich oft im Brauhaus.@ But later he often got drunk in the brew house.
+Später aber betrank er sich oft im Brauhaus.@But later he often got drunk in the brew house.
 Bald musste der Brauer seine Brauerei schließen.@Soon the brewer had to close his brewery. 
 
 brausen
-Wollen wir brausen, bevor wir ins Schwimbad gehen?@ Shall we take a shower before going into the swimming pool?
-Man sagt, du wärest so ein Brausekopf.                 @They say you’re such a hothead.
+Wollen wir brausen, bevor wir ins Schwimbad gehen?@Shall we take a shower before going into the swimming pool?
+Man sagt, du wärest so ein Brausekopf.@They say you’re such a hothead.
 Die Leute sprechen noch von deinen tollen Brausejahren.@People still talk about your wild, impetuous youth.
 
 brechen
-Wir haben die Verhandlungen abgebrochen, weil der Vorsitzende sein Wort gebrochen hat.@ We broke off negotiations because the chairman broke his word.
-Bei einbrechender Nacht versuchten die Einbrecher ins Geschäft einzubrechen.@ At nightfall the burglars attempted to break into the store.
-Du brichst ja immer alles übers Knie.@ You always rush things. 
+Wir haben die Verhandlungen abgebrochen, weil der Vorsitzende sein Wort gebrochen hat.@We broke off negotiations because the chairman broke his word.
+Bei einbrechender Nacht versuchten die Einbrecher ins Geschäft einzubrechen.@At nightfall the burglars attempted to break into the store.
+Du brichst ja immer alles übers Knie.@You always rush things. 
 
 brennen
 In Silkes Zimmer brannte noch Licht.@There was still a light on in Silke’s room.
@@ -469,202 +469,137 @@ Die Kinder schreien und bringen mich um den Verstand.@The kids are screaming and
 Bringen wir sie jetzt ins Bett.@Let’s put them to bed now.
 
 abbringen
-Wir haben ihn endlich von derSchnapsidee abgebracht.@ We finally argued him out of that crackpot idea. 
+Wir haben ihn endlich von derSchnapsidee abgebracht.@We finally argued him out of that crackpot idea. 
 
 anbringen
-Der Apotheke hat das falsche Etikett angebracht.@ The pharmacist attached the wrong label. 
+Der Apotheke hat das falsche Etikett angebracht.@The pharmacist attached the wrong label. 
 
 aufbringen
-Sie versucht jetzt, das dafür nötige Geld aufzubringen.@ She’s now trying to raise the necessary funds for it.
-Die Nachricht hat ihn sehr aufgebracht.@ The news infuriated him . 
+Sie versucht jetzt, das dafür nötige Geld aufzubringen.@She’s now trying to raise the necessary funds for it.
+Die Nachricht hat ihn sehr aufgebracht.@The news infuriated him . 
 
 beibringen
-Aldo bringt mir jetzt Italienisch bei.@ Aldo’s now teaching me Italian. 
+Aldo bringt mir jetzt Italienisch bei.@Aldo’s now teaching me Italian. 
 
 einbringen
-Der Verkauf der Briefmarkensammlung brachte ihnen viel Geld ein.@ The stamp collection sale brought in a lot of money for them. 
+Der Verkauf der Briefmarkensammlung brachte ihnen viel Geld ein.@The stamp collection sale brought in a lot of money for them. 
 
 umbringen
-Wenn du so weitermachst, bringst du mich noch um.@ If you keep on like that, you’ll be the death of me. 
+Wenn du so weitermachst, bringst du mich noch um.@If you keep on like that, you’ll be the death of me. 
 
 unterbringen
-Im Kofferraum können wir nichts mehr unterbringen.@ We can’t put anything more in the (car) trunk.
-Seid ihr da gut untergebracht?@ Are you comfortably lodged there?	 
+Im Kofferraum können wir nichts mehr unterbringen.@We can’t put anything more in the (car) trunk.
+Seid ihr da gut untergebracht?@Are you comfortably lodged there?	 
 
 erbringen
-Sie haben noch keine Beweise dafür erbracht.@ They still haven’t produced any evidence for it. 
+Sie haben noch keine Beweise dafür erbracht.@They still haven’t produced any evidence for it. 
 
 hinterbringen
-Das hättest du mir eher hinterbringen können.@ You could have told me about that earlier. 
+Das hättest du mir eher hinterbringen können.@You could have told me about that earlier. 
 
 verbringen
-Wo haben Sie Ihre Ferien verbracht?@ Where’d you spend your vacation?	 
+Wo haben Sie Ihre Ferien verbracht?@Where’d you spend your vacation?	 
 
-RESUME
 brüllen
-Die Zuschauer brüllten dem Fußballspieler Beifall.
-Später, zu Hause, brüllte er seine Frau zornig an.
-„Gut gebrüllt, Löwe.
-Statt mir deine Wut ins Gesicht zu brüllen, solltest du’s mit der Zärtlichkeit versuchen.“ The spectators roared their cheers for the soccer player.
-Later, at home, he angrily yelled at his wife.
-“Nicely roared, lion.
-Instead of raging at me, you should try a little tenderness.” INDICATIVE SUBJUNCTIVE PRIMARYSECONDARY Present Time Present (Pres.
-Subj.)(Imperf.
-Subj.) ichbrülle brülle brüllte du brüllst brüllest brülltest er brüllt brülle brüllte wir brüllen brüllen brüllten ihr brüllt brüllet brülltet sie brüllen brüllen brüllten Imperfect ichbrüllte du brülltest er brüllte wir brüllten ihr brülltet sie brüllten Past Time Perfect (Perf.
-Subj.)(Pluperf.
-Subj.) ichhabe gebrüllt habe gebrüllt hätte gebrüllt du hast gebrüllt habest gebrüllt hättest gebrüllt er hat gebrüllt habe gebrüllt hätte gebrüllt wir haben gebrüllt haben gebrüllt hätten gebrüllt ihr habt gebrüllt habet gebrüllt hättet gebrüllt sie haben gebrüllt haben gebrüllt hätten gebrüllt Pluperfect ich hatte gebrüllt du hattest gebrüllt er hatte gebrüllt wir hatten gebrüllt ihr hattet gebrüllt sie hatten gebrüllt Future Time Future (Fut.
-Subj.)(Pres.
-Conditional) ichwerde brüllen werde brüllen würde brüllen du wirst brüllen werdest brüllen würdest brüllen er wird brüllen werde brüllen würde brüllen wir werden brüllen werden brüllen würden brüllen ihr werdet brüllen werdet brüllen würdet brüllen sie werden brüllen werden brüllen würden brüllen Future Perfect Time Future Perfect (Fut.
-Perf.
-Subj.)(Past Conditional ) ichwerde gebrüllt haben werde gebrüllt haben würde gebrüllt haben du wirst gebrüllt haben werdest gebrüllt haben würdest gebrüllt haben er wird gebrüllt haben werde gebrüllt haben würde gebrüllt haben wir werden gebrüllt haben werden gebrüllt haben würden gebrüllt haben ihr werdet gebrüllt haben werdet gebrüllt haben würdet gebrüllt haben sie werden gebrüllt haben werden gebrüllt haben würden gebrüllt haben 
+Die Zuschauer brüllten dem Fußballspieler Beifall.@The spectators roared their cheers for the soccer player.
+Später, zu Hause, brüllte er seine Frau zornig an.@Later, at home, he angrily yelled at his wife.
+„Gut gebrüllt, Löwe.@“Nicely roared, lion.
+„Statt mir deine Wut ins Gesicht zu brüllen, solltest du’s mit der Zärtlichkeit versuchen.“@"Instead of yelling your anger in my face, you should try tenderness."
 
 buchen
-„Haben Sie schon Ihre Hochzeitstreise gebucht?“ fragte der Reiseberater.
-„Buchen Sie sofort, bevor alle Plätze ausgebucht sind.“ “Have you booked your wedding trip yet?” asked the travel agent.
-“Book right away before all the seats are booked up.” The use is largely as in English, in the senses “to make a reservation” and in business language “to enter into the books.” 
+„Haben Sie schon Ihre Hochzeitstreise gebucht?“ fragte der Reiseberater.@“Have you booked your wedding trip yet?” asked the travel agent.
+„Buchen Sie sofort, bevor alle Plätze ausgebucht sind.“@“Book right away before all the seats are booked up.” 
 
 bürsten
-Klara bürstete sich die Haare und die Schuhe.
-Am Nachmittag bürstete sie den Hund.
-Danach musste sie ihre Kleidung abbürsten.
-Klara brushed her hair and her shoes.
-In the afternoon she brushed the dog.
-After that she had to brush off her clothes.
-In the above examples, the verb is used both reflexively and nonreflexively.
-Sound the umlaut correctly so bürstendoesn’t sound like bersten. 
+Klara bürstete sich die Haare und die Schuhe.@Klara brushed her hair and her shoes.
+Am Nachmittag bürstete sie den Hund.@After that she had to brush off her clothes.
+Danach musste sie ihre Kleidung abbürsten.@In the afternoon she brushed the dog.
 
 dämpfen
-Oft versuchte er, die Lebensfreude seiner Frau zu dämpfen.
-„Du solltest die Farben in deinem Gemälde etwas abdämpfen”.
-riet er.
-Often he tried to dampen his wife’s enthusiasm for life.
-“You should tone down (soften) the colors in your painting,” he advised.
-Dämpfenis used transitively (with a direct object), as in “to dampen musical instruments, colors” or “to muffle the voice.” 
+Oft versuchte er, die Lebensfreude seiner Frau zu dämpfen.@Often he tried to dampen his wife’s enthusiasm for life.
+„Du solltest die Farben in deinem Gemälde etwas abdämpfen”, riet er.@“You should tone down (soften) the colors in your painting,” he advised.
 
 danken
-Die Dame wollte dem Ritter danken.
-The lady wanted to thank the knight.
-Die letzten Kaiser von Deutschland und Österreich haben 1918 abgedankt.
-„Wir haben ihnen viel zu verdanken“, behaupteten die Monarchisten.
-The last emperors of Germany and Austria abdicated in 1918.
-“We have much to be grateful to them for,” asserted the monarchists. 
+Die Dame wollte dem Ritter danken.@The lady wanted to thank the knight. 
+Die letzten Kaiser von Deutschland und Österreich haben 1918 abgedankt.@The last emperors of Germany and Austria abdicated in 1918.
+„Wir haben ihnen viel zu verdanken“, behaupteten die Monarchisten.@“We have much to be grateful to them for,” asserted the monarchists. 
 
 decken
- Unser Tisch wurde immer reichlich gedeckt.
-Alle dachten an das Märchen, Tischlein Deck Dich!
-Aber schließlich konnten wir die Kosten nicht mehr decken.
-Our table was always abundantly set.
-All thought of the fairy tale, Little Table, Set Yourself.
-But finally we couldn’t meet expenses anymore.
-It is very common to drop the -eending of the duimperative, as in sentence 2. 
+Unser Tisch wurde immer reichlich gedeckt.@Our table was always abundantly set.
+Alle dachten an das Märchen, Tischlein Deck Dich!@All thought of the fairy tale, Little Table, Set Yourself.
+Aber schließlich konnten wir die Kosten nicht mehr decken.@But finally we couldn’t meet expenses anymore.
 
 denken
-„Ich denke, morgen nach Paris zu reisen.
-Dawerde ich mich gut amüsieren, denke ich.“ „Denken Sie an uns und bringen Sie uns ein kleines Andenken mit zurück, vielleicht eine Kopie von Rodins Der Denker!Was denken Sie von Rodins Werken?“ „Ich habe nicht darüber nachgedacht.
-Ich habe mir nie viele Gedanken über die Kunst gemacht.“ “I plan to go to Paris tomorrow.
-I’ll have a good time there, I think.” “Think of us and bring us back a little souvenir, maybe a copy of Rodin’s The Thinker.
-What do you think of Rodin’s work?” “I haven’t thought about it.
-I’ve never given much thought to art.” In the passage above, note the uses of denken an in the meaning “to think of someone/ something,” and denken von “to think of (have an opinion about).” Nachdenkenis “to reflect on, ponder.” The idiom sich Gedanken machen (literally “to make oneself thoughts”), also means “to ponder” or “to worry about.” Er predigt immer positives Denken.
-Im Grunde ist er aber ein Fanatiker.
-Den Fanatikern ist der Gedanke der Toleranz fremd.
-Das Denken der Aufklärung, die Denkweise der großen Philosophen lehnen sie ab.
-He’s always preaching positive thinking.
-But fundamentally he’s a fanatic.
-The idea of tol- erance is alien to fanatics.
-They reject the thinking of the Englightenment, the way of thinking of the great philosophers.
-Mit ihrem Geld denkt sich die Milliardärin, uns alle kaufen zu können.
-Sie will, dass wir ihr ein Denkmal setzen.
-Aber daran ist nicht zu denken!
-Wir denken gar nicht daran!
-The billionairess thinks she can buy us all with her money.
-She wants us to build a monument to her.
-But that’s out of the question!
-No way!
-Denken bei.“ t.” 
+„Ich denke, morgen nach Paris zu reisen.@ “I plan to go to Paris tomorrow.
+Dawerde ich mich gut amüsieren, denke ich.“ „Denken Sie an uns und bringen Sie uns ein kleines Andenken mit zurück, vielleicht eine Kopie von Rodins Der Denker!@I’ll have a good time there, I think.” “Think of us and bring us back a little souvenir, maybe a copy of Rodin’s The Thinker.
+Was denken Sie von Rodins Werken?“        What do you think of Rodin’s work?”
+„Ich habe nicht darüber nachgedacht. @ “I haven’t thought about it.
+Ich habe mir nie viele Gedanken über die Kunst gemacht.“@I’ve never given much thought to art.”
+Er predigt immer positives Denken.@e’s always preaching positive thinking.
+Im Grunde ist er aber ein Fanatiker.@But fundamentally he’s a fanatic.
+Den Fanatikern ist der Gedanke der Toleranz fremd.@The idea of tolerance is alien to fanatics.
+Das Denken der Aufklärung, die Denkweise der großen Philosophen lehnen sie ab.@They reject the thinking of the Englightenment, the way of thinking of the great philosophers.
+Mit ihrem Geld denkt sich die Milliardärin, uns alle kaufen zu können.@The billionairess thinks she can buy us all with her money.
+Sie will, dass wir ihr ein Denkmal setzen.@She wants us to build a monument to her.
 
 ausdenken
-Was hat sich der verrückte Professor wieder ausgedacht?
-What’s that nutty professor thought up now? 
+Was hat sich der verrückte Professor wieder ausgedacht?@What’s that nutty professor thought up now? 
 
 durchdenken
-Er hat den Plan gründlich durchgedacht.
-He considered the plan very carefully.
-Note: The inseparable form durchdacht is used adjectivally.
-Der Plan ist gut durchdacht.
-The plan is well thought-out. 
+Er hat den Plan gründlich durchgedacht.@He considered the plan very carefully.
+Der Plan ist gut durchdacht.@The plan is well thought-out. 
 
 nachdenken
-Ich habe lange darüber nachgedacht.
-I’ve thought about it for a long time. 
+Ich habe lange darüber nachgedacht.@I’ve thought about it for a long time. 
 
 umdenken
-Das Verfahren muss umgedacht werden.
-The process has to be rethought. 
+Das Verfahren muss umgedacht werden.@The process has to be rethought. 
 
 wegdenken
-Der Computer ist aus dem modernen Leben nicht wegzudenken.
-Life today is inconceivable without the computer. 
+Der Computer ist aus dem modernen Leben nicht wegzudenken.@Life today is inconceivable without the computer. 
 
 zudenken
-Ursprünglich war das Geschenk mir zugedacht.
-The gift was originally intended for me. 
+Ursprünglich war das Geschenk mir zugedacht.@The gift was originally intended for me. 
 
 zurückdenken
-Denkst du noch an die glücklichen Zeiten zurück?
-Do you still recall those happy times?	 
+Denkst du noch an die glücklichen Zeiten zurück?@Do you still recall those happy times?	 
 
 dichten
-Goethe hat als Kind schon gedichtet.
-Goethe already wrote poetry when he was a child.
-„Das Schiff muss gedichtet werden.
-Auch ich muss zum Schuster, denn meine Schuhe sind nicht mehr dicht“, sagte der alte Kapitän zur See.
-“The ship must be caulked.
-I’ve also got to go to the shoemaker because my shoes are no longer watertight,” said the old sea captain. 
+Goethe hat als Kind schon gedichtet.@Goethe already wrote poetry when he was a child.
+„Das Schiff muss gedichtet werden."@“The ship must be caulked."
+Auch ich muss zum Schuster, denn meine Schuhe sind nicht mehr dicht“, sagte der alte Kapitän zur See.@I’ve also got to go to the shoemaker because my shoes are no longer watertight,” said the old sea captain. 
 
 dienen
- „Ich dien” ist die Devise des Prinzen von Wales.
-„Ich bin der erste Diener meines Staates” soll Friedrich der Große gesagt haben.
-“I serve” is the motto of the Prince of Wales.
-“I am the first servant of my state,” Frederick the Great is supposed to have said.
-The-eending on the 1st person singular ( ichform) present is frequently omitted in colloquial speech. 
+ „Ich dien” ist die Devise des Prinzen von Wales.@“I serve” is the motto of the Prince of Wales.
+„Ich bin der erste Diener meines Staates” soll Friedrich der Große gesagt haben.@“I am the first servant of my state,” Frederick the Great is supposed to have said.
 
 donnern
- Es donnerte oft aber trotz Donner und Blitz tanzten wir weiter.
-There was often thunder but despite thunder and lightning we kept on dancing.
-Mit seiner Donnerstimme verkündete er mir die Nachricht, die mich wie ein Donnerschlag traf.
-In his thunderous voice he announced the news that left me thunderstruck.
-sich aufdonnern—to get all dressed/dolled up Donnerstagabend hat sie sich für ihn toll aufgedonnert.
-Thursday evening she got all dressed up for him.
-abdonnern—to roar/ zoom off Fritz ist dann schnell wieder abgedonnert.
-Then Fritz quickly roared off again. 
+Es donnerte oft aber trotz Donner und Blitz tanzten wir weiter.@There was often thunder but despite thunder and lightning we kept on dancing.
+Mit seiner Donnerstimme verkündete er mir die Nachricht, die mich wie ein Donnerschlag traf.@In his thunderous voice he announced the news that left me thunderstruck.
+
+sich aufdonnern
+Donnerstagabend hat sie sich für ihn toll aufgedonnert.@Thursday evening she got all dressed up for him.
+
+abdonnern
+Fritz ist dann schnell wieder abgedonnert.@Then Fritz quickly roared off again. 
 
 dringen
- Ich dringe auf mein Recht und dringe in Sie, mir zu helfen.
-I insist on my right and I’m urging you to help me.
-Es ist aber dringend.
-Die Zeit dringt.
-Ich bin auch vor Kälte und Nässe durchdrungen.
-But it’s urgent.
-Time is pressing.
-I’m also cold and wet through.
-Notice the different prepositions in dringen aufand dringen in. 
+Ich dringe auf mein Recht und dringe in Sie, mir zu helfen.@ I insist on my right and I’m urging you to help me.
+Es ist aber dringend.                         @But it’s urgent.
+Die Zeit dringt.                              @Time is pressing.
+Ich bin auch vor Kälte und Nässe durchdrungen.@I’m also cold and wet through.
 
 drucken
- Berühmte Druckereien in Mainz, Straßburg und Venedig haben die „Wiegendrucke” gedruckt.
-Famous printing presses in Mainz, Strasbourg, and Venice printed the “Incunabula.” Wiege means “cradle.” Wiegendruckeare works printed in the infancy of printing, before 1501. 
+Berühmte Druckereien in Mainz, Straßburg und Venedig haben die „Wiegendrucke” gedruckt.@Famous printing presses in Mainz, Strasbourg, and Venice printed the “Incunabula.” Wiege means “cradle.” Wiegendruckeare works printed in the infancy of printing, before 1501. 
 
 drücken
- Die Zensur hätte ein Auge zudrücken können.
-The censors could have closed an eye.
-Wir drücken die Daumen für Sie.
-We’ll keep our fingers crossed for you.
-Goethe drückte sich kräftig aus.
-Goethe expressed himself strongly.
-Don’t confuse druckenwith drücken.
-The idiom die Daumen drücken is literally “to press the thumbs .” 
+Die Zensur hätte ein Auge zudrücken können.@ The censors could have closed an eye.
+Wir drücken die Daumen für Sie.@We’ll keep our fingers crossed for you.
+Goethe drückte sich kräftig aus.@ Goethe expressed himself strongly.
 
+RESUME
 dürfen
- In der Stadt Mahagonny durfte man fast alles.
+In der Stadt Mahagonny durfte man fast alles.
 Heutzutage darf man alles, heißt es in einem Lied von Cole Porter.
 In the city of Mahagonny almost everything was permitted.
 Today, anything goes, maintains Cole Porter in a song.
@@ -6731,11 +6666,7 @@ Der Brief kam mit dem Postvermerk zurück: VERZOGEN.
 The letter came back with the postal marking: N OLONGER AT THIS ADDRESS . 
 
 (sich) verziehen
-Zieh dich schnell!
-Clear out fast!
-Durchziehen, überziehen,umziehen, and  unterziehen  can be separable or inseparable.
-See “Doubtful Prefixes,” page 610.
-See  (sich) anziehen, (sich) ausziehen.	 
+Zieh dich schnell!@ Clear out fast!
 
 zwingen
 Man hat uns dazu gezwungen.@They forced us to do it.
