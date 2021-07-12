@@ -8506,8 +8506,7 @@ Note the distinction between  essenand fressen
 Essen	
 Prefix Verbs
 SEPARABLE
-abessen—to finish eating, clean one’s
-plate
+abessen—to finish eating, clean one’s plate
 Esst ab, sonst kriegt ihr keinen Nachtisch.
 Clean your plates or you’ll get no dessert.
 aufessen—to eat up
@@ -8617,8 +8616,7 @@ abfahren—to depart
 Der letzte Zug nach Marienbad ist längst
 schon abgefahren.
 The last train to Marienbad left long ago.
-anfahren—to drive up, approach (car); 
-snap at
+anfahren—to drive up, approach (car); snap at
 Da kam er angefahren in seinem Wagen.
 Then he came along in his car.
 Brauchst mich nicht so gleich anzufahren.
@@ -8668,7 +8666,7 @@ traffic.
 überfahren—to run over; run a red light
 Sie haben die Ampel bei Rot überfahren.
 You ran a red light.
-(sich) verbargen-definition(sich) verfahren—to lose one’s way driving
+verfahren—to lose one’s way driving
 Leider hatten wir uns verfahren.
 Unfortunately, we lost our way.
 Note that überfahren can be both 
