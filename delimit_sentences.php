@@ -1,7 +1,7 @@
 <?php
 use App\File\SplFileObjectExtended;
 
-require_once './boot-strap.php';
+require_once './boot-strap/boot-strap.php';
 
 boot_strap();
 
