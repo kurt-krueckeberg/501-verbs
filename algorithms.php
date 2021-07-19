@@ -41,7 +41,7 @@ function binary_search_(array $a, int $first, int $last, string $key, callable $
 
         } else {
 
-            return true; //$mid;
+            return true; // {true, $mid};
         }
     }
     return false;

@@ -827,96 +827,73 @@ fangen
 Papageno, der Vogelfänger in Mozarts Zauberflöte, fing viele Vögel für die Königin der Nacht."Papageno, the bird catcher in Mozart’s Magic Flute,caught many birds for the Queen of the Night.
 Der Jäger hat sich die Finger in der Falle verfangen.@The hunter caught his fingers in the trap.
 
-RESUME
 fassen
-Machen Sie sich darauf gefasst!
-Prepare yourself.
-Er konnte es kaum fassen, dass sie ihn nicht mehr liebte.
-He could scarcely grasp that she no longer loved him.
-Er verlor seine Fassung, fasste den Goldring mit dem eingefassten Diamanten, und warf ihn weg.
-He lost his composure, seized the gold ring with the diamond set in it, and threw it away. 
+Machen Sie sich darauf gefasst!@Prepare yourself.
+Er konnte es kaum fassen, dass sie ihn nicht mehr liebte.@He could scarcely grasp that she no longer loved him.
+Er verlor seine Fassung, fasste den Goldring mit dem eingefassten Diamanten, und warf ihn weg.@He lost his composure, seized the gold ring with the diamond set in it, and threw it away. 
 
 fechten
-In ihren Filmen fochten Schauspieler wie Errol Flynn und Tyrone Power viel.
-Der junge Schauspieler las über die Fechtkunst, hatte aber Angst vor dem Fechten.
-Im Film musste ein anderer an seiner Stelle fechten.
-Actors like Errol Flynn and Tyrone Power fenced a great deal in their films.
-The young actor read about the art of fencing, but he was afraid of fencing.
-In the film, someone else had to fence in his place. 
+In ihren Filmen fochten Schauspieler wie Errol Flynn und Tyrone Power viel.@Actors like Errol Flynn and Tyrone Power fenced a great deal in their films.
+Der junge Schauspieler las über die Fechtkunst, hatte aber Angst vor dem Fechten.@The young actor read about the art of fencing, but he was afraid of fencing.
+Im Film musste ein anderer an seiner Stelle fechten.@In the film, someone else had to fence in his place. 
 
 feststellen
-„Was hat die Polizei festgestellt?“ „Bisjetzt hat sie wenig festellen können.
-Festgestellt ist nur, dass es sich um einen Mord handelt.
-Sie versuchen noch, den Mörder festzustellen.“ “What have the police found out?” “So far they haven’t been able to determine very much.
-The only thing they’ve determined is that it’s a murder.
-They’re still trying to establish who the murderer is.” 
+„Was hat die Polizei festgestellt?“ „Bisjetzt hat sie wenig festellen können."@“What have the police found out?” “So far they haven’t been able to determine very much.
+Festgestellt ist nur, dass es sich um einen Mord handelt.@The only thing they’ve determined is that it’s a murder.
+Sie versuchen noch, den Mörder festzustellen.“@"They’re still trying to establish who the murderer is.” 
 
 finden
-Wer meine Aktentasche findet, kriegt einenFinderlohn.
-Whoever finds my briefcase will get a finder’s reward.
-„Wie fanden Sie das Konzert?“ „Wir konnten nicht herausfinden, um wie viel Uhr das Konzert stattfand.“ “What did you think of the concert?” “We weren’t able to find out at what time the concert took place.” Ihr Ring war nicht zu finden.
-Endlich fand ihn die Zofe.
-Her ring couldn’t be found.
-Finally the maid found it.
-Finden 
+Wer meine Aktentasche findet, kriegt einen Finderlohn.@Whoever finds my briefcase will get a finder’s reward.
+„Wie fanden Sie das Konzert?“@“What did you think of the concert?”
+ „Wir konnten nicht herausfinden, um wie viel Uhr das Konzert stattfand.“@“We weren’t able to find out at what time the concert took place.”
+Ihr Ring war nicht zu finden.@Endlich fand ihn die Zofe.
+Her ring couldn’t be found.@Finally the maid found it.
 
 abfinden
-Er wurde großzügig abgefunden.
-He received a generous settlement.
-(sich) abfinden mit —to accept grudgingly; put up with; resign oneself Wir haben uns damit abgefunden.
-We’ve learned to live with it.
-auffinden —to locate, discover Spürhunde halfen der Polizei, die Leiche im Wald aufzufinden.
-Tracker dogs helped the police find the corpse in the woods.
-(sich) einfinden —to appear; arrive; attend Er hat sich erst spät bei uns eingefunden.
-He didn’t arrive at our place till late. 
+Er wurde großzügig abgefunden.@He received a generous settlement.
+
+sich abfinden mit
+ Wir haben uns damit abgefunden.@We’ve learned to live with it.
+
+auffinden
+Spürhunde halfen der Polizei, die Leiche im Wald aufzufinden.@Tracker dogs helped the police find the corpse in the woods.
+
+sich einfinden
+Er hat sich erst spät bei uns eingefunden.@He didn’t arrive at our place till late. 
 
 herausfinden
-Haben sie schon was herausgefunden?
-Have they already found out anything?
-stattfinden —to take place Um wie viel Uhr findet das Konzert statt?
-At what time will the concert take place? 
+Haben sie schon was herausgefunden?@Have they already found out anything?
+
+stattfinden
+Um wie viel Uhr findet das Konzert statt?@At what time will the concert take place? 
 
 vorfinden
-In der Höhle fanden wir viel  Überraschendes vor.
-We came upon many surprising things in the cave.	 
+In der Höhle fanden wir viel  Überraschendes vor.@We came upon many surprising things in the cave.	 
 
 empfinden
-Was Beethoven in der Natur empfand,drückte er in seiner Symphonie aus.
-Er war zugleich ein empfindlicher und empfindsamer Mensch.
-Beethoven expressed what he felt in nature in his symphony.
-He was both an irrita- ble and sensitive individual.
-mitempfinden/nachempfinden —to sympathize; understand Mit Ihnen empfinde ich wirklich mit.
-I really sympathize with you.
-See conjugated: (sich) befinden, erfinden	 
+Was Beethoven in der Natur empfand,drückte er in seiner Symphonie aus.@Er war zugleich ein empfindlicher und empfindsamer Mensch.
+Beethoven expressed what he felt in nature in his symphony.@He was both an irrita- ble and sensitive individual.
+
+mitempfinden
+Mit Ihnen empfinde ich wirklich mit.@I really sympathize with you.
 
 fliegen
- Die Fliegerin hat das neue Flugzeug zum ersten Mal geflogen.
-Später sind wir darin geflogen.
-Wir sind mit einer anderen Luftlinie zurückgeflogen.
-The aviatrix flew the new aircraft for the first time.
-Later we flew in it.
-We flew back with a different carrier.
-Der Fliegende Holländer betrachtete die Vögel und die fliegenden Fische.
-The Flying Dutchman looked at the birds and the flying fishes. 
+Die Fliegerin hat das neue Flugzeug zum ersten Mal geflogen.@The aviatrix flew the new aircraft for the first time.
+Später sind wir darin geflogen.                             @Later we flew in it.
+Wir sind mit einer anderen Luftlinie zurückgeflogen.        @We flew back with a different carrier.
+Der Fliegende Holländer betrachtete die Vögel und die fliegenden Fische.@The Flying Dutchman looked at the birds and the flying fishes. 
 
 fliehen
- Die Flüchtlinge sind vor dem Feind geflohen.
-Sie sind noch auf der Flucht und versuchen, ins Ausland zu fliehen.
-The refugees fled from the enemy.
-They’re still in flight and are trying to flee the country.
-Review verbs in Group II, page 10.
-Also review “ SeinVerbs,” pages 17–18. 
+Die Flüchtlinge sind vor dem Feind geflohen.@The refugees fled from the enemy.
+Sie sind noch auf der Flucht und versuchen, ins Ausland zu fliehen.@They’re still in flight and are trying to flee the country.
 
 fließen
- Der Nil, die Loire, die Donau und viele Flüsse fließen nicht mehr in Flussbetten, in denen sie jahrtausendelang geflossen waren.
-Ja, Heraklit hatte recht, „Alles fließt.“ The Nile, the Loire, the Danube, and so many rivers no longer flow in riverbeds in which they (had) flowed for millennia.
-Yes, Heraclitus was right, “Everything is in a state of flux.” 
+Der Nil, die Loire, die Donau und viele Flüsse fließen nicht mehr in Flussbetten, in denen sie jahrtausendelang geflossen waren.@ The Nile, the Loire, the Danube, and so many rivers no longer flow in riverbeds in which they (had) flowed for millennia.
+Ja, Heraklit hatte recht, „Alles fließt.“@Yes, Heraclitus was right, “Everything is in a state of flux.” 
 
 fluchen
-„Du brauchst nicht wie ein Landsknecht zu fluchen“, sagte der Vater seinem heranwachsenden Sohn.
-“You don’t have to swear like a drunken sailor (literally ‘mercenary solider’),” said the father to his adolescent son.
-Als er über die Alpen fuhr, fluchte er auf das schlechte Wetter.
-When he crossed the Alps, he cursed the bad weather. 
+„Du brauchst nicht wie ein Landsknecht zu fluchen“, sagte der Vater seinem heranwachsenden Sohn.@“You don’t have to swear like a drunken sailor (literally ‘mercenary solider’),” said the father to his adolescent son.
+Als er über die Alpen fuhr, fluchte er auf das schlechte Wetter.@When he crossed the Alps, he cursed the bad weather. 
 
 folgen
 Viele sind dem Diktator blindlings gefolgt.@Many followed the dictator blindly.
@@ -970,156 +947,109 @@ Darf ich mich auf meine baldige Entlassung freuen?@May I look forward to my rele
 
 RESUME
 frieren
-Nach dem Krieg hungerten und froren Millionen.
-Tausende fand man im Schnee erfroren.
-After the war millions were hungry and freezing.
-Thousands were found frozen in the snow.
-Mich friert.
-Friert dich auch?
-I’m cold.
-Are you cold, too?
-Gestern hat es gefroren.
-It froze yesterday.
-For “to freeze food” German uses tiefgefrierenor tiefkühlen. 
+Nach dem Krieg hungerten und froren Millionen.@After the war millions were hungry and freezing.
+Tausende fand man im Schnee erfroren.@Thousands were found frozen in the snow.
+Mich friert.@I’m cold.
+Friert dich auch?@Are you cold, too?
+Gestern hat es gefroren.@It froze yesterday.
 
 frühstücken
-„Um wie viel Uhr möchten Sie frühstücken?
-Nach zehn Uhr wird das Frühstück nicht mehr serviert.“ „Heute haben wir um 10 gefrühstückt aber morgen früh müssen wir früher frühstücken.“ “What time do you want to eat breakfast?
-After ten o’clock breakfast is no longer served.” “Today we ate breakfast at 10 but tomorrow morning we’ll have to eat earlier.” 
+„Um wie viel Uhr möchten Sie frühstücken?"@“What time do you want to eat breakfast?
+Nach zehn Uhr wird das Frühstück nicht mehr serviert.“@After ten o’clock breakfast is no longer served.”
+„Heute haben wir um 10 gefrühstückt aber morgen früh müssen wir früher frühstücken.“@“Today we ate breakfast at 10 but tomorrow morning we’ll have to eat earlier.” 
 
 fühlen
-Renate ist bei der letzten Prüfung durchgefallen, weil sie sich nicht wohl fühlte.
-Trotz Probleme mit der Grammatik hat sie viel Sprachgefühl.
-Sie weiß, dass man sich in eine Sprache hineinfühlen muss.
-Renate failed the last exam because she wasn’t feeling well.
-Despite problems with grammar, she has a feeling for the language.
-She knows that one must feel one’s way into a language. 
+Renate ist bei der letzten Prüfung durchgefallen, weil sie sich nicht wohl fühlte.@Renate failed the last exam because she wasn’t feeling well.
+Trotz Probleme mit der Grammatik hat sie viel Sprachgefühl.@Despite problems with grammar, she has a feeling for the language.
+Sie weiß, dass man sich in eine Sprache hineinfühlen muss.@She knows that one must feel one’s way into a language. 
 
 führen
-Herr Müller führt ein liederliches Leben.
-Er hat keine Zeit, die Geschäftsbücher zu führen.
-Auch führt sein Geschäft nicht mehr alles, was es früher geführt hat.
-Wohin wird das alles führen?
-Mr.
-Müller is leading a disorderly life.
-He has no time to keep the business’s books anymore.
-Furthermore, his store no longer carries all that it used to carry.
-What will all that lead to? 
+Herr Müller führt ein liederliches Leben.@Mr. Müller is leading a disorderly life.
+Er hat keine Zeit, die Geschäftsbücher zu führen.@He has no time to keep the business’s books anymore.
+Auch führt sein Geschäft nicht mehr alles, was es früher geführt hat.@Furthermore, his store no longer carries all that it used to carry.
+Wohin wird das alles führen?@What will all that lead to? 
 
 füllen
-Bei ihrem ersten Konzert füllte sich der Konzertsaal langsam.
-„In ihrem Spiel gibt es eine wunderbare Fülle“, schrieb ein Kritiker.
-Nach dem Konzert hätten wir lieber Kaviar als gefülltes Pitabrot gegessen.
-At her first concert, the concert hall filled up slowly.
-“There is a wonderful richness in her playing,” wrote a critic.
-After the concert we would rather have eaten caviar than stuffed pita bread. 
+Bei ihrem ersten Konzert füllte sich der Konzertsaal langsam.             @At her first concert, the concert hall filled up slowly.
+„In ihrem Spiel gibt es eine wunderbare Fülle“, schrieb ein Kritiker.     @“There is a wonderful richness in her playing,” wrote a critic.
+Nach dem Konzert hätten wir lieber Kaviar als gefülltes Pitabrot gegessen.@After the concert we would rather have eaten caviar than stuffed pita bread. 
 
 fürchten
-Hans fürchtet sich vor allem.
-Er glaubt nicht an die Worte: „Wir haben nur die Furcht und sonst nichts zu fürchten.“ Seine jüngere Schwester behauptete: „Ich fürchte nichts auf der Welt.
-Ich bin furchtlos.“ Hans is afraid of everything.
-He doesn’t believe in the words, “We have nothing to fear but fear itself.” His younger sister declared, “I fear nothing in the world.
-I am fearless.” 
+Hans fürchtet sich vor allem.@Hans is afraid of everything.
+Er glaubt nicht an die Worte: „Wir haben nur die Furcht und sonst nichts zu fürchten.“@He doesn’t believe in the words, “We have nothing to fear but fear itself.”
+Seine jüngere Schwester behauptete: „Ich fürchte nichts auf der Welt.@His younger sister declared, “I fear nothing in the world.
+Ich bin furchtlos.“@I am fearless.” 
 
 gähnen
-„Ein gähnender Abgrund wird sich vor uns auftun“, sagte er melodramatisch.
-„Entschuldigen Sie!
-Ich gähne nicht, weil Sie mich langweilen, sondern wegen Luftmangel hier im Zimmer“, erklärte sie höflich.
-“A yawning chasm will open before us,” he said melodramatically.
-“Excuse me.
-I’m not yawning because you bore me, but because of the lack of air here in the room,” she explained politely. 
+„Ein gähnender Abgrund wird sich vor uns auftun“, sagte er melodramatisch.                                 @“A yawning chasm will open before us,” he said melodramatically.
+„Entschuldigen Sie!                                                                                        @“Excuse me.
+Ich gähne nicht, weil Sie mich langweilen, sondern wegen Luftmangel hier im Zimmer“, erklärte sie höflich.@I’m not yawning because you bore me, but because of the lack of air here in the room,” she explained politely. 
 
 gären
- Der alte Wein hat sich zu Essig gegoren.
-Der neue Wein befindet sich noch im Gärungszustand.
-The old wine has turned to vinegar.
-The new wine is still fermenting.
-Die Arbeitslosigkeit wächst und es gärt im Volk.
-Unemployment is growing and there is unrest among the people.
-Gärencan also be conjugated regularly. 
+Der alte Wein hat sich zu Essig gegoren.@The old wine has turned to vinegar.
+Der neue Wein befindet sich noch im Gärungszustand.@The new wine is still fermenting.
+Die Arbeitslosigkeit wächst und es gärt im Volk.@Unemployment is growing and there is unrest among the people.
 
 gebären
- Der König von England verschont die Stadt, weil die Königin ihm einen Sohn geboren hatte.
-The King of England spares the city because the queen bore him a son.
-Der Missionar war nicht dort geboren.
-The missionary wasn’t born there. 
+Der König von England verschont die Stadt, weil die Königin ihm einen Sohn geboren hatte.@The King of England spares the city because the queen bore him a son.
+Der Missionar war nicht dort geboren.@The missionary wasn’t born there. 
 
 geben
-Im Theater wird heute abend nichts gegeben.Aber wir geben sowieso zu viel Geld fürs Theater aus.
-Außerdem gibt’s nichts Neues im Spielplan.
-There’s nothing on at the theater tonight.
-But we spend too much money on the theater anyway.
-Besides, there’s nothing new in the theater’s program schedule.
-Ich geb dir den Wagen ganze zwei Wochen.
-Wenn du mir danach 900 Euro dafür gibst, gehört er dir.
-I’ll let you have the car for two whole weeks.
-If you give me 900 euros for it after that, it’ll be yours.
-Note that es gibt, used in the first sentence of the first example, is both “there is” and “there are.” Gibt is also used for mathemati- cal operations: zwei plus zwei gibt vier two plus two is/makes four drei mal drei gibt neun three times three is/makes nine sich geben—to abate, subside, cool down; to pretend, act; behave Wir hoffen, ihr Fieber wird sich geben.
-We hope her fever will drop.
-Zuerst war er ganz Feuer und Flamme, aber bald gab sich seine Begeisterung.
-At first he was all for it, but his enthusiasm soon cooled.
-Alle gaben sich von der besten Seite.
-All were on their best behavior.
-Geben 
+Im Theater wird heute abend nichts gegeben. Aber wir geben sowieso zu viel Geld fürs Theater aus.@There’s nothing on at the theater tonight. But we spend too much money on the theater anyway.
+Außerdem gibt’s nichts Neues im Spielplan.@Besides, there’s nothing new in the theater’s program schedule.
+Ich geb dir den Wagen ganze zwei Wochen.@I’ll let you have the car for two whole weeks.
+Wenn du mir danach 900 Euro dafür gibst, gehört er dir.@If you give me 900 euros for it after that, it’ll be yours.
+
+sich geben
+Wir hoffen, ihr Fieber wird sich geben.@We hope her fever will drop.
+Zuerst war er ganz Feuer und Flamme, aber bald gab sich seine Begeisterung.@At first he was all for it, but his enthusiasm soon cooled.
+Alle gaben sich von der besten Seite.@All were on their best behavior.
 
 abgeben
-Wir mussten Mantel und Hut abgeben.
-We had to check our coats and hats.
-Gib deine Stimme für mich ab!
-Vote for me. 
+Wir mussten Mantel und Hut abgeben.@ We had to check our coats and hats.
+Gib deine Stimme für mich ab!@Vote for me. 
 
 angeben
-Hat sie einen Preis dafür angegeben?
-Did she indicate a price for it?
-Er gibt immer groß an, kann aber wenig.
-He always talks big, but he isn’t very competent. 
+Hat sie einen Preis dafür angegeben?@Did she indicate a price for it?
+Er gibt immer groß an, kann aber wenig.@He always talks big, but he isn’t very competent. 
 
 aufgeben
-Warum hast du gleich aufgegeben?
-Why’d you give up right away? 
+Warum hast du gleich aufgegeben?@Why’d you give up right away? 
 
 beigeben
-Gewöhnlich gibt uns der Bäcker einige Brötchen bei.
-The baker usually adds a few rolls to our order.
-(klein) beigeben—to back down, cave in Diesmal geben wir nicht klein bei.
-This time we’re not going to give in humbly. 
+Gewöhnlich gibt uns der Bäcker einige Brötchen bei.@The baker usually adds a few rolls to our order.
+
+klein beigebenD
+Diesmal geben wir nicht klein bei.@This time we’re not going to give in humbly. 
 
 durchgeben
-Der Sender gefällt mir, aber sie geben die Nachrichten zu oft durch.
-I like that station but they give the news too often. 
+Der Sender gefällt mir, aber sie geben die Nachrichten zu oft durch.@I like that station but they give the news too often. 
 
 eingeben
-Haben Sie Ihre Geheimzahl in den Computer eingegeben?
-Did you enter your PIN into the com- puter? 
+Haben Sie Ihre Geheimzahl in den Computer eingegeben?@Did you enter your PIN into the com- puter? 
 
 freigeben
-Preise und Löhne wurden freigegeben.
-Prices and wages were decontrolled. 
+Preise und Löhne wurden freigegeben.@Prices and wages were decontrolled. 
 
 hergeben
-Gib nur her!
-Just give it here! 
+Gib nur her!@Just give it here! 
 
-(sich) hergeben
-stoop to Zu so etwas geb ich mich nicht her.
-I’m not going to lend myself to anything like that. 
+sich hergeben
+so etwas geb ich mich nicht her.@I’m not going to lend myself to anything like that. 
 
 nachgeben
-Wenn du jetzt nicht nachgibst, wirst du’s später bereuen.
-If you don’t give in now, you’ll regret it later. 
+Wenn du jetzt nicht nachgibst, wirst du’s später bereuen.@If you don’t give in now, you’ll regret it later. 
 
 vorgeben
-Er gab vor, nichts davon zu wissen.
-He alleged he knew nothing about it. 
+Er gab vor, nichts davon zu wissen.@He alleged he knew nothing about it. 
 
 zugeben
-Bisjetzt hat er nichts zugegeben.
-So far he’s admitted nothing. 
+Bisjetzt hat er nichts zugegeben.@So far he’s admitted nothing. 
 
 zurückgeben
-Ich gab ihm seinen Ring zurück.
-I gave him back his ring. 
+Ich gab ihm seinen Ring zurück.@I gave him back his ring. 
 
+RESUME
 (sich) begeben
 Begeben wir uns ins Esszimmer.
 Let’s adjourn to the dining room.
