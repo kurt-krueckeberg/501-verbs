@@ -20,7 +20,7 @@ declare(strict_types = 1);
  *  binary_search($keys, 'ächzen', $closure); 
  *
  */
-function binary_search_(array $a, int $first, int $last, string $key, callable $comparator)
+function binary_search_(array $a, int $first, int $last, mixed $key, callable $comparator)
 {
     $lo = $first; 
     $hi = $last - 1;
@@ -31,18 +31,18 @@ function binary_search_(array $a, int $first, int $last, string $key, callable $
    
         $cmp = $comparator($a[$mid], $key);
 
-        if ($cmp < 0) {
+        if ($cmp < 0) 
             
             $lo = $mid + 1;
 
-        } elseif ($cmp > 0) {
+        elseif ($cmp > 0) 
 
             $hi = $mid - 1;
 
-        } else {
+        else 
 
-            return true; // {true, $mid};
-        }
+            return true; // OR: {true, $mid};
+        
     }
     return false;
 }
@@ -54,15 +54,18 @@ function binary_search(array $a, string $key, callable $comparator)
 
 /*
  * This class is both a Collator for the German 'de_DE' locale and a predicate object
- * that overloads the binary function call operator (using PHP's __invoke magic method).
+ * (that uses PHP's __invoke magic method to overload the binary function call operator).
  *
- * It can be passed to binary_search as the comparator parameter.
+ * It can be passed to binary_search as the comparator parameter in one of two ways.
  *
- *   // PHP lambda/closure method
- *   $germanComp = new GermanComparator; 
- *
- *   Note: You can also simply do:
- *   $closure = function (string $str1, string $str2) use ($germanComp) { return $germanComp->compare($str1, $str2); };
+ *   1. As a lambda/closure method:
+ *  
+ *     $closure = function (string $str1, string $str2) use ($germanComp) { return $germanComp->compare($str1, $str2); };
+ *     binary_search($str_array, $str_needle, $closure);
+ * 
+ *   2: As a binary function object:
+ * 
+ *     binary_search($str_array, $str_needle, new GermanComparator);
  *
  */
 

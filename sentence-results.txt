@@ -1132,59 +1132,42 @@ umgehen
 Der alte Gauner geht wieder um.@That old crook is making the rounds again.
 Er weiß nicht mit Geld umzugehen.@He doesn’t know how to handle money. 
 
-RESUME
 untergehen
-(sun—see aufgehen above) Das Abendland ist noch nicht untergegangen.
-The West hasn’t gone under yet. 
+Das Abendland ist noch nicht untergegangen.@The West hasn’t gone under yet. 
 
 vorgehen
-happen, go on; be fast (timepieces) Sie drohten, gegen uns gerichtlich vorzugehen.
-They threatened to take legal action against us.
-Was ist denn eigentlich da vorgegangen?
-Just what really went on there?
-Meine Uhr geht fünf Minuten vor.
-My watch is five minutes fast. 
+Sie drohten, gegen uns gerichtlich vorzugehen.@They threatened to take legal action against us.
+Was ist denn eigentlich da vorgegangen?@Just what really went on there?
+Meine Uhr geht fünf Minuten vor.@My watch is five minutes fast. 
 
 zugehen
-Der Bettler ging auf uns zu.
-The beggar approached us. 
+Der Bettler ging auf uns zu.@The beggar approached us. 
 
 begehen
-Mackie hat viele Verbrechen begangen.
-Mackie commited many crimes. 
+Mackie hat viele Verbrechen begangen.@Mackie commited many crimes. 
 
 entgehen
-Diesmal entgeht er der Strafe nicht.
-This time he’s not going to escape punishment. 
+Diesmal entgeht er der Strafe nicht.@This time he’s not going to escape punishment. 
 
 ergehen
-Wie erging es ihnen in der neuen Heimat?
-How did they fare/do in their new homeland? 
+Wie erging es ihnen in der neuen Heimat?@How did they fare/do in their new homeland? 
 
 hintergehen
-Sein Geschäftspartner hat ihn hintergangen.
-His business partner deceived him. 
+Sein Geschäftspartner hat ihn hintergangen.@His business partner deceived him. 
 
 umgehen
-Im Taoismus versucht man Hindernisse zu umgehen.
-In Taoism one tries to avoid obstacles. 
+Im Taoismus versucht man Hindernisse zu umgehen.@In Taoism one tries to avoid obstacles. 
 
 vergehen
-Gretchen wollte an Fausts Küssen vergehen.
-Gretchen wanted Faust to kiss her to death.
-Altes vergeht.
-Neues entsteht.
-Old things pass away.
-New ones arise.
-Ach wie schnell verging damals die Zeit!
-Oh, how quickly time passed then! 
+Gretchen wollte an Fausts Küssen vergehen.@Gretchen wanted Faust to kiss her to death.
+Altes vergeht. @Old things pass away.
+Neues entsteht.@New ones arise.
+Ach wie schnell verging damals die Zeit!@Oh, how quickly time passed then! 
 
 zergehen
-Lass dir diese Bonbons langsam auf der Zunge zergehen.
-Savor these candies slowly by letting them melt on your tongue.
-Note that umgehenis both a separable and inseparable prefix verb.
-See “Doubtful Prefixes,” page 610. 
+Lass dir diese Bonbons langsam auf der Zunge zergehen.@Savor these candies slowly by letting them melt on your tongue.
 
+RESUME
 gehören
 „Das Haus hat uns einst gehört, aber es gehört uns nicht mehr und du musst dich benehmen, wie es sich gehört”.
 (sich gehören = to be suitable, proper) „Wem gehört es jetzt?“ “The house once belonged to us, but it doesn’t belong to us anymore and you’ll have to behave properly.” “Who owns it now?” Idioms Zum Fisch gehört nicht immer Weißwein.
