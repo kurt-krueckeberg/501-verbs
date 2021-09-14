@@ -87,7 +87,7 @@ function remove_ws($str)
          
 function get_PrincipleParts($lines, $start_index)
 {
-  $regex_start = '/^Principle Parts:\s*(.*)$/';
+  $regex_start = '^Principle Parts:\s*(.*)$';
   
   $pp = '';
           
@@ -109,9 +109,16 @@ function get_PrincipleParts($lines, $start_index)
  // append 'u' to regex if the $str is encoded as utf-8.
 function preg_match_u($regex, $str, array &$matches = null) 
 {
-     $regex .= (strpos(mb_detect_encoding($str), "UTF") === 0) ? 'u' : ''; 
+    $encoding = mb_detect_encoding($str, ['UTF-8', 'ISO-8859-1', 'ISO-8859-5']);
 
-     return preg_match($regex, $str, $matches);
+    if ($encoding[0] == 'U') {
+        $regex = mb_convert_encoding($regex, 'UTF-8');    
+        $regex = '/' . $regex . "/u"; 
+
+    } else 
+        $regex = '/' .$regex . '/';
+
+    return preg_match($regex, $str, $matches);
 }
 
 /*
@@ -122,7 +129,7 @@ function preg_match_u($regex, $str, array &$matches = null)
 function get_verb_defn($page, $line_no)
 {
     $infinitive = ''; 
-    $regex_verb = '/^((?:[a-zöäüß]{3,}\s?)+)\s*$/'; // verb may come in several parts.
+    $regex_verb = '^((?:[a-zöäüß]{3,}\s?)+)\s*$'; // verb may come in several parts.
 
     $line = $page[$line_no];
            
@@ -148,7 +155,7 @@ function get_verb_defn($page, $line_no)
 function get_infinitive($line)
 {
     $infinitive = ''; 
-    $regex_verb = '/^((?:[a-zöäüß]{3,}\s?)+)\s*$/'; // verb may come in several parts.
+    $regex_verb = '^((?:[a-zöäüß]{3,}\s?)+)\s*$'; // verb may come in several parts.
      
     $regex_verb .= (strpos(mb_detect_encoding($line), "UTF") == 0) ? 'u' : ''; // If UTF-8 encoding, then append 'u'; although it doesn't seem to matter.
         
@@ -179,8 +186,8 @@ function adjust_line($str)
 
 function get_Examples_type1(array $lines, $index)
 {
-    $regex_start = '/^Examples:$/';
-    $regex_end = '/^7_9393_GermanVerbs_|^Principle Parts:/';
+    $regex_start = '^Examples:$/;
+    $regex_end = "^7_9393_GermanVerbs_|^Principle Parts:";
     $examples = '';
         
     for ($i = $index; $i < count($lines); ++$i) {
@@ -211,8 +218,8 @@ function get_Examples_type1(array $lines, $index)
 
 function get_Examples_type2(array $lines, $index)
 {
-    $regex_start = '/^EXAMPLES\s*$/';
-    $regex_end = '/^Prefix Verbs|^7_9393_/';
+    $regex_start = '^EXAMPLES\s*$';
+    $regex_end = '^Prefix Verbs|^7_9393_';
     $exampes = '';
         
     for ($i = $index; $i < count($lines); ++$i) {
@@ -282,7 +289,7 @@ function get_prefixVerbs(array $page, $index)
 function parsePrefixVerb($page, $index, $regex_end)
 {
  // Note: The type of dash used in the regex--and there seems to be more than one type--must be correct, or not match will occur!
- $regex_verbDefn = '/^((?:\(sich\)\s+)?[a-zöäüß]{3,})—(.*)$/';
+ $regex_verbDefn = '^((?:\(sich\)\s+)?[a-zöäüß]{3,})—(.*)$';
                                      
  $examples = $verb = $defn = '';
 
