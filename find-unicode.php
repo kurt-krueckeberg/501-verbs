@@ -39,7 +39,7 @@ $file = new SplFileObjectExtended($file_in, "r");
 $line_no = 0; 
 
 // TOD: Detect if the input is UTF-8 -- convert it?
-
+// mb_detect_encoding AND mb_convert_encoding
 while ($line = get_line($file) != '') {
 
      $line_no++; 
