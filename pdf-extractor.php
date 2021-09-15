@@ -363,7 +363,7 @@ $dictfile = new SplFileObject("./dict.php", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
-while(!$ifile->eof()) {
+while (!$ifile->eof()) {
   
    $page = get_page($ifile); 
 
