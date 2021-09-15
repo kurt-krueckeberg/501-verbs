@@ -14,6 +14,26 @@ class SplFileObjectExtended extends \SplFileObject   {
        $this->line_no = 1;
     }
 
+    public fgets(): string
+    {
+      $rc = parent::fgets();
+      if ($rc === false)
+           return $rc;
+
+      ++$this->line_no;  
+      return $rc;
+    }
+
+    public fread(int $length): string | false
+    {
+      $rc = parent::fread($length);
+      if ($rc === false)
+           return $rc;
+
+      ++$this->line_no;  
+      return $rc;
+    }
+
     public function current() : string
     {
       $str = parent::current(); 
