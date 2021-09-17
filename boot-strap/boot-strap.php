@@ -1,5 +1,6 @@
 <?php
-require_once("./SplClassLoader.php");
+//require_once("./SplClassLoader.php");
+require_once("./boot-strap/SplClassLoader.php");
 
 function boot_strap()
 {

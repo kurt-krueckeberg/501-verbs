@@ -3,7 +3,7 @@ use App\File\SplFileObjectExtended;
 
 require_once "./boot-strap/boot-strap.php";
 boot_strap();
-
+return;
  
 function get_line($file)
 {
@@ -186,7 +186,7 @@ function adjust_line($str)
 
 function get_Examples_type1(array $lines, $index)
 {
-    $regex_start = '^Examples:$/;
+    $regex_start = '^Examples:$';
     $regex_end = "^7_9393_GermanVerbs_|^Principle Parts:";
     $examples = '';
         
