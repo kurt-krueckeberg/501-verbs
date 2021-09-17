@@ -14,6 +14,11 @@ class SplFileObjectExtended extends \SplFileObject   {
 
        $this->line_no = 1;
     }
+    
+    public function get_lineno() : int
+    {
+        return $this->line_no;
+    }
 
     public function fgets() : string
     {
@@ -25,7 +30,7 @@ class SplFileObjectExtended extends \SplFileObject   {
       return $rc;
     }
 
-    public function fread(int $length) : string | false 
+    public function fread(int $length) : mixed
     {
       $rc = parent::fread($length);
       if ($rc === false)
