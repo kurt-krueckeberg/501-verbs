@@ -25,7 +25,7 @@ class SplFileObjectExtended extends \SplFileObject   {
       return $rc;
     }
 
-    public function fread(int $length) : mixed
+    public function fread(int $length) : string | false 
     {
       $rc = parent::fread($length);
       if ($rc === false)
