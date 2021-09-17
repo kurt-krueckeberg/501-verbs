@@ -3,7 +3,6 @@ use App\File\SplFileObjectExtended;
 
 require_once "./boot-strap/boot-strap.php";
 boot_strap();
-return;
  
 function get_line($file)
 {
