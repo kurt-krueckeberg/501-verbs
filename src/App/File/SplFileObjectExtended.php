@@ -1,4 +1,5 @@
 <?php
+declare (strict_types=1);
 namespace App\File;
  
 class SplFileObjectExtended extends \SplFileObject   { 
@@ -14,7 +15,7 @@ class SplFileObjectExtended extends \SplFileObject   {
        $this->line_no = 1;
     }
 
-    public fgets(): string
+    public function fgets() : string
     {
       $rc = parent::fgets();
       if ($rc === false)
@@ -24,7 +25,7 @@ class SplFileObjectExtended extends \SplFileObject   {
       return $rc;
     }
 
-    public fread(int $length): string | false
+    public function fread(int $length) : mixed
     {
       $rc = parent::fread($length);
       if ($rc === false)
