@@ -1,16 +1,19 @@
 <?php
 declare (strict_types=1);
+
 namespace App\File;
- 
-class SplFileObjectExtended extends \SplFileObject   { 
+
+class FileObject { 
 
     private $line_no;
 
+    private $file;    // type = \SplFileObject  
+
     public function __construct(string $filename, string $mode = 'r')
     {
-       parent::__construct($filename, $mode);
+       $this->file = new \SplFileObject($filename, $mode);
 
-       parent::setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+       $this->file->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
 
        $this->line_no = 1;
     }
@@ -22,7 +25,8 @@ class SplFileObjectExtended extends \SplFileObject   {
 
     public function fgets() : string
     {
-      $rc = parent::fgets();
+      $rc = $this->file->fgets();
+
       if ($rc === false)
            return $rc;
 
@@ -32,7 +36,8 @@ class SplFileObjectExtended extends \SplFileObject   {
 
     public function fread(int $length) : mixed
     {
-      $rc = parent::fread($length);
+      $rc = $this->file->fread($length);
+
       if ($rc === false)
            return $rc;
 
@@ -42,14 +47,17 @@ class SplFileObjectExtended extends \SplFileObject   {
 
     public function current() : string
     {
-      $str = parent::current(); 
+      $str = $this->file->current(); 
+
       return $str;
     }
 
     public function rewind() 
     {
-        parent::rewind();
+        $this->file->rewind();
+
         $this->line_no = 1;
+
         return;
     }
 
@@ -60,9 +68,9 @@ class SplFileObjectExtended extends \SplFileObject   {
 
     public function next() 
     {
-        parent::next();
+        $this->file->next();
 
-        if (parent::valid()) {
+        if ($this->file->valid()) {
 
             ++$this->line_no; 
         }

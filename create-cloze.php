@@ -7,7 +7,7 @@
  */
 require_once "dict.php";
 require_once "algorithms.php";
-require_once "./SplFileObjectExtended.php";
+require_once "./FileObject.php";
 
 function format($str)
 {
@@ -19,7 +19,7 @@ function format($str)
  */
 function get_conjugations($fname)
 {
-   $file = new SplFileOjectExtended($fname, "r");
+   $file = new FileOject($fname, "r");
 
    $conjugations = [];
  
@@ -76,8 +76,8 @@ function write_out(string $verb, array $new_sents)
 
 }
 
-$ifile = new SplFileObjectExtended("./sentence-results.txt" , "r");
-$ofile = new SplFileObjectExtended("./new-sentence-results.txt" , "w");
+$ifile = new FileObject("./sentence-results.txt" , "r");
+$ofile = new FileObject("./new-sentence-results.txt" , "w");
 
  $conjs = get_ conjugations("./german-strong-irr-conjugations.txt");
 

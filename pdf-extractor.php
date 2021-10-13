@@ -1,5 +1,5 @@
 <?php
-use App\File\SplFileObjectExtended;
+use App\File\FileObject;
 
 require_once "./boot-strap/boot-strap.php";
 boot_strap();
@@ -356,9 +356,9 @@ static $first_time = true;
   }
 }
 
-$ifile = new SplFileObjectExtended("./output-pdf.txt", "r");
-$rfile = new SplFileObject("./results.txt", "w");
-$dictfile = new SplFileObject("./dict.php", "w");
+$ifile = new FileObject("./output-pdf.txt", "r");
+$rfile = new FileObject("./results.txt", "w");
+$dictfile = new FileObject("./dict.php", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 

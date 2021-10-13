@@ -1,6 +1,6 @@
 <?php
 
-use App\File\SplFileObjectExtended;
+use App\File\FileObject;
 
 require_once "./boot-strap/boot-strap.php";
 
@@ -12,8 +12,11 @@ if ($argc != 3) {
    echo "Enter the name of the file to check followed by the regex.\n";
    return;
 }
+/*
+  Assumes input file is encoded in UTF-8
+ */
 
-$file = new SplFileObjectExtended($argv[1], "r");
+$file = new FileObject($argv[1], "r");
 $regex = mb_convert_encoding($argv[2], 'UTF-8'); 
 
 $regex_len = strlen($regex); 
