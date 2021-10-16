@@ -13,8 +13,10 @@ function format($str)
 $eng_closequote = '”';
 $deu_closequote = '“';
 /*
- * Look for sentence ender of punctutation--[.?!]--optionally followed by a end quote mark--that is, either an English or
- * a German end quote mark--follow by a space. But not if the space occurs at the end of the line: negative look ahead.
+ * Look for the end of the punctutation--the regex of [.?!]--optionally followed by a end quote mark. The quote mark can be either an English or
+ * a German end quote mark followed by a space--but not if the space occurs at the end of the line: negative look ahead. 
+ * 
+ * What does the prior sentence mean?
  *
  */
 $regex = "/([.!?][{$eng_closequote}{$deu_closequote}]? )(?!\s*$)/";
