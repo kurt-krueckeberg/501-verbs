@@ -36,35 +36,7 @@ class FileObject implements \Traversable, \Iterator {
     {
         return $this->line_no;
     }
-/*
-    public function fgets() : string
-    {
-      $rc = $this->file->fgets();
-
-      if ($rc === false)
-           return $rc;
-
-      ++$this->line_no;  
-      return $rc;
-    }
-
-    public function fwrite(string $data) 
-    {
-         return $this->file->fwrite($data);
-    } 
-
-    public function fread(int $length) : mixed
-    {
-      $rc = $this->file->fread($length);
-
-      if ($rc === false)
-           return $rc;
-
-      ++$this->line_no;  
-      return $rc;
-    }
-*/
-    
+   
     public function current() : string
     {
       return $this->file->current(); 
