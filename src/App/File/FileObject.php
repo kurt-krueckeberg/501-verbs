@@ -2,8 +2,16 @@
 declare (strict_types=1);
 
 namespace App\File;
+/*
+ FileObject is a simply file class for reading and writing file that can used in foreach-loops just like SplFileObject. The interface Traversable and Iterator are required to support
+ "foreach($fileObject as $line)" syntax, and Traversable's abstract method must be declared and implemented within FileObject itself: you cannot automatically forward the implmentation
+ using the magic method __call() to $this->file.
 
-class FileObject { 
+ You can call all the methods of \SplFileInfo; however, unlike \SplFileObject that implements the \SeekableIterator and \RecusriveIterator interfaces, you cannot call seek() method or
+ the \RecursiveIterator methods getChildren() or hasChildren(). The RecursiveIterator methods are called implicitly by the PHP engine--but I don't know when that is, what the use-case is.
+ */ 
+ 
+class FileObject implements \Traversable, \Iterator {
 
     private $line_no;
 
@@ -17,12 +25,18 @@ class FileObject {
 
        $this->line_no = 1;
     }
-    
+
+    // Magic method  __call ()  forwards
+    public function __call ($method, $arguments)
+    {
+        return call_user_func_array(array($this->file, $method), $arguments); 
+    }    
+     
     public function get_lineno() : int
     {
         return $this->line_no;
     }
-
+/*
     public function fgets() : string
     {
       $rc = $this->file->fgets();
@@ -34,6 +48,11 @@ class FileObject {
       return $rc;
     }
 
+    public function fwrite(string $data) 
+    {
+         return $this->file->fwrite($data);
+    } 
+
     public function fread(int $length) : mixed
     {
       $rc = $this->file->fread($length);
@@ -44,12 +63,11 @@ class FileObject {
       ++$this->line_no;  
       return $rc;
     }
-
+*/
+    
     public function current() : string
     {
-      $str = $this->file->current(); 
-
-      return $str;
+      return $this->file->current(); 
     }
 
     public function rewind() 
@@ -61,6 +79,11 @@ class FileObject {
         return;
     }
 
+    public function valid() : bool
+    {
+        return $this->file->valid();
+    }
+  
     public function key() : int  
     {
         return $this->line_no;
