@@ -1,5 +1,5 @@
 <?php
-use App\File\FileObject;
+use App\File\File;
 
 require_once "./boot-strap/boot-strap.php";
 boot_strap();
@@ -356,9 +356,9 @@ static $first_time = true;
   }
 }
 
-$ifile = new FileObject("./output-pdf.txt", "r");
-$rfile = new FileObject("./results.txt", "w");
-$dictfile = new FileObject("./dict.php", "w");
+$ifile = new File("./output-pdf.txt", "r");
+$rfile = new File("./results.txt", "w");
+$dictfile = new File("./dict.php", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
