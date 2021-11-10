@@ -11,7 +11,7 @@ namespace App\File;
  the \RecursiveIterator methods getChildren() or hasChildren(). The RecursiveIterator methods are called implicitly by the PHP engine--but I don't know when that is, what the use-case is.
  */ 
  
-class File implements \Traversable, \Iterator {
+class File implements \Iterator {
 
     private $line_no;
 
