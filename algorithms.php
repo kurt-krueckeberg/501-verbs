@@ -24,24 +24,26 @@ function binary_search_(array $a, int $first, int $last, mixed $key, callable $c
 {
     $lo = $first; 
     $hi = $last - 1;
-
+    
     while ($lo <= $hi) {
 
         $mid = (int)(($hi - $lo) / 2) + $lo;
-   
-        $cmp = $comparator($a[$mid], $key);
 
-        if ($cmp < 0) 
+	$cmp = $comparator($a[$mid], $key);
+
+	if ($cmp === false)
+	    throw new Exception("Comparator failed.");
+
+	if ($cmp === 0)
+            return $mid;		
+
+	elseif ($cmp < 0) 
             
             $lo = $mid + 1;
 
         elseif ($cmp > 0) 
 
             $hi = $mid - 1;
-
-        else 
-
-            return true; // OR: {true, $mid};
         
     }
     return false;
@@ -74,6 +76,7 @@ class GermanComparator extends Collator {
    public function __construct()
    {
        parent::__construct('de_DE');
+       parent::setStrength(Collator::TERTIARY);
    }
 
    public function __invoke(string $str1, string $str2)
