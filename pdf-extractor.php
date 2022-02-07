@@ -1,5 +1,5 @@
 <?php
-use App\File\File;
+use App\File\SplFileObjet as File;
 
 require_once "./boot-strap/boot-strap.php";
 boot_strap();
@@ -357,8 +357,16 @@ static $first_time = true;
 }
 
 $ifile = new File("./output-pdf.txt", "r");
+
+$ifile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+
 $rfile = new File("./results.txt", "w");
+
+$rfile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+
 $dictfile = new File("./dict.php", "w");
+
+$dictfile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
 
 advance_to('/Page 32\s*$/', $ifile);
 
