@@ -1,7 +1,7 @@
 <?php
-use App\File\SplFileObject as File;
 
 require_once './boot-strap/boot-strap.php';
+require_once 'FileReader.php';
 
 boot_strap();
 
@@ -14,8 +14,8 @@ $deu_closequote = '“';
  */
 $regex = "/([.!?][{$eng_closequote}{$deu_closequote}]? )(?!\s*$)/";
 
-$ifile = new File("./results.txt" , "r");
-$ofile = new File("./new-results.txt" , "w");
+$ifile = new FileReader("./results.txt"); 
+$ofile = new SplFileObject("./new-results.txt" , "w");
 
 foreach($ifile as $line)  {
 
