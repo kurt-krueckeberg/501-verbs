@@ -1,7 +1,8 @@
 <?php
-use App\File\SplFileObjet as File;
 
 require_once "./boot-strap/boot-strap.php";
+require_once "FileReader.php";
+
 boot_strap();
  
 function get_line($file)
@@ -356,17 +357,11 @@ static $first_time = true;
   }
 }
 
-$ifile = new File("./output-pdf.txt", "r");
+$ifile = new FileReader("./output-pdf.txt");
 
-$ifile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+$rfile = new SplFileObject("./results.txt", "w");
 
-$rfile = new File("./results.txt", "w");
-
-$rfile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
-
-$dictfile = new File("./dict.php", "w");
-
-$dictfile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+$dictfile = new SplFileObject("./dict.php", "w");
 
 advance_to('/Page 32\s*$/', $ifile);
 
