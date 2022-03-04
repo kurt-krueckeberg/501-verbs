@@ -1,23 +1,20 @@
 <?php
-use \SplFileObject as File;
 /*
  * Adds definition found $verbs[] (from dict.php) to the input file.
  *
  */
 require_once "dict.php";
 require_once "algorithms.php";
-require_once "./SplFileObjectExtended.php";
+require_once "FileReader.php";
 
 function format($str)
 {
    return mb_convert_encoding($str, "UTF-8"); // Convert $output to UTF-8 encoding.
 }
 
-$ifile = new File("./german-strong-irr-conjugations.txt" , "r");
-$ifile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+$ifile = new FileReader("./german-strong-irr-conjugations.txt"); 
 
-$ofile = new File("./new-german-conjugations.txt" , "w");
-$ofile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
+$ofile = new SplFileObject("./new-german-conjugations.txt" , "w");
 
 foreach($ifile as $line)  {
 
